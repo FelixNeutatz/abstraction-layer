@@ -16,7 +16,7 @@ import re
 import subprocess
 import pandas
 import numpy
-import psycopg2
+#import psycopg2
 ########################################
 
 
@@ -292,43 +292,7 @@ def run_data_cleaning_job(data_cleaning_job):
 
 ########################################
 if __name__ == "__main__":
-    pass
 
-    # install_tools()
-
-    # run_input = {
-    #     "dataset": {
-    #         "type": "csv",
-    #         "param": ["datasets/sample.csv"]
-    #     },
-    #     "tool": {
-    #         "name": "dboost",
-    #         "param": ["gaussian", "1"]
-    #     }
-    # }
-    #
-    # run_input = {
-    #     "dataset": {
-    #         "type": "csv",
-    #         "param": ["datasets/sample.csv"]
-    #     },
-    #     "tool": {
-    #         "name": "nadeef",
-    #         "param": [["title", "brand_name"]]
-    #     }
-    # }
-    #
-    # run_input = {
-    #     "dataset": {
-    #         "type": "csv",
-    #         "param": ["datasets/sample.csv"]
-    #     },
-    #     "tool": {
-    #         "name": "openrefine",
-    #         "param": [["price", "^[\d]+$"], ["brand_name", "^[\w]*$"]]
-    #     }
-    # }
-    #
     run_input = {
         "dataset": {
             "type": "csv",
@@ -339,21 +303,9 @@ if __name__ == "__main__":
             "param": ["tools/KATARA/dominSpecific"]
         }
     }
-    #
-    # run_input = {
-    #     "dataset": {
-    #         "type": "csv",
-    #         "param": ["datasets/hospital.csv"]
-    #     },
-    #     "tool": {
-    #         "name": "holoclean",
-    #         "param": ["datasets/hospital_constraints.txt"]
-    #     }
-    # }
-    #
     results_list = run_data_cleaning_job(run_input)
 
-    my_file = open('/tmp/log.txt', 'w+')
+    my_file = open('/tmp/katara_log_felix.txt', 'w+')
     for x in results_list:
         my_file.write(str(x[0]) + "," + str(x[1]) + "\n")
     my_file.close()
