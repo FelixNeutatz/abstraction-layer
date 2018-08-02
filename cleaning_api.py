@@ -181,7 +181,7 @@ def run_katara(dataset_path, katara_parameters):
         try:
             detected_cells_list = read_csv_dataset(tool_results_path, header_exists=False)
             cell_visited_flag = {}
-	    f = open('log.txt','w')
+	    f = open('/tmp/log.txt','w')
             for row, column in detected_cells_list:
                 i = int(row)
                 j = int(column)
@@ -261,10 +261,20 @@ if __name__ == "__main__":
     #     }
     # }
 
+    import argparse
+
+    parser = argparse.ArgumentParser()
+
+    parser.add_argument('-d', action='store', dest='dataset', required=True,
+                        help='dataset_path')
+
+    results = parser.parse_args()
+    print 'simple_value     =', results.dataset
+
     run_input = {
         "dataset": {
             "type": "csv",
-            "param": ["datasets/data_flights.csv"]
+            "param": [results.dataset] #"datasets/data_flights.csv"
         },
         "tool": {
             "name": "katara",
