@@ -303,7 +303,7 @@ if __name__ == "__main__":
         },
         "tool": {
             "name": "katara",
-            "param": ["tools/KATARA/dominSpecific"]
+            "param": ["tools/KATARA/domainGroundtruth"] #domainMovies#dominSpecific
         }
     }
     results_list = run_data_cleaning_job(run_input)
