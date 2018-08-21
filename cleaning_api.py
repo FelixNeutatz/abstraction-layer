@@ -236,7 +236,7 @@ def run_katara(dataset_path, katara_parameters):
                 v = value
             if (i, j) not in cell_visited_flag and i > 0:
                 cell_visited_flag[(i, j)] = v
-        os.remove(tool_results_path)
+        #os.remove(tool_results_path)
     #os.remove("crowdclient-runtime.log")
     return_list = []
     for (i, j) in cell_visited_flag:
@@ -303,7 +303,7 @@ if __name__ == "__main__":
         },
         "tool": {
             "name": "katara",
-            "param": ["tools/KATARA/domainGroundtruth"] #domainMovies#dominSpecific
+            "param": ["/home/felix/data_more/new/out"] #domainMovies#dominSpecific #/home/felix/data_more/new/out
         }
     }
     results_list = run_data_cleaning_job(run_input)
