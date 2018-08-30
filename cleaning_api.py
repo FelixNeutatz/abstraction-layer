@@ -18,6 +18,7 @@ import pandas
 import numpy
 import time
 import random
+import sys
 #import psycopg2
 ########################################
 
@@ -304,10 +305,13 @@ def run_data_cleaning_job(data_cleaning_job):
 ########################################
 if __name__ == "__main__":
 
+    input_file = sys.argv[1]
+    output_file = sys.argv[2]
+
     run_input = {
         "dataset": {
             "type": "csv",
-            "param": ["/tmp/dirty_dataset.csv"]
+            "param": [input_file]
         },
         "tool": {
             "name": "katara",
@@ -316,12 +320,13 @@ if __name__ == "__main__":
     }
     results_list = run_data_cleaning_job(run_input)
 
+
     try:
-        os.remove('/tmp/katara_log_felix.txt')
+        os.remove(output_file)
     except OSError:
         pass
 
-    my_file = open('/tmp/katara_log_felix.txt', 'w+')
+    my_file = open(output_file, 'w+')
     for x in results_list:
         my_file.write(str(x[0]) + "," + str(x[1]) + "\n")
     my_file.close()
