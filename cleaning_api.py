@@ -16,6 +16,8 @@ import re
 import subprocess
 import pandas
 import numpy
+import time
+import random
 #import psycopg2
 ########################################
 
@@ -206,6 +208,12 @@ def run_katara(dataset_path, katara_parameters):
     """
     This method runs KATARA on a dataset.
     """
+
+    ts = time.time()
+
+    tool_results_path = "katara_output_" + str(ts) + "_" + str(random.randint(1,100000)) + ".csv"
+
+
     command = ["java", "-classpath",
                "$JAVA_HOME/jre/lib/charsets.jar:$JAVA_HOME/jre/lib/ext/cldrdata.jar:"
                "$JAVA_HOME/jre/lib/ext/dnsns.jar:$JAVA_HOME/jre/lib/ext/icedtea-sound.jar:"
@@ -219,12 +227,12 @@ def run_katara(dataset_path, katara_parameters):
                "./{0}/KATARA/jar_files/commons-lang3-3.7.jar:./{0}/KATARA/jar_files/idea_rt.jar:"
                "./{0}/KATARA/jar_files/SimplifiedKATARA.jar:./{0}/KATARA/jar_files/commons-lang3-3.7-javadoc.jar:"
                "./{0}/KATARA/jar_files/super-csv-2.4.0.jar".format(TOOLS_FOLDER),
-               "simplied.katara.SimplifiedKATARAEntrance"]
+               "simplied.katara.SimplifiedKATARAEntrance",
+               tool_results_path]
     knowledge_base_path = os.path.abspath(katara_parameters[0])
     p = subprocess.Popen(command, stdout=subprocess.PIPE, stdin=subprocess.PIPE, stderr=subprocess.STDOUT)
     p.communicate(dataset_path + "\n" + knowledge_base_path + "\n")
     cell_visited_flag = {}
-    tool_results_path = "katara_output.csv"
     if os.path.exists(tool_results_path):
         detected_cells_list = read_csv_dataset(tool_results_path, header_exists=False)
         for row, column, value in detected_cells_list:

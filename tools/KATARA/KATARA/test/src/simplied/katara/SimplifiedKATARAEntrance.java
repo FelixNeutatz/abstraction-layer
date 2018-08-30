@@ -13,7 +13,6 @@ public class SimplifiedKATARAEntrance {
 
 	public static void main(String[] args) throws Exception {
 
-
 		//setup
 
 		Scanner scanner = new Scanner(System.in);
@@ -27,7 +26,7 @@ public class SimplifiedKATARAEntrance {
 		}
 		kb+="abstraction-layer/tools/KATARA/mykb";//abstraction-layer/tools/
 
-		String output_errors_file = "katara_output.csv";//rdb+
+		String output_errors_file = args[0];//rdb+
 
 
 		String domainSpecificKB = scanner.next();
