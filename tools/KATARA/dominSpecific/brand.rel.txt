@@ -1,129 +1,297 @@
-Royal Rumble (2004)	brand	WWE Raw
-Royal Rumble (2004)	brand	WWE SmackDown
+Royal Rumble	brand	WWE Raw
+Royal Rumble	brand	WWE SmackDown
 WrestleMania XX	brand	WWE Raw
 WrestleMania XX	brand	WWE SmackDown
 WrestleMania 21	brand	WWE Raw
 WrestleMania 21	brand	WWE SmackDown
 WrestleMania XIX	brand	WWE Raw
 WrestleMania XIX	brand	WWE SmackDown
-Royal Rumble (2005)	brand	WWE Raw
-Royal Rumble (2005)	brand	WWE SmackDown
+Royal Rumble	brand	WWE Raw
+Royal Rumble	brand	WWE SmackDown
 WrestleMania 22	brand	WWE Raw
 WrestleMania 22	brand	WWE SmackDown
-WWE Rebellion  2002   1	brand	WWE SmackDown
-WWE Insurrextion  2002   1	brand	WWE Raw
-WWE Insurrextion  2003   1	brand	WWE Raw
-Royal Rumble (2006)	brand	WWE Raw
-Royal Rumble (2006)	brand	WWE SmackDown
-Royal Rumble (2003)	brand	WWE Raw
-Royal Rumble (2003)	brand	WWE SmackDown
+WWE Rebellion	brand	WWE SmackDown
+WWE Insurrextion	brand	WWF Raw
+Royal Rumble	brand	WWE Raw
+Royal Rumble	brand	WWE SmackDown
+Royal Rumble	brand	WWE Raw
+Royal Rumble	brand	WWE SmackDown
 WrestleMania 23	brand	WWE Raw
 WrestleMania 23	brand	WWE SmackDown
-WrestleMania 23	brand	ECW (WWE)
-Royal Rumble (2007)	brand	WWE Raw
-Royal Rumble (2007)	brand	WWE SmackDown
-Royal Rumble (2007)	brand	ECW (WWE)
-SummerSlam (2006)	brand	WWE Raw
-SummerSlam (2006)	brand	WWE SmackDown
-SummerSlam (2006)	brand	ECW (WWE)
-SummerSlam (2002)	brand	WWE Raw
-SummerSlam (2002)	brand	WWE SmackDown
-SummerSlam (2003)	brand	WWE Raw
-SummerSlam (2003)	brand	WWE SmackDown
-SummerSlam (2004)	brand	WWE Raw
-SummerSlam (2004)	brand	WWE SmackDown
-SummerSlam (2005)	brand	WWE Raw
-SummerSlam (2005)	brand	WWE SmackDown
-Survivor Series (2002)	brand	WWE Raw
-Survivor Series (2002)	brand	WWE SmackDown
-Survivor Series (2003)	brand	WWE Raw
-Survivor Series (2003)	brand	WWE SmackDown
-Survivor Series (2004)	brand	WWE Raw
-Survivor Series (2004)	brand	WWE SmackDown
-Survivor Series (2005)	brand	WWE Raw
-Survivor Series (2005)	brand	WWE SmackDown
-Survivor Series (2006)	brand	WWE Raw
-Survivor Series (2006)	brand	WWE SmackDown
-Survivor Series (2006)	brand	ECW (WWE)
-Survivor Series (2007)	brand	WWE Raw
-Survivor Series (2007)	brand	WWE SmackDown
-Survivor Series (2007)	brand	ECW (WWE)
-December to Dismember (2006)	brand	ECW (WWE)
-Royal Rumble (2008)	brand	WWE Raw
-Royal Rumble (2008)	brand	WWE SmackDown
-Royal Rumble (2008)	brand	ECW (WWE)
-One Night Stand (2007)	brand	WWE Raw
-One Night Stand (2007)	brand	WWE SmackDown
-One Night Stand (2007)	brand	ECW (WWE)
-Cyber Sunday (2006)	brand	WWE Raw
-Backlash (2007)	brand	WWE Raw
-Backlash (2007)	brand	WWE SmackDown
-Backlash (2007)	brand	ECW (WWE)
-Judgment Day (2007)	brand	WWE Raw
-Judgment Day (2007)	brand	WWE SmackDown
-Judgment Day (2007)	brand	ECW (WWE)
-No Way Out (2007)	brand	WWE SmackDown
-New Year's Revolution (2007)	brand	WWE Raw
-Backlash (2006)	brand	WWE Raw
-No Way Out (2005)	brand	WWE SmackDown
-No Way Out (2006)	brand	WWE SmackDown
-No Way Out (2004)	brand	WWE SmackDown
-Judgment Day (2006)	brand	WWE SmackDown
-Vengeance (2006)	brand	WWE Raw
-Vengeance (2005)	brand	WWE Raw
-New Year's Revolution (2006)	brand	WWE Raw
-Unforgiven (2006)	brand	WWE Raw
-Unforgiven (2005)	brand	WWE Raw
-No Mercy (2006)	brand	WWE SmackDown
-Unforgiven (2004)	brand	WWE Raw
-Unforgiven (2003)	brand	WWE Raw
-Vengeance (2004)	brand	WWE Raw
-No Mercy (2005)	brand	WWE SmackDown
-Taboo Tuesday (2005)	brand	WWE Raw
-Backlash (2005)	brand	WWE Raw
-Vengeance (2003)	brand	WWE SmackDown
-Backlash (2004)	brand	WWE Raw
-No Mercy (2002)	brand	WWE Raw
-No Mercy (2002)	brand	WWE SmackDown
-Armageddon (2002)	brand	WWE Raw
-Armageddon (2002)	brand	WWE SmackDown
-Bad Blood (2004)	brand	WWE Raw
-Vengeance (2002)	brand	WWE Raw
-Vengeance (2002)	brand	WWE SmackDown
-No Way Out (2003)	brand	WWE Raw
-No Way Out (2003)	brand	WWE SmackDown
-Judgment Day (2005)	brand	WWE SmackDown
-Taboo Tuesday (2004)	brand	WWE Raw
-Armageddon (2005)	brand	WWE SmackDown
-Backlash (2003)	brand	WWE Raw
-Backlash (2003)	brand	WWE SmackDown
-Judgment Day (2004)	brand	WWE SmackDown
-The Great American Bash (2006)	brand	WWE SmackDown
-Armageddon (2006)	brand	WWE SmackDown
-Royal Rumble (2009)	brand	WWE Raw
-Royal Rumble (2009)	brand	WWE SmackDown
-Royal Rumble (2009)	brand	ECW (WWE)
-The Great American Bash (2004)	brand	WWE SmackDown
-The Great American Bash (2005)	brand	WWE SmackDown
-New Year's Revolution (2005)	brand	WWE Raw
-Armageddon (2003)	brand	WWE Raw
-Bad Blood (2003)	brand	WWE Raw
-Armageddon (2004)	brand	WWE SmackDown
-No Mercy (2004)	brand	WWE SmackDown
-No Mercy (2003)	brand	WWE SmackDown
-Unforgiven (2002)	brand	WWE Raw
-Unforgiven (2002)	brand	WWE SmackDown
-Judgment Day (2003)	brand	WWE Raw
-Judgment Day (2003)	brand	WWE SmackDown
-Backlash (2002)	brand	WWE Raw
-Backlash (2002)	brand	WWE SmackDown
-Judgment Day (2002)	brand	WWE Raw
-Judgment Day (2002)	brand	WWE SmackDown
-King of the Ring (2008)	brand	WWE Raw
-King of the Ring (2008)	brand	WWE SmackDown
-King of the Ring (2008)	brand	ECW (WWE)
-King of the Ring (2006)	brand	WWE SmackDown
-King of the Ring (2002)	brand	WWE Raw
-King of the Ring (2002)	brand	WWE SmackDown
-King of the Ring (2010)	brand	WWE Raw
-King of the Ring (2010)	brand	WWE SmackDown
+WrestleMania 23	brand	ECW
+Royal Rumble	brand	WWE Raw
+Royal Rumble	brand	WWE SmackDown
+Royal Rumble	brand	ECW
+WrestleMania XXIV	brand	WWE Raw
+WrestleMania XXIV	brand	WWE SmackDown
+WrestleMania XXIV	brand	ECW
+SummerSlam	brand	WWE Raw
+SummerSlam	brand	WWE SmackDown
+SummerSlam	brand	ECW on Syfy
+SummerSlam	brand	WWE Raw
+SummerSlam	brand	WWE SmackDown
+SummerSlam	brand	ECW on Syfy
+SummerSlam	brand	WWE Raw
+SummerSlam	brand	WWE SmackDown
+SummerSlam	brand	WWE Raw
+SummerSlam	brand	WWE SmackDown
+SummerSlam	brand	WWE Raw
+SummerSlam	brand	WWE SmackDown
+SummerSlam	brand	WWE Raw
+SummerSlam	brand	WWE SmackDown
+Survivor Series	brand	WWE Raw
+Survivor Series	brand	WWE SmackDown
+Survivor Series	brand	WWE Raw
+Survivor Series	brand	WWE SmackDown
+Survivor Series	brand	WWE Raw
+Survivor Series	brand	WWE SmackDown
+Survivor Series	brand	WWE Raw
+Survivor Series	brand	WWE SmackDown
+Survivor Series	brand	WWE Raw
+Survivor Series	brand	WWE SmackDown
+Survivor Series	brand	ECW on Syfy
+Survivor Series	brand	WWE Raw
+Survivor Series	brand	WWE SmackDown
+Survivor Series	brand	ECW
+December to Dismember	brand	ECW
+Royal Rumble	brand	WWE Raw
+Royal Rumble	brand	WWE SmackDown
+Royal Rumble	brand	ECW
+WrestleMania XXV	brand	WWE Raw
+WrestleMania XXV	brand	WWE SmackDown
+WrestleMania XXV	brand	ECW
+Vengeance: Night of Champions	brand	WWE Raw
+Vengeance: Night of Champions	brand	WWE SmackDown
+Vengeance: Night of Champions	brand	ECW
+SummerSlam	brand	WWE Raw
+SummerSlam	brand	WWE SmackDown
+SummerSlam	brand	ECW on Syfy
+One Night Stand	brand	WWE Raw
+One Night Stand	brand	WWE SmackDown
+One Night Stand	brand	ECW
+Cyber Sunday	brand	WWE Raw
+One Night Stand	brand	WWE Raw
+One Night Stand	brand	WWE SmackDown
+One Night Stand	brand	ECW
+Cyber Sunday	brand	WWE Raw
+Cyber Sunday	brand	WWE SmackDown
+Cyber Sunday	brand	ECW
+Backlash	brand	WWE Raw
+Backlash	brand	WWE SmackDown
+Backlash	brand	ECW
+Judgment Day	brand	WWE Raw
+Judgment Day	brand	WWE SmackDown
+Judgment Day	brand	ECW
+The Great American Bash	brand	WWE Raw
+The Great American Bash	brand	WWE SmackDown
+The Great American Bash	brand	ECW
+No Way Out	brand	WWE SmackDown
+No Way Out	brand	ECW
+New Year's Revolution	brand	WWE Raw
+Backlash	brand	WWE Raw
+Unforgiven	brand	WWE Raw
+Unforgiven	brand	WWE SmackDown
+Unforgiven	brand	ECW
+No Way Out	brand	WWE SmackDown
+No Mercy	brand	WWE Raw
+No Mercy	brand	WWE SmackDown
+No Mercy	brand	ECW
+Unforgiven	brand	WWE Raw
+Unforgiven	brand	WWE SmackDown
+Unforgiven	brand	ECW
+No Way Out	brand	WWE SmackDown
+No Way Out	brand	WWE SmackDown
+Judgment Day	brand	WWE SmackDown
+Vengeance	brand	WWE Raw
+Vengeance	brand	WWE Raw
+New Year's Revolution	brand	WWE Raw
+Unforgiven	brand	WWE Raw
+Armageddon	brand	WWE Raw
+Armageddon	brand	WWE SmackDown
+Armageddon	brand	ECW
+Unforgiven	brand	WWE Raw
+No Mercy	brand	WWE SmackDown
+Unforgiven	brand	WWE Raw
+No Way Out	brand	WWE Raw
+No Way Out	brand	WWE SmackDown
+No Way Out	brand	ECW
+Unforgiven	brand	WWE Raw
+Backlash	brand	WWE Raw
+Backlash	brand	WWE SmackDown
+Backlash	brand	ECW
+Vengeance	brand	WWE Raw
+No Mercy	brand	WWE Friday Night SmackDown
+Taboo Tuesday	brand	WWE Raw
+Backlash	brand	WWE Raw
+Vengeance	brand	WWE SmackDown
+Backlash	brand	WWE Raw
+No Mercy	brand	WWE Raw
+No Mercy	brand	WWE SmackDown
+Armageddon	brand	WWE Raw
+Armageddon	brand	WWE SmackDown
+Bad Blood	brand	WWE Raw
+Vengeance	brand	WWE Raw
+Vengeance	brand	WWE SmackDown
+No Way Out	brand	WWE Raw
+No Way Out	brand	WWE SmackDown
+Judgment Day	brand	WWE SmackDown
+Taboo Tuesday	brand	WWE Raw
+Night of Champions	brand	WWE Raw
+Night of Champions	brand	WWE SmackDown
+Night of Champions	brand	ECW
+Judgment Day	brand	WWE Raw
+Judgment Day	brand	WWE SmackDown
+Judgment Day	brand	ECW
+Armageddon	brand	WWE SmackDown
+Backlash	brand	WWE Raw
+Backlash	brand	WWE SmackDown
+The Great American Bash	brand	WWE Raw
+The Great American Bash	brand	WWE SmackDown
+The Great American Bash	brand	ECW
+Judgment Day	brand	WWE SmackDown
+Survivor Series	brand	WWE Raw
+Survivor Series	brand	WWE SmackDown
+Survivor Series	brand	ECW
+Night of Champions	brand	WWE Raw
+Night of Champions	brand	WWE SmackDown
+Night of Champions	brand	ECW
+The Great American Bash	brand	WWE SmackDown
+Armageddon	brand	WWE SmackDown
+No Mercy	brand	WWE Raw
+No Mercy	brand	WWE SmackDown
+No Mercy	brand	ECW
+Royal Rumble	brand	WWE Raw
+Royal Rumble	brand	WWE SmackDown
+Royal Rumble	brand	ECW
+No Way Out	brand	WWE Raw
+No Way Out	brand	WWE SmackDown
+No Way Out	brand	ECW
+The Great American Bash	brand	WWE SmackDown
+The Great American Bash	brand	WWE SmackDown
+Cyber Sunday	brand	WWE Raw
+Cyber Sunday	brand	WWE SmackDown
+Cyber Sunday	brand	ECW
+Armageddon	brand	WWE Raw
+Armageddon	brand	WWE SmackDown
+Armageddon	brand	ECW
+New Year's Revolution	brand	WWE Raw
+Armageddon	brand	WWE Raw
+Bad Blood	brand	WWE Raw
+Armageddon	brand	WWE SmackDown
+Judgment Day	brand	WWE Raw
+Judgment Day	brand	WWE SmackDown
+Judgment Day	brand	ECW
+Backlash	brand	WWE Raw
+Backlash	brand	WWE SmackDown
+Backlash	brand	ECW
+No Mercy	brand	WWE SmackDown
+No Mercy	brand	WWE SmackDown
+Unforgiven	brand	WWE Raw
+Unforgiven	brand	WWE SmackDown
+Judgment Day	brand	WWE Raw
+Judgment Day	brand	WWE SmackDown
+Backlash	brand	WWE Raw
+Backlash	brand	WWE SmackDown
+SummerSlam	brand	WWE Raw
+SummerSlam	brand	WWE SmackDown
+SummerSlam	brand	ECW
+WWE The Bash	brand	WWE Raw
+WWE The Bash	brand	WWE SmackDown
+WWE The Bash	brand	ECW
+WrestleMania XXVI	brand	WWE Raw
+WrestleMania XXVI	brand	WWE SmackDown
+WrestleMania XXVII	brand	WWE Raw
+WrestleMania XXVII	brand	WWE SmackDown
+Royal Rumble	brand	WWE Raw
+Royal Rumble	brand	WWE SmackDown
+Royal Rumble	brand	ECW
+WWE Breaking Point	brand	WWE Raw
+WWE Breaking Point	brand	WWE SmackDown
+WWE Breaking Point	brand	ECW
+Hell in a Cell	brand	WWE Raw
+Hell in a Cell	brand	WWE SmackDown
+Hell in a Cell	brand	ECW
+Judgment Day	brand	WWE Raw
+Judgment Day	brand	WWE SmackDown
+Extreme Rules	brand	WWE Raw
+Extreme Rules	brand	WWE SmackDown
+Extreme Rules	brand	ECW
+Bragging Rights	brand	WWE Raw
+Bragging Rights	brand	WWE SmackDown
+Bragging Rights	brand	ECW
+Survivor Series	brand	WWE Raw
+Survivor Series	brand	WWE SmackDown
+Survivor Series	brand	ECW
+TLC: Tables, Ladders & Chairs	brand	WWE Raw
+TLC: Tables, Ladders & Chairs	brand	WWE SmackDown
+TLC: Tables, Ladders & Chairs	brand	ECW
+Elimination Chamber	brand	WWE Raw
+Elimination Chamber	brand	WWE SmackDown
+King of the Ring	brand	WWE SmackDown
+King of the Ring	brand	WWE Raw
+King of the Ring	brand	WWE SmackDown
+King of the Ring	brand	ECW
+Survivor Series	brand	WWE Raw
+Survivor Series	brand	WWE SmackDown
+King of the Ring	brand	WWE Raw
+King of the Ring	brand	WWE SmackDown
+Money in the Bank	brand	WWE Raw
+Money in the Bank	brand	WWE SmackDown
+WWE Fatal 4-Way	brand	WWE Raw
+WWE Fatal 4-Way	brand	WWE SmackDown
+Extreme Rules	brand	WWE Raw
+Extreme Rules	brand	WWE SmackDown
+Over the Limit	brand	WWE Raw
+Over the Limit	brand	WWE SmackDown
+SummerSlam	brand	WWE Raw
+SummerSlam	brand	WWE SmackDown
+Bragging Rights	brand	WWE Raw
+Bragging Rights	brand	WWE SmackDown
+Hell in a Cell	brand	WWE Raw
+Hell in a Cell	brand	WWE SmackDown
+Night of Champions	brand	WWE Raw
+Night of Champions	brand	WWE SmackDown
+TLC: Tables, Ladders & Chairs	brand	WWE Raw
+TLC: Tables, Ladders & Chairs	brand	WWE SmackDown
+Royal Rumble	brand	WWE Raw
+Royal Rumble	brand	WWE SmackDown
+Elimination Chamber	brand	WWE Raw
+Elimination Chamber	brand	WWE SmackDown
+King of the Ring	brand	WWE Raw
+King of the Ring	brand	WWE SmackDown
+Extreme Rules	brand	WWE Raw
+Extreme Rules	brand	WWE SmackDown
+Over the Limit	brand	WWE Raw
+Over the Limit	brand	WWE SmackDown
+SummerSlam	brand	WWE Raw
+SummerSlam	brand	WWE SmackDown
+Money in the Bank	brand	WWE Raw
+Money in the Bank	brand	WWE SmackDown
+WWE Capitol Punishment	brand	WWE Raw
+WWE Capitol Punishment	brand	WWE SmackDown
+WrestleMania 33	brand	WWE Raw
+WrestleMania 33	brand	WWE SmackDown
+WWE SmackDown Road to WrestleMania 22 Tour	brand	WWE SmackDown
+SummerSlam	brand	WWE Raw
+SummerSlam	brand	WWE SmackDown
+Hell in a Cell	brand	WWE Raw
+NXT TakeOver: R Evolution	brand	WWE NXT
+NXT TakeOver	brand	WWE NXT
+NXT TakeOver: Fatal 4-Way	brand	WWE NXT
+NXT TakeOver: Rival	brand	WWE NXT
+NXT TakeOver: Brooklyn	brand	WWE NXT
+NXT TakeOver: Unstoppable	brand	WWE NXT
+NXT TakeOver: London	brand	WWE NXT
+NXT TakeOver: Respect	brand	WWE NXT
+NXT TakeOver: Dallas	brand	WWE NXT
+Roadblock	brand	WWE
+Roadblock	brand	WWE NXT
+Roadblock	brand	Raw
+NXT TakeOver: The End	brand	WWE NXT
+Survivor Series	brand	WWE Raw
+Survivor Series	brand	WWE SmackDown
+NXT TakeOver: Brooklyn II	brand	WWE NXT
+WWE Clash of Champions	brand	WWE Raw
+Backlash	brand	WWE SmackDown
+No Mercy	brand	WWE SmackDown
+NXT TakeOver: Toronto	brand	WWE NXT

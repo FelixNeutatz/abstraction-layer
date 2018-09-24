@@ -1,260 +1,184 @@
-Phillips Academy	classes	13
-Phillips Exeter Academy	classes	12
-Miss Porter's School	classes	11
-St. Paul Academy and Summit School	classes	14
-Hotchkiss School	classes	12
-St. Paul's School (Concord, New Hampshire)	classes	11
-Randolph School	classes	13
-Milton Academy	classes	14
-Western Reserve Academy	classes	12
-Worcester Academy	classes	14
-Marin Academy	classes	15
-Asheville School	classes	12
-Pingry School	classes	14
-Loomis Chaffee	classes	12
-Brentwood School (Los Angeles, California)	classes	7
-Brentwood School (Los Angeles, California)	classes	9
-St. Andrew's School (Delaware)	classes	11
-The American School In Switzerland	classes	15
-Tabor Academy	classes	12
-Hebron Academy	classes	12
-American Overseas School of Rome	classes	15
-The Pembroke Hill School	classes	14
-George School	classes	14
-Baylor School	classes	13
-Culver Academies	classes	13
-The Thacher School	classes	9
-Kent School	classes	12
-Georgetown Day School	classes	16
-Avon Old Farms	classes	12
-Moses Brown School	classes	11
-Millbrook School	classes	11
-Episcopal High School (Alexandria, Virginia)	classes	12
-Midland School, Los Olivos, California	classes	11
-Kodaikanal International School	classes	19
-Baptist Lui Ming Choi Secondary School	classes	31
-The Kinkaid School	classes	12
-Rutgers Preparatory School	classes	12
-Woodberry Forest School	classes	10
-Crystal Springs Uplands School	classes	14
-Lake Ridge Academy	classes	15
-Bullis School	classes	15
-White Mountain School	classes	9
-Brewster Academy	classes	12
-The Hill School	classes	12
-Providence Country Day School	classes	10
-Prospect Hill Academy	classes	314
-The Nueva School	classes	18
-International High School of San Francisco	classes	16
-Lake Forest High School (Illinois)	classes	219
-Westtown School	classes	15
-Armand Hammer United World College of the American West	classes	15
-American Hebrew Academy	classes	12
-Head-Royce School	classes	14
-Nichols School	classes	14
-St. Xavier High School (Louisville)	classes	24
-Fryeburg Academy	classes	15
-Pinewood School, Los Altos	classes	18
-Bellevue High School (Bellevue, Washington)	classes	28
-Vienna International School	classes	20
-The Albany Academy	classes	16
-Kimball Union Academy	classes	12
-Pelita Harapan School	classes	24
-Christian Academy of Louisville	classes	20
-Doane Stuart School	classes	14
-Shattuck-Saint Mary's	classes	12
-Waynflete School	classes	12
-Georgiana Bruce Kirby Preparatory School	classes	12
-St. John's School (Texas)	classes	135
-The Governor's Academy	classes	12
-Chase Collegiate School	classes	15
-Taft School	classes	11
-Albany Academy for Girls	classes	15
-Lake Forest Academy	classes	12
-Vermont Academy	classes	10
-Roland Park Country School	classes	16
-San Francisco University High School	classes	16
-Providence Day School	classes	12
-Mayatan Bilingual School	classes	16
-Battle Ground Academy	classes	18
-Rice Memorial High School	classes	20
+Malay College Kuala Kangsar	classes	Cemerlang, Unggul,
+Malay College Kuala Kangsar	classes	Bijaksana and Sejahtera
+Malay College Kuala Kangsar	classes	Science 1-5, Social Science
+Riga State Gymnasium No.1	classes	33
+Baptist Lui Ming Choi Secondary School	classes	30
+Musashi Junior and Senior High School	classes	24
+Nova High School	classes	172800.0
+Prospect Hill Academy	classes	407
+Lake Forest High School	classes	239
+Linz International School Auhof	classes	currently 18
+Jiangyan High School	classes	52
+Jessore Zilla School	classes	3
+Gann Academy	classes	13
 Pforta	classes	12
-Boys' Latin School of Maryland	classes	15
-Rye Country Day School	classes	14
-Menlo School	classes	15
-Menlo School	classes	18
-Bina Tunas Bangsa School	classes	20
-Wheeler School	classes	11
-Hong Kong Chinese Women's Club College	classes	34
-Oak Hill Academy (Mouth of Wilson, Virginia)	classes	17
-Leysin American School	classes	14
-Severn School	classes	14
-Marlborough School (Los Angeles)	classes	13
-American Embassy School	classes	10
-American Embassy School	classes	18
-Chatham Hall	classes	9
-Virginia Episcopal School	classes	10
-Gilmour Academy	classes	15
-Minnehaha Academy	classes	77
+Pui Ching Middle School	classes	36
+Maryville High School	classes	146
+John Kennedy College	classes	1
+Hong Kong Chinese Women's Club College	classes	27
+Bishops' High School, Guyana	classes	17
 Georgia-Cumberland Academy	classes	46
-Ogden High School (Ogden, Utah)	classes	4
-Emma Willard School	classes	12
-Maine Central Institute	classes	15
-Blake School (Minneapolis, Minnesota)	classes	15
-St. Johnsbury Academy	classes	15
-Morgan High School (Utah)	classes	3
-Ridgewood Preparatory School	classes	16
-Hun School of Princeton	classes	12
-Deerfield Academy	classes	12
-Viewpoint School	classes	16
-Episcopal Academy	classes	15
-St. Paul's School (Brooklandville, Maryland)	classes	16
-Berkshire School	classes	12
-Layton High School	classes	34
-Saint Gregory's School For Boys	classes	17
-John Bapst Memorial High School	classes	18
-The John Cooper School	classes	17
+Chong Hwa Independent High School, Kuala Lumpur	classes	96
 Triam Udom Suksa School	classes	105
-Lincoln School (Providence, Rhode Island)	classes	13
-Friends School of Baltimore	classes	12
-Chestnut Hill Academy	classes	65
-Coe-Brown Northwood Academy	classes	20
-Watkinson School	classes	7
-GW Community School	classes	7
-New International School of Thailand	classes	25
-Bryn Mawr School	classes	15
-Amman National School	classes	65
-University School of Milwaukee	classes	15
-First Grammar School, Celje	classes	35
-Maplebrook School	classes	6
-Wayland Academy	classes	15
+South Lancaster Academy	classes	46
+Celje First Grammar School	classes	35
+Zemun Gymnasium	classes	10
 Poljane Grammar School	classes	32
-New Hampton School	classes	11
-Santiago College	classes	25
-The Gunnery	classes	14
-Keystone School	classes	14
-Lehi High School	classes	4
-Beaver Country Day School	classes	15
-San Antonio Academy	classes	15
-Timpanogos High School	classes	4
-Singapore International School, Indonesia	classes	24
-Northwood School (Lake Placid, New York)	classes	8
-Springside School	classes	16
-Christ Church School	classes	40
-Hill School (Virginia)	classes	12
+Diamond Jubilee Higher Secondary School	classes	6
+Jawahar Navodaya Vidyalaya, Gajanur	classes	14
+St. Xavier's High School	classes	36
+Kianda School	classes	Std 1-8; Form 1–4
 Mary Immaculate Girls' High School	classes	30
-Dublin School	classes	8
-Anand Bhawan School	classes	36
-St. Anne's-Belfield School	classes	13
-Lab School of Baltimore	classes	6
-Archer School for Girls	classes	16
-Crocker Middle School	classes	14
-Saint Michael's Academy	classes	10
-New Braunfels Christian Academy	classes	13
-St. Mary's Hall (San Antonio, Texas)	classes	367
-St. Mary's Hall (San Antonio, Texas)	classes	205
-St. Mary's Hall (San Antonio, Texas)	classes	412
-Smithtown Christian School	classes	20
-Westover School	classes	11
-Moon Valley High School	classes	193
-Mary Carroll High School	classes	5
-Siliguri Boys High School	classes	5
-Agnes Irwin School	classes	12
-Chatsworth Hills Academy	classes	15
-Saint Justin School	classes	32
-Oklahoma Bible Academy	classes	13
-MMI Preparatory School	classes	16
+Victor Senior High School	classes	Over 90
+Atomic Energy Central School	classes	1
+Strathmore School	classes	Std 1-8; Form 1–4
+Man High School	classes	9
+The Archer School for Girls	classes	155
+El Capitan High School	classes	7
+Union High School	classes	137
+V Gymnasium	classes	28
+English Language School, Dubai	classes	7
+Petit Seminaire Higher Secondary School	classes	Lower and upper Kindergarten
 Petit Seminaire Higher Secondary School	classes	1
-Greengate School	classes	5
-Pine Tree Academy	classes	11
-The Hyde Schools	classes	12
-Sayre School	classes	14
-International College, Beirut	classes	24
-Howe Military School	classes	8
-Pechersk School International	classes	12
-Oxford Academy (Connecticut)	classes	1
-Concordia Academy (Minnesota)	classes	104
-Fremont High School (Utah)	classes	5
+Baroda High School, Alkapuri	classes	LKG through 13
+Government Laboratory High School Rajshahi	classes	from 3 to 10
+Grenada Boys' Secondary School	classes	20
+Dallastown Area High School	classes	Approximately 200
 St. Anthony's Senior Secondary School, Barabanki	classes	16
-ESPA College	classes	20
-South Kent School	classes	12
-Johnston Senior High School (Rhode Island)	classes	24
-The Ensworth School	classes	15
-William Workman High School	classes	68
+Akademisches Gymnasium	classes	24
+Raman School Bhopal	classes	1
+ESPA College	classes	15
+Rosary High School	classes	LKG through 12
+Workman High School	classes	68
 Graz International Bilingual School	classes	21
-Baldwin School	classes	15
-Verde Valley School	classes	9
-Mandoulides Schools	classes	23
-Beijing National Day School	classes	107
-Institute of Child Study	classes	22
+Government Jubilee High School	classes	53
 Convent Datuk Keramat	classes	30
-West Suburban Christian Academy	classes	25
-Bernalillo High School	classes	16
-Kirtland Central High School	classes	19
-Academy for Global Exploration	classes	3
-First Baptist Academy of Dallas	classes	22
-Calvary Baptist Academy, New Braunfels, Texas	classes	8
-Wells International School	classes	14
-Costa Rica Country Day School	classes	14
-The Wyndcroft School	classes	12
-Shekou International School	classes	1
+Hong Kong University Graduate Association College	classes	32
+Saint Paul Preparatory School	classes	14
+Rizal Institute	classes	8
+Iqbal Memorial Institute	classes	Class UKG&ndash;12th
 Fukuoka Prefectural Fukuoka High School	classes	30
-San Antonio Christian Schools	classes	15
-Genoa-Kingston High School	classes	631
 Sri Lohit High School	classes	6
-Alexander Dawson School (Lafayette, Colorado)	classes	15
-Berkshire Country Day School	classes	10
-Dunn School, Los Olivos	classes	11
+SMS Sabah	classes	4
 Fuzhou No.1 Middle School	classes	48
 UNIO High School	classes	47
-Liberty Classical Academy	classes	11
-Hangzhou High School	classes	48
-Lancaster Country Day School	classes	15
 Deutsche Evangelische Oberschule	classes	1
-Oak Grove School (Ojai, California)	classes	12
-American Bilingual School	classes	25
-Costa Rica Rainforest Outward Bound School	classes	39
-Los Alamos Middle School	classes	16
-McLean School of Maryland	classes	10
-Teign School	classes	12
+Patumwan Demonstration School, Srinakharinwirot University	classes	50
+Outward Bound Costa Rica	classes	41
+Medford Public Schools	classes	204
+Medford Public Schools	classes	179
+Medford Public Schools	classes	184
+Medford Public Schools	classes	207
 Georg-Cantor-Gymnasium	classes	12
-Mihai Eminescu National College (Satu Mare)	classes	32
-Ioan Slavici National College	classes	38
+Mihai Eminescu National College	classes	32
+Ioan Slavici National College	classes	33
 Kölcsey Ferenc National College	classes	28
-Doamna Stanca National College (Satu Mare)	classes	28
+Doamna Stanca National College	classes	28
+St. Anselm's Pink City Sr. Sec. School, Jaipur	classes	13
 English School attached to Guangdong University of Foreign Studies	classes	136
-Sri Bhagawan Mahaveer Jain College	classes	11
-Sri Bhagawan Mahaveer Jain College	classes	12
 Chittagong University College	classes	11
-Overton St. Helen's C.E. Primary School	classes	6
-Odyssey School	classes	8
-Carlbrook School	classes	8
+MG English International School Bagru	classes	24
+Odyssey School	classes	13
 Sapphawitthayakhom School	classes	56
-The Haverford School	classes	15
-The Haverford School	classes	17
-Lawrenceville School	classes	12
-Pembroke Academy	classes	20
-Selfridge Public School District	classes	10
+Gymnasium of Karlovci	classes	6
+SMS Alam Shah	classes	11
+Cağaloğlu Anadolu Lisesi	classes	34
+Užice Gymnasium	classes	6
+Selfridge Public School	classes	20
 Protpittayapayat School	classes	70
-Federal Way Public Academy	classes	300
-Kyungbock High School	classes	38
-Colegio Agustiniano Norte	classes	42
+Samoa Adventist College	classes	17
+Epauto Adventist High School	classes	6
 De Roman Montessori School	classes	13
 Gemeinschaftsgrundschule Im Brömm	classes	8
-Taipei Language Institute	classes	2
-Sierra Canyon School	classes	17
+Groton-Dunstable Regional School District	classes	264
+Stiftsgymnasium Melk	classes	37
+Greendale Secondary School	classes	Secondary 1 to 5
+St. Ignatius' Convent Higher Secondary School	classes	6
 Punjab International Public High School	classes	12
-Bethlehem Area Vocational-Technical School	classes	27
-Oxford Schools	classes	75
-Islamic School, Irbid	classes	50
-Triampat	classes	102
-Immanuel Christian School, New Zealand	classes	6
-Dobele State Gymnasium	classes	18
-SMA Trimurti	classes	40
-Yongbuk Middle School	classes	6
-Synod Higher Secondary School, Aizawl	classes	8
-Bina Bangsa School	classes	20
-Triams Udom Suksa Pattanakarn	classes	102
-Triamudom Pattanakarn School	classes	102
+Bethlehem Area Vocational-Technical School	classes	28
 Triam Udom Suksa Pattanakarn School	classes	102
+Immanuel Christian School, New Zealand	classes	8
+SMK Bahang	classes	Lower secondary: Wawasan, Perdana, Bestari, Cemerlang, Dinamik, Dedikasi, Prihatin, Lestari
+SMK Bahang	classes	Upper secondary: Science 1 and 2, Sports Science, Perdana, Bestari, Cemerlang
+No. 1 Air Force School, Gwalior	classes	1
+Dobele State Gymnasium	classes	18
+Carmel School	classes	70
+Government High School, Uditnagar, Rourkela	classes	class 1 to class 10th
+Synod Higher Secondary School, Aizawl	classes	9
+St. Antony's Higher Secondary School	classes	6
+Medford High School	classes	416
+Satkhira Government High School	classes	3
 Fuzhou Sanmu Middle School	classes	23
+Saraswati Vidya Mandir	classes	Kindergarten; classes 1 to 10
+Sri Ramkrishna Sikshalaya	classes	1
+At Home Music Academy	classes	11
+Xuyi High School	classes	75
+Panteleimon Kulish Gymnasium	classes	13
+Maheshwari Public School	classes	13
+Fuchun Secondary School	classes	Secondary 1 to 5
+SMK Taman SEA	classes	54
+YMK High School	classes	class 6 to class 10
+Sri Pavuluri Subbarao Public School	classes	Kindergarten to Grade 10
+Dalkhola High School	classes	5
+Shree Jain Vidyalaya	classes	12
+Revere High School	classes	518
+Kretinga Jurgis Pabrėža gymnasium	classes	21
+Helen Lowry Higher Secondary School	classes	1
+E D Thomas Memorial Higher Secondary School	classes	1
+Spicer Memorial College Higher Secondary School	classes	1
+Mount Barker High School	classes	8
+Gymnázium Jana Keplera	classes	20
+Belize High School	classes	8
+Fairfield Intermediate School	classes	27
+Gymnasium %22Slobodan Škerović%22	classes	50
+Josip Broz Tito High School	classes	50
+Ayutthaya Wittayalai School	classes	105
+Daehyun Elementary School	classes	39
+Government Science College Attached High School	classes	1
+Fényi Gyula Jesuit High School	classes	20
+Baroda High School, Bagikhana	classes	LKG through 12
+Pravara Kanya Vidya Mandir	classes	40
+Jante Higher Secondary School	classes	Class 1 to 12
+Hopewell High School, Jamaica	classes	20
+Jawahar Navodaya Vidyalaya, Kothali	classes	14
+Rayongwittayakhompaknam School	classes	42
+Government High School Rampura Jawaharwala	classes	5
+CCC Tam Lee Lai Fun Memorial Secondary School	classes	F.1 : 4 Classes, 136 Students
+CCC Tam Lee Lai Fun Memorial Secondary School	classes	F.2 : 4 Classes, 136 Students
+CCC Tam Lee Lai Fun Memorial Secondary School	classes	F.3 : 4 Classes, 136 Students
+CCC Tam Lee Lai Fun Memorial Secondary School	classes	F.4 : 4 Classes, 140 Students
+CCC Tam Lee Lai Fun Memorial Secondary School	classes	F.5 : 4 Classes, 140 Students
+CCC Tam Lee Lai Fun Memorial Secondary School	classes	F.6 : 4 Classes, 140 Students
+Manohar Bhushan Inter College	classes	6
+Panducot, Bulacan	classes	7
+Gymnasium Kadaň	classes	14
+Sky Touch School	classes	14
+Kendriya Vidyalaya IIT Kanpur	classes	1
+Chaiyabhumbhakdeechumphon School	classes	79
+HKUGA Primary School	classes	30
+Kendriya Vidyalaya No. 1, Ahmednagar	classes	Grade 1st - 12th
+Jawahar Navodaya Vidyalaya, Shyampur	classes	14
+Sir Cowasjee Jehangir High School	classes	1
+Shree Amarsingh Model Higher Secondary School	classes	14
+La Purisima Concepcion Elementary School	classes	35
+Vatika High School for Deaf & Dumb	classes	1
+Umeed Red Cross School for Hearing Impaired	classes	1
+Khosla School for the Deaf	classes	1
+Patiala School for the Deaf-blind	classes	1
+Patiala School for the Deaf	classes	Pre-nursery–12th
+Patiala School for the Blind	classes	Pre-nursery–12th
+Raghumal Arya Vidyalaya	classes	1
+Jawahar Navodaya Vidyalaya, Mandya	classes	14
+Taltala High School	classes	1
+Stella Duce 1 Junior High School Yogyakarta	classes	6
+Keshab Ram Borah High school	classes	6
+Abhay Vidhya Mandir Senior Secondary School, Hindaun City	classes	13
+Javahar Navoday Vidyalay Jatnangla, Hindaun City	classes	100
+IV Gymnasium	classes	21
+The Knowledge Schools	classes	13
+Faith Baptist College	classes	JSS1 to SS3
+Vidya Vikas Academy, Goa	classes	25
+U.N.Academy, Barpeta Road	classes	7
+Sing Yin Secondary School	classes	30
+Kahaloo Model High School	classes	6
+SMK Taman Johor Jaya 1	classes	* Peralihan: PA and PB\n* Form 1-3: RK, PD and SP \n* Form 4-5: Science, ICT/TM, PA, Languages and Art/Music\n* Form 6:

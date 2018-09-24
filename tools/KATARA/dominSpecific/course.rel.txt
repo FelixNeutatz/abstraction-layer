@@ -1,1877 +1,1322 @@
-2004 San Marino Grand Prix	course	4933.0
-2004 San Marino Grand Prix	course	4932.63936
-2003 San Marino Grand Prix	course	4933.0
-2003 San Marino Grand Prix	course	4932.63936
-2004 Malaysian Grand Prix	course	5543.0
-2004 Malaysian Grand Prix	course	5536.14336
-2004 Australian Grand Prix	course	5303.0
-2004 Australian Grand Prix	course	5302.78848
-2004 Bahrain Grand Prix	course	5417.0
-2004 Bahrain Grand Prix	course	5417.051904
-2003 Australian Grand Prix	course	5303.0
-2003 Australian Grand Prix	course	5302.78848
-2003 Malaysian Grand Prix	course	5540.0
-2003 Malaysian Grand Prix	course	5536.14336
-2003 Spanish Grand Prix	course	4730.0
-2003 Spanish Grand Prix	course	4729.862016
-2003 Monaco Grand Prix	course	3340.0
-2003 Monaco Grand Prix	course	3339.3888
-2003 European Grand Prix	course	5148.0
-2003 European Grand Prix	course	5149.9008
-2004 Spanish Grand Prix	course	4627.0
-2004 Spanish Grand Prix	course	4626.864
-2004 Monaco Grand Prix	course	3340.0
-2004 Monaco Grand Prix	course	3339.3888
-2003 United States Grand Prix	course	4195.0
-2003 United States Grand Prix	course	4193.950464
-2002 Australian Grand Prix	course	5303.0
-2002 Australian Grand Prix	course	5302.78848
-2001 Australian Grand Prix	course	5303.0
-2001 Australian Grand Prix	course	5310.8352
-2000 Australian Grand Prix	course	5303.0
-2000 Australian Grand Prix	course	5302.78848
-2004 Japanese Grand Prix	course	5807.0
-2004 Japanese Grand Prix	course	5806.513152
-2004 European Grand Prix	course	5148.0
-2004 European Grand Prix	course	5149.9008
-2004 Brazilian Grand Prix	course	4309.0
-2004 Brazilian Grand Prix	course	4308.213888
-1950 British Grand Prix	course	4649.0
-1950 British Grand Prix	course	4648.9120128
-1950 Monaco Grand Prix	course	3181.0
-1950 Monaco Grand Prix	course	3181.673088
-1950 Swiss Grand Prix	course	7280.0
-1950 Swiss Grand Prix	course	7280.672256
-1950 Belgian Grand Prix	course	14120.0
-1950 Belgian Grand Prix	course	14202.4608
-1951 Swiss Grand Prix	course	7280.0
-1951 Swiss Grand Prix	course	7280.672256
-1950 Italian Grand Prix	course	6300.0
-1950 Italian Grand Prix	course	6300.58176
-1950 French Grand Prix	course	7815.0
-1950 French Grand Prix	course	7814.974464
-1951 Belgian Grand Prix	course	14120.0
-1951 Belgian Grand Prix	course	14120.384256
-1951 French Grand Prix	course	7816.0
-1951 French Grand Prix	course	7814.974464
-1951 British Grand Prix	course	4649.0
-1951 British Grand Prix	course	4647.785472
-1951 German Grand Prix	course	22810.0
-1951 German Grand Prix	course	22809.232512
-1951 Italian Grand Prix	course	6300.0
-1951 Italian Grand Prix	course	6300.58176
-1951 Spanish Grand Prix	course	6316.0
-1951 Spanish Grand Prix	course	6316.6752
-1952 Belgian Grand Prix	course	14120.0
-1952 Belgian Grand Prix	course	14120.384256
-1952 British Grand Prix	course	4710.5
-1952 British Grand Prix	course	4710.549888
-1953 Argentine Grand Prix	course	3912.0
-1953 Argentine Grand Prix	course	3912.315264
-1952 Italian Grand Prix	course	6300.0
-1952 Italian Grand Prix	course	6300.58176
-1953 Dutch Grand Prix	course	4193.0
-1953 Dutch Grand Prix	course	4913.327232
-1953 Belgian Grand Prix	course	14120.0
-1953 Belgian Grand Prix	course	14120.384256
-1953 Swiss Grand Prix	course	7280.0
-1953 Swiss Grand Prix	course	7280.672256
-1953 British Grand Prix	course	4710.5
-1953 British Grand Prix	course	4710.549888
-1953 German Grand Prix	course	22810.0
-1953 German Grand Prix	course	22809.232512
-1953 French Grand Prix	course	8347.0
-1953 French Grand Prix	course	8347.667328
-1954 Argentine Grand Prix	course	3912.0
-1954 Argentine Grand Prix	course	3912.315264
-1953 Italian Grand Prix	course	6300.0
-1953 Italian Grand Prix	course	6300.58176
-1954 Belgian Grand Prix	course	14120.0
-1954 Belgian Grand Prix	course	14120.384256
-1954 French Grand Prix	course	8302.0
-1954 French Grand Prix	course	8302.605696
-1954 British Grand Prix	course	4710.5
-1954 British Grand Prix	course	4710.549888
-1954 German Grand Prix	course	22810.0
-1954 German Grand Prix	course	22809.232512
-1955 Monaco Grand Prix	course	3181.0
-1955 Monaco Grand Prix	course	3181.673088
-1956 Monaco Grand Prix	course	3145.0
-1956 Monaco Grand Prix	course	3144.658176
-1956 Argentine Grand Prix	course	3912.0
-1956 Argentine Grand Prix	course	3912.315264
-1956 Belgian Grand Prix	course	14120.0
-1956 Belgian Grand Prix	course	14120.384256
-1956 British Grand Prix	course	4710.5
-1956 British Grand Prix	course	4710.549888
-1955 British Grand Prix	course	4828.0
-1955 British Grand Prix	course	4828.032
-1956 Italian Grand Prix	course	10000.0
-1956 Italian Grand Prix	course	10000.463616
-1957 British Grand Prix	course	4828.0
-1957 British Grand Prix	course	4828.032
-1958 Belgian Grand Prix	course	14120.0
-1958 Belgian Grand Prix	course	14120.384256
-1959 French Grand Prix	course	8348.0
-1959 French Grand Prix	course	8347.667328
-1959 British Grand Prix	course	4828.0
-1959 British Grand Prix	course	4828.032
-1959 United States Grand Prix	course	8360.0
-1959 United States Grand Prix	course	8368.5888
-1960 British Grand Prix	course	4711.0
-1960 British Grand Prix	course	4710.549888
-1960 Italian Grand Prix	course	10000.0
-1960 Italian Grand Prix	course	10000.463616
-1960 United States Grand Prix	course	5271.0
-1960 United States Grand Prix	course	5270.6016
-1961 Dutch Grand Prix	course	4193.0
-1961 Dutch Grand Prix	course	4192.34112
-1961 Monaco Grand Prix	course	3145.0
-1961 Monaco Grand Prix	course	3144.658176
-1961 Belgian Grand Prix	course	14100.0
-1961 Belgian Grand Prix	course	14099.462784
-1961 British Grand Prix	course	4828.0
-1961 British Grand Prix	course	4828.032
-1961 French Grand Prix	course	8302.0
-1961 French Grand Prix	course	8300.996352
-1961 Italian Grand Prix	course	10000.0
-1961 Italian Grand Prix	course	9998.854272
-1962 Dutch Grand Prix	course	4193.0
-1962 Dutch Grand Prix	course	4192.34112
-1961 United States Grand Prix	course	3780.0
-1961 United States Grand Prix	course	3781.9584
-1962 Monaco Grand Prix	course	3145.0
-1962 Monaco Grand Prix	course	3144.658176
-1962 French Grand Prix	course	6542.0
-1962 French Grand Prix	course	6541.98336
-1961 German Grand Prix	course	22810.0
-1961 German Grand Prix	course	22809.232512
-1962 British Grand Prix	course	4828.0
-1962 British Grand Prix	course	4828.032
-1962 German Grand Prix	course	22810.0
-1962 German Grand Prix	course	22809.232512
-1962 United States Grand Prix	course	3780.0
-1962 United States Grand Prix	course	3781.9584
-1962 South African Grand Prix	course	3920.0
-1962 South African Grand Prix	course	3920.361984
-1962 Italian Grand Prix	course	5750.0
-1962 Italian Grand Prix	course	5750.186112
-1962 Belgian Grand Prix	course	14100.0
-1962 Belgian Grand Prix	course	14099.462784
-1963 Monaco Grand Prix	course	3145.0
-1963 Monaco Grand Prix	course	3144.658176
-1963 Dutch Grand Prix	course	4193.0
-1963 Dutch Grand Prix	course	4192.34112
-1963 French Grand Prix	course	8302.0
-1963 French Grand Prix	course	8302.605696
-1963 British Grand Prix	course	4711.0
-1963 British Grand Prix	course	4710.549888
-1963 Belgian Grand Prix	course	14100.0
-1963 Belgian Grand Prix	course	14099.462784
-1963 German Grand Prix	course	22810.0
-1963 German Grand Prix	course	22809.232512
-1963 United States Grand Prix	course	3780.0
-1963 United States Grand Prix	course	3781.9584
-1963 Mexican Grand Prix	course	5000.0
-1963 Mexican Grand Prix	course	5000.231808
-1963 Italian Grand Prix	course	5750.0
-1963 Italian Grand Prix	course	5750.186112
-1964 French Grand Prix	course	6530.0
-1964 French Grand Prix	course	6533.93664
-1964 British Grand Prix	course	4260.0
-1964 British Grand Prix	course	4264.7616
-1964 United States Grand Prix	course	3780.0
-1964 United States Grand Prix	course	3781.9584
-1963 South African Grand Prix	course	3920.0
-1963 South African Grand Prix	course	3920.361984
-1965 Belgian Grand Prix	course	14120.0
-1965 Belgian Grand Prix	course	14120.384256
-1965 British Grand Prix	course	4711.0
-1965 British Grand Prix	course	4710.549888
-1965 United States Grand Prix	course	3780.0
-1965 United States Grand Prix	course	3781.9584
-1966 French Grand Prix	course	8348.0
-1966 French Grand Prix	course	8347.667328
-1966 United States Grand Prix	course	3780.0
-1966 United States Grand Prix	course	3781.9584
-1967 South African Grand Prix	course	4094.0
-1967 South African Grand Prix	course	4092.561792
-1967 French Grand Prix	course	4361.0
-1967 French Grand Prix	course	4361.32224
-1967 German Grand Prix	course	22835.0
-1967 German Grand Prix	course	22834.982016
-1967 Italian Grand Prix	course	5750.0
-1967 Italian Grand Prix	course	5750.186112
-1967 United States Grand Prix	course	3780.0
-1967 United States Grand Prix	course	3781.9584
-1968 Spanish Grand Prix	course	3404.0
-1968 Spanish Grand Prix	course	3403.76256
-1968 Monaco Grand Prix	course	3145.0
-1968 Monaco Grand Prix	course	3144.658176
-1968 Belgian Grand Prix	course	14100.0
-1968 Belgian Grand Prix	course	14099.462784
-1968 South African Grand Prix	course	4104.0
-1968 South African Grand Prix	course	4103.8272
-1968 French Grand Prix	course	6542.0
-1968 French Grand Prix	course	6541.98336
-1968 Dutch Grand Prix	course	4193.0
-1968 Dutch Grand Prix	course	4192.34112
-1968 British Grand Prix	course	4265.0
-1968 British Grand Prix	course	4264.7616
-1968 German Grand Prix	course	22835.0
-1968 German Grand Prix	course	22834.982016
-1968 Italian Grand Prix	course	5750.0
-1968 Italian Grand Prix	course	5750.186112
-1968 United States Grand Prix	course	3780.0
-1968 United States Grand Prix	course	3781.9584
-1968 Canadian Grand Prix	course	4265.0
-1968 Canadian Grand Prix	course	4264.7616
-1969 South African Grand Prix	course	4104.0
-1969 South African Grand Prix	course	4103.8272
-1968 Mexican Grand Prix	course	5000.0
-1968 Mexican Grand Prix	course	5000.231808
-1969 Spanish Grand Prix	course	3791.0
-1969 Spanish Grand Prix	course	3791.614464
-1969 Monaco Grand Prix	course	3145.0
-1969 Monaco Grand Prix	course	3144.658176
-1969 Dutch Grand Prix	course	4193.0
-1969 Dutch Grand Prix	course	4192.34112
-1969 French Grand Prix	course	8055.0
-1969 French Grand Prix	course	8054.76672
-1969 British Grand Prix	course	4711.0
-1969 British Grand Prix	course	4710.549888
-1969 Italian Grand Prix	course	5750.0
-1969 Italian Grand Prix	course	5750.186112
-1969 United States Grand Prix	course	3780.0
-1969 United States Grand Prix	course	3781.9584
-1969 Mexican Grand Prix	course	4421.0
-1970 South African Grand Prix	course	4104.0
-1970 South African Grand Prix	course	4103.8272
-1970 Spanish Grand Prix	course	3404.0
-1970 Spanish Grand Prix	course	3403.76256
-1970 Monaco Grand Prix	course	3145.0
-1970 Monaco Grand Prix	course	3144.658176
-1970 United States Grand Prix	course	3780.0
-1970 United States Grand Prix	course	3781.9584
-1971 Spanish Grand Prix	course	3791.0
-1971 Spanish Grand Prix	course	3791.614464
-1971 South African Grand Prix	course	4104.0
-1971 South African Grand Prix	course	4103.8272
-1971 United States Grand Prix	course	5435.0
-1971 United States Grand Prix	course	5434.754688
-1972 Austrian Grand Prix	course	5912.0
-1972 Austrian Grand Prix	course	5911.120512
-1972 British Grand Prix	course	4260.0
-1972 British Grand Prix	course	4264.7616
-1972 United States Grand Prix	course	5435.0
-1972 United States Grand Prix	course	5434.754688
-1973 Brazilian Grand Prix	course	7960.0
-1973 Brazilian Grand Prix	course	8006.4864
-1973 Belgian Grand Prix	course	4220.0
-1973 Belgian Grand Prix	course	4219.699968
-1973 British Grand Prix	course	4711.0
-1973 British Grand Prix	course	4737.908736
-1973 Dutch Grand Prix	course	4180.0
-1973 Dutch Grand Prix	course	4184.2944
-1973 German Grand Prix	course	22835.0
-1973 German Grand Prix	course	22836.59136
-1973 United States Grand Prix	course	5435.0
-1973 United States Grand Prix	course	5434.754688
-1974 Argentine Grand Prix	course	5968.0
-1974 Argentine Grand Prix	course	5967.447552
-1974 German Grand Prix	course	22835.0
-1974 German Grand Prix	course	22834.982016
-1974 United States Grand Prix	course	5435.0
-1974 United States Grand Prix	course	5434.754688
-1975 Spanish Grand Prix	course	3790.0
-1975 Spanish Grand Prix	course	3790.00512
-1975 Monaco Grand Prix	course	3278.0
-1975 Monaco Grand Prix	course	3278.233728
-1975 Austrian Grand Prix	course	5911.0
-1975 Austrian Grand Prix	course	5911.120512
-1975 United States Grand Prix	course	5435.0
-1975 United States Grand Prix	course	5434.754688
-1976 Monaco Grand Prix	course	3303.0
-1976 Monaco Grand Prix	course	3316.857984
-1976 German Grand Prix	course	22835.0
-1976 German Grand Prix	course	22836.59136
-1976 Dutch Grand Prix	course	4226.0
-1976 Dutch Grand Prix	course	4226.137344
-1976 Japanese Grand Prix	course	4359.0
-1976 Japanese Grand Prix	course	4345.2288
-1977 Argentine Grand Prix	course	5810.0
-1977 Argentine Grand Prix	course	5809.73184
-1976 Canadian Grand Prix	course	3957.0
-1976 Canadian Grand Prix	course	3955.767552
-1977 South African Grand Prix	course	4104.0
-1977 South African Grand Prix	course	4103.8272
-1977 Brazilian Grand Prix	course	7980.0
-1977 Brazilian Grand Prix	course	7708.75776
-1977 Spanish Grand Prix	course	3404.0
-1977 Spanish Grand Prix	course	3403.76256
-1977 Monaco Grand Prix	course	3340.0
-1977 Monaco Grand Prix	course	3347.43552
-1977 Belgian Grand Prix	course	4011.0
-1977 Belgian Grand Prix	course	4010.485248
-1977 French Grand Prix	course	3801.0
-1977 French Grand Prix	course	3799.661184
-1977 Swedish Grand Prix	course	4025.0
-1977 Swedish Grand Prix	course	4024.969344
-1977 British Grand Prix	course	4719.0
-1977 British Grand Prix	course	4718.596608
-1977 German Grand Prix	course	6800.0
-1977 German Grand Prix	course	6759.2448
-1977 Austrian Grand Prix	course	5941.0
-1977 Austrian Grand Prix	course	5941.698048
-1977 Canadian Grand Prix	course	3957.0
-1977 Canadian Grand Prix	course	3957.376896
-1977 Italian Grand Prix	course	5793.0
-1977 Italian Grand Prix	course	5793.6384
-1977 Dutch Grand Prix	course	2642.0
-1977 Dutch Grand Prix	course	6842.930688
-1977 Japanese Grand Prix	course	4359.0
-1977 Japanese Grand Prix	course	4359.712896
-1978 Argentine Grand Prix	course	5810.0
-1978 Argentine Grand Prix	course	5809.73184
-1978 Brazilian Grand Prix	course	5031.0
-1978 Brazilian Grand Prix	course	5030.809344
-1978 South African Grand Prix	course	4104.0
-1978 South African Grand Prix	course	4103.8272
-1978 Monaco Grand Prix	course	3340.0
-1978 Monaco Grand Prix	course	3347.43552
-1978 Spanish Grand Prix	course	3404.0
-1978 Spanish Grand Prix	course	3403.76256
-1978 Belgian Grand Prix	course	4011.0
-1978 Belgian Grand Prix	course	4010.485248
-1978 French Grand Prix	course	5809.0
-1978 French Grand Prix	course	5809.73184
-1978 British Grand Prix	course	4206.0
-1978 British Grand Prix	course	4205.215872
-1978 German Grand Prix	course	6800.0
-1978 German Grand Prix	course	6759.2448
-1978 Austrian Grand Prix	course	5941.0
-1978 Austrian Grand Prix	course	5941.698048
-1978 Italian Grand Prix	course	5793.0
-1978 Italian Grand Prix	course	5793.6384
-1978 Swedish Grand Prix	course	4031.0
-1978 Swedish Grand Prix	course	4031.40672
-1978 Canadian Grand Prix	course	4500.0
-1978 Canadian Grand Prix	course	4499.725824
-1979 Argentine Grand Prix	course	5810.0
-1979 Argentine Grand Prix	course	5809.73184
-1978 Dutch Grand Prix	course	2642.0
-1978 Dutch Grand Prix	course	6842.930688
-1979 South African Grand Prix	course	4104.0
-1979 South African Grand Prix	course	4103.8272
-1979 Spanish Grand Prix	course	3404.0
-1979 Spanish Grand Prix	course	3403.76256
-1979 Brazilian Grand Prix	course	7873.0
-1979 Brazilian Grand Prix	course	7612.19712
-1979 Belgian Grand Prix	course	4011.0
-1979 Belgian Grand Prix	course	4010.485248
-1979 Monaco Grand Prix	course	3340.0
-1979 Monaco Grand Prix	course	3347.43552
-1979 French Grand Prix	course	3801.0
-1979 French Grand Prix	course	3799.661184
-1979 British Grand Prix	course	4719.0
-1979 British Grand Prix	course	4718.596608
-1979 German Grand Prix	course	6800.0
-1979 German Grand Prix	course	6759.2448
-1979 Dutch Grand Prix	course	2642.0
-1979 Dutch Grand Prix	course	6842.930688
-1979 Canadian Grand Prix	course	4500.0
-1979 Canadian Grand Prix	course	4499.725824
-1979 Italian Grand Prix	course	5800.0
-1979 Italian Grand Prix	course	4828.032
-1979 Austrian Grand Prix	course	5941.0
-1979 Austrian Grand Prix	course	5941.698048
-1980 Argentine Grand Prix	course	5810.0
-1980 Argentine Grand Prix	course	5809.73184
-1980 Brazilian Grand Prix	course	7873.0
-1980 Brazilian Grand Prix	course	7917.97248
-1980 South African Grand Prix	course	4104.0
-1980 South African Grand Prix	course	4103.8272
-1980 Belgian Grand Prix	course	4011.0
-1980 Belgian Grand Prix	course	4010.485248
-1980 Monaco Grand Prix	course	3340.0
-1980 Monaco Grand Prix	course	3347.43552
-1980 British Grand Prix	course	4207.0
-1980 British Grand Prix	course	4206.825216
-1980 French Grand Prix	course	5809.0
-1980 French Grand Prix	course	5809.73184
-1980 German Grand Prix	course	6823.0
-1980 German Grand Prix	course	6823.61856
-1980 Austrian Grand Prix	course	5942.0
-1980 Austrian Grand Prix	course	5941.698048
-1980 Dutch Grand Prix	course	4252.0
-1980 Dutch Grand Prix	course	4251.886848
-1980 Italian Grand Prix	course	5000.0
-1980 Italian Grand Prix	course	5000.231808
-1980 Canadian Grand Prix	course	4410.0
-1980 Canadian Grand Prix	course	4409.60256
-1981 Brazilian Grand Prix	course	5031.0
-1981 Brazilian Grand Prix	course	5030.809344
-1981 Argentine Grand Prix	course	5968.0
-1981 Argentine Grand Prix	course	5967.447552
-1981 San Marino Grand Prix	course	5000.0
-1981 San Marino Grand Prix	course	5000.231808
-1981 Monaco Grand Prix	course	3340.0
-1981 Monaco Grand Prix	course	3347.43552
-1981 Belgian Grand Prix	course	4011.0
-1981 Belgian Grand Prix	course	216566.203392
-1981 Spanish Grand Prix	course	3312.0
-1981 Spanish Grand Prix	course	3315.24864
-1981 French Grand Prix	course	3801.0
-1981 French Grand Prix	course	3799.661184
-1981 British Grand Prix	course	4719.0
-1981 British Grand Prix	course	4718.596608
-1981 Austrian Grand Prix	course	5942.0
-1981 Austrian Grand Prix	course	5941.698048
-1981 German Grand Prix	course	6823.0
-1981 German Grand Prix	course	6823.61856
-1981 Dutch Grand Prix	course	4252.0
-1981 Dutch Grand Prix	course	4251.886848
-1981 Canadian Grand Prix	course	4410.0
-1981 Canadian Grand Prix	course	4409.60256
-1981 Caesars Palace Grand Prix	course	3637.0
-1981 Caesars Palace Grand Prix	course	3637.11744
-1982 South African Grand Prix	course	4104.0
-1982 South African Grand Prix	course	4103.8272
-1981 Italian Grand Prix	course	5800.0
-1981 Italian Grand Prix	course	5793.6384
-1982 San Marino Grand Prix	course	5040.0
-1982 San Marino Grand Prix	course	5040.465408
-1982 Brazilian Grand Prix	course	5031.0
-1982 Brazilian Grand Prix	course	5030.809344
-1982 Belgian Grand Prix	course	4262.0
-1982 Belgian Grand Prix	course	4261.542912
-1982 Dutch Grand Prix	course	4252.0
-1982 Dutch Grand Prix	course	4251.886848
-1982 Canadian Grand Prix	course	4410.0
-1982 Canadian Grand Prix	course	4409.60256
-1982 British Grand Prix	course	4207.0
-1982 British Grand Prix	course	4206.825216
-1982 Monaco Grand Prix	course	3340.0
-1982 Monaco Grand Prix	course	3347.43552
-1982 French Grand Prix	course	5809.0
-1982 French Grand Prix	course	5809.73184
-1982 German Grand Prix	course	6823.0
-1982 German Grand Prix	course	6823.61856
-1982 Austrian Grand Prix	course	5942.0
-1982 Austrian Grand Prix	course	5941.698048
-1982 Swiss Grand Prix	course	3801.0
-1982 Swiss Grand Prix	course	3799.661184
-1982 Italian Grand Prix	course	5800.0
-1982 Italian Grand Prix	course	5793.6384
-1982 Caesars Palace Grand Prix	course	3650.0
-1982 Caesars Palace Grand Prix	course	3649.992192
-1983 Brazilian Grand Prix	course	5031.0
-1983 Brazilian Grand Prix	course	5030.809344
-1983 San Marino Grand Prix	course	5040.0
-1983 San Marino Grand Prix	course	5040.465408
-1983 Belgian Grand Prix	course	7004.0
-1983 Belgian Grand Prix	course	7003.865088
-1983 Monaco Grand Prix	course	3312.0
-1983 Monaco Grand Prix	course	3310.420608
-1983 Canadian Grand Prix	course	4410.0
-1983 Canadian Grand Prix	course	4409.60256
-1983 French Grand Prix	course	5809.0
-1983 French Grand Prix	course	5809.73184
-1983 German Grand Prix	course	6823.0
-1983 German Grand Prix	course	6823.61856
-1983 Dutch Grand Prix	course	4252.0
-1983 Dutch Grand Prix	course	4251.886848
-1983 Austrian Grand Prix	course	5942.0
-1983 Austrian Grand Prix	course	5941.698048
-1983 British Grand Prix	course	4719.0
-1983 British Grand Prix	course	4718.596608
-1983 Italian Grand Prix	course	5800.0
-1983 Italian Grand Prix	course	5793.6384
-1983 European Grand Prix	course	4206.0
-1983 European Grand Prix	course	4205.215872
-1983 South African Grand Prix	course	4104.0
-1983 South African Grand Prix	course	4103.8272
-1984 Brazilian Grand Prix	course	5031.0
-1984 Brazilian Grand Prix	course	5030.809344
-1984 South African Grand Prix	course	4104.0
-1984 South African Grand Prix	course	4103.8272
-1984 Belgian Grand Prix	course	4262.0
-1984 Belgian Grand Prix	course	4261.542912
-1984 French Grand Prix	course	3801.0
-1984 French Grand Prix	course	3799.661184
-1984 San Marino Grand Prix	course	5040.0
-1984 San Marino Grand Prix	course	5040.465408
-1984 Monaco Grand Prix	course	3312.0
-1984 Monaco Grand Prix	course	3310.420608
-1984 Canadian Grand Prix	course	4410.0
-1984 Canadian Grand Prix	course	4409.60256
-1984 British Grand Prix	course	4207.0
-1984 British Grand Prix	course	4206.825216
-1984 German Grand Prix	course	6823.0
-1984 German Grand Prix	course	6823.61856
-1984 Dallas Grand Prix	course	3901.0
-1984 Dallas Grand Prix	course	3901.049856
-1984 Austrian Grand Prix	course	5942.0
-1984 Austrian Grand Prix	course	5941.698048
-1984 Italian Grand Prix	course	5800.0
-1984 Italian Grand Prix	course	5793.6384
-1984 Dutch Grand Prix	course	4252.0
-1984 Dutch Grand Prix	course	4251.886848
-1984 Portuguese Grand Prix	course	4350.0
-1984 Portuguese Grand Prix	course	4348.447488
-1984 European Grand Prix	course	4540.0
-1984 European Grand Prix	course	4538.35008
-1985 Brazilian Grand Prix	course	5031.0
-1985 Brazilian Grand Prix	course	5030.809344
-1985 Portuguese Grand Prix	course	4350.0
-1985 Portuguese Grand Prix	course	4348.447488
-1985 San Marino Grand Prix	course	5040.0
-1985 San Marino Grand Prix	course	5040.465408
-1985 Canadian Grand Prix	course	4410.0
-1985 Canadian Grand Prix	course	4409.60256
-1985 Monaco Grand Prix	course	3312.0
-1985 Monaco Grand Prix	course	3310.420608
-1985 British Grand Prix	course	4719.0
-1985 British Grand Prix	course	4718.596608
-1985 French Grand Prix	course	5148.0
-1985 French Grand Prix	course	5148.291456
-1985 German Grand Prix	course	4540.0
-1985 German Grand Prix	course	4538.35008
-1985 Austrian Grand Prix	course	5942.0
-1985 Austrian Grand Prix	course	5941.698048
-1985 Italian Grand Prix	course	5800.0
-1985 Italian Grand Prix	course	5793.6384
-1985 Dutch Grand Prix	course	4252.0
-1985 Dutch Grand Prix	course	4251.886848
-1985 Belgian Grand Prix	course	7004.0
-1985 Belgian Grand Prix	course	7003.865088
-1985 European Grand Prix	course	4206.0
-1985 European Grand Prix	course	4200.38784
-1985 South African Grand Prix	course	4104.0
-1985 South African Grand Prix	course	4103.8272
-1985 Australian Grand Prix	course	3780.0
-1985 Australian Grand Prix	course	3801.270528
-1986 Brazilian Grand Prix	course	5031.0
-1986 Brazilian Grand Prix	course	5030.809344
-1986 Spanish Grand Prix	course	4218.0
-1986 Spanish Grand Prix	course	4216.48128
-1986 San Marino Grand Prix	course	5040.0
-1986 San Marino Grand Prix	course	5038.856064
-1986 Monaco Grand Prix	course	3328.0
-1986 Monaco Grand Prix	course	3328.123392
-1986 Belgian Grand Prix	course	7004.0
-1986 Belgian Grand Prix	course	7003.865088
-1986 French Grand Prix	course	3812.0
-1986 French Grand Prix	course	3812.535936
-1986 British Grand Prix	course	2301.0
-1986 British Grand Prix	course	5959.400832
-1986 German Grand Prix	course	5148.0
-1986 German Grand Prix	course	5148.291456
-1986 Canadian Grand Prix	course	4410.0
-1986 Canadian Grand Prix	course	4409.60256
-1986 Italian Grand Prix	course	5800.0
-1986 Italian Grand Prix	course	5793.6384
-1986 Portuguese Grand Prix	course	4350.0
-1986 Portuguese Grand Prix	course	4348.447488
-1986 Austrian Grand Prix	course	5942.0
-1986 Austrian Grand Prix	course	5941.698048
-1986 Mexican Grand Prix	course	4421.0
-1986 Mexican Grand Prix	course	4420.867968
-1987 Brazilian Grand Prix	course	5031.0
-1987 Brazilian Grand Prix	course	5030.809344
-1986 Australian Grand Prix	course	3780.0
-1986 Australian Grand Prix	course	3781.9584
-1987 Belgian Grand Prix	course	6940.0
-1987 Belgian Grand Prix	course	6939.491328
-1987 Monaco Grand Prix	course	3328.0
-1987 Monaco Grand Prix	course	3328.123392
-1987 San Marino Grand Prix	course	5040.0
-1987 San Marino Grand Prix	course	5038.856064
-1987 French Grand Prix	course	3813.0
-1987 French Grand Prix	course	3812.535936
-1987 Austrian Grand Prix	course	5942.0
-1987 Austrian Grand Prix	course	5941.698048
-1987 Hungarian Grand Prix	course	4381.0
-1987 Hungarian Grand Prix	course	4380.634368
-1987 British Grand Prix	course	4778.0
-1987 British Grand Prix	course	4778.142336
-1987 Italian Grand Prix	course	5800.0
-1987 Italian Grand Prix	course	5793.6384
-1987 Portuguese Grand Prix	course	4350.0
-1987 Portuguese Grand Prix	course	4348.447488
-1987 Mexican Grand Prix	course	4421.0
-1987 Mexican Grand Prix	course	4420.867968
-1987 Japanese Grand Prix	course	5859.0
-1987 Japanese Grand Prix	course	5859.621504
-1987 Spanish Grand Prix	course	4218.0
-1987 Spanish Grand Prix	course	4216.48128
-1987 Australian Grand Prix	course	3780.0
-1987 Australian Grand Prix	course	3801.270528
-1988 Brazilian Grand Prix	course	5031.0
-1988 Brazilian Grand Prix	course	5030.809344
-1988 San Marino Grand Prix	course	5040.0
-1988 San Marino Grand Prix	course	5038.856064
-1988 Monaco Grand Prix	course	3328.0
-1988 Monaco Grand Prix	course	3328.123392
-1988 Mexican Grand Prix	course	4421.0
-1988 Mexican Grand Prix	course	4420.867968
-1988 Canadian Grand Prix	course	4421.0
-1988 Canadian Grand Prix	course	4390.290432
-1988 French Grand Prix	course	3813.0
-1988 French Grand Prix	course	3812.535936
-1988 British Grand Prix	course	4778.0
-1988 British Grand Prix	course	4778.142336
-1988 German Grand Prix	course	6797.0
-1988 German Grand Prix	course	6796.259712
-1988 Hungarian Grand Prix	course	4014.0
-1988 Hungarian Grand Prix	course	4013.703936
-1988 Belgian Grand Prix	course	6940.0
-1988 Belgian Grand Prix	course	6939.491328
-1988 Italian Grand Prix	course	5800.0
-1988 Italian Grand Prix	course	5798.466432
-1988 Portuguese Grand Prix	course	4350.0
-1988 Portuguese Grand Prix	course	4350.056832
-1988 Spanish Grand Prix	course	4218.0
-1988 Spanish Grand Prix	course	4216.48128
-1988 Australian Grand Prix	course	3770.0
-1988 Australian Grand Prix	course	3777.130368
-1988 Japanese Grand Prix	course	5859.0
-1988 Japanese Grand Prix	course	5859.621504
-1989 Brazilian Grand Prix	course	5031.0
-1989 Brazilian Grand Prix	course	5030.809344
-1989 San Marino Grand Prix	course	5040.0
-1989 San Marino Grand Prix	course	5040.465408
-1989 Mexican Grand Prix	course	4421.0
-1989 Mexican Grand Prix	course	4420.867968
-1989 Monaco Grand Prix	course	3328.0
-1989 Monaco Grand Prix	course	3328.123392
-1989 United States Grand Prix	course	3800.0
-1989 United States Grand Prix	course	3799.661184
-1989 Canadian Grand Prix	course	4390.2
-1989 Canadian Grand Prix	course	4390.290432
-1989 French Grand Prix	course	3813.0
-1989 French Grand Prix	course	3812.535936
-1989 British Grand Prix	course	4778.0
-1989 British Grand Prix	course	4778.142336
-1989 German Grand Prix	course	6797.0
-1989 German Grand Prix	course	6796.9034496
-1989 Italian Grand Prix	course	5800.0
-1989 Italian Grand Prix	course	5799.9148416
-1989 Belgian Grand Prix	course	6940.0
-1989 Belgian Grand Prix	course	6939.9741312
-1989 Hungarian Grand Prix	course	3968.0
-1989 Hungarian Grand Prix	course	3967.03296
-1989 Spanish Grand Prix	course	4218.0
-1989 Spanish Grand Prix	course	4217.9296896
-1989 Portuguese Grand Prix	course	4350.0
-1989 Portuguese Grand Prix	course	4350.056832
-1989 Japanese Grand Prix	course	5859.0
-1989 Japanese Grand Prix	course	5859.621504
-1989 Australian Grand Prix	course	3778.0
-1989 Australian Grand Prix	course	3777.130368
-1990 United States Grand Prix	course	3800.0
-1990 United States Grand Prix	course	3799.661184
-1990 Brazilian Grand Prix	course	4325.0
-1990 Brazilian Grand Prix	course	4324.307328
-1990 Monaco Grand Prix	course	3328.0
-1990 Monaco Grand Prix	course	3328.123392
-1990 San Marino Grand Prix	course	5040.0
-1990 San Marino Grand Prix	course	5040.465408
-1990 Canadian Grand Prix	course	4390.2
-1990 Canadian Grand Prix	course	4390.290432
-1990 Mexican Grand Prix	course	4421.0
-1990 Mexican Grand Prix	course	4420.867968
-1990 French Grand Prix	course	3813.0
-1990 French Grand Prix	course	3812.535936
-1990 British Grand Prix	course	4778.0
-1990 British Grand Prix	course	4778.142336
-1990 German Grand Prix	course	6802.0
-1990 German Grand Prix	course	6801.892416
-1990 Hungarian Grand Prix	course	4381.0
-1990 Hungarian Grand Prix	course	4380.634368
-1990 Belgian Grand Prix	course	7004.0
-1990 Belgian Grand Prix	course	7003.865088
-1990 Portuguese Grand Prix	course	4360.0
-1990 Portuguese Grand Prix	course	4385.4624
-1990 Italian Grand Prix	course	5800.0
-1990 Italian Grand Prix	course	5799.9148416
-1990 Japanese Grand Prix	course	5859.0
-1990 Japanese Grand Prix	course	5858.01216
-1990 Spanish Grand Prix	course	4218.0
-1990 Spanish Grand Prix	course	4217.9296896
-1991 United States Grand Prix	course	3721.0
-1991 United States Grand Prix	course	3720.803328
-1990 Australian Grand Prix	course	3780.0
-1990 Australian Grand Prix	course	3801.270528
-1991 Monaco Grand Prix	course	3328.0
-1991 Monaco Grand Prix	course	3328.123392
-1991 Canadian Grand Prix	course	4430.0
-1991 Canadian Grand Prix	course	4446.617472
-1991 Brazilian Grand Prix	course	4325.0
-1991 Brazilian Grand Prix	course	4324.307328
-1991 Mexican Grand Prix	course	4421.0
-1991 Mexican Grand Prix	course	4420.867968
-1991 San Marino Grand Prix	course	5040.0
-1991 San Marino Grand Prix	course	5040.465408
-1991 British Grand Prix	course	4778.0
-1991 British Grand Prix	course	4778.142336
-1991 Hungarian Grand Prix	course	3968.0
-1991 Hungarian Grand Prix	course	3967.03296
-1991 Belgian Grand Prix	course	6940.0
-1991 Belgian Grand Prix	course	6939.491328
-1991 German Grand Prix	course	6802.0
-1991 German Grand Prix	course	6801.087744
-1991 Portuguese Grand Prix	course	4350.0
-1991 Portuguese Grand Prix	course	4350.056832
-1991 Italian Grand Prix	course	5800.0
-1991 Italian Grand Prix	course	5798.466432
-1991 Spanish Grand Prix	course	4747.0
-1991 Spanish Grand Prix	course	4747.5648
-1991 Japanese Grand Prix	course	5864.0
-1991 Japanese Grand Prix	course	5864.449536
-1991 Australian Grand Prix	course	3780.0
-1991 Australian Grand Prix	course	3801.270528
-1992 South African Grand Prix	course	4261.0
-1992 South African Grand Prix	course	4261.542912
-1992 Mexican Grand Prix	course	4421.0
-1992 Mexican Grand Prix	course	4438.570752
-1992 Brazilian Grand Prix	course	4325.0
-1992 Brazilian Grand Prix	course	4324.307328
-1992 Spanish Grand Prix	course	4627.0
-1992 Spanish Grand Prix	course	4626.864
-1992 San Marino Grand Prix	course	5040.0
-1992 San Marino Grand Prix	course	5059.777536
-1992 Canadian Grand Prix	course	4430.0
-1992 Canadian Grand Prix	course	4446.617472
-1992 French Grand Prix	course	4250.0
-1992 French Grand Prix	course	4266.370944
-1992 Monaco Grand Prix	course	3328.0
-1992 Monaco Grand Prix	course	3328.123392
-1992 British Grand Prix	course	5226.0
-1992 British Grand Prix	course	5246.46144
-1992 Belgian Grand Prix	course	6940.0
-1992 Belgian Grand Prix	course	6939.491328
-1992 German Grand Prix	course	6815.0
-1992 German Grand Prix	course	6841.321344
-1992 Italian Grand Prix	course	5800.0
-1992 Italian Grand Prix	course	5798.466432
-1992 Hungarian Grand Prix	course	3978.0
-1992 Hungarian Grand Prix	course	3994.391808
-1992 Portuguese Grand Prix	course	4349.0
-1992 Portuguese Grand Prix	course	4350.056832
-1992 Japanese Grand Prix	course	5864.0
-1992 Japanese Grand Prix	course	5864.449536
-1992 Australian Grand Prix	course	3780.0
-1992 Australian Grand Prix	course	3801.270528
-1993 South African Grand Prix	course	4261.0
-1993 South African Grand Prix	course	4277.636352
-1993 Brazilian Grand Prix	course	4309.0
-1993 Brazilian Grand Prix	course	4306.604544
-1993 European Grand Prix	course	4023.0
-1993 European Grand Prix	course	4023.36
-1993 Monaco Grand Prix	course	3328.0
-1993 Monaco Grand Prix	course	3328.123392
-1993 Spanish Grand Prix	course	4627.0
-1993 Spanish Grand Prix	course	4626.864
-1993 San Marino Grand Prix	course	5040.0
-1993 San Marino Grand Prix	course	5059.777536
-1993 Belgian Grand Prix	course	6940.0
-1993 Belgian Grand Prix	course	6939.491328
-1993 Portuguese Grand Prix	course	4349.0
-1993 Portuguese Grand Prix	course	4350.056832
-1993 Italian Grand Prix	course	5800.0
-1993 Italian Grand Prix	course	5798.466432
-1993 Japanese Grand Prix	course	5864.0
-1993 Japanese Grand Prix	course	5864.449536
-1993 Australian Grand Prix	course	3780.0
-1993 Australian Grand Prix	course	3801.270528
-1994 Brazilian Grand Prix	course	4325.0
-1994 Brazilian Grand Prix	course	4350.056832
-1994 Pacific Grand Prix	course	3703.0
-1994 Pacific Grand Prix	course	3724.022016
-1994 Monaco Grand Prix	course	3328.0
-1994 Monaco Grand Prix	course	3328.123392
-1994 Canadian Grand Prix	course	4450.0
-1994 Canadian Grand Prix	course	4475.585664
-1994 Spanish Grand Prix	course	4747.0
-1994 Spanish Grand Prix	course	4773.314304
-1994 British Grand Prix	course	5057.0
-1994 British Grand Prix	course	5085.52704
-1994 German Grand Prix	course	6823.0
-1994 German Grand Prix	course	6862.242816
-1994 Hungarian Grand Prix	course	3968.0
-1994 Hungarian Grand Prix	course	3991.17312
-1994 Belgian Grand Prix	course	7001.0
-1994 Belgian Grand Prix	course	7040.88
-1994 Italian Grand Prix	course	5800.0
-1994 Italian Grand Prix	course	5800.075776
-1994 Portuguese Grand Prix	course	4360.0
-1994 Portuguese Grand Prix	course	4385.4624
-1994 European Grand Prix	course	4428.0
-1994 European Grand Prix	course	4453.054848
-1994 Japanese Grand Prix	course	5864.0
-1994 Japanese Grand Prix	course	5898.24576
-1994 Australian Grand Prix	course	3780.0
-1994 Australian Grand Prix	course	3801.270528
-1995 Brazilian Grand Prix	course	4325.0
-1995 Brazilian Grand Prix	course	4324.307328
-1995 Argentine Grand Prix	course	4259.0
-1995 Argentine Grand Prix	course	4282.464384
-1995 San Marino Grand Prix	course	4895.0
-1995 San Marino Grand Prix	course	4922.983296
-1995 Spanish Grand Prix	course	4727.0
-1995 Spanish Grand Prix	course	4754.002176
-1995 French Grand Prix	course	4250.0
-1995 French Grand Prix	course	4250.277504
-1995 Canadian Grand Prix	course	4430.0
-1995 Canadian Grand Prix	course	4454.664192
-1995 Monaco Grand Prix	course	3328.0
-1995 Monaco Grand Prix	course	3328.123392
-1995 Hungarian Grand Prix	course	3968.0
-1995 Hungarian Grand Prix	course	3991.17312
-1995 German Grand Prix	course	6823.0
-1995 German Grand Prix	course	6862.242816
-1995 British Grand Prix	course	5057.0
-1995 British Grand Prix	course	5085.52704
-1995 Belgian Grand Prix	course	6974.0
-1995 Belgian Grand Prix	course	7013.521152
-1995 Portuguese Grand Prix	course	4360.0
-1995 Portuguese Grand Prix	course	4385.4624
-1995 Italian Grand Prix	course	5770.0
-1995 Italian Grand Prix	course	5769.49824
-1995 Pacific Grand Prix	course	3704.0
-1995 Pacific Grand Prix	course	3724.022016
-1995 European Grand Prix	course	4556.0
-1995 European Grand Prix	course	4581.802368
-1995 Japanese Grand Prix	course	5864.0
-1995 Japanese Grand Prix	course	5898.24576
-1996 Australian Grand Prix	course	5302.0
-1996 Australian Grand Prix	course	5323.709952
-1995 Australian Grand Prix	course	3780.0
-1995 Australian Grand Prix	course	3801.270528
-1996 Brazilian Grand Prix	course	4325.0
-1996 Brazilian Grand Prix	course	4324.307328
-1996 Argentine Grand Prix	course	4259.0
-1996 Argentine Grand Prix	course	4276.027008
-1996 European Grand Prix	course	4556.0
-1996 European Grand Prix	course	4573.755648
-1996 San Marino Grand Prix	course	4892.0
-1996 San Marino Grand Prix	course	4911.717888
-1996 Spanish Grand Prix	course	4627.0
-1996 Spanish Grand Prix	course	4626.864
-1996 Monaco Grand Prix	course	3328.0
-1996 Monaco Grand Prix	course	3328.123392
-1996 Japanese Grand Prix	course	5864.0
-1996 Japanese Grand Prix	course	5806.513152
-1997 Australian Grand Prix	course	5303.0
-1997 Australian Grand Prix	course	5302.78848
-1997 Argentine Grand Prix	course	4259.0
-1997 Argentine Grand Prix	course	4258.324224
-1997 Brazilian Grand Prix	course	4292.0
-1997 Brazilian Grand Prix	course	4292.120448
-1997 San Marino Grand Prix	course	4930.0
-1997 San Marino Grand Prix	course	4932.63936
-1997 Monaco Grand Prix	course	3360.0
-1997 Monaco Grand Prix	course	3347.43552
-1997 Canadian Grand Prix	course	4421.0
-1997 Canadian Grand Prix	course	4420.867968
-1997 Spanish Grand Prix	course	4728.0
-1997 Spanish Grand Prix	course	4728.252672
-1997 French Grand Prix	course	4250.0
-1997 French Grand Prix	course	4250.277504
-1997 British Grand Prix	course	5140.0
-1997 British Grand Prix	course	5140.244736
-1997 Belgian Grand Prix	course	6968.0
-1997 Belgian Grand Prix	course	6968.45952
-1997 Hungarian Grand Prix	course	3986.0
-1997 Hungarian Grand Prix	course	3983.1264
-1997 German Grand Prix	course	6823.0
-1997 German Grand Prix	course	6849.368064
-1997 Italian Grand Prix	course	5770.0
-1997 Italian Grand Prix	course	5769.49824
-1997 Luxembourg Grand Prix	course	4556.0
-1997 Luxembourg Grand Prix	course	4556.052864
-1997 Austrian Grand Prix	course	4323.0
-1997 Austrian Grand Prix	course	4340.400768
-1997 Japanese Grand Prix	course	5860.0
-1997 Japanese Grand Prix	course	5859.621504
-1998 Brazilian Grand Prix	course	4292.0
-1998 Brazilian Grand Prix	course	4292.120448
-1998 Australian Grand Prix	course	5300.0
-1998 Australian Grand Prix	course	5359.11552
-1997 European Grand Prix	course	4423.0
-1997 European Grand Prix	course	4422.477312
-1998 Argentine Grand Prix	course	4259.0
-1998 Argentine Grand Prix	course	4259.933568
-1998 San Marino Grand Prix	course	4933.0
-1998 San Marino Grand Prix	course	4932.63936
-1998 Spanish Grand Prix	course	4728.0
-1998 Spanish Grand Prix	course	4728.252672
-1998 Monaco Grand Prix	course	3367.0
-1998 Monaco Grand Prix	course	3366.747648
-1998 Canadian Grand Prix	course	4421.0
-1998 Canadian Grand Prix	course	4420.867968
-1998 French Grand Prix	course	4250.0
-1998 French Grand Prix	course	4250.277504
-1998 British Grand Prix	course	5140.0
-1998 British Grand Prix	course	5140.244736
-1998 Austrian Grand Prix	course	4326.0
-1998 Austrian Grand Prix	course	4319.479296
-1998 Hungarian Grand Prix	course	3972.0
-1998 Hungarian Grand Prix	course	3970.251648
-1998 German Grand Prix	course	6823.0
-1998 German Grand Prix	course	6823.61856
-1998 Italian Grand Prix	course	5770.0
-1998 Italian Grand Prix	course	5769.49824
-1998 Luxembourg Grand Prix	course	4556.0
-1998 Luxembourg Grand Prix	course	4556.052864
-1998 Belgian Grand Prix	course	6968.0
-1998 Belgian Grand Prix	course	6968.45952
-1998 Japanese Grand Prix	course	5864.0
-1998 Japanese Grand Prix	course	5864.449536
-1999 Australian Grand Prix	course	5303.0
-1999 Australian Grand Prix	course	5302.78848
-1999 Brazilian Grand Prix	course	4292.0
-1999 Brazilian Grand Prix	course	4292.120448
-1999 San Marino Grand Prix	course	4930.0
-1999 San Marino Grand Prix	course	4931.030016
-1999 Monaco Grand Prix	course	3367.0
-1999 Monaco Grand Prix	course	3366.747648
-1999 Canadian Grand Prix	course	4421.0
-1999 Canadian Grand Prix	course	4420.867968
-1999 Spanish Grand Prix	course	4728.0
-1999 Spanish Grand Prix	course	4728.252672
-1999 French Grand Prix	course	4250.0
-1999 French Grand Prix	course	4250.277504
-1999 British Grand Prix	course	5140.0
-1999 British Grand Prix	course	5140.244736
-1999 German Grand Prix	course	6823.0
-1999 German Grand Prix	course	6823.61856
-1999 Austrian Grand Prix	course	4319.0
-1999 Austrian Grand Prix	course	4319.479296
-1999 Belgian Grand Prix	course	6968.0
-1999 Belgian Grand Prix	course	6968.45952
-1999 Italian Grand Prix	course	5770.0
-1999 Italian Grand Prix	course	5769.49824
-1999 Hungarian Grand Prix	course	3973.0
-1999 Hungarian Grand Prix	course	3973.470336
-1999 European Grand Prix	course	4556.0
-1999 European Grand Prix	course	4556.052864
-1999 Malaysian Grand Prix	course	5542.0
-1999 Malaysian Grand Prix	course	5542.580736
-2000 Brazilian Grand Prix	course	4309.0
-2000 Brazilian Grand Prix	course	4308.213888
-2000 San Marino Grand Prix	course	4933.0
-2000 San Marino Grand Prix	course	4932.63936
-2000 British Grand Prix	course	5140.0
-2000 British Grand Prix	course	5140.244736
-1999 Japanese Grand Prix	course	5864.0
-1999 Japanese Grand Prix	course	5864.449536
-2000 Spanish Grand Prix	course	4730.0
-2000 Spanish Grand Prix	course	4729.862016
-2000 Monaco Grand Prix	course	3370.0
-2000 Monaco Grand Prix	course	3369.966336
-2000 Canadian Grand Prix	course	4421.0
-2000 Canadian Grand Prix	course	4420.867968
-2000 European Grand Prix	course	4556.0
-2000 European Grand Prix	course	4556.052864
-2000 French Grand Prix	course	4251.0
-2000 French Grand Prix	course	4250.277504
-2000 Austrian Grand Prix	course	4326.0
-2000 Austrian Grand Prix	course	4325.916672
-2000 German Grand Prix	course	6823.0
-2000 German Grand Prix	course	6823.61856
-2000 Hungarian Grand Prix	course	3975.0
-2000 Hungarian Grand Prix	course	3975.07968
-2000 Belgian Grand Prix	course	6968.0
-2000 Belgian Grand Prix	course	6968.45952
-2000 United States Grand Prix	course	4195.0
-2000 United States Grand Prix	course	4193.950464
-2000 Malaysian Grand Prix	course	5543.0
-2000 Malaysian Grand Prix	course	5536.14336
-2001 Malaysian Grand Prix	course	5543.0
-2001 Malaysian Grand Prix	course	5433.145344
-2001 Spanish Grand Prix	course	4730.0
-2001 Spanish Grand Prix	course	4729.862016
-2001 San Marino Grand Prix	course	4933.0
-2001 San Marino Grand Prix	course	4932.63936
-2001 Austrian Grand Prix	course	4326.0
-2001 Austrian Grand Prix	course	4325.916672
-2001 Brazilian Grand Prix	course	4309.0
-2001 Brazilian Grand Prix	course	4308.213888
-2001 Monaco Grand Prix	course	3370.0
-2001 Monaco Grand Prix	course	3369.966336
-2001 Canadian Grand Prix	course	4421.0
-2001 Canadian Grand Prix	course	4420.867968
-2001 European Grand Prix	course	4556.0
-2001 European Grand Prix	course	5148.291456
-2001 German Grand Prix	course	6823.0
-2001 German Grand Prix	course	6823.61856
-2001 Belgian Grand Prix	course	6968.0
-2001 Belgian Grand Prix	course	6968.45952
-2001 British Grand Prix	course	5140.0
-2001 British Grand Prix	course	5140.244736
-2001 Japanese Grand Prix	course	5859.0
-2001 Japanese Grand Prix	course	5859.621504
-2001 Italian Grand Prix	course	5793.0
-2001 Italian Grand Prix	course	5793.6384
-2001 United States Grand Prix	course	4195.0
-2001 United States Grand Prix	course	4193.950464
-2002 Brazilian Grand Prix	course	4309.0
-2002 Brazilian Grand Prix	course	4292.120448
-2002 Malaysian Grand Prix	course	5543.0
-2002 Malaysian Grand Prix	course	5542.580736
-2002 San Marino Grand Prix	course	4933.0
-2002 San Marino Grand Prix	course	4932.63936
-2002 Spanish Grand Prix	course	4730.0
-2002 Spanish Grand Prix	course	4729.862016
-2002 Canadian Grand Prix	course	4361.0
-2002 Canadian Grand Prix	course	4361.32224
-2002 Monaco Grand Prix	course	3370.0
-2002 Monaco Grand Prix	course	3369.966336
-2002 Austrian Grand Prix	course	4326.0
-2002 Austrian Grand Prix	course	4319.479296
-2002 European Grand Prix	course	5148.0
-2002 European Grand Prix	course	5149.9008
-2002 British Grand Prix	course	5141.0
-2002 British Grand Prix	course	5140.244736
-2002 German Grand Prix	course	4574.0
-2002 German Grand Prix	course	4573.755648
-2002 French Grand Prix	course	4411.0
-2002 French Grand Prix	course	4250.277504
-2002 Hungarian Grand Prix	course	3975.0
-2002 Hungarian Grand Prix	course	3975.07968
-2002 Belgian Grand Prix	course	6963.0
-2002 Belgian Grand Prix	course	6963.631488
-2002 Italian Grand Prix	course	5793.0
-2002 Italian Grand Prix	course	5793.6384
-2002 United States Grand Prix	course	4195.0
-2002 United States Grand Prix	course	4193.950464
-2002 Japanese Grand Prix	course	5807.0
-2002 Japanese Grand Prix	course	5806.513152
-2003 Brazilian Grand Prix	course	4309.0
-2003 Brazilian Grand Prix	course	4292.120448
-2003 Austrian Grand Prix	course	4326.0
-2003 Austrian Grand Prix	course	4319.479296
-2003 French Grand Prix	course	4411.0
-2003 French Grand Prix	course	4409.60256
-2003 Canadian Grand Prix	course	4361.0
-2003 Canadian Grand Prix	course	4361.32224
-2003 British Grand Prix	course	5141.0
-2003 British Grand Prix	course	5140.244736
-2003 German Grand Prix	course	4574.0
-2003 German Grand Prix	course	4573.755648
-2003 Hungarian Grand Prix	course	4381.0
-2003 Hungarian Grand Prix	course	4380.634368
-2003 Japanese Grand Prix	course	5807.0
-2003 Japanese Grand Prix	course	5806.513152
-2004 French Grand Prix	course	4411.0
-2004 French Grand Prix	course	4409.60256
-2004 Canadian Grand Prix	course	4361.0
-2004 Canadian Grand Prix	course	4361.32224
-2004 United States Grand Prix	course	4195.0
-2004 United States Grand Prix	course	4193.950464
-2004 British Grand Prix	course	5141.0
-2004 British Grand Prix	course	5140.244736
-2004 German Grand Prix	course	4574.0
-2004 German Grand Prix	course	4573.755648
-2004 Belgian Grand Prix	course	6976.0
-2004 Belgian Grand Prix	course	6976.50624
-2004 Italian Grand Prix	course	5793.0
-2004 Italian Grand Prix	course	5793.6384
-1976 United States Grand Prix West	course	3251.0
-1976 United States Grand Prix West	course	3250.87488
-1978 United States Grand Prix West	course	3251.0
-1978 United States Grand Prix West	course	3250.87488
-1977 United States Grand Prix West	course	3251.0
-1977 United States Grand Prix West	course	3250.87488
-1979 United States Grand Prix West	course	3251.0
-1979 United States Grand Prix West	course	3250.87488
-1980 United States Grand Prix West	course	3251.0
-1980 United States Grand Prix West	course	3250.87488
-1981 United States Grand Prix West	course	3251.0
-1981 United States Grand Prix West	course	3250.87488
-1982 Detroit Grand Prix	course	4168.0
-1982 Detroit Grand Prix	course	4168.20096
-1982 United States Grand Prix West	course	3428.0
-1982 United States Grand Prix West	course	3427.90272
-1983 Detroit Grand Prix	course	4120.0
-1983 Detroit Grand Prix	course	4119.92064
-1983 United States Grand Prix West	course	3283.0
-1983 United States Grand Prix West	course	3283.06176
-1984 Detroit Grand Prix	course	4120.0
-1984 Detroit Grand Prix	course	4119.92064
-1978 United States Grand Prix	course	5435.0
-1978 United States Grand Prix	course	5434.754688
-1977 United States Grand Prix	course	5435.0
-1977 United States Grand Prix	course	5434.754688
-1979 United States Grand Prix	course	5435.0
-1979 United States Grand Prix	course	5434.754688
-1980 United States Grand Prix	course	5435.0
-1980 United States Grand Prix	course	5434.754688
-1958 Moroccan Grand Prix	course	7618.0
-1958 Moroccan Grand Prix	course	7618.634496
-1926 German Grand Prix	course	19565.0
-1926 German Grand Prix	course	19564.795008
-2005 Australian Grand Prix	course	5300.0
-2005 Australian Grand Prix	course	5310.8352
-2005 Malaysian Grand Prix	course	5540.0
-2005 Malaysian Grand Prix	course	5536.14336
-2005 Bahrain Grand Prix	course	5420.0
-2005 Bahrain Grand Prix	course	5423.48928
-2005 San Marino Grand Prix	course	4933.0
-2005 San Marino Grand Prix	course	4932.63936
-2005 Spanish Grand Prix	course	4627.0
-2005 Spanish Grand Prix	course	4626.864
-2005 Monaco Grand Prix	course	3340.0
-2005 Monaco Grand Prix	course	3339.3888
-2005 European Grand Prix	course	5148.0
-2005 European Grand Prix	course	5149.9008
-2005 Canadian Grand Prix	course	4361.0
-2005 Canadian Grand Prix	course	4361.32224
-2005 United States Grand Prix	course	4192.0
-2005 United States Grand Prix	course	4192.34112
-2005 French Grand Prix	course	4411.0
-2005 French Grand Prix	course	4409.60256
-2005 British Grand Prix	course	5141.0
-2005 British Grand Prix	course	5140.244736
-2005 German Grand Prix	course	4574.0
-2005 German Grand Prix	course	4573.755648
-1936 Hungarian Grand Prix	course	5000.0
-1936 Hungarian Grand Prix	course	4988.9664
-2005 Hungarian Grand Prix	course	4381.0
-2005 Hungarian Grand Prix	course	4380.634368
-2005 Turkish Grand Prix	course	5340.0
-2005 Turkish Grand Prix	course	5343.02208
-2005 Italian Grand Prix	course	5793.0
-2005 Italian Grand Prix	course	5793.6384
-2005 Belgian Grand Prix	course	6976.0
-2005 Belgian Grand Prix	course	6974.896896
-2005 Brazilian Grand Prix	course	4309.0
-2005 Brazilian Grand Prix	course	4308.213888
-1937 Donington Grand Prix	course	5029.0
-1937 Donington Grand Prix	course	5029.2
-1937 Masaryk Grand Prix	course	29140.0
-1937 Masaryk Grand Prix	course	29140.391808
-1937 Italian Grand Prix	course	7218.0
-1937 Italian Grand Prix	course	7217.90784
-1937 Swiss Grand Prix	course	7280.0
-1937 Swiss Grand Prix	course	7274.23488
-2005 Japanese Grand Prix	course	5807.0
-2005 Japanese Grand Prix	course	5806.513152
-1935 German Grand Prix	course	22810.0
-1935 German Grand Prix	course	22804.40448
-2005 Chinese Grand Prix	course	5451.0
-2005 Chinese Grand Prix	course	5450.848128
-1994 San Marino Grand Prix	course	4933.0
-1994 San Marino Grand Prix	course	4932.63936
-2006 Bahrain Grand Prix	course	5412.0
-2006 Bahrain Grand Prix	course	5423.48928
-2006 Malaysian Grand Prix	course	5540.0
-2006 Malaysian Grand Prix	course	5536.14336
-2006 Australian Grand Prix	course	5300.0
-2006 Australian Grand Prix	course	5359.11552
-2006 San Marino Grand Prix	course	4933.0
-2006 San Marino Grand Prix	course	4932.63936
-2006 European Grand Prix	course	5148.0
-2006 European Grand Prix	course	5149.9008
-2006 Spanish Grand Prix	course	4627.0
-2006 Spanish Grand Prix	course	4626.864
-2006 Monaco Grand Prix	course	3340.0
-2006 Monaco Grand Prix	course	3347.43552
-2006 British Grand Prix	course	5141.0
-2006 British Grand Prix	course	5140.244736
-1957 Moroccan Grand Prix	course	7651.0
-1957 Moroccan Grand Prix	course	7650.821376
-2006 Canadian Grand Prix	course	4361.0
-2006 Canadian Grand Prix	course	4361.32224
-2006 United States Grand Prix	course	4195.0
-2006 United States Grand Prix	course	4193.950464
-2006 French Grand Prix	course	4411.0
-2006 French Grand Prix	course	4409.60256
-1906 French Grand Prix	course	103180.0
-1906 French Grand Prix	course	103175.04384
-2006 German Grand Prix	course	4574.0
-2006 German Grand Prix	course	4573.755648
-2006 Hungarian Grand Prix	course	4381.0
-2006 Hungarian Grand Prix	course	4380.634368
-2006 Turkish Grand Prix	course	5340.0
-2006 Turkish Grand Prix	course	5343.02208
-2006 Italian Grand Prix	course	5793.0
-2006 Italian Grand Prix	course	5793.6384
-2006 Chinese Grand Prix	course	5451.0
-2006 Chinese Grand Prix	course	5450.848128
-2006 Japanese Grand Prix	course	5807.0
-2006 Japanese Grand Prix	course	5806.513152
-2006 Brazilian Grand Prix	course	4309.0
-2006 Brazilian Grand Prix	course	4308.213888
-1929 Monaco Grand Prix	course	3180.0
-1929 Monaco Grand Prix	course	3180.063744
-1939 Belgian Grand Prix	course	14500.0
-1939 Belgian Grand Prix	course	14500.18944
-1978 BRDC International Trophy	course	4724.0
-1978 BRDC International Trophy	course	4723.42464
-1949 BRDC International Trophy	course	4649.0
-1949 BRDC International Trophy	course	4649.394816
-1962 Mexican Grand Prix	course	5004.0
-1962 Mexican Grand Prix	course	5003.450496
-1971 BRDC International Trophy	course	4714.0
-1971 BRDC International Trophy	course	4704.112512
-1980 Spanish Grand Prix	course	3404.0
-1980 Spanish Grand Prix	course	3403.76256
-1933 Monaco Grand Prix	course	3180.0
-1933 Monaco Grand Prix	course	3180.063744
-2007 Australian Grand Prix	course	5303.0
-2007 Australian Grand Prix	course	5302.78848
-1950 BRDC International Trophy	course	4649.0
-1950 BRDC International Trophy	course	4647.785472
-2007 Malaysian Grand Prix	course	5433.0
-2007 Malaysian Grand Prix	course	5433.145344
-2007 Bahrain Grand Prix	course	5412.0
-2007 Bahrain Grand Prix	course	5423.48928
-1966 BRDC International Trophy	course	4711.0
-1966 BRDC International Trophy	course	4710.549888
-1935 Belgian Grand Prix	course	14950.0
-1935 Belgian Grand Prix	course	14950.80576
-1935 Swiss Grand Prix	course	7280.0
-1935 Swiss Grand Prix	course	7274.23488
-1935 Italian Grand Prix	course	6890.0
-1935 Italian Grand Prix	course	6887.99232
-1935 Spanish Grand Prix	course	17320.0
-1935 Spanish Grand Prix	course	17316.54144
-1936 Monaco Grand Prix	course	3180.0
-1936 Monaco Grand Prix	course	3180.063744
-1936 German Grand Prix	course	22810.0
-1936 German Grand Prix	course	22809.232512
-1936 Swiss Grand Prix	course	7280.0
-1936 Swiss Grand Prix	course	7274.23488
-1936 Italian Grand Prix	course	6890.0
-1936 Italian Grand Prix	course	6887.99232
-1937 Belgian Grand Prix	course	14864.0
-1937 Belgian Grand Prix	course	14863.901184
-1937 German Grand Prix	course	22810.0
-1937 German Grand Prix	course	22809.232512
-1937 Monaco Grand Prix	course	3180.0
-1937 Monaco Grand Prix	course	3180.063744
-1938 French Grand Prix	course	7816.0
-1938 French Grand Prix	course	7816.583808
-1938 German Grand Prix	course	22810.0
-1938 German Grand Prix	course	22809.232512
-1938 Swiss Grand Prix	course	7280.0
-1938 Swiss Grand Prix	course	7274.23488
-1931 Italian Grand Prix	course	10000.0
-1931 Italian Grand Prix	course	9994.02624
-1931 French Grand Prix	course	12505.0
-1931 French Grand Prix	course	12504.60288
-1931 Belgian Grand Prix	course	14864.0
-1931 Belgian Grand Prix	course	14863.901184
-1932 Italian Grand Prix	course	10000.0
-1932 Italian Grand Prix	course	9994.02624
-1932 French Grand Prix	course	7826.0
-1932 French Grand Prix	course	7826.239872
-2007 Spanish Grand Prix	course	4655.0
-2007 Spanish Grand Prix	course	4654.222848
-2007 Monaco Grand Prix	course	3340.0
-2007 Monaco Grand Prix	course	3347.43552
-2007 Japanese Grand Prix	course	4563.0
-2007 Japanese Grand Prix	course	4562.49024
-2007 Belgian Grand Prix	course	7004.0
-2007 Belgian Grand Prix	course	7003.865088
-2007 Italian Grand Prix	course	5793.0
-2007 Italian Grand Prix	course	5793.6384
-2007 Canadian Grand Prix	course	4361.0
-2007 Canadian Grand Prix	course	4361.32224
-2007 United States Grand Prix	course	4192.0
-2007 United States Grand Prix	course	4192.34112
-2007 French Grand Prix	course	4411.0
-2007 French Grand Prix	course	4409.60256
-2007 British Grand Prix	course	5141.0
-2007 British Grand Prix	course	5140.244736
-2007 European Grand Prix	course	5148.0
-2007 European Grand Prix	course	5148.291456
-2007 Hungarian Grand Prix	course	4380.0
-2007 Hungarian Grand Prix	course	4377.41568
-1932 German Grand Prix	course	22811.0
-1932 German Grand Prix	course	22810.841856
-1938 Italian Grand Prix	course	6993.0
-1938 Italian Grand Prix	course	6992.59968
-2007 Chinese Grand Prix	course	5451.0
-2007 Chinese Grand Prix	course	5450.848128
-2007 Turkish Grand Prix	course	5340.0
-2007 Turkish Grand Prix	course	5343.02208
-2007 Brazilian Grand Prix	course	4309.0
-2007 Brazilian Grand Prix	course	4308.213888
-1939 French Grand Prix	course	7816.0
-1939 French Grand Prix	course	7816.583808
-1939 German Grand Prix	course	22810.0
-1939 German Grand Prix	course	22809.232512
-1939 Swiss Grand Prix	course	7280.0
-1939 Swiss Grand Prix	course	7274.23488
-1931 German Grand Prix	course	22810.0
-1931 German Grand Prix	course	22809.232512
-1946 René le Bègue Cup	course	6002.0
-1946 René le Bègue Cup	course	6001.243776
-1946 Nations Grand Prix	course	2986.0
-1946 Nations Grand Prix	course	2985.33312
-1946 Turin Grand Prix	course	4489.0
-1946 Turin Grand Prix	course	4488.460416
-1947 Swiss Grand Prix	course	7262.0
-1947 Swiss Grand Prix	course	7261.360128
-1975 Race of Champions	course	4206.0
-1975 Race of Champions	course	4206.1814784
-1952 Monaco Grand Prix	course	3145.0
-1952 Monaco Grand Prix	course	3144.658176
-1947 Belgian Grand Prix	course	14066.0
-1947 Belgian Grand Prix	course	14065.66656
-1947 Italian Grand Prix	course	3447.0
-1947 Italian Grand Prix	course	3447.214848
-2008 German Grand Prix	course	4574.0
-2008 German Grand Prix	course	4573.755648
-2008 Australian Grand Prix	course	5303.0
-2008 Australian Grand Prix	course	5302.78848
-2008 British Grand Prix	course	5141.0
-2008 British Grand Prix	course	5140.244736
-1925 Belgian Grand Prix	course	14980.0
-1925 Belgian Grand Prix	course	14982.99264
-1983 Race of Champions	course	4206.0
-1983 Race of Champions	course	4206.1814784
-1984 Australian Grand Prix	course	1610.0
-1984 Australian Grand Prix	course	1609.344
-1983 Australian Grand Prix	course	1610.0
-1983 Australian Grand Prix	course	1609.344
-1982 Australian Grand Prix	course	1610.0
-1982 Australian Grand Prix	course	1609.344
-1981 Australian Grand Prix	course	1610.0
-1981 Australian Grand Prix	course	1609.344
-1980 Australian Grand Prix	course	1610.0
-1980 Australian Grand Prix	course	1609.344
-2008 Malaysian Grand Prix	course	5543.0
-2008 Malaysian Grand Prix	course	5433.145344
-1962 Danish Grand Prix	course	1190.0
-1962 Danish Grand Prix	course	1190.91456
-1907 French Grand Prix	course	76989.0
-1907 French Grand Prix	course	76991.01696
-1908 French Grand Prix	course	76989.0
-1908 French Grand Prix	course	76991.01696
-1912 French Grand Prix	course	76989.0
-1912 French Grand Prix	course	76991.01696
-2008 Singapore Grand Prix	course	5067.0
-2008 Singapore Grand Prix	course	5066.214912
-1913 French Grand Prix	course	31620.0
-1913 French Grand Prix	course	31623.6096
-1948 British Grand Prix	course	5907.0
-1948 British Grand Prix	course	5906.29248
-2008 Bahrain Grand Prix	course	5412.0
-2008 Bahrain Grand Prix	course	5423.48928
-2008 Spanish Grand Prix	course	4655.0
-2008 Spanish Grand Prix	course	4654.222848
-2008 Turkish Grand Prix	course	5340.0
-2008 Turkish Grand Prix	course	5343.02208
-2008 Canadian Grand Prix	course	4361.0
-2008 Canadian Grand Prix	course	4361.32224
-2008 Monaco Grand Prix	course	3340.0
-2008 Monaco Grand Prix	course	3347.43552
-2008 French Grand Prix	course	4411.0
-2008 French Grand Prix	course	4411.211904
-2008 Hungarian Grand Prix	course	4381.0
-2008 Hungarian Grand Prix	course	4380.634368
-2008 European Grand Prix	course	5419.0
-2008 European Grand Prix	course	5418.661248
-2008 Belgian Grand Prix	course	7004.0
-2008 Belgian Grand Prix	course	7003.865088
-2008 Italian Grand Prix	course	5793.0
-2008 Italian Grand Prix	course	5793.6384
-2008 Chinese Grand Prix	course	5451.0
-2008 Chinese Grand Prix	course	5450.848128
-2008 Japanese Grand Prix	course	4563.0
-2008 Japanese Grand Prix	course	4562.49024
-2008 Brazilian Grand Prix	course	4309.0
-2008 Brazilian Grand Prix	course	4308.213888
-1994 French Grand Prix	course	4250.0
-1994 French Grand Prix	course	4250.277504
-1933 Penya Rhin Grand Prix	course	3790.0
-1933 Penya Rhin Grand Prix	course	3790.00512
-1965 BRDC International Trophy	course	4711.0
-1965 BRDC International Trophy	course	4710.549888
-1979 Australian Grand Prix	course	2420.0
-1979 Australian Grand Prix	course	2430.10944
-1964 BRDC International Trophy	course	4711.0
-1964 BRDC International Trophy	course	4710.549888
-1963 BRDC International Trophy	course	4711.0
-1963 BRDC International Trophy	course	4710.549888
-1962 BRDC International Trophy	course	4711.0
-1962 BRDC International Trophy	course	4710.549888
-1976 BRDC International Trophy	course	4724.0
-1976 BRDC International Trophy	course	4723.42464
-1975 BRDC International Trophy	course	4724.0
-1975 BRDC International Trophy	course	4723.42464
-1974 BRDC International Trophy	course	4710.5
-1974 BRDC International Trophy	course	4768.3253376
-1971 Argentine Grand Prix	course	3410.0
-1971 Argentine Grand Prix	course	3411.80928
-1965 Mediterranean Grand Prix	course	4803.0
-1965 Mediterranean Grand Prix	course	4803.89184
-1964 Mediterranean Grand Prix	course	4803.0
-1964 Mediterranean Grand Prix	course	4803.89184
-1979 Race of Champions	course	4206.0
-1979 Race of Champions	course	4206.1814784
-1963 Mediterranean Grand Prix	course	4803.0
-1963 Mediterranean Grand Prix	course	4803.89184
-1962 Mediterranean Grand Prix	course	4803.0
-1962 Mediterranean Grand Prix	course	4803.89184
-1961 Danish Grand Prix	course	1190.0
-1961 Danish Grand Prix	course	1190.91456
-1962 Pau Grand Prix	course	2758.0
-1962 Pau Grand Prix	course	2758.415616
-1961 Pau Grand Prix	course	2758.0
-1961 Pau Grand Prix	course	2758.415616
-1963 Pau Grand Prix	course	2758.0
-1963 Pau Grand Prix	course	2758.415616
-1965 Race of Champions	course	4265.0
-1965 Race of Champions	course	4264.7616
-1961 Glover Trophy	course	3862.0
-1961 Glover Trophy	course	3862.4256
-1962 Glover Trophy	course	3862.0
-1962 Glover Trophy	course	3862.4256
-1963 Glover Trophy	course	3862.0
-1963 Glover Trophy	course	3862.4256
-1964 News of the World Trophy	course	3862.0
-1964 News of the World Trophy	course	3862.4256
-1965 Sunday Mirror Trophy	course	3862.0
-1965 Sunday Mirror Trophy	course	3862.4256
-1961 Solitude Grand Prix	course	11408.6
-1961 Solitude Grand Prix	course	11408.639616
-1949 Buenos Aires Grand Prix	course	4870.0
-1949 Buenos Aires Grand Prix	course	4876.31232
-1962 Solitude Grand Prix	course	11408.6
-1962 Solitude Grand Prix	course	11408.639616
-1964 Solitude Grand Prix	course	11408.6
-1964 Solitude Grand Prix	course	11408.639616
-1939 Belgrade City Race	course	2790.0
-1939 Belgrade City Race	course	2790.602496
-1963 Solitude Grand Prix	course	11408.6
-1963 Solitude Grand Prix	course	11408.639616
-1963 Austrian Grand Prix	course	3186.5
-1963 Austrian Grand Prix	course	3186.50112
-1961 International Gold Cup	course	4443.4
-1961 International Gold Cup	course	4443.398784
-1962 International Gold Cup	course	4443.4
-1962 International Gold Cup	course	4443.398784
-1963 International Gold Cup	course	4443.4
-1963 International Gold Cup	course	4443.398784
-1961 Kanonloppet	course	2998.0
-1961 Kanonloppet	course	2998.207872
-1962 Kanonloppet	course	2998.0
-1962 Kanonloppet	course	2998.207872
-1963 Kanonloppet	course	2998.0
-1963 Kanonloppet	course	2998.207872
-1954 I Cornwall MRC Formula 1 Race	course	2973.0
-1954 I Cornwall MRC Formula 1 Race	course	2973.26304
-1993 Indonesian Grand Prix	course	4120.0
-1993 Indonesian Grand Prix	course	4119.92064
-1954 II Cornwall MRC Formula 1 Race	course	2973.0
-1954 II Cornwall MRC Formula 1 Race	course	2973.26304
-1955 Cornwall MRC Formula 1 Race	course	2973.0
-1955 Cornwall MRC Formula 1 Race	course	2973.26304
-1961 Syracuse Grand Prix	course	5612.0
-1961 Syracuse Grand Prix	course	5611.782528
-1963 Syracuse Grand Prix	course	5612.0
-1963 Syracuse Grand Prix	course	5611.782528
-1964 Syracuse Grand Prix	course	5612.0
-1964 Syracuse Grand Prix	course	5611.782528
-1965 Syracuse Grand Prix	course	5612.0
-1965 Syracuse Grand Prix	course	5611.782528
-1965 Rand Grand Prix	course	4087.0
-1965 Rand Grand Prix	course	4086.929088
-1964 Rand Grand Prix	course	4096.0
-1964 Rand Grand Prix	course	4095.78048
-1963 Rand Grand Prix	course	4096.0
-1963 Rand Grand Prix	course	4095.78048
-1962 Rand Grand Prix	course	4096.0
-1962 Rand Grand Prix	course	4095.78048
-1961 Rand Grand Prix	course	4096.0
-1961 Rand Grand Prix	course	4095.78048
-1961 Lewis-Evans Trophy	course	4265.0
-1961 Lewis-Evans Trophy	course	4264.7616
-1961 Silver City Trophy	course	4265.0
-1961 Silver City Trophy	course	4264.7616
-1961 London Trophy	course	2227.0
-1961 London Trophy	course	2227.332096
-1961 Coppa Italia	course	1770.0
-1961 Coppa Italia	course	1770.2784
-1961 Vienna Grand Prix	course	2926.0
-1961 Vienna Grand Prix	course	2925.787392
-1960 Glover Trophy	course	3862.0
-1960 Glover Trophy	course	3862.4256
-1966 Syracuse Grand Prix	course	5615.0
-1966 Syracuse Grand Prix	course	5615.001216
-1967 Syracuse Grand Prix	course	5598.0
-1967 Syracuse Grand Prix	course	5597.298432
-1914 French Grand Prix	course	37629.0
-1914 French Grand Prix	course	37626.46272
-1971 World Championship Victory Race	course	4265.0
-1971 World Championship Victory Race	course	4264.7616
-1908 American Grand Prize	course	40434.0
-1908 American Grand Prize	course	40442.81472
-2009 Abu Dhabi Grand Prix	course	5554.0
-2009 Abu Dhabi Grand Prix	course	5553.846144
-1961 Aintree 200	course	4828.0
-1961 Aintree 200	course	4828.032
-1962 Aintree 200	course	4828.0
-1962 Aintree 200	course	4828.032
-1978 Australian Grand Prix	course	3100.0
-1978 Australian Grand Prix	course	3089.94048
-1972 Australian Grand Prix	course	3100.0
-1972 Australian Grand Prix	course	3089.94048
-1967 Australian Grand Prix	course	3621.0
-1967 Australian Grand Prix	course	3621.024
-1964 Australian Grand Prix	course	3100.0
-1964 Australian Grand Prix	course	3089.94048
-1965 Australian Grand Prix	course	7000.0
-1965 Australian Grand Prix	course	7081.1136
-1966 Australian Grand Prix	course	2400.0
-1966 Australian Grand Prix	course	2414.016
-1968 Australian Grand Prix	course	3100.0
-1968 Australian Grand Prix	course	3089.94048
-1969 Australian Grand Prix	course	2400.0
-1969 Australian Grand Prix	course	2414.016
-1928 Australian Grand Prix	course	10600.0
-1928 Australian Grand Prix	course	10460.736
-1973 Australian Grand Prix	course	3100.0
-1973 Australian Grand Prix	course	3089.94048
-1974 Australian Grand Prix	course	2700.0
-1974 Australian Grand Prix	course	2719.79136
-1973 Singapore Grand Prix	course	4865.0
-1973 Singapore Grand Prix	course	4865.046912
-1970 Australian Grand Prix	course	3621.0
-1970 Australian Grand Prix	course	3621.024
-1971 Australian Grand Prix	course	3621.0
-1971 Australian Grand Prix	course	3621.024
-1975 Australian Grand Prix	course	3200.0
-1975 Australian Grand Prix	course	3057.7536
-2009 Australian Grand Prix	course	5303.0
-2009 Australian Grand Prix	course	5302.78848
-1976 Australian Grand Prix	course	3100.0
-1976 Australian Grand Prix	course	3089.94048
-1977 Australian Grand Prix	course	2700.0
-1977 Australian Grand Prix	course	2719.79136
-1921 French Grand Prix	course	17260.0
-1921 French Grand Prix	course	17252.16768
-1921 Italian Grand Prix	course	17300.0
-1921 Italian Grand Prix	course	17300.448
-1922 French Grand Prix	course	13380.0
-1922 French Grand Prix	course	13373.64864
-1963 Australian Grand Prix	course	3621.0
-1963 Australian Grand Prix	course	3621.024
-1950 Pau Grand Prix	course	2769.0
-1950 Pau Grand Prix	course	2768.07168
-1950 Richmond Trophy	course	3788.0
-1950 Richmond Trophy	course	3788.395776
-1949 Roussillon Grand Prix	course	2538.0
-1949 Roussillon Grand Prix	course	2537.935488
-2009 Japanese Grand Prix	course	5807.0
-2009 Japanese Grand Prix	course	5806.513152
-1947 Roussillon Grand Prix	course	2538.0
-1947 Roussillon Grand Prix	course	2537.935488
-1946 Roussillon Grand Prix	course	2217.0
-1946 Roussillon Grand Prix	course	2217.676032
-1948 Roussillon Grand Prix	course	2538.0
-1948 Roussillon Grand Prix	course	2537.935488
-1979 Dino Ferrari Grand Prix	course	202440.0
-2009 British Grand Prix	course	5141.0
-2009 British Grand Prix	course	5140.244736
-1963 Aintree 200	course	4828.0
-1963 Aintree 200	course	4828.032
-1964 Aintree 200	course	4828.0
-1964 Aintree 200	course	4828.032
-1966 South African Grand Prix	course	3910.0
-1966 South African Grand Prix	course	3920.361984
-1950 San Remo Grand Prix	course	3331.0
-1950 San Remo Grand Prix	course	3331.34208
-1963 Rome Grand Prix	course	6399.0
-1963 Rome Grand Prix	course	6398.751744
-1963 Imola Grand Prix	course	5017.0
-1963 Imola Grand Prix	course	5016.325248
-1962 Lavant Cup	course	3862.0
-1962 Lavant Cup	course	3862.4256
-2009 Monaco Grand Prix	course	3340.0
-2009 Monaco Grand Prix	course	3347.43552
-1962 Crystal Palace Trophy	course	2200.0
-1962 Crystal Palace Trophy	course	2236.98816
-1962 International 2000 Guineas	course	2173.0
-1962 International 2000 Guineas	course	2172.6144
-1950 Paris Grand Prix	course	9931.0
-1950 Paris Grand Prix	course	9931.261824
-1950 British Empire Trophy	course	9855.0
-1950 British Empire Trophy	course	9855.622656
-1950 Bari Grand Prix	course	8433.0
-1950 Bari Grand Prix	course	8432.96256
-1962 Reims Grand Prix	course	8300.0
-1962 Reims Grand Prix	course	8300.996352
-1950 Jersey Road Race	course	5150.0
-1961 Lombank Trophy	course	4361.0
-1961 Lombank Trophy	course	4361.32224
-1962 Lombank Trophy	course	4361.0
-1962 Lombank Trophy	course	4361.32224
-1922 Italian Grand Prix	course	10000.0
-1922 Italian Grand Prix	course	9994.02624
-1963 Lombank Trophy	course	4361.0
-1963 Lombank Trophy	course	4361.32224
-1923 French Grand Prix	course	22830.0
-1923 French Grand Prix	course	22836.59136
-1964 Daily Mirror Trophy	course	4361.0
-1964 Daily Mirror Trophy	course	4361.32224
-1966 International Gold Cup	course	4443.4
-1966 International Gold Cup	course	4443.398784
-1967 Race of Champions	course	4265.0
-1967 Race of Champions	course	4264.7616
-1962 Cape Grand Prix	course	3312.0
-1962 Cape Grand Prix	course	3312.029952
-1961 Natal Grand Prix	course	3620.0
-1961 Natal Grand Prix	course	3620.3802624
-1962 Natal Grand Prix	course	3653.21088
-1961 Modena Grand Prix	course	2366.0
-1961 Modena Grand Prix	course	2366.0575488
-1961 Flugplatzrennen	course	3200.0
-1961 Flugplatzrennen	course	3199.375872
-1949 Italian Grand Prix	course	6280.0
-1949 Italian Grand Prix	course	6279.660288
-1923 Italian Grand Prix	course	10000.0
-1923 Italian Grand Prix	course	9994.02624
-2009 Malaysian Grand Prix	course	5543.0
-2009 Malaysian Grand Prix	course	5433.145344
-2009 Chinese Grand Prix	course	5451.0
-2009 Chinese Grand Prix	course	5450.848128
-2009 Bahrain Grand Prix	course	5412.0
-2009 Bahrain Grand Prix	course	5423.48928
-2009 Brazilian Grand Prix	course	4309.0
-2009 Brazilian Grand Prix	course	4308.213888
-1949 British Grand Prix	course	4649.0
-1949 British Grand Prix	course	4648.9120128
-1949 Belgian Grand Prix	course	14066.0
-1949 Belgian Grand Prix	course	14065.66656
-1949 Swiss Grand Prix	course	7280000.0
-1949 Swiss Grand Prix	course	7279.062912
-1924 French Grand Prix	course	23150.0
-1924 French Grand Prix	course	23142.36672
-1924 Italian Grand Prix	course	10000.0
-1924 Italian Grand Prix	course	9994.02624
-2009 Spanish Grand Prix	course	4655.0
-2009 Spanish Grand Prix	course	4654.222848
-1925 Italian Grand Prix	course	10000.0
-1925 Italian Grand Prix	course	9994.02624
-1926 Italian Grand Prix	course	10000.0
-1926 Italian Grand Prix	course	9994.02624
-1927 Italian Grand Prix	course	10000.0
-1927 Italian Grand Prix	course	9994.02624
-2009 Turkish Grand Prix	course	5340.0
-2009 Turkish Grand Prix	course	5343.02208
-2009 German Grand Prix	course	5148.0
-2009 German Grand Prix	course	5148.291456
-2009 Hungarian Grand Prix	course	4380.0
-2009 Hungarian Grand Prix	course	4377.41568
-2009 Singapore Grand Prix	course	5073.0
-2009 Singapore Grand Prix	course	5072.652288
-2009 European Grand Prix	course	5419.0
-2009 European Grand Prix	course	5418.661248
-2009 Belgian Grand Prix	course	7004.0
-2009 Belgian Grand Prix	course	7003.865088
-2009 Italian Grand Prix	course	5793.0
-2009 Italian Grand Prix	course	5793.6384
-1925 French Grand Prix	course	12500.0
-1925 French Grand Prix	course	12504.60288
-1962 Australian Grand Prix	course	3621.0
-1962 Australian Grand Prix	course	3621.024
-1961 Australian Grand Prix	course	3380.0
-1961 Australian Grand Prix	course	3379.6224
-1960 Australian Grand Prix	course	4540.0
-1960 Australian Grand Prix	course	4538.35008
-1967 International Gold Cup	course	4443.4
-1967 International Gold Cup	course	4443.398784
-1968 International Gold Cup	course	4443.4
-1968 International Gold Cup	course	4443.398784
-1959 Australian Grand Prix	course	7000.0
-1959 Australian Grand Prix	course	7081.1136
-1958 Australian Grand Prix	course	6120.0
-1958 Australian Grand Prix	course	6179.88096
-1964 New Zealand Grand Prix	course	2820.0
-1964 New Zealand Grand Prix	course	2832.44544
-1965 New Zealand Grand Prix	course	2820.0
-1965 New Zealand Grand Prix	course	2832.44544
-1966 New Zealand Grand Prix	course	2820.0
-1966 New Zealand Grand Prix	course	2832.44544
-1926 French Grand Prix	course	5000.0
-1926 French Grand Prix	course	5005.05984
-1969 Madrid Grand Prix	course	3404.0
-1969 Madrid Grand Prix	course	3403.76256
-1971 Jochen Rindt Gedächtnisrennen	course	6743.0
-1971 Jochen Rindt Gedächtnisrennen	course	6743.15136
-1926 San Sebastián Grand Prix	course	17750.0
-1926 San Sebastián Grand Prix	course	17751.06432
-1926 British Grand Prix	course	4210.0
-1926 British Grand Prix	course	4200.38784
-1967 New Zealand Grand Prix	course	2820.0
-1967 New Zealand Grand Prix	course	2832.44544
-1957 Australian Grand Prix	course	3621.0
-1957 Australian Grand Prix	course	3621.024
-1968 Deutschland Trophäe	course	6786.0
-1968 Deutschland Trophäe	course	6786.603648
-1934 German Grand Prix	course	22810.0
-1934 German Grand Prix	course	22804.40448
-2010 British Grand Prix	course	5901.0
-2010 British Grand Prix	course	5901.464448
-1927 British Grand Prix	course	4210.0
-1927 British Grand Prix	course	4200.38784
-1970 Race of Champions	course	4265.0
-1970 Race of Champions	course	4264.7616
-1956 Australian Grand Prix	course	5030.0
-1956 Australian Grand Prix	course	5029.2
-1955 Australian Grand Prix	course	2090.0
-1955 Australian Grand Prix	course	2092.1472
-1954 Australian Grand Prix	course	9170.0
-1954 Australian Grand Prix	course	9173.2608
-1953 Australian Grand Prix	course	5030.0
-1953 Australian Grand Prix	course	5029.2
-1968 New Zealand Grand Prix	course	2820.0
-1968 New Zealand Grand Prix	course	2832.44544
-2010 Bahrain Grand Prix	course	6299.0
-2010 Bahrain Grand Prix	course	6298.972416
-2010 Australian Grand Prix	course	5303.0
-2010 Australian Grand Prix	course	5302.78848
-2010 Turkish Grand Prix	course	5340.0
-2010 Turkish Grand Prix	course	5343.02208
-2010 Malaysian Grand Prix	course	5543.0
-2010 Malaysian Grand Prix	course	5542.580736
-2010 Spanish Grand Prix	course	4655.0
-2010 Spanish Grand Prix	course	4654.222848
-2010 Canadian Grand Prix	course	4361.0
-2010 Canadian Grand Prix	course	4361.32224
-2010 Monaco Grand Prix	course	3340.0
-2010 Monaco Grand Prix	course	3347.43552
-2010 European Grand Prix	course	5419.0
-2010 European Grand Prix	course	5418.661248
-1969 New Zealand Grand Prix	course	2820.0
-1969 New Zealand Grand Prix	course	2832.44544
-1970 New Zealand Grand Prix	course	2820.0
-1970 New Zealand Grand Prix	course	2832.44544
-1952 Australian Grand Prix	course	6120.0
-1952 Australian Grand Prix	course	6179.88096
-1938 Australian Grand Prix	course	6120.0
-1938 Australian Grand Prix	course	6179.88096
-2010 Hungarian Grand Prix	course	4380.0
-2010 Hungarian Grand Prix	course	4377.41568
-2010 German Grand Prix	course	4574.0
-2010 German Grand Prix	course	4573.755648
-2010 Chinese Grand Prix	course	5451.0
-2010 Chinese Grand Prix	course	5450.848128
-2010 Belgian Grand Prix	course	7004.0
-2010 Belgian Grand Prix	course	7003.865088
-2010 Italian Grand Prix	course	5793.0
-2010 Italian Grand Prix	course	5793.6384
-2010 Japanese Grand Prix	course	5807.0
-2010 Japanese Grand Prix	course	5806.513152
-2010 Singapore Grand Prix	course	5073.0
-2010 Singapore Grand Prix	course	5069.4336
-2010 Korean Grand Prix	course	5615.0
-2010 Korean Grand Prix	course	5615.001216
-2010 Abu Dhabi Grand Prix	course	5554.0
-2010 Abu Dhabi Grand Prix	course	5553.846144
-2010 Brazilian Grand Prix	course	4309.0
-2010 Brazilian Grand Prix	course	4308.213888
-1951 Australian Grand Prix	course	7080.0
-1951 Australian Grand Prix	course	7081.1136
-1950 Australian Grand Prix	course	7040.0
-1950 Australian Grand Prix	course	7040.88
-1961 Naples Grand Prix	course	2491.0
-1961 Naples Grand Prix	course	2491.264512
-1962 Naples Grand Prix	course	2491.0
-1962 Naples Grand Prix	course	2491.264512
-1949 Australian Grand Prix	course	6920.0
-1949 Australian Grand Prix	course	6920.1792
-1948 Australian Grand Prix	course	3850.0
-1948 Australian Grand Prix	course	3862.4256
-1972 World Championship Victory Race	course	4265.0
-1972 World Championship Victory Race	course	4264.7616
-1947 Australian Grand Prix	course	6120.0
-1947 Australian Grand Prix	course	6179.88096
-1939 Australian Grand Prix	course	13800.0
-1939 Australian Grand Prix	course	13840.3584
-1937 Australian Grand Prix	course	12550.0
-1937 Australian Grand Prix	course	12552.8832
-1966 Canadian Grand Prix	course	3950.0
-1968 Race of Champions	course	4265.0
-1968 Race of Champions	course	4264.7616
-1969 Race of Champions	course	4265.0
-1969 Race of Champions	course	4264.7616
-1960 Cape Grand Prix	course	2060.0
-1960 Cape Grand Prix	course	5334.97536
-1960 South African Grand Prix	course	3926.0
-1960 South African Grand Prix	course	3926.79936
-1971 Race of Champions	course	4265.0
-1971 Race of Champions	course	4264.7616
-1912 American Grand Prize	course	12680.0
-1912 American Grand Prize	course	12681.63072
-1911 American Grand Prize	course	27520.0
-1911 American Grand Prize	course	27519.7824
-1914 American Grand Prize	course	13546.0
-1914 American Grand Prize	course	13545.848448
-1947 French Grand Prix	course	7289.0
-1947 French Grand Prix	course	7288.718976
-1948 Monaco Grand Prix	course	3145.0
-1948 Monaco Grand Prix	course	3144.658176
-1948 Swiss Grand Prix	course	7262.0
-1948 Swiss Grand Prix	course	7261.360128
-1948 French Grand Prix	course	7774.0
-1948 French Grand Prix	course	7774.740864
-1948 Italian Grand Prix	course	4801.0
-1948 Italian Grand Prix	course	4800.673152
-1949 French Grand Prix	course	7815.0
-1949 French Grand Prix	course	7814.974464
-1934 Swiss Grand Prix	course	7280.0
-1934 Swiss Grand Prix	course	7274.23488
-1949 San Remo Grand Prix	course	3380.0
-1949 San Remo Grand Prix	course	3379.6224
-2011 Brazilian Grand Prix	course	4309.0
-2011 Brazilian Grand Prix	course	4308.213888
-2011 Bahrain Grand Prix	course	5412.0
-2011 Bahrain Grand Prix	course	5423.48928
-2011 Canadian Grand Prix	course	4361.0
-2011 Canadian Grand Prix	course	4361.32224
-2011 British Grand Prix	course	5901.0
-2011 British Grand Prix	course	5901.464448
-2011 Australian Grand Prix	course	5303.0
-2011 Australian Grand Prix	course	5302.78848
-2011 Hungarian Grand Prix	course	4380.0
-2011 Hungarian Grand Prix	course	4377.41568
-2011 Chinese Grand Prix	course	5451.0
-2011 Chinese Grand Prix	course	5450.848128
-2011 European Grand Prix	course	5419.0
-2011 European Grand Prix	course	5418.661248
-2011 German Grand Prix	course	5148.0
-2011 German Grand Prix	course	5148.291456
-2011 Indian Grand Prix	course	5141.0
-2011 Indian Grand Prix	course	5140.244736
-2011 Monaco Grand Prix	course	3340.0
-2011 Monaco Grand Prix	course	3347.43552
-2011 Malaysian Grand Prix	course	5543.0
-2011 Malaysian Grand Prix	course	5542.580736
-2011 Spanish Grand Prix	course	4655.0
-2011 Spanish Grand Prix	course	4654.222848
-2011 Turkish Grand Prix	course	5340.0
-2011 Turkish Grand Prix	course	5343.02208
-2011 New Zealand Grand Prix	course	3033.0
-2011 New Zealand Grand Prix	course	3033.61344
-1985 Detroit Grand Prix	course	4120.0
-1985 Detroit Grand Prix	course	4119.92064
-1976 United States Grand Prix	course	5435.0
-1976 United States Grand Prix	course	5434.754688
-1986 Detroit Grand Prix	course	4120.0
-1986 Detroit Grand Prix	course	4119.92064
-1987 Detroit Grand Prix	course	4023.0
-1987 Detroit Grand Prix	course	4023.36
-1988 Detroit Grand Prix	course	4023.0
-1988 Detroit Grand Prix	course	4023.36
-1900 Gordon Bennett Cup	course	568660.0
-1900 Gordon Bennett Cup	course	568661.7024
-1902 Gordon Bennett Cup	course	565000.0
-1902 Gordon Bennett Cup	course	564879.744
+Bubble tea	course	Drink
+Caesar salad	course	Hors d'oeuvre
+Caesar salad	course	Multicourse meal
+Cookie	course	Snack
+Cookie	course	Dessert
+French fries	course	Side dish or snack, rarely as a main dish
+Gazpacho	course	Appetizer
+İskender kebap	course	Main dish
+Jell-O	course	Dessert
+Mousse	course	Dessert
+Pizza	course	Lunch or dinner
+Potato chip	course	Snack, side dish
+Rosół	course	Soup
+Rosół	course	Entree
+Sushi	course	appetizer, main dish
+Spam	course	Main course
+Tiramisu	course	Dessert
+Tapas	course	Appetizer or snack
+Blancmange	course	Dessert
+Hamburger	course	Main course
+Fish and chips	course	Main dish
+Scotch broth	course	Starter
+Chicken soup	course	Soup
+Paella	course	Main course
+Ice cream	course	Dessert
+Cake	course	Dessert
+Custard	course	Dessert
+Trifle	course	Dessert
+Edamame	course	Appetizer
+Edamame	course	Side dish
+Caramel	course	Dessert
+Tamale	course	Main course
+Pavlova	course	Dessert
+Tzatziki	course	Appetizer
+Ceviche	course	Main course, appetizer
+Poutine	course	Main dish or side dish
+Hummus	course	Meze
+Chocolate chip cookie	course	Dessert
+Tostada	course	Appetizer or snack
+Pez	course	Candy
+Gnocchi	course	Entrée
+Hors d'oeuvre	course	Appetizer
+Buffalo wing	course	Appetizer, main course
+Lasagne	course	Main
+Okonomiyaki	course	Main course
+Kakigōri	course	Dessert
+Red bean soup	course	Soup
+Anmitsu	course	Dessert
+Zabaione	course	Dessert
+Cheeseburger	course	Main course
+Candy corn	course	Dessert
+Falafel	course	Street food
+Croissant	course	Breakfast
+Pizzelle	course	Dessert
+Tortell	course	Dessert
+Cucumber soup	course	Soup
+Cucumber soup	course	Entree
+Takoyaki	course	Snack
+Sausage roll	course	Lunch / Snack
+Pasty	course	Main
+Waldorf salad	course	Appetizer
+Potato salad	course	Side dish
+Satay	course	Entrée or main course
+Spanish omelette	course	Appetizer or main course
+Lancashire hotpot	course	Main course
+Fideuà	course	Pasta
+Carpaccio	course	Hors d'oeuvre
+Crumble	course	Dessert
+Mars	course	Snack
+Bengal potatoes	course	Snack
+Roast beef	course	Main course
+Pesto	course	Sauce
+Croquembouche	course	Dessert
+Chicken fried steak	course	Main course
+Chili con carne	course	Main
+Baguette	course	Starter or Main
+Muffin	course	Traditionally breakfast
+Mămăligă	course	Main course
+Reuben sandwich	course	Main course
+Andouille	course	Sausage
+Brioche	course	Breakfast, dessert, or snack
+Chorizo	course	Sausage
+Gyro	course	Main dish
+Nachos	course	Meal or snack
+Cheesesteak	course	Main course
+Dosa	course	main dish
+Churro	course	Breakfast
+Churro	course	Lunch
+Churro	course	Dinner
+Churro	course	Snack
+Ice milk	course	Dessert
+Shashlik	course	Main course
+Fuet	course	Sausage
+Kebab	course	Main course
+Nasi lemak	course	Main course, usually for breakfast
+Crème caramel	course	Dessert
+Idli	course	Main course
+Carbonara	course	Primo or main course
+Chicken tikka masala	course	Main course
+Naan	course	Main, served with curries and gravies and soup
+Laksa	course	Lunch
+Taiyaki	course	Snack
+Pirozhki	course	Appetizer, main, dessert
+Pierogi	course	Appetizer, main, dessert
+Macaroni and cheese	course	Main or side dish
+Huevos motuleños	course	Breakfast
+Rocky Mountain oysters	course	Hors d'oeuvre
+Tagliatelle	course	Primo
+Fettuccine Alfredo	course	Meal structure in Italy
+Cream of Wheat	course	Breakfast
+Eggs Benedict	course	Breakfast
+Eggs Benedict	course	Brunch
+Anpan	course	Dessert
+Arctic roll	course	Dessert
+Poon choi	course	Main Course
+Rendang	course	Main course
+Canapé	course	Hors d'oeuvre
+Tea sandwich	course	Tea
+Sweetheart cake	course	snack, dessert
+Empanada	course	Appetizer
+Suncake	course	Dessert
+Cheesecake	course	Dessert
+Samosa	course	Entrée
+Samosa	course	Snack
+Stargazy pie	course	Main
+Key lime pie	course	Dessert
+Rogan josh	course	Main course
+Bakewell pudding	course	Dessert
+Choc ice	course	Dessert
+Fabada asturiana	course	Appetiser or main course
+Bread roll	course	Side dish
+Pilaf	course	Main
+Granita	course	Dessert
+English muffin	course	Bread
+Toffee	course	dessert
+Rijsttafel	course	Main course
+Gudeg	course	Main course
+Baba ghanoush	course	Appetizer
+Moussaka	course	Main course
+Alfajor	course	Sweet
+Blaa	course	Usually breakfast
+Risotto	course	Meal structure in Italy
+Fried dough	course	Breakfast, dessert, or snack
+Red bean cake	course	Dessert
+Tandoori chicken	course	Main Course
+Prosciutto	course	Antipasto
+Bakewell tart	course	Dessert
+Ayran	course	Beverage
+French dip	course	Main
+Steak tartare	course	Appetizer
+Koeksister	course	Dessert
+Baked Alaska	course	Dessert
+Kulfi	course	Dessert
+Dolma	course	Meze or main dish
+Doner kebab	course	Snack or main course
+Penne alla vodka	course	Pasta
+Kissel	course	Dessert
+Pakora	course	Appetizer or snack
+Small sausage in large sausage	course	Main course
+Upma	course	Breakfast
+General Tso's chicken	course	Main
+Coleslaw	course	Side dish
+Sundae	course	Dessert
+Lox	course	Breakfast
+Lox	course	Lunch
+Ladyfinger	course	Dessert
+Aloo gobi	course	Main
+Aspic	course	Hors d'oeuvre
+Gulab jamun	course	Dessert
+Sloppy joe	course	Main
+Bamba	course	Snack
+Biryani	course	Main dish
+Raita	course	Condiment
+Toaster pastry	course	Breakfast or snack
+Tabbouleh	course	Salad
+Tourtière	course	main dish
+Cranachan	course	Dessert
+Bialy	course	Breakfast
+Taramasalata	course	Meze
+Devilled kidneys	course	Breakfast
+Fried ice cream	course	Dessert
+Onion ring	course	Hors d'oeuvre
+Salisbury steak	course	Entrée or Main
+Æbleskiver	course	Dessert
+Æbleskiver	course	Snack
+Sauerbraten	course	Main course
+Rambak petis	course	Hors d'oeuvre or snack
+Kamarcut	course	Dessert
+Runza	course	Main
+Bananas Foster	course	Dessert
+Linguine	course	Primo
+Deviled egg	course	Hors d'oeuvre
+Tirit	course	Main dish
+Quindim	course	Dessert
+Egg roll	course	Hors d'oeuvre or side dish
+Papo-de-anjo	course	Dessert
+Saganaki	course	Hors d'oeuvre
+Rum ball	course	Dessert
+Arroz a la cubana	course	Main course
+Jalebi	course	Dessert
+Pasta al pomodoro	course	Pasta
+Nanaimo bar	course	Dessert
+All-Bran	course	Breakfast
+Fruit salad	course	Appetizer
+Fruit salad	course	Dessert
+Fruit salad	course	Snack
+Fruit salad	course	Main meal
+Devil's curry	course	colour
+Maria-mole	course	Dessert
+Lemon ice box pie	course	Dessert
+Momo	course	Appetizers or entrees
+Apple cake	course	Dessert
+Orange chicken	course	Main
+Rumtopf	course	Dessert
+Hujiao bing	course	Snack
+Jamón serrano	course	Appetizer
+Bundt cake	course	Dessert
+Double ka meetha	course	Dessert
+Salmorejo	course	Appetiser
+Goetta	course	Breakfast
+Muffuletta	course	Main courses
+Soy sauce chicken	course	Main dishes
+Chicken fingers	course	Appetizer
+Chicken fingers	course	Main course
+Pecan pie	course	Dessert
+Tater tots	course	Entrée or side dish, sometimes as part of a main course
+Queen of Puddings	course	Dessert
+Portuguese sweet bread	course	Dessert
+Chicken Kiev	course	Main course
+Syllabub	course	Dessert
+Solero	course	Ice Cream
+Arepa	course	Breakfast
+Madeira cake	course	Tea or breakfast
+Tripe soups	course	Soup
+French onion soup	course	Starter
+Ais kacang	course	Dessert
+Kuih	course	Snack
+Chermoula	course	Main course
+Bigilla	course	Snack or hors d'oeuvre
+Mansaf	course	Meal
+Gravlax	course	Hors d'oeuvre
+Bruschetta	course	Antipasto
+Mititei	course	Main course
+Maple taffy	course	Dessert
+Angel Delight	course	Dessert
+Migas	course	Appetiser
+Sobrassada	course	Sausage
+Ensaïmada	course	Pastry
+Gallo pinto	course	Breakfast and Dinner
+Hard sauce	course	Dessert
+Smalahove	course	Main course
+Nasi kandar	course	Lunch and dinner
+Pabellón criollo	course	Meal
+Tequeño	course	Snack
+Pastitsio	course	Pasta
+Kifli	course	Dessert
+Tempoyak	course	Side dish
+Simnel cake	course	Dessert
+Cashew chicken	course	Main course
+Pio Quinto	course	Dessert
+Cullen skink	course	Entrée
+Amuse-bouche	course	Hors d'oeuvre
+Beef on weck	course	Main
+Chicago-style hot dog	course	Main course
+Egg tart	course	Dessert
+Egg tart	course	Snack
+Lukanka	course	Sausage
+Italian ice	course	Dessert
+Buddha Jumps Over the Wall	course	soup
+Rumaki	course	Hors d'oeuvre
+Tapenade	course	Hors d'œuvre
+American chop suey	course	Main dish
+Kibbeh	course	Meze or mezze
+Kushari	course	Main course
+Mysore pak	course	Dessert
+Chicharrón	course	Appetizer
+Bigos	course	Hot starter or main dish
+Falooda	course	Beverage
+Macaroni salad	course	Side dish
+Dim sim	course	Appetiser
+Ginger beef	course	Main dishes
+Macaron	course	Entrepreneur
+Rasgulla	course	Dessert
+Huevos rancheros	course	Breakfast
+Chai tow kway	course	Yum cha
+Cajeta	course	Dessert
+Droëwors	course	Sausage
+Arròs negre	course	Main course
+Halo-halo	course	Dessert
+Ćevapi	course	Main course
+Tahu goreng	course	main course
+Farina	course	Breakfast
+Soto ayam	course	Main
+Thuringian sausage	course	Sausage
+Nihari	course	Breakfast
+Nihari	course	Lunch
+Nihari	course	Dinner
+Nokul	course	Main course
+Bistek	course	Main course
+Sinigang	course	Main course
+Tinola	course	Main course
+Mechado	course	Main course
+Ful medames	course	Breakfast
+Ful medames	course	Main course
+Arrabbiata sauce	course	Main course
+Patbingsu	course	Dessert
+Mozzarella sticks	course	Hors d'oeuvre
+Pav bhaji	course	Snack
+Rigatoni con la Pajata	course	Pasta
+Alcapurria	course	Appetizer
+Chicken tikka	course	Starter
+Eton mess	course	Dessert
+Nasi uduk	course	Main course
+Spam musubi	course	Snack
+Salt potatoes	course	Side dish
+Blooming onion	course	Hors d'oeuvre
+Krakowska	course	Appetizer
+Kare-kare	course	Main course
+Pasanda	course	Main course
+Tapa	course	Main course
+Tong sui	course	Dessert
+Mielie-meal	course	breakfast
+Sosatie	course	Main course
+Melktert	course	Dessert
+Umngqusho	course	stamp mielies  with sugar beans, butter, onions, potatoes, chili peppers
+Mix-in	course	Dessert
+Kyiv cake	course	Dessert
+Kaju barfi	course	Dessert
+Coney Island hot dog	course	Main course
+Boston cream pie	course	Dessert
+Dhokla	course	Breakfast, side dish, main course
+Haupia	course	Dessert
+Étouffée	course	Main
+Sincronizada	course	Lunch
+Sincronizada	course	Snack
+Spaghetti alla puttanesca	course	Main
+Mohinga	course	Breakfast
+Tilkut	course	Dessert
+Duqqa	course	Side dish or hors d'œuvre
+Cacık	course	Side dish
+Cacık	course	Meze
+Barfi	course	Dessert
+Crudités	course	Hors d'oeuvre
+Banana pudding	course	Dessert
+Coda alla vaccinara	course	Main
+Chinese sausage	course	Sausage
+Bottarga	course	Hors d'oeuvre, pasta dishes
+Banmian	course	Main
+Mofongo	course	Main course
+Mujaddara	course	Meal
+Ice cream cake	course	Dessert
+Swiss steak	course	Entree
+Ready Brek	course	Breakfast
+Palak paneer	course	Main
+Bolani	course	Appetizer, side dish, or main course
+Oysters Rockefeller	course	Hors d'oeuvre
+Oysters Rockefeller	course	Entrée
+Dharwad pedha	course	Dessert
+Tavče gravče	course	Main course
+Diplomat pudding	course	Dessert
+Kolak	course	Dessert
+Mellorine	course	Dessert
+Frog cake	course	Dessert
+Shaobing	course	Breakfast
+Dariole	course	Dessert
+Sisig	course	Main course
+Sisig	course	Snack
+Xiaolongbao	course	Dim sum
+Xiaolongbao	course	Xiaochi
+Sticky toffee pudding	course	Dessert
+Prawn cocktail	course	Hors d'oeuvre
+Garlic bread	course	Entree
+Adana kebabı	course	Kebab
+Pongal	course	Breakfast
+White hot	course	Main course
+Chile con queso	course	Appetizer or side dish
+Molten chocolate cake	course	Dessert
+Keema	course	Food
+Bebinca	course	Dessert
+Hoppin' John	course	Meal
+Clafoutis	course	Dessert
+Cremeschnitte	course	Dessert
+Pu pu platter	course	Hors d'oeuvre
+Nasi goreng	course	Main course
+Gỏi cuốn	course	Hors d'oeuvre
+Puttu	course	Breakfast
+Appam	course	Breakfast or Dinner
+Fried pie	course	Dessert
+Pão de queijo	course	Breakfast or snack
+Guilinggao	course	Dessert
+Kaszanka	course	Appetizer, main
+Salade niçoise	course	Entrée
+Kalburabastı	course	Dessert
+Jalapeño popper	course	Hors d'oeuvre
+Charlotte	course	Dessert
+Lemon chicken	course	Main
+Podvarak	course	Main, side-dish
+Gołąbki	course	Appetizer, Main
+Taho	course	Dessert
+Taho	course	Snack food
+Floating island	course	Dessert
+Bibingka	course	Dessert
+Bibingka	course	Breakfast
+Crêpe Suzette	course	Dessert
+Tilgul	course	Dessert
+Jamón ibérico	course	Appetiser
+Zarangollo	course	Hors d'oeuvre
+Fruit curd	course	Dessert
+Cecina	course	Appetiser
+Italian sausage	course	Sausage
+Café con leche	course	Beverage
+Dal bhat	course	Meal
+Musakhan	course	Meal
+Maqluba	course	Meal
+Jalfrezi	course	Main
+Mississippi mud pie	course	Dessert
+Kibbeh nayyeh	course	Hors d'oeuvre
+Petha	course	Dessert
+Puppy chow	course	Dessert
+Yangzhou fried rice	course	Entree
+Amatriciana sauce	course	Meal structure in Italy
+Unni appam	course	Snack
+Ice cream bar	course	Dessert
+Zuppa Inglese	course	Dessert
+Gratin dauphinois	course	alone or as accompaniment
+Nagasari	course	Snack
+Pannekoek	course	Main course
+Ginger milk curd	course	Dessert
+Canarian wrinkly potatoes	course	Appetiser or side dish
+Shrimp toast	course	Snack food
+Olla podrida	course	Main course
+Fruit fool	course	Dessert
+Yule log	course	Dessert
+Mojama	course	Appetiser
+Poke	course	Appetizer
+Veg kolhapuri	course	Main course
+Mulukhiyah	course	Main course
+Mango pudding	course	Dessert
+Elenski but	course	Cold cuts
+Huckabuck	course	Dessert
+Kaymak	course	Breakfast and dessert
+Pastel de nata	course	Dessert
+Chakka prathaman	course	Dessert
+Pasta primavera	course	Pasta
+Treacle tart	course	Dessert
+Rocky road	course	Dessert
+Bavarian cream	course	Dessert
+Bánh chưng	course	Main course
+Ambrosia	course	Fruit salad
+Russian candy	course	Dessert
+Cascaron	course	Dessert
+Crostata	course	Dessert
+Sabich	course	Breakfast  and Street food , Sandwich
+Pandesal	course	Breakfast
+Espetada	course	Main
+Ciorbă	course	Entrée
+Ciorbă	course	Main course
+Kimchijeon	course	Appetizer, snack or banchan
+Rice noodle roll	course	Dim Sum
+Sütlü Nuriye	course	Dessert
+Kue	course	Snack
+Veal Orloff	course	Main course
+Geplak	course	Snack
+Kulich	course	Before breakfast
+Frucht Quark	course	Dessert
+Goat roti	course	Main course
+Mandi	course	Lunch or dinner
+Kransekake	course	Dessert
+Chicken lollipop	course	Hors d'oeuvre
+Manchow soup	course	Soup
+Summer pudding	course	Dessert
+Chikki	course	Snack
+Champorado	course	\
+Kogel mogel	course	Dessert
+Spaghetti with meatballs	course	Main course
+Apple dumpling	course	Dessert
+Cozonac	course	Dessert
+Kluski	course	Appetizer, main, dessert
+Tarta de Santiago	course	dessert
+Chipa	course	Breakfast or snack
+Blueberry pie	course	Dessert
+Alexandertorte	course	Dessert
+Semifreddo	course	Dessert
+Strawberry pie	course	Dessert
+Kalathappam	course	Dessert
+Oysters en brochette	course	Hors d'oeuvre
+Hakuto jelly	course	Dessert
+Ras malai	course	Dessert
+Bungeoppang	course	Dessert
+Chicken as food	course	Starter, main meal, side dish
+Mie goreng	course	Main course
+Gosh-e Fil	course	Dessert
+Nasi dagang	course	Main course, usually for breakfast
+Pie à la Mode	course	Dessert
+Bandeja paisa	course	Dinner/Lunch
+Manakish	course	Breakfast or lunch
+Icebox cake	course	Dessert
+Tepache	course	Beverage
+Lolly Gobble Bliss Bombs	course	Snack
+Ajika	course	Dip
+Half-smoke	course	Main course
+Ajoblanco	course	Appetiser
+Vlaai	course	Dessert
+Mitha dahi	course	Dessert
+Paya	course	Dinner
+Öçpoçmaq	course	Main course
+Fla-Vor-Ice	course	Dessert
+Mochi ice cream	course	Dessert
+Charquicán	course	Main
+Vorschmack	course	Hors d'oeuvre
+Peda	course	Dessert, prasad
+Lor mee	course	Main
+Sandesh	course	Dessert
+Pepernoot	course	Dessert
+Colomba di Pasqua	course	Dessert
+Ba-wan	course	Dim sum
+Sayur asem	course	main course
+Dinuguan	course	Main course
+Black pepper crab	course	Main course
+Black and white cookie	course	Dessert
+Uštipci	course	Dessert
+Chhena poda	course	Dessert
+Baked ziti	course	Casserole
+Tavuk göğsü	course	Dessert
+Chippi appam	course	Hors d'oeuvre
+Pasta salad	course	Appetizer or main course
+Maypo	course	Breakfast
+Bamia	course	Meal
+Fasole cu cârnați	course	Main course
+Seven-layer dip	course	Appetizer
+Cornish fairing	course	Snack
+Barbajuan	course	Hors d'oeuvre
+Pyaaj Kachori	course	Snack
+Chiffon pie	course	Dessert
+Pohay	course	Snack
+Chicken sandwich	course	Main course
+Tokwa’t baboy	course	Hors d'oeuvre
+Ga'at	course	Breakfast
+Cağ kebabı	course	Kebab
+Anju	course	Hors d'oeuvre
+Basundi	course	Dessert
+Brown Betty	course	Dessert
+Kottu	course	Main course
+Sabaayad	course	Breakfast or dinner
+Panta bhat	course	Main course
+Pitha	course	Whole meal, snack, or dessert
+Pakhala	course	Hot pakhaḷa , Jira  Pakhaḷa, Basi  pakhaḷa
+Koozh	course	Breakfast or lunch
+Frozie cup	course	Dessert
+Brudet	course	Main course
+Shaved ice	course	dessert, snack
+Stoemp	course	Side dish
+Tongba	course	beer
+Kab yob	course	Hors d'oeuvre
+Potato skins	course	Appetizer
+Caldo de costilla	course	Breakfast
+Kaya toast	course	Staple food
+Fit-fit	course	Breakfast
+Spanische Windtorte	course	Dessert
+Ragout fin	course	Entrée
+Rinderbraten	course	Main course
+Kladdkaka	course	Dessert
+Faloodeh	course	Lunch & Dinner
+Devils on horseback	course	Hors d'oeuvre or savoury
+Angels on horseback	course	Canapé, hors d'œuvre or savoury
+Filhós	course	Dessert
+Batchoy	course	Soup
+Ginataan	course	Main course, dessert
+Johnny Marzetti	course	Main dish
+Maíz con hielo	course	Snack
+Nicuatole	course	Dessert
+Rag pudding	course	Main course
+Asocena	course	Finger food
+Sate kambing	course	Main meal
+Chole bhature	course	Breakfast
+Chole bhature	course	Snack
+Angoori rasmalai	course	Dessert
+Mirza Ghassemi	course	Hors d'oeuvre
+Batata vada	course	Hors d'oeuvre / Starter / Appetizer
+Choco Taco	course	Dessert
+Siomay	course	snack
+Kori rotti	course	Main Course
+Spiced rice	course	Main dish
+Roujiamo	course	Main course
+Black sesame soup	course	Dessert
+Ashure	course	Dessert
+Neyyappam	course	Dessert
+Neyyappam	course	Snack
+Myśliwska	course	Appetizer, main
+Doberge cake	course	Dessert
+Changua	course	Breakfast
+Singori	course	Dessert
+Carniolan sausage	course	Sausage
+Belokranjska povitica	course	Dessert
+Bai ye	course	Jiangsu cuisine
+Shumai	course	Dim sum
+Kabsa	course	Meal
+Pepper steak	course	Entree
+Paddu	course	Tiffin
+Shrimp Creole	course	Main
+Cajuzinho	course	Confectionery
+Pincho	course	Hors d'oeuvre or snack
+Papa a la Huancaína	course	Hors d'oeuvre
+Jjamppong	course	Main course
+Koulourakia	course	Dessert
+Imagawayaki	course	Snack
+Arroz a la valenciana	course	Meal
+Beef Manhattan	course	Main course
+Sandwich loaf	course	Entrée
+Red bean ice	course	Dessert
+Jian dui	course	Pastry
+Sour rye soup	course	Soup
+Sour rye soup	course	Entree
+Piperade	course	Entrée or side dish
+Swikee	course	Main course
+Potato wedges	course	Hors d'oeuvre
+Potato wedges	course	Side dish
+Bakso	course	Main
+Clam dip	course	Sometimes served as an appetizer
+Encebollado	course	Lunch
+Murta con membrillo	course	Dessert
+Chitranna	course	Breakfast
+Rava idli	course	Breakfast
+Rava idli	course	Snack
+Ragi mudde	course	Meal
+Karadantu	course	Dessert
+Kulolo	course	Dessert
+Bun kebab	course	Main course
+Lincolnshire sausage	course	Main
+Turnip cake	course	Yum cha
+Bakpia Pathok	course	Snack
+Imarti	course	Dessert
+Zuccotto	course	Dessert
+Matbucha	course	Appetizer
+Viennoiserie	course	Breakfast or snack
+Güllaç	course	Dessert
+Bánh bò	course	Dessert
+Muhammara	course	Dip
+Makdous	course	Hors d'oeuvre
+Emping	course	Snack
+Zhaliang	course	Dim sum
+Zhaliang	course	Breakfast
+Squid cocktail	course	Hors d'oeuvre
+Taro cake	course	Yum cha, side dish
+Dacquoise	course	Dessert
+Water chestnut cake	course	Dim sum
+Tofu skin roll	course	Dim Sum
+Steamed meatball	course	Dim sum
+Pempek	course	Main course or snack
+Frankfurter Rindswurst	course	Sausage
+White cut chicken	course	Main dishes
+Murabba	course	Dessert
+Pinchitos	course	Appetiser or main course
+Malpua	course	Dessert
+Chhena gaja	course	Dessert
+Quzi	course	Meal
+Crab Louie	course	Hors d'œuvre
+Treacle sponge pudding	course	Dessert
+Kue putu mangkok	course	Dessert
+Groom's cake	course	Dessert
+Cottage Pudding	course	Dessert
+Funkaso	course	Side dish or snack
+S.O.S.	course	Hors d'oeuvre
+Yau gok	course	Chinese New Year dish
+Grattachecca	course	Dessert
+Lou mei	course	Hors d'oeuvre
+Struffoli	course	Dessert
+Kalamay	course	Dessert
+Puto	course	Dessert
+Puto	course	Breakfast
+Monkey bread	course	Breakfast
+Aplets & Cotlets	course	Dessert
+Masgouf	course	Main course
+Kalakand	course	Dessert
+Besan barfi	course	Dessert
+Gulkand	course	consumed mainly after having meals, owing to its nature of firing the digestion
+Ghevar	course	Dessert
+Lontong	course	Main course
+Shankarpali	course	Snack
+Carciofi alla giudia	course	antipasto
+Bourbon chicken	course	Main course
+Saffron rice	course	Dessert
+Fun guo	course	Yum cha
+Khira sagara	course	Dessert
+Lukhmi	course	Starter or snack
+Satay bee hoon	course	Main course
+Flourless chocolate cake	course	Dessert
+Rosca de reyes	course	Dessert
+Pastel de choclo	course	Main
+Dahi chutney	course	Side dish to Hyderabadi Biryani or Biryani
+Guernsey Bean Jar	course	Meal
+Café liégeois	course	Dessert
+Chè	course	Dessert
+Pootharekulu	course	Snack
+Ariselu	course	Sweet dish
+Quince dessert	course	Dessert
+Rose hip soup	course	Dessert, snack
+Kyselo	course	Soup
+Kyselo	course	Entrée
+Kyselo	course	Main course
+Salată de boeuf	course	Entrée
+Chicken 65	course	entree or quick snack
+Naryn	course	Meat
+Shikashika	course	Dessert
+Kaldereta	course	Main course
+Pot de crème	course	Dessert
+Russian tea cake	course	Dessert
+Steak sandwich	course	Main course
+Erkuai	course	Snack
+Panjiri	course	Dessert
+Jeon	course	Appetizer
+Jeon	course	Banchan
+Jeon	course	Anju
+Eurocrem	course	Snack
+Paila marina	course	Main
+Watalappam	course	Dessert
+Msabbaha	course	Hors d'oeuvre
+Chomchom	course	Dessert
+Pineapple tart	course	Dessert
+Nutraloaf	course	Main
+Gujia	course	Dessert
+Hot wiener	course	Main course
+Szałot	course	Side dish
+Boortsog	course	Dessert
+Mung bean dosa	course	Breakfast
+Mung bean dosa	course	Snack
+Marinara sauce	course	Main course
+Fatteh	course	Breakfast or Main
+Kısır	course	Side dish
+Kısır	course	Salad
+Kısır	course	Meze
+Cocido madrileño	course	Appetiser or main course
+Gachas	course	Staple food
+Thekua	course	Dessert
+Putnis	course	Condiment
+Frozen dessert	course	Dessert
+Sweet shells	course	Dessert
+Freekeh	course	Main course
+Poire belle Hélène	course	Dessert
+Pizza-ghetti	course	Main
+Piragua	course	Dessert
+Steak frites	course	Main course
+Gulaman	course	Dessert
+Doenjang jjigae	course	Main or Side dish
+Kozhukkatta	course	Dessert
+Flan	course	Main course or Dessert or Snack
+Fried chicken	course	Main meal
+Baklava	course	Dessert
+Curau	course	Dessert
+Morogo	course	African spinach
+Bombe glacée	course	Dessert
+Sabudana Khichadi	course	Breakfast
+Sabudana Khichadi	course	Snack
+Joffre cake	course	Dessert
+Pickled cucumber	course	Hors d'oeuvre
+Slugburger	course	Main
+Lunumiris	course	Condiment
+Satsivi	course	Sauce
+Satsivi	course	Appetizer
+Mekitsa	course	Breakfast
+Frozen banana	course	Dessert
+Balushahi	course	Dessert
+Farsan	course	Snack
+Chashni	course	Dessert
+Sohan Halwa	course	Dessert
+Pumpkin pie	course	Dessert
+Cốm	course	Dessert
+Glorified rice	course	Dessert
+Pig candy	course	Dessert
+Ptitim	course	Side dish
+Banana split	course	Dessert
+Bacon and cabbage	course	Main course
+Mitsumame	course	Dessert
+Seven-layer salad	course	Salad
+Bundevara	course	Appetizer
+Bundevara	course	Dessert
+Stuffed squash	course	Main course
+Bichak	course	Hors d'oeuvre
+White Christmas	course	Dessert
+Banket	course	Dessert
+Diples	course	Dessert
+Waldorf pudding	course	Dessert
+Ash reshteh	course	First or main
+Tombet	course	Main course
+Pâté aux pommes de terre	course	Side dish or main course
+Gondi dumpling	course	Appetizer or side dish
+Spaghetti aglio e olio	course	Pasta
+Sapin-sapin	course	Dessert or snack
+Snickers salad	course	Dessert
+Bacon Explosion	course	Main course
+Zakuski	course	Hors d'oeuvre or snack
+Giouvetsi	course	Pasta
+Tumpeng	course	main course
+Chicken fried bacon	course	Appetizer
+Jam sandwich	course	Lunch or snack
+Binignit	course	Dessert
+British Rail sandwich	course	Main course
+Philippine adobo	course	Main course
+Arab salad	course	Mezze
+Patatas bravas	course	Appetizer
+Cookie salad	course	Salad
+Chiburekki	course	Main course
+Nimono	course	Side dish
+Kokis	course	Dessert, Appetizer
+Puchero	course	Main course
+Chhena jalebi	course	Dessert
+Chhena kheeri	course	Dessert
+Préfou	course	Hors d'oeuvre
+Black sesame rice cake	course	Dessert
+Tejuino	course	Beverage
+Sarson da saag	course	Main course
+Dalcha	course	Main course
+Cassoeula	course	Meal structure in Italy
+Nasi pecel	course	Main course
+Nasi kuning	course	Main course
+Jeera rice	course	Main Course
+Shrewsbury cake	course	Dessert
+Sai ua	course	Sausage
+Jerusalem mixed grill	course	Main Dish/Street food
+Tavë kosi	course	Main
+Machher Jhol	course	Seafood curry
+Dahi machha	course	Seafood curry
+Bienenstich	course	Dessert
+Khao tom	course	Dessert
+Chapssaltteok	course	Dessert
+Zerde	course	Dessert
+Graham cracker crust	course	Dessert
+Risalamande	course	Dessert
+Date shake	course	Beverage
+Modak	course	Dessert
+Zarda	course	Dessert
+Ruske kape	course	Dessert
+White boiled shrimp	course	Main dishes
+Cocktion	course	Dessert
+Rum cake	course	Dessert
+Buntil	course	Main course
+Snack and a half	course	Dessert
+Tatws Pum Munud	course	Main
+Pepes	course	Main course
+Botok	course	Main course
+Bbopgi	course	Snack
+Or lam	course	Main course
+Paris–Brest	course	Dessert
+Es teler	course	Dessert
+Squab pie	course	Main
+Chhena Jhili	course	Dessert
+Mathapuli	course	Dessert
+Morcón	course	Sausage
+Snow white salad	course	Appetizer
+Baram tteok	course	Dessert
+Kobbari Lavuju	course	Dessert
+Hot chicken	course	Main course
+Mangú	course	main course or side dish
+Fried mushrooms	course	Hors d'oeuvre
+Nasi liwet	course	Main course
+Nun's puffs	course	Dessert
+Tortita negra	course	Dessert
+Fudge doughnut	course	Dessert
+Fabes con almejas	course	Main course or appetizer
+Queso flameado	course	Hors d'oeuvre
+Adhirasam	course	Dessert
+Turkish delight	course	Dessert
+Ciambotta	course	Side dish or entrée
+Ketoprak	course	main and snack
+Rawon	course	main course
+Bacon Deluxe	course	Main course
+An-doughnut	course	Dessert
+Gogoși	course	Dessert
+Tembleque	course	Dessert
+Smulpaj	course	Dessert
+Baye baye	course	Dessert
+Apple soup	course	Appetizer
+Gyeran jjim	course	Banchan
+Sinangag	course	Main course
+Nasi bogana	course	Main course
+Tikka	course	Hors d'oeuvre
+Mango pomelo sago	course	Dessert
+Tongue toast	course	Breakfast or hors d'oeuvre
+Moules-frites	course	Main Course
+Flaugnarde	course	Dessert
+Anarsa	course	Dessert
+Qutab	course	Main course
+Sabounee	course	Pasta
+Arroz con gandules	course	Meal
+Unnakai	course	Dessert
+Sushi pizza	course	Main course
+Landang	course	Dessert
+Memela	course	Antojito
+Thennai Kozhakkattai	course	Dessert
+Gâteau Basque	course	Dessert
+Tinutuan	course	Main
+Kansar	course	Dessert
+Pain aux raisins	course	Breakfast
+Kerak telor	course	snack
+Slider	course	Hors d'œuvre, appetizer, amuse-bouche, or entrée
+Kotlet schabowy	course	Main
+Jeolpyeon	course	Dessert
+Cow Chocolate	course	Snack
+Canja de galinha	course	Entrée or supper
+Crostino	course	Hors d'oeuvre
+Pastrmajlija	course	Main
+Spaghetti alle vongole	course	Pasta
+Mandelkubb	course	Dessert
+Curacha	course	Main course
+Crispy pata	course	Main course
+Macaroni casserole	course	Pasta
+Ohn no khao swè	course	Breakfast, Brunch
+Tekwan	course	Main course
+Mie celor	course	Main course
+Coconut cake	course	Dessert
+Coconut chutney	course	Condiment
+Khauk swè thoke	course	Breakfast, lunch
+Sate Padang	course	Main course
+Enduri Pitha	course	Dessert
+Chakuli pitha	course	Cake
+Kakara pitha	course	Dessert
+Chandrakanti	course	Dessert
+Vispipuuro	course	Dessert
+Nan gyi thohk	course	Breakfast, Brunch
+Meeshay	course	Breakfast, Brunch
+Mont di	course	Breakfast, Lunch
+Htamanè	course	Seasonal festive dish
+Diyabath	course	Breakfast
+Htamin jin	course	Breakfast, Lunch
+Daun ubi tumbuk	course	Main course
+Batagor	course	snack
+Sayur lodeh	course	Main
+Arany galuska	course	Dessert
+Serundeng	course	Main course or snack
+Talkhan	course	Dessert
+Donkey Burger	course	Snack
+Donkey Burger	course	Side dish
+Kkultarae	course	Dessert
+Bacon ice cream	course	Dessert
+Boquerones en vinagre	course	Hors d'oeuvre
+Pigeon pie	course	Main
+Chapli kebab	course	Appetiser, main course or side dish
+Montreal-style smoked meat	course	Main course
+Bacon jam	course	Accompaniment
+Petit four	course	Dessert
+Jucy Lucy	course	Entree
+Bikaneri bhujia	course	Snack, starter
+Luosifen	course	Main dishes
+Poornalu	course	Dessert
+Semur	course	Main course
+Saucisson	course	Sausage
+Lofenalac	course	All
+Jelly slice	course	Dessert
+Pasta alla Norma	course	Pasta
+Asinan	course	snack
+Paniki	course	Main
+Papeda	course	Main course, staple food
+Konro	course	main course
+Rhubarb pie	course	Dessert
+Serranito	course	Main dish
+Stuffed chine	course	Main
+Borani	course	Main course
+Red tortoise cake	course	Snack
+Laapsi	course	Dessert
+Pan bati	course	Side dish
+Crème brûlée	course	Dessert
+Maja blanca	course	Dessert
+Arisa Pitha	course	Dessert
+Empal gentong	course	main course
+Nasi kucing	course	Main course
+Cap cai	course	Main course
+Nasi tim	course	Main course
+Soto mie	course	Main course
+Sarburma	course	Main course
+Tongseng	course	main course
+Bacone	course	Main
+Nasi kebuli	course	Main course
+Plăcintă	course	Dessert
+Gyaho	course	Main
+Kirschenmichel	course	Dessert
+Xuixo	course	Breakfast or tea
+Ayam taliwang	course	Main course
+Food physical chemistry	course	Dessert
+Bread soup	course	Soup
+Tastet	course	Hors d'oeuvre
+Cat tongue	course	Dessert
+Salmon tartare	course	Hors d'oeuvre
+Kairi ka do pyaza	course	Main
+Tamate ka kut	course	Main
+Tala huwa gosht	course	Main
+Kulfa gosht	course	Main
+Azerbaijani pakhlava	course	Dessert
+Rose Cookies	course	Snack, dessert
+Fish head casserole	course	Main course
+Baik kut kyee kaik	course	Lunch
+Papanași	course	Main, Dessert
+Šampita	course	Dessert
+Stir-fried tomato and scrambled eggs	course	Main
+Maple slaw	course	Snack or dessert
+Götterspeise	course	Dessert
+Cocido lebaniego	course	Appetiser or main course
+Chhundo	course	Side dish
+Melomakarono	course	Dessert
+Olivier salad	course	Zakuski
+Amandine	course	Dessert
+Far far	course	Snack
+Chè bà ba	course	Dessert
+Cheese and onion pie	course	Main course
+Bumbleberry pie	course	Dessert
+Tobă	course	Entrée
+Tobă	course	Main course
+Buckwheat gateau	course	Dessert
+Creier pane	course	Main course
+Kentucky jam cake	course	Dessert
+Urap	course	Side dish
+Cornulețe	course	Dessert
+Tunde ke kabab	course	Main course Traditional Awadhi cuisine
+Alivenci	course	Dessert
+Taro ball	course	Dessert
+Paneer tikka	course	Starter
+Lia	course	Ukhuda, Korakhai, Khai
+Paneer tikka masala	course	Main
+Aloo mutter	course	Main
+Doodhpak	course	Dessert
+Puri bhaji	course	Breakfast
+Puri bhaji	course	Lunch
+Puri bhaji	course	Snack
+Sev	course	Snack
+Chilli chicken	course	Starter
+Cholermus	course	Supper
+Cholermus	course	Breakfast
+Ta-a noodles	course	Main course
+Kwetiau goreng	course	Main course
+Bauernfrühstück	course	Breakfast
+Dhindo	course	Meal
+Onsen tamago	course	Snack
+Handvo	course	Main course
+Mie ayam	course	Main course
+Nasi bakar	course	Main course
+Nasi timbel	course	Main course
+Es campur	course	Dessert
+Cakalang fufu	course	Main
+Bubur ayam	course	Main, usually for breakfast or late night supper
+Es doger	course	Dessert
+Rengginang	course	Snack
+Bacon sundae	course	Dessert
+Lagane e cicciari	course	Pasta
+Tostada	course	Breakfast
+Talunan	course	Main course
+Kue putu	course	Dessert
+Chammanthi podi	course	condiment
+Senate bean soup	course	Soup
+Nasi kerabu	course	Main course, usually for breakfast
+Gnudi	course	Entrée
+Se'i	course	Main course
+Religieuse	course	Dessert
+Cocido montañés	course	Appetiser or main course
+Aborrajado	course	Hors d'oeuvre
+Pashofa	course	main
+Gajar ka halwa	course	Dessert
+Lontong Cap Go Meh	course	Main course
+Attiéké	course	Side dish
+Bulalo	course	Main course
+Spanisch Brötli	course	Dessert / snack
+Tarasari	course	Prashad
+Frank 'n Stuff	course	Entree
+Kesari bhath	course	Breakfast in Karnataka and dessert in other places
+Ayam penyet	course	Main course
+Milcao	course	Main course
+Milcao	course	Side dish
+Sausage sizzle	course	Snack
+Pieds paquets	course	Main course
+Thin Mints	course	Snack or Dessert
+Caldo tlalpeño	course	Soup
+Milho frito	course	Served with main
+Crab puff	course	Hors d'oeuvre
+Mini Cinnamon Churros	course	Breakfast
+Kalu dodol	course	Dessert
+Aila	course	liquor
+Mute	course	Soup
+Soylent	course	Main course
+Soylent	course	Main course or snack
+Huachinango a la Veracruzana	course	Main
+Aluwa	course	Dessert
+Fish soup bee hoon	course	Soup
+Kuluban	course	Side dish
+Kelan Antep	course	Main course
+Infobox	course	Dessert
+Brown stew chicken	course	Main course
+Pesek Zman	course	Snack food
+Şekerpare	course	Dessert
+Shekarpareh	course	Dessert
+Kabak tatlısı	course	Dessert
+Thalassery Cuisine	course	Main course
+Chả giò	course	Hors d'oeuvre
+Khatti Dal	course	Main
+Kalitsounia	course	Pies
+Tostilocos	course	Snack
+Haliva	course	Main course
+Kol böreği	course	Main course
+Cantiq	course	Main course
+Lörtsy	course	Appetizer, main, dessert
+Zefir	course	Confectionery
+Şöbiyet	course	Dessert
+Hoşmerim	course	Dessert
+İnegöl meatballs	course	Main course
+Valdiviano	course	Main
+Tire meatballs	course	Main course
+Machas a la parmesana	course	Starter, Main
+Akçaabat meatballs	course	Main course
+Dry meatballs	course	Main course
+Semprong	course	Snack
+Wajik	course	Snack
+Sloppy joe	course	Main
+Bubur pedas	course	Dish
+Carciofi alla Romana	course	antipasto, contorno
+Salchichón	course	Sausage
+Alambre	course	Main course
+Bionico	course	Dessert
+Carrot chips	course	Snack
+50 burger	course	Main
+Sans rival	course	Dessert
+Vinegret	course	Zakuski
+Toobs	course	Snack
+Es buah	course	Dessert
+Mie koclok	course	Main
+Assidat Zgougou	course	Dessert
+Tatarsko meatballs	course	Main course
+Varenye	course	Dessert
+Gaston Gérard Chicken	course	Main course
+Pappa al pomodoro	course	Soup
+Locrio	course	Main dishes
+Selat solo	course	Main course
+Ražnjići	course	Main course
+Kutsinta	course	Dessert, merienda, or snack
+Muhallebi	course	Dessert
+Woku	course	Main course
+Macroom Oatmeal	course	Breakfast
+Rica-rica	course	Main course
+Pastila	course	Confectionery
+Katogo	course	Breakfast
+Dabu-dabu	course	Main course
+Empal gepuk	course	Main course
+Keripik sanjay	course	Snack
+Sohan Asali	course	Dessert
+Triple Cooked Chips	course	Appetizer
+Triple Cooked Chips	course	Side dish
+Kevum	course	Dessert
+Mực rang muối	course	Main course
+Pineapple cake	course	Dessert
+Putri salju	course	Snack
+Krupuk kulit	course	Snack and main course
+Krechek	course	Main course
+Mie kocok	course	Main course
+Sabich salad	course	Salad
+Crab in oyster sauce	course	Main course
+Israeli eggplant salad	course	Appetizer
+Israeli eggplant salad	course	Meze
+Nadur Monji	course	Appetizer or snack
+Crab in Padang sauce	course	Main course
+Piaya	course	Dessert
+Muktagachar monda	course	Dessert
+Iga penyet	course	Main course
+Sarsiado	course	Main course
+Mugoyo	course	Main course
+Kwati	course	mixed soup
+Ros omelette	course	Snack food
+Pecel Lele	course	Main course
+Paksiw	course	Main course
+Ube halaya	course	Dessert
+Rosquillo	course	Pastries
+Eshabwe	course	Condiment
+Pathar-ka-Gosht	course	Main
+Kemal Pasha dessert	course	Dessert
+Nevzine dessert	course	Dessert
+Confederate cush	course	Main course / Side dish
+Sutarfeni	course	Dessert
+Khanom phing	course	Dessert
+Pearà	course	Main course
+Gua bao	course	Snack
+Ktzitzot Khubeza	course	Appetizer/Main Dish
+Macaroni Hamin	course	Meal
+Arroz junto	course	Main course
+Kue cucur	course	Dessert
+Halva ice cream	course	Ice cream
+Wachipa	course	Meal
+Talakaya Kura	course	Main
+Golichina Mamsam	course	Main
+Kodi Gudla Pulusu	course	Main
+Barny Cakes	course	Snack/Pudding
+Tahini cookie	course	Dessert
+Nem Nướng̣	course	Hors d'oeuvre
+Chargha	course	Starter or Main Course
+Hao Kuih	course	Snack
+Mie kangkung	course	Main
+Rustico	course	Appetizer, Snack
+Axoa	course	Main dish
+Banku	course	Pepper, Stew, Soup
+Kokonte	course	Stew, Soup
+Nobó	course	Dessert
+Akyeke	course	2
+Malewa	course	Main course
+Sobolo	course	Biscuit,Cake
+Pasta con le sarde	course	Main course
+Tortelli cremaschi	course	first
+Torta Bertolina	course	Dessert
+Bombolonas	course	Snack or dessert
+Chabrot	course	at the end of the soup
+Ghoriba	course	Dessert
+Sorshe Ilish	course	Main course
+Pholourie	course	Side dish or snack
+Bolo de Arroz	course	Dessert
+Chips and dip	course	Appetizer
+Chips and dip	course	Side dish
+Murgh Musallam	course	Main course
+Chingri malai curry	course	Main course
+Green mango chutney	course	Dessert
+Mutton curry	course	Main course
+Mango sticky rice	course	Dessert
+Arem-arem	course	Main course
+Kue lapis	course	Dessert
+Kue bugis	course	Dessert
+Ayam masak merah	course	Main course
+Stir fried water spinach	course	Main
+Kue ape	course	Snack
+Kue mangkok	course	Dessert
+Kue satu	course	Snack
+Dadar gulung	course	Snack
+Sholezard	course	Dessert
+Mana	course	Fits as any course of a day
+Stracciatella	course	First course
+Avocado salad	course	Salad
+Khiramohana	course	Dessert
+Haggis pakora	course	Hors d'oeuvre or snack
+Odiyal	course	Snack
+Ketupat	course	Main course
+Har gow	course	Dim sum
+Crab Rangoon	course	Appetizer
+Cifantuan	course	Breakfast, Dim sum
+Lo mai gai	course	Dim sum
+Spring roll	course	Hors d'oeuvre
+Lumpia	course	Main course or snack
+Crispy fried chicken	course	Main dishes
+Buddha's delight	course	Main dishes
+Tursu	course	Hors d'oeuvre
+Guoba	course	Snack
+Beef chow fun	course	Main dishes
+Cart noodle	course	Main course
+Hot pot	course	Main dishes
+Wonton	course	Entree
+Jiaozi	course	Normally as an entree
+Wonton noodles	course	Main course
+Ayam goreng	course	Main course
+Ayam bakar	course	Main course
+Asam pedas	course	Main course
+Fish cracker	course	Snack
+Prawn cracker	course	Snack
+Gado-gado	course	main course
+Karedok	course	Main course
+Krupuk	course	Snack
+Sate Lilit	course	Main course or appetizer
+Gulai	course	Main
+Kabanos	course	Appetizer, main
+Nasi campur	course	Main course
+Nasi gurih	course	Main course
+Lawar	course	main course
+Betutu	course	main course
+Kripik	course	Snack
+Sambal	course	Condiments
+Ikan bakar	course	Main course
+Soto	course	Main course
+Ikan goreng	course	Main course
+Mie aceh	course	Main course
+Vada	course	Breakfast
+Vada	course	Snack
+Lady Baltimore cake	course	Dessert
+Jeera aloo	course	Side dish
+Sofrito	course	Stew
+Dag Meoushan	course	Meze
+Crespéou	course	Main
+Porotos granados	course	Main
+Clementine cake	course	Dessert
+Rinflajš	course	Main course
+Huel	course	Main course
+Katong Laksa	course	Main course
+Vegetarian bee hoon	course	Main course
+Teochew porridge	course	Main course
+Rojak bandung	course	Main course
+Mathura peda	course	Dessert
+Mathura peda	course	Prasadam
+Crab been hoon	course	Main course
+Beef kway teow	course	Main course
+Narsobawadi Basundi	course	Dessert
+Hainanese curry rice	course	Main course
+Pancit Molo	course	Main course
+Daab Chingri	course	Main course
+Conversation tart	course	Dessert
+Saleeg	course	Main
+Pollo al disco	course	Main meal
+Serradura	course	Dessert
+Medu vada	course	Breakfast
+Pozharsky cutlet	course	Main course
+Krupenik	course	Main dish or dessert
+Sop saudara	course	Main
+Indori Poha	course	Snack
+Mamuang kuan	course	Dessert
+Seblak	course	main or snack
+Chicken Picasso	course	main
+Tauge goreng	course	main or snack
+Butterfly pea flower tea	course	Drink
+Tarte Tropézienne	course	Dessert
+Tarte Tropézienne	course	Pastry
+Peremech	course	Appetizer, main
+Hertzoggie	course	Dessert
+Bar One	course	Snack
+Sai bhaji	course	Main course
+Binaki	course	Dessert
+Binaki	course	Snack
+Seada	course	Dessert
+Ayam masak kicap	course	Main course
+Babi kecap	course	Main course
+Sekba	course	Main course
+Mangalorean Chicken Sukka	course	Main Course
+Fah-fah	course	Lunch
+Countess	course	Dessert
+Dizé milé	course	Dessert
+Winter ice cream	course	Snack

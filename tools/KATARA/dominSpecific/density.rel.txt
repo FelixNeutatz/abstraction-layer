@@ -1,160 +1,170 @@
-Adrastea (moon)	density	860.0
-Carme (moon)	density	2600.0
-Earth	density	5515.0
-Lysithea (moon)	density	2600.0
-Mercury (planet)	density	5427.0
-Nereid (moon)	density	1500.0
-Naiad (moon)	density	1300.0
-Venus	density	5204.0
-Jupiter	density	1326.0
-Europa (moon)	density	3010.0
-Triton (moon)	density	2061.0
-Saturn	density	687.0
-Uranus	density	1270.0
-Metis (moon)	density	860.0
-4 Vesta	density	3420.0
-4179 Toutatis	density	2100.0
-253 Mathilde	density	1300.0
-2 Pallas	density	2800.0
-588 Achilles	density	2000.0
-Phobos (moon)	density	1876.0
-Puck (moon)	density	1300.0
-Ganymede (moon)	density	1936.0
-Deimos (moon)	density	1471.0
-Cordelia (moon)	density	1300.0
-Ophelia (moon)	density	1300.0
-Bianca (moon)	density	1300.0
-Cressida (moon)	density	1300.0
-Desdemona (moon)	density	1300.0
-Juliet (moon)	density	1300.0
-Rosalind (moon)	density	1300.0
-Belinda (moon)	density	1300.0
-Thebe (moon)	density	860.0
-Leda (moon)	density	2600.0
-Proteus (moon)	density	1300.0
-141 Lumen	density	1400.0
-Caliban (moon)	density	1300.0
-Elara (moon)	density	2600.0
-Himalia (moon)	density	2600.0
-Himalia (moon)	density	1630.0
-Ananke (moon)	density	2600.0
-Pasiphaë (moon)	density	2600.0
-Sinope (moon)	density	2600.0
-Larissa (moon)	density	1200.0
-20000 Varuna	density	992.0
-5 Astraea	density	3300.0
-944 Hidalgo	density	2000.0
-Themisto (moon)	density	2600.0
-Setebos (moon)	density	1300.0
-21 Lutetia	density	3400.0
-19P/Borrelly	density	300.0
-Portia (moon)	density	1300.0
-Sycorax (moon)	density	1300.0
-Prospero (moon)	density	1300.0
-Thalassa (moon)	density	1200.0
-Despina (moon)	density	1200.0
-Galatea (moon)	density	750.0
-Tempel 1	density	620.0
-2685 Masursky	density	2700.0
-762 Pulcova	density	900.0
-1036 Ganymed	density	2000.0
-Iocaste (moon)	density	2600.0
-Stephano (moon)	density	1300.0
-Trinculo (moon)	density	1300.0
-6489 Golevka	density	2700.0
-(66391) 1999 KW4	density	2000.0
-2984 Chaucer	density	2000.0
-8 Flora	density	3300.0
-37 Fides	density	2000.0
-38 Leda	density	2000.0
-43 Ariadne	density	2700.0
-44 Nysa	density	2000.0
-61 Danaë	density	1100.0
-85 Io	density	1400.0
-100 Hekate	density	2700.0
-101 Helena	density	2000.0
-107 Camilla    1	density	1900.0
-108 Hecuba	density	2700.0
-125 Liberatrix	density	2000.0
-142 Polana	density	2000.0
-143 Adria	density	2000.0
-144 Vibilia	density	2000.0
-146 Lucina	density	2000.0
-147 Protogeneia	density	2000.0
-Perdita (moon)	density	1300.0
-145 Adeona	density	2000.0
-148 Gallia	density	2000.0
-149 Medusa	density	2000.0
-159 Aemilia	density	1400.0
-Cupid (moon)	density	1300.0
-Mab (moon)	density	1300.0
-Francisco (moon)	density	1300.0
-Margaret (moon)	density	1300.0
-Ferdinand (moon)	density	1300.0
-516 Amherstia	density	2000.0
-(6178) 1986 DA	density	5000.0
-Io (moon)	density	3528.0
-532 Herculina	density	4000.0
-244 Sita	density	2700.0
-258 Tyche	density	2700.0
-281 Lucretia	density	2700.0
-291 Alice	density	2700.0
-292 Ludovica	density	2700.0
-324 Bamberga	density	1800.0
-333 Badenia	density	1400.0
-341 California	density	2700.0
-352 Gisela	density	2700.0
-379 Huenna	density	1200.0
-390 Alma	density	2700.0
-501 Urhixidur	density	2000.0
-Makemake (dwarf planet)	density	2000.0
-1998 WW31	density	1500.0
-38628 Huya	density	2000.0
-(47171) 1999 TC36	density	542.0
-2002 Euler	density	2000.0
-617 Patroclus	density	800.0
-4349 Tibúrcio	density	2000.0
-538 Friederike	density	1400.0
-630 Euphemia	density	2700.0
-741 Botolphia	density	2000.0
-804 Hispania	density	4900.0
-817 Annika	density	2700.0
-867 Kovacia	density	1400.0
-1313 Berna	density	1100.0
-(55636) 2002 TX300	density	1000.0
-Hi'iaka (moon)	density	1000.0
-1322 Coppernicus	density	1100.0
-Linus (moon)	density	3400.0
-58534 Logos	density	1000.0
-1999 Hirayama	density	2000.0
-2006 SU49	density	2600.0
-(208996) 2003 AZ84	density	2000.0
-(79360) 1997 CS29	density	2000.0
-2006 XG1	density	2600.0
-(19255) 1994 VK8	density	2000.0
-Geology of Mars	density	3934.0
-(15809) 1994 JS	density	2000.0
-2007 CA19	density	2600.0
-1404 Ajax	density	2000.0
-1437 Diomedes	density	2000.0
-1583 Antilochus	density	2000.0
-1647 Menelaus	density	2000.0
-1749 Telamon	density	2000.0
-2260 Neoptolemus	density	2000.0
-2456 Palamedes	density	2000.0
-2759 Idomeneus	density	2000.0
-2797 Teucer	density	2000.0
-2920 Automedon	density	2000.0
-3063 Makhaon	density	2000.0
-3548 Eurybates	density	2000.0
-3564 Talthybius	density	2000.0
-3709 Polypoites	density	2000.0
-65489 Ceto	density	1370.0
-2003 UZ413	density	2000.0
-Neptune	density	1638.0
-951 Gaspra	density	2700.0
-(145480) 2005 TB190	density	2000.0
-(126154) 2001 YH140	density	2000.0
-(248835) 2006 SX368	density	1000.0
-(55638) 2002 VE95	density	2000.0
-2002 XV93	density	2000.0
+Carme	density	2.6
+Lysithea	density	2.6
+Naiad	density	~1.3 g/cm³
+Okinawa Prefecture	density	622
+Metis	density	~0.86 g/cm3
+4769 Castalia	density	2.1
+253 Mathilde	density	1.3
+4179 Toutatis	density	2.1
+Puck	density	~1.3 g/cm³
+Hokkaido	density	64.49
+Akita Prefecture	density	88
+Ehime Prefecture	density	251.93
+Aomori Prefecture	density	154
+Kanagawa Prefecture	density	3770
+Kōchi Prefecture	density	106.68
+Cordelia	density	~1.3 g/cm³
+Ophelia	density	~1.3 g/cm³
+Desdemona	density	~1.3 g/cm³
+Bianca	density	~1.3 g/cm³
+Cressida	density	~1.3 g/cm³
+Juliet	density	~1.3 g/cm³
+Belinda	density	~1.3 g/cm³
+Rosalind	density	~1.3 g/cm³
+Leda	density	2.6
+Proteus	density	≈&thinsp;1.3 g/cm³
+	density	>3.5 g/cm³
+Wakayama Prefecture	density	209.49
+Nara Prefecture	density	378.43
+Kyoto Prefecture	density	566
+Mie Prefecture	density	313.05
+Nagano Prefecture	density	158.14
+Hiroshima Prefecture	density	337.15
+Chiba Prefecture	density	1209.53
+Saga Prefecture	density	344.1
+Fukuoka Prefecture	density	1020.26
+Yamanashi Prefecture	density	189
+Tochigi Prefecture	density	307.27
+Saitama Prefecture	density	1893.82
+Ibaraki Prefecture	density	486.28
+Shizuoka Prefecture	density	485.17
+Ishikawa Prefecture	density	279.3
+Niigata Prefecture	density	188.48
+141 Lumen	density	~1.4 g/cm³ &thinsp;
+141 Lumen	density	6.95
+Yamaguchi Prefecture	density	236.58
+Yamagata Prefecture	density	125.1
+Toyama Prefecture	density	260
+Tottori Prefecture	density	163
+Kagawa Prefecture	density	523.2
+Iwate Prefecture	density	90
+Shimane Prefecture	density	102.85
+Caliban	density	~1.3 g/cm³
+Pasiphae	density	2.6
+Ananke	density	2.6
+Himalia	density	2.6
+Himalia	density	1.63
+Elara	density	2.6
+Sinope	density	2.6
+Fukui Prefecture	density	189.93
+Fukushima Prefecture	density	154
+Gunma Prefecture	density	310
+Kagoshima Prefecture	density	179.57
+Kumamoto Prefecture	density	244.76
+Nagasaki Prefecture	density	351
+Miyazaki Prefecture	density	168.81
+Ōita Prefecture	density	185.82
+Larissa	density	~1.2 g/cm³
+5 Astraea	density	~3.3 g/cm³
+Aichi Prefecture	density	1454.94
+Themisto	density	2.6
+Setebos	density	~1.3 g/cm³
+Borrelly	density	0.3
+Portia	density	~1.3 g/cm³
+Sycorax	density	~1.3 g/cm³
+Prospero	density	~1.3 g/cm³
+Thalassa	density	~1.2 g/cm³
+Galatea	density	~0.75 g/cm³
+Despina	density	~1.2 g/cm³
+Tempel 1	density	0.62
+2685 Masursky	density	~2.7 g/cm³
+762 Pulcova	density	0.9
+Iocaste	density	2.6
+Stephano	density	~1.3 g/cm3
+Trinculo	density	~1.3 g/cm3
+	density	2.0
+8 Flora	density	3.13
+8 Flora	density	~3.3 g/cm³
+37 Fides	density	2.0
+41 Daphne	density	~1.95 g/cm³
+43 Ariadne	density	~2.7 g/cm³
+43 Ariadne	density	8.99
+44 Nysa	density	2.0
+85 Io	density	~&thinsp;1.4 g/cm³
+93 Minerva	density	1.9
+100 Hekate	density	~2.7 g/cm³
+101 Helena	density	2.0
+108 Hecuba	density	~2.7 g/cm³
+107 Camilla	density	1.4
+107 Camilla	density	~1.9 g/cm³
+125 Liberatrix	density	2.0
+Perdita	density	~1.3 g/cm³
+146 Lucina	density	2.0
+143 Adria	density	2.0
+149 Medusa	density	2.0
+155 Scylla	density	2.0
+157 Dejanira	density	2.0
+159 Aemilia	density	~1.4 g/cm³
+Cupid	density	~1.3 g/cm³
+Mab	density	~1.3 g/cm³
+Margaret	density	~1.3 g/cm3
+Francisco	density	~1.3 g/cm3
+Ferdinand	density	~1.3 g/cm3
+516 Amherstia	density	2.0
+532 Herculina	density	~4 g/cm³
+244 Sita	density	~2.7 g/cm³ &thinsp;
+258 Tyche	density	~&thinsp;2.7 g/cm³
+292 Ludovica	density	~2.7 g/cm³ &thinsp;
+281 Lucretia	density	~2.7 g/cm³ &thinsp;
+291 Alice	density	~2.7 g/cm³ &thinsp;
+341 California	density	~2.7 g/cm³ &thinsp;
+333 Badenia	density	~1.4 g/cm³
+352 Gisela	density	~2.7 g/cm³ &thinsp;
+379 Huenna	density	0.9
+379 Huenna	density	1.2
+390 Alma	density	~2.7 g/cm³
+501 Urhixidur	density	2.0
+Haumea	density	2.6
+1998 WW31	density	1.5
+2002 Euler	density	2.0
+538 Friederike	density	~1.4 g/cm³
+630 Euphemia	density	~2.7 g/cm³
+741 Botolphia	density	2.0
+804 Hispania	density	2.93
+804 Hispania	density	4.9
+817 Annika	density	~2.7 g/cm³
+867 Kovacia	density	~1.4 g/cm³
+1322 Coppernicus	density	1.1
+Linus	density	3.4
+58534 Logos	density	1.0
+3671 Dionysus	density	1.6
+79360 Sila–Nunam	density	0.72
+	density	2.0
+2007 CA19	density	2.6
+1583 Antilochus	density	2.0
+2456 Palamedes	density	2.0
+2260 Neoptolemus	density	2.0
+2759 Idomeneus	density	2.0
+2920 Automedon	density	2.0
+2797 Teucer	density	2.0
+3063 Makhaon	density	2.0
+3548 Eurybates	density	2.0
+3564 Talthybius	density	2.0
+951 Gaspra	density	~2.7 g/cm³
+2008 TC3	density	~1.5 g/cm3
+Vanth	density	≈&thinsp;1.5 g/cm3
+	density	1.0
+2002 XV93	density	2.0
+	density	> 1.21 g/cm3
+History of Kumamoto Prefecture	density	249
+History of Kagoshima Prefecture	density	186.52
+History of Miyazaki Prefecture	density	168.81
+2011 MD	density	~1 g/cm³
+	density	1.89
+	density	1.0
+	density	1.8
+2008 OG19	density	0.6
+2009 BD	density	∼640 kg/m3
+Miyagi Prefecture	density	318.64
+WT1190F	density	~
+341520 Mors–Somnus	density	>0.5 g/cm3

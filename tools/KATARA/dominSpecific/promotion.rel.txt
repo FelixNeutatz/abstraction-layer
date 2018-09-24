@@ -1,680 +1,414 @@
-Royal Rumble (2004)	promotion	WWE
-WrestleMania XX	promotion	WWE
-WrestleMania 21	promotion	WWE
+Royal Rumble	promotion	World Wrestling Entertainment
+WrestleMania XX	promotion	World Wrestling Entertainment
+WrestleMania 21	promotion	World Wrestling Entertainment
 WrestleMania I	promotion	WWE
 WrestleMania III	promotion	WWE
 WrestleMania 2	promotion	WWE
 WCW World War 3	promotion	World Championship Wrestling
-WCW World War 3  1996   1	promotion	World Championship Wrestling
-WCW World War 3  1997   1	promotion	World Championship Wrestling
-WCW World War 3  1998   1	promotion	World Championship Wrestling
 WrestleMania X8	promotion	WWE
-WrestleMania XIX	promotion	WWE
+WrestleMania XIX	promotion	World Wrestling Entertainment
 WrestleMania X	promotion	WWE
-WrestleMania XV	promotion	WWE
 WrestleMania XIV	promotion	WWE
+WrestleMania XV	promotion	WWE
 WrestleMania X-Seven	promotion	WWE
 Bash at the Beach	promotion	World Championship Wrestling
-Bash at the Beach  1995   1	promotion	World Championship Wrestling
-Bash at the Beach  1997   1	promotion	World Championship Wrestling
-Bash at the Beach  1998   1	promotion	World Championship Wrestling
-Bash at the Beach  1999   1	promotion	World Championship Wrestling
-Bash at the Beach  2000   1	promotion	World Championship Wrestling
 WrestleMania 13	promotion	WWE
-Royal Rumble (2005)	promotion	WWE
+Royal Rumble	promotion	World Wrestling Entertainment
 WrestleMania IV	promotion	WWE
-WrestleMania VI	promotion	WWE
 WrestleMania V	promotion	WWE
-WrestleMania IX	promotion	WWE
-WrestleMania VII	promotion	WWE
 WrestleMania VIII	promotion	WWE
+WrestleMania VI	promotion	WWE
 WrestleMania XII	promotion	WWE
 WrestleMania XI	promotion	WWE
-Starrcade	promotion	World Championship Wrestling
-Starrcade  1994   1	promotion	World Championship Wrestling
-Starrcade  1995   1	promotion	World Championship Wrestling
-No Holds Barred (1989 film)  No Holds Barred: The Match/The Movie   1	promotion	WWE
-WrestleMania 22	promotion	WWE
-WrestleMania 2000	promotion	WWE
+WrestleMania IX	promotion	WWE
+WrestleMania VII	promotion	WWE
+No Holds Barred	promotion	WWE
+WrestleMania 22	promotion	World Wrestling Entertainment
+WrestleMania 2000	promotion	World Wrestling Federation
 WCW Greed	promotion	World Championship Wrestling
 Road Wild	promotion	World Championship Wrestling
-Road Wild  1997   1	promotion	World Championship Wrestling
-Road Wild  1998   1	promotion	World Championship Wrestling
-Road Wild  1999   1	promotion	World Championship Wrestling
-Slamboree	promotion	World Championship Wrestling
-Slamboree  1995   1	promotion	World Championship Wrestling
-Slamboree  1996   1	promotion	World Championship Wrestling
-Slamboree  1997   1	promotion	World Championship Wrestling
-Slamboree  1998   1	promotion	World Championship Wrestling
-Slamboree  1999   1	promotion	World Championship Wrestling
-Slamboree  2000   1	promotion	World Championship Wrestling
 Capital Combat	promotion	National Wrestling Alliance
 Souled Out	promotion	World Championship Wrestling
-Souled Out  1998   1	promotion	World Championship Wrestling
-Souled Out  1999   1	promotion	World Championship Wrestling
-Souled Out  2000   1	promotion	World Championship Wrestling
-WrestleWar	promotion	National Wrestling Alliance
-WrestleWar  1990   1	promotion	National Wrestling Alliance
-WrestleWar  1991   1	promotion	World Championship Wrestling
-WrestleWar  1992   1	promotion	World Championship Wrestling
+Slamboree	promotion	World Championship Wrestling
 SuperBrawl	promotion	World Championship Wrestling
-SuperBrawl  III   1	promotion	World Championship Wrestling
-SuperBrawl  IV   1	promotion	World Championship Wrestling
-SuperBrawl  V   1	promotion	World Championship Wrestling
-SuperBrawl  VI   1	promotion	World Championship Wrestling
-SuperBrawl  VII   1	promotion	World Championship Wrestling
-SuperBrawl  VIII   1	promotion	World Championship Wrestling
-SuperBrawl  IX   1	promotion	World Championship Wrestling
-SuperBrawl  2000   1	promotion	World Championship Wrestling
-SuperBrawl  Revenge   1	promotion	World Championship Wrestling
 Fall Brawl	promotion	World Championship Wrestling
-Fall Brawl  1994   1	promotion	World Championship Wrestling
-Fall Brawl  1995   1	promotion	World Championship Wrestling
-Fall Brawl  1996   1	promotion	World Championship Wrestling
-Fall Brawl  1997   1	promotion	World Championship Wrestling
-Fall Brawl  1998   1	promotion	World Championship Wrestling
-Fall Brawl  1999   1	promotion	World Championship Wrestling
-Fall Brawl  2000   1	promotion	World Championship Wrestling
 Halloween Havoc	promotion	National Wrestling Alliance
-Halloween Havoc  1990   1	promotion	National Wrestling Alliance
-Halloween Havoc  1991   1	promotion	World Championship Wrestling
-Halloween Havoc  1992   1	promotion	World Championship Wrestling
-Halloween Havoc  1993   1	promotion	World Championship Wrestling
-Halloween Havoc  1994   1	promotion	World Championship Wrestling
-Halloween Havoc  1995   1	promotion	World Championship Wrestling
-Halloween Havoc  1996   1	promotion	World Championship Wrestling
-Halloween Havoc  1997   1	promotion	World Championship Wrestling
-Halloween Havoc  1998   1	promotion	World Championship Wrestling
-Halloween Havoc  1999   1	promotion	World Championship Wrestling
-Halloween Havoc  2000   1	promotion	World Championship Wrestling
-New Blood Rising	promotion	World Championship Wrestling
+Halloween Havoc	promotion	World Championship Wrestling
 Chi-Town Rumble	promotion	National Wrestling Alliance
+New Blood Rising	promotion	World Championship Wrestling
 Spring Stampede	promotion	World Championship Wrestling
-Spring Stampede  1997   1	promotion	World Championship Wrestling
-Spring Stampede  1998   1	promotion	World Championship Wrestling
-Spring Stampede  1999   1	promotion	World Championship Wrestling
-Spring Stampede  2000   1	promotion	World Championship Wrestling
-WCW Mayhem	promotion	World Championship Wrestling
-WCW Mayhem  ayhem 2000   1	promotion	World Championship Wrestling
-Uncensored	promotion	World Championship Wrestling
-Uncensored  1996   1	promotion	World Championship Wrestling
-Uncensored  1997   1	promotion	World Championship Wrestling
-Uncensored  1998   1	promotion	World Championship Wrestling
-Uncensored  1999   1	promotion	World Championship Wrestling
-Uncensored  2000   1	promotion	World Championship Wrestling
-Beach Blast	promotion	World Championship Wrestling
-Beach Blast  1993   1	promotion	World Championship Wrestling
+WCW Uncensored	promotion	World Championship Wrestling
+WCW Uncensored	promotion	World Championship Wrestling
 Battlebowl	promotion	World Championship Wrestling
+WCW Mayhem	promotion	World Championship Wrestling
 WCW Sin	promotion	World Championship Wrestling
-Living Dangerously	promotion	Extreme Championship Wrestling
-Living Dangerously  1999   1	promotion	Extreme Championship Wrestling
-Living Dangerously  2000   1	promotion	Extreme Championship Wrestling
+November to Remember	promotion	National Wrestling Alliance
 November to Remember	promotion	Extreme Championship Wrestling
-November to Remember  1998   1	promotion	Extreme Championship Wrestling
-November to Remember  1999   1	promotion	Extreme Championship Wrestling
-November to Remember  2000   1	promotion	Extreme Championship Wrestling
+Living Dangerously	promotion	Extreme Championship Wrestling
 Showdown at Shea	promotion	WWE
-Showdown at Shea  1976   1	promotion	WWE
-Showdown at Shea  1980   1	promotion	WWE
 Parade of Champions	promotion	World Class Championship Wrestling
-Parade of Champions  1	promotion	World Class Championship Wrestling
-Parade of Champions  2	promotion	World Class Championship Wrestling
-Parade of Champions  3	promotion	World Class Championship Wrestling
-Parade of Champions  4	promotion	World Class Championship Wrestling
-Parade of Champions  5	promotion	World Class Championship Wrestling
 TNA Sacrifice	promotion	Total Nonstop Action Wrestling
-TNA Sacrifice  2006   1	promotion	Total Nonstop Action Wrestling
-TNA Sacrifice  2007   1	promotion	Total Nonstop Action Wrestling
 Final Resolution	promotion	Total Nonstop Action Wrestling
-Final Resolution  2007   1	promotion	Total Nonstop Action Wrestling
-Final Resolution  January 2008   1	promotion	Total Nonstop Action Wrestling
 WWF Invasion	promotion	WWE
-WWF Invasion	promotion	World Championship Wrestling
-WWF Invasion	promotion	Extreme Championship Wrestling
 This Tuesday in Texas	promotion	WWE
-WWF The Wrestling Classic	promotion	WWE
+The Wrestling Classic	promotion	WWE
 WWE Rebellion	promotion	WWE
-WWE Rebellion  2000   1	promotion	WWE
-WWE Rebellion  2001   1	promotion	WWE
-WWE Rebellion  2002   1	promotion	WWE
-WWE Insurrextion	promotion	WWE
-WWE Insurrextion  2001   1	promotion	WWE
-WWE Insurrextion  2002   1	promotion	WWE
-WWE Insurrextion  2003   1	promotion	WWE
-WWF Mayhem in Manchester	promotion	WWE
+WWE Rebellion	promotion	World Wrestling Federation
+WWE Insurrextion	promotion	World Wrestling Entertainment
+WWE Insurrextion	promotion	World Wrestling Federation
 WWF One Night Only	promotion	WWE
 TNA Unbreakable	promotion	Total Nonstop Action Wrestling
-Hard Justice	promotion	Total Nonstop Action Wrestling
-Hard Justice  2006   1	promotion	Total Nonstop Action Wrestling
-Hard Justice  2007   1	promotion	Total Nonstop Action Wrestling
+TNA Lockdown	promotion	Total Nonstop Action Wrestling
+Hardcore Justice	promotion	Total Nonstop Action Wrestling
 SuperClash	promotion	American Wrestling Association
-SuperClash  2   1	promotion	American Wrestling Association
-SuperClash  III   1	promotion	American Wrestling Association
-SuperClash  4   1	promotion	American Wrestling Association
 TNA Genesis	promotion	Total Nonstop Action Wrestling
-TNA Genesis  2006   1	promotion	Total Nonstop Action Wrestling
 TNA Turning Point	promotion	Total Nonstop Action Wrestling
-TNA Turning Point  urning Point 2006   1	promotion	Total Nonstop Action Wrestling
-TNA Turning Point  urning Point 2007   1	promotion	Total Nonstop Action Wrestling
-Universal Wrestling Federation (Herb Abrams)  Beach Brawl   1	promotion	Universal Wrestling Federation (Bill Watts)
-Universal Wrestling Federation (Herb Abrams)  Blackjack Brawl   1	promotion	Universal Wrestling Federation (Bill Watts)
+Universal Wrestling Federation	promotion	Universal Wrestling Federation
 TNA Against All Odds	promotion	Total Nonstop Action Wrestling
-TNA Against All Odds  2007   1	promotion	Total Nonstop Action Wrestling
-TNA Against All Odds  2008   1	promotion	Total Nonstop Action Wrestling
-Destination X	promotion	Total Nonstop Action Wrestling
-Destination X  2007   1	promotion	Total Nonstop Action Wrestling
 TNA Victory Road	promotion	Total Nonstop Action Wrestling
-TNA Victory Road  2007   1	promotion	Total Nonstop Action Wrestling
+Destination X	promotion	Total Nonstop Action Wrestling
 TNA No Surrender	promotion	Total Nonstop Action Wrestling
-TNA No Surrender  2006   1	promotion	Total Nonstop Action Wrestling
-TNA No Surrender  2007   1	promotion	Total Nonstop Action Wrestling
-Slammiversary (2005)	promotion	Total Nonstop Action Wrestling
-Bound for Glory (2005)	promotion	Total Nonstop Action Wrestling
+Slammiversary	promotion	Total Nonstop Action Wrestling
+Bound for Glory	promotion	Total Nonstop Action Wrestling
 AAA When Worlds Collide	promotion	Asistencia Asesoría y Administración
-AAA When Worlds Collide	promotion	World Championship Wrestling
-January 4 Dome Show	promotion	World Championship Wrestling
-January 4 Dome Show	promotion	New Japan Pro Wrestling
-January 4 Dome Show  Fantastic Story in Tokyo Dome   1	promotion	New Japan Pro Wrestling
-January 4 Dome Show  Battlefield   1	promotion	New Japan Pro Wrestling
-January 4 Dome Show  Battle 7   1	promotion	New Japan Pro Wrestling
-January 4 Dome Show  restling World 1996   1	promotion	New Japan Pro Wrestling
-January 4 Dome Show  restling World 1997   1	promotion	New Japan Pro Wrestling
-January 4 Dome Show  Final Power Hall in Tokyo Dome   1	promotion	New Japan Pro Wrestling
-January 4 Dome Show  restling World 1999   1	promotion	New Japan Pro Wrestling
-January 4 Dome Show  restling World 2000   1	promotion	New Japan Pro Wrestling
-January 4 Dome Show  restling World 2001   1	promotion	New Japan Pro Wrestling
-January 4 Dome Show  restling World 2002   1	promotion	New Japan Pro Wrestling
-January 4 Dome Show  restling World 2003   1	promotion	New Japan Pro Wrestling
-January 4 Dome Show  restling World 2004   1	promotion	New Japan Pro Wrestling
-January 4 Dome Show  Toukon Festival ~ Wrestling World 2005   1	promotion	New Japan Pro Wrestling
-January 4 Dome Show  Toukon Shidou Chapter 1   1	promotion	New Japan Pro Wrestling
-January 4 Dome Show  restle Kingdom in Tokyo Dome   1	promotion	New Japan Pro Wrestling
-January 4 Dome Show  restle Kingdom II in Tokyo Dome   1	promotion	New Japan Pro Wrestling
-January 4 Dome Show  restle Kingdom III in Tokyo Dome   1	promotion	New Japan Pro Wrestling
-January 4 Dome Show  restle Kingdom IV in Tokyo Dome   1	promotion	New Japan Pro Wrestling
-January 4 Dome Show  restle Kingdom V in Tokyo Dome   1	promotion	New Japan Pro Wrestling
-Royal Rumble (2006)	promotion	WWE
-Royal Rumble (2003)	promotion	WWE
-International Pro Wrestling: United Kingdom  National Under 23's Championship   1	promotion	International Pro Wrestling: United Kingdom#British Wrestling United
-WrestleMania 23	promotion	WWE
-Pride Shockwave 2005	promotion	Pride Fighting Championships
-Slammiversary (2006)	promotion	Total Nonstop Action Wrestling
-Royal Rumble (2007)	promotion	WWE
+January 4 Tokyo Dome Show	promotion	New Japan Pro Wrestling
+Royal Rumble	promotion	World Wrestling Entertainment
+Royal Rumble	promotion	World Wrestling Entertainment
+WrestleMania 23	promotion	World Wrestling Entertainment
+Slammiversary	promotion	Total Nonstop Action Wrestling
+Royal Rumble	promotion	World Wrestling Entertainment
 ECW Barely Legal	promotion	Extreme Championship Wrestling
-WrestleMania XXIV	promotion	WWE
-Pride Total Elimination Absolute	promotion	Pride Fighting Championships
+WrestleMania XXIV	promotion	World Wrestling Entertainment
 Guilty as Charged	promotion	Extreme Championship Wrestling
-Guilty as Charged  2000   1	promotion	Extreme Championship Wrestling
-Guilty as Charged  2001   1	promotion	Extreme Championship Wrestling
 Wrestlepalooza	promotion	Extreme Championship Wrestling
 Hardcore Heaven	promotion	Extreme Championship Wrestling
-Hardcore Heaven  1999   1	promotion	Extreme Championship Wrestling
-Hardcore Heaven  2000   1	promotion	Extreme Championship Wrestling
 Superbowl of Wrestling	promotion	National Wrestling Alliance
 Superbowl of Wrestling	promotion	National Wrestling Federation
-Superbowl of Wrestling    1	promotion	National Wrestling Alliance
-Superbowl of Wrestling    1	promotion	WWE
-Superbowl of Wrestling    1	promotion	Championship Wrestling from Florida
+Superbowl of Wrestling	promotion	World Wrestling Entertainment
+Superbowl of Wrestling	promotion	Championship Wrestling from Florida
 Massacre on 34th Street	promotion	Extreme Championship Wrestling
 ECW Heat Wave	promotion	Extreme Championship Wrestling
-ECW Heat Wave  1998   1	promotion	Extreme Championship Wrestling
-ECW Heat Wave  1999   1	promotion	Extreme Championship Wrestling
-ECW Heat Wave  2000   1	promotion	Extreme Championship Wrestling
-Bound for Glory (2006)	promotion	Total Nonstop Action Wrestling
-Pride 31	promotion	Pride Fighting Championships
-Pride 30	promotion	Pride Fighting Championships
-Pride Bushido 10	promotion	Pride Fighting Championships
-Pride Shockwave	promotion	Pride Fighting Championships
-Pride Shockwave	promotion	K-1
-Pride 29	promotion	Pride Fighting Championships
-Pride Bushido Survival 2006	promotion	Pride Fighting Championships
-SummerSlam (1988)	promotion	WWE
-SummerSlam (2007)	promotion	WWE
-SummerSlam (2006)	promotion	WWE
-SummerSlam (1989)	promotion	WWE
-SummerSlam (1990)	promotion	WWE
-SummerSlam (1991)	promotion	WWE
-SummerSlam (1993)	promotion	WWE
-SummerSlam (1992)	promotion	WWE
-SummerSlam (1996)	promotion	WWE
-SummerSlam (1995)	promotion	WWE
-SummerSlam (1997)	promotion	WWE
-SummerSlam (1999)	promotion	WWE
-SummerSlam (1998)	promotion	WWE
-SummerSlam (1994)	promotion	WWE
-SummerSlam (2001)	promotion	WWE
-SummerSlam (2000)	promotion	WWE
-SummerSlam (2002)	promotion	WWE
-SummerSlam (2003)	promotion	WWE
-SummerSlam (2004)	promotion	WWE
-SummerSlam (2005)	promotion	WWE
-Royal Rumble (1988)	promotion	WWE
-Royal Rumble (2002)	promotion	WWE
-Royal Rumble (2001)	promotion	WWE
-Royal Rumble (2000)	promotion	WWE
-Royal Rumble (1999)	promotion	WWE
-Royal Rumble (1998)	promotion	WWE
-Royal Rumble (1996)	promotion	WWE
-Royal Rumble (1997)	promotion	WWE
-Royal Rumble (1995)	promotion	WWE
-Royal Rumble (1994)	promotion	WWE
-Royal Rumble (1992)	promotion	WWE
-Royal Rumble (1991)	promotion	WWE
-Royal Rumble (1993)	promotion	WWE
-Royal Rumble (1989)	promotion	WWE
-Royal Rumble (1990)	promotion	WWE
-Pride Total Elimination 2005	promotion	Pride Fighting Championships
-Pride Critical Countdown 2005	promotion	Pride Fighting Championships
-Pride Final Conflict 2005	promotion	Pride Fighting Championships
-Survivor Series (1987)	promotion	WWE
-Survivor Series (1988)	promotion	WWE
-Survivor Series (1989)	promotion	WWE
-Survivor Series (1990)	promotion	WWE
-Survivor Series (1991)	promotion	WWE
-Survivor Series (1992)	promotion	WWE
-Survivor Series (1994)	promotion	WWE
-Survivor Series (1995)	promotion	WWE
-Survivor Series (1996)	promotion	WWE
-Survivor Series (1997)	promotion	WWE
-Survivor Series (1998)	promotion	WWE
-Survivor Series (1993)	promotion	WWE
-Survivor Series (2000)	promotion	WWE
-Survivor Series (1999)	promotion	WWE
-Survivor Series (2001)	promotion	WWE
-Survivor Series (2002)	promotion	WWE
-Survivor Series (2003)	promotion	WWE
-Survivor Series (2004)	promotion	WWE
-Survivor Series (2005)	promotion	WWE
-Survivor Series (2006)	promotion	WWE
-Survivor Series (2007)	promotion	WWE
+Bound for Glory	promotion	Total Nonstop Action Wrestling
+SummerSlam	promotion	World Wrestling Federation
+SummerSlam	promotion	World Wrestling Entertainment
+SummerSlam	promotion	World Wrestling Entertainment
+SummerSlam	promotion	WWE
+SummerSlam	promotion	WWE
+SummerSlam	promotion	WWE
+SummerSlam	promotion	WWE
+SummerSlam	promotion	WWE
+SummerSlam	promotion	World Wrestling Federation
+SummerSlam	promotion	WWE
+SummerSlam	promotion	WWE
+SummerSlam	promotion	WWE
+SummerSlam	promotion	WWE
+SummerSlam	promotion	WWE
+SummerSlam	promotion	World Wrestling Entertainment
+SummerSlam	promotion	WWE
+SummerSlam	promotion	WWE
+SummerSlam	promotion	WWE
+SummerSlam	promotion	World Wrestling Entertainment
+SummerSlam	promotion	World Wrestling Entertainment
+Royal Rumble	promotion	WWE
+Royal Rumble	promotion	World Wrestling Entertainment
+Royal Rumble	promotion	World Wrestling Federation
+Royal Rumble	promotion	World Wrestling Entertainment
+Royal Rumble	promotion	WWE
+Royal Rumble	promotion	WWE
+Royal Rumble	promotion	WWE
+Royal Rumble	promotion	WWE
+Royal Rumble	promotion	WWE
+Royal Rumble	promotion	WWE
+Royal Rumble	promotion	WWE
+Royal Rumble	promotion	World Wrestling Entertainment
+Royal Rumble	promotion	WWE
+Royal Rumble	promotion	WWE
+Royal Rumble	promotion	WWE
+Survivor Series	promotion	WWE
+Survivor Series	promotion	World Wrestling Entertainment
+Survivor Series	promotion	World Wrestling Entertainment
+Survivor Series	promotion	World Wrestling Entertainment
+Survivor Series	promotion	WWE
+Survivor Series	promotion	WWE
+Survivor Series	promotion	WWE
+Survivor Series	promotion	World Wrestling Entertainment
+Survivor Series	promotion	WWE
+Survivor Series	promotion	WWE
+Survivor Series	promotion	WWE
+Survivor Series	promotion	WWE
+Survivor Series	promotion	WWE
+Survivor Series	promotion	WWE
+Survivor Series	promotion	WWE
+Survivor Series	promotion	WWE
+Survivor Series	promotion	World Wrestling Entertainment
+Survivor Series	promotion	World Wrestling Entertainment
+Survivor Series	promotion	World Wrestling Entertainment
+Survivor Series	promotion	World Wrestling Entertainment
+Survivor Series	promotion	World Wrestling Entertainment
 The Great American Bash	promotion	Jim Crockett Promotions
-The Great American Bash  1987   1	promotion	Jim Crockett Promotions
-The Great American Bash  1988   1	promotion	National Wrestling Alliance
-The Great American Bash  1989   1	promotion	National Wrestling Alliance
-The Great American Bash  1990   1	promotion	National Wrestling Alliance
-The Great American Bash  1991   1	promotion	World Championship Wrestling
-The Great American Bash  1992   1	promotion	World Championship Wrestling
-The Great American Bash  1995   1	promotion	World Championship Wrestling
-The Great American Bash  1996   1	promotion	World Championship Wrestling
-The Great American Bash  1997   1	promotion	World Championship Wrestling
-The Great American Bash  1998   1	promotion	World Championship Wrestling
-The Great American Bash  1999   1	promotion	World Championship Wrestling
-The Great American Bash  2000   1	promotion	World Championship Wrestling
-Pride Total Elimination 2004	promotion	Pride Fighting Championships
-Pride Critical Countdown 2004	promotion	Pride Fighting Championships
-Pride Final Conflict 2004	promotion	Pride Fighting Championships
-Pride Bushido 8	promotion	Pride Fighting Championships
-Pride Bushido 9	promotion	Pride Fighting Championships
-Pride Bushido 7	promotion	Pride Fighting Championships
-Pride Bushido 6	promotion	Pride Fighting Championships
-Pride Bushido 5	promotion	Pride Fighting Championships
-December to Dismember (2006)	promotion	WWE
+The Great American Bash	promotion	National Wrestling Alliance
+The Great American Bash	promotion	World Championship Wrestling
+December to Dismember	promotion	World Wrestling Entertainment
 Anarchy Rulz	promotion	Extreme Championship Wrestling
-Anarchy Rulz  2000   1	promotion	Extreme Championship Wrestling
+Ultimate Jeopardy	promotion	Extreme Championship Wrestling
+CyberSlam	promotion	Extreme Championship Wrestling
+ChickFight	promotion	ChickFight \nEast Coast Wrestling Association
+ChickFight	promotion	ChickFight\nEast Coast Wrestling Association
+ChickFight	promotion	ChickFight \nShimmer Women Athletes
 Collision in Korea	promotion	World Championship Wrestling
 Collision in Korea	promotion	New Japan Pro Wrestling
-Pride The Best Vol.1	promotion	Pride Fighting Championships
-Pride The Best Vol.2	promotion	Pride Fighting Championships
-Pride The Best Vol.3	promotion	Pride Fighting Championships
-Pride Bushido 1	promotion	Pride Fighting Championships
-Pride Bushido 2	promotion	Pride Fighting Championships
-Pride Bushido 4	promotion	Pride Fighting Championships
-Pride 13	promotion	Pride Fighting Championships
-Pride 12	promotion	Pride Fighting Championships
-Pride 15	promotion	Pride Fighting Championships
-Pride 18	promotion	Pride Fighting Championships
-Pride 17	promotion	Pride Fighting Championships
-Pride 14	promotion	Pride Fighting Championships
-Pride 19	promotion	Pride Fighting Championships
-Pride 20	promotion	Pride Fighting Championships
-Pride 21	promotion	Pride Fighting Championships
-Pride 24	promotion	Pride Fighting Championships
-Pride 22	promotion	Pride Fighting Championships
-WCW/New Japan Supershow	promotion	World Championship Wrestling
-WCW/New Japan Supershow	promotion	New Japan Pro Wrestling
-WCW/New Japan Supershow  CW/New Japan Supershow II   1	promotion	World Championship Wrestling
-WCW/New Japan Supershow  CW/New Japan Supershow II   1	promotion	New Japan Pro Wrestling
-WCW/New Japan Supershow  CW/New Japan Supershow III   1	promotion	World Championship Wrestling
-WCW/New Japan Supershow  CW/New Japan Supershow III   1	promotion	New Japan Pro Wrestling
-WWC Anniversary	promotion	World Wrestling Council
-WWC Anniversary  1984   1	promotion	World Wrestling Council
-WWC Anniversary  1985   1	promotion	World Wrestling Council
-WWC Anniversary  1986   1	promotion	World Wrestling Council
-WWC Anniversary  1987   1	promotion	World Wrestling Council
-WWC Anniversary  1988   1	promotion	World Wrestling Council
-WWC Anniversary  1989   1	promotion	World Wrestling Council
-WWC Anniversary  1990   1	promotion	World Wrestling Council
-WWC Anniversary  1991   1	promotion	World Wrestling Council
-WWC Anniversary  1992   1	promotion	World Wrestling Council
-WWC Anniversary  1993   1	promotion	World Wrestling Council
-WWC Anniversary  1994   1	promotion	World Wrestling Council
-WWC Anniversary  1995   1	promotion	World Wrestling Council
-WWC Anniversary  1996   1	promotion	World Wrestling Council
-WWC Anniversary  1997   1	promotion	World Wrestling Council
-WWC Anniversary  1998   1	promotion	World Wrestling Council
-WWC Anniversary  1999   1	promotion	World Wrestling Council
-WWC Anniversary  2000   1	promotion	World Wrestling Council
-WWC Anniversary  2001   1	promotion	World Wrestling Council
-WWC Anniversary  2002   1	promotion	World Wrestling Council
-WWC Anniversary  2003   1	promotion	World Wrestling Council
-WWC Anniversary  2004   1	promotion	World Wrestling Council
-WWC Anniversary  2005   1	promotion	World Wrestling Council
-WWC Anniversary  2006   1	promotion	World Wrestling Council
-WWC Anniversary  2007   1	promotion	World Wrestling Council
-WWC Anniversary  2008   1	promotion	World Wrestling Council
-WWC Anniversary  2009   1	promotion	World Wrestling Council
-WWC Anniversary  2010   1	promotion	World Wrestling Council
-WWC Anniversary  2011   1	promotion	World Wrestling Council
-King of Europe Cup	promotion	King of Europe Cup#Promotions
+New Japan Supershow	promotion	World Championship Wrestling
+New Japan Supershow	promotion	New Japan Pro Wrestling
+WWC Aniversario	promotion	World Wrestling Council
 IWA Histeria Boricua	promotion	International Wrestling Association
-IWA Histeria Boricua  2001   1	promotion	International Wrestling Association
-IWA Histeria Boricua  2002   1	promotion	International Wrestling Association
-IWA Histeria Boricua  2003   1	promotion	International Wrestling Association
-IWA Histeria Boricua  2004   1	promotion	International Wrestling Association
-IWA Histeria Boricua  2005   1	promotion	International Wrestling Association
-IWA Histeria Boricua  2006   1	promotion	International Wrestling Association
-IWA Histeria Boricua  2007   1	promotion	International Wrestling Association
 List of WWA pay-per-view events	promotion	World Wrestling All-Stars
-List of WWA pay-per-view events  The Revolution   1	promotion	World Wrestling All-Stars
-List of WWA pay-per-view events  The Eruption   1	promotion	World Wrestling All-Stars
-List of WWA pay-per-view events  The Retribution   1	promotion	World Wrestling All-Stars
-List of WWA pay-per-view events  The Reckoning   1	promotion	World Wrestling All-Stars
-Royal Rumble (2008)	promotion	WWE
-Slammiversary (2007)	promotion	Total Nonstop Action Wrestling
-Bound for Glory (2007)	promotion	Total Nonstop Action Wrestling
-WrestleMania XXV	promotion	WWE
+Royal Rumble	promotion	World Wrestling Entertainment
+Slammiversary	promotion	Total Nonstop Action Wrestling
+Bound for Glory	promotion	Total Nonstop Action Wrestling
+WrestleMania XXV	promotion	World Wrestling Entertainment
 PMG Clash of Legends	promotion	Memphis Wrestling
-Respect is Earned (2007)	promotion	Ring of Honor
+The Big Event	promotion	WWE
+Respect is Earned	promotion	Ring of Honor
+PNW Wrestling Extravaganza	promotion	Portland Wrestling
 PNW Wrestling Extravaganza	promotion	Pacific Northwest Wrestling
-PNW Wrestling Extravaganza  Superstar Extravaganza   1	promotion	Pacific Northwest Wrestling
-Driven (2007)	promotion	Ring of Honor
+Driven	promotion	Ring of Honor
 WCCW Cotton Bowl Extravaganza	promotion	World Class Championship Wrestling
-WCCW Cotton Bowl Extravaganza  '85   1	promotion	World Class Championship Wrestling
-WCCW Cotton Bowl Extravaganza  WCWA Cotton Bowl Extravaganza '86   1	promotion	World Class Championship Wrestling
-WCCW Cotton Bowl Extravaganza  WCWA Cotton Bowl Extravaganza '87   1	promotion	World Class Championship Wrestling
-WCCW Cotton Bowl Extravaganza  WCWA Cotton Bowl Extravaganza '88   1	promotion	World Class Championship Wrestling
-Vengeance: Night of Champions	promotion	WWE
-Lockdown (2005)	promotion	Total Nonstop Action Wrestling
-Lockdown (2006)	promotion	Total Nonstop Action Wrestling
-Lockdown (2007)	promotion	Total Nonstop Action Wrestling
-SummerSlam (2008)	promotion	WWE
-December to Dismember (1995)	promotion	Extreme Championship Wrestling
+Vengeance: Night of Champions	promotion	World Wrestling Entertainment
+Lockdown	promotion	Total Nonstop Action Wrestling
+Lockdown	promotion	Total Nonstop Action Wrestling
+Lockdown	promotion	Total Nonstop Action Wrestling
+SummerSlam	promotion	World Wrestling Entertainment
+CMLL Torneo Gran Alternativa	promotion	Consejo Mundial de Lucha Libre
+December to Dismember	promotion	Extreme Championship Wrestling
 ROH Man Up	promotion	Ring of Honor
 ROH Undeniable	promotion	Ring of Honor
-ECW One Night Stand (2006)	promotion	WWE
-ECW One Night Stand (2005)	promotion	WWE
-One Night Stand (2007)	promotion	WWE
-Cyber Sunday (2006)	promotion	WWE
-King of the Ring (1998)	promotion	WWE
-In Your House 1	promotion	WWE
-Starrcade (2000)	promotion	World Championship Wrestling
-King of the Ring (1995)	promotion	WWE
-One Night Stand (2008)	promotion	WWE
-King of the Ring (1994)	promotion	WWE
-Cyber Sunday (2007)	promotion	WWE
-Backlash (2007)	promotion	WWE
-Judgment Day (2007)	promotion	WWE
-The Great American Bash (2007)	promotion	WWE
-No Way Out (2007)	promotion	WWE
-New Year's Revolution (2007)	promotion	WWE
-Backlash (2006)	promotion	WWE
-Unforgiven (2007)	promotion	WWE
-No Way Out (2005)	promotion	WWE
-No Mercy (2007)	promotion	WWE
-Unforgiven (2008)	promotion	WWE
-No Way Out (2006)	promotion	WWE
-No Way Out (2004)	promotion	WWE
-Judgment Day (2006)	promotion	WWE#World Wrestling Entertainment
-Vengeance (2006)	promotion	WWE
-Vengeance (2005)	promotion	WWE
-Rising Above (2007)	promotion	Ring of Honor
-New Year's Revolution (2006)	promotion	WWE
-Unforgiven (2006)	promotion	WWE
-Armageddon (2007)	promotion	WWE
-Breakdown: In Your House	promotion	WWE
-Unforgiven (2005)	promotion	WWE
-Victory Road (2004)	promotion	Total Nonstop Action Wrestling
-Over the Edge (1999)	promotion	WWE
-Turning Point (2004)	promotion	Total Nonstop Action Wrestling
-No Mercy (2006)	promotion	WWE
-Final Resolution (2005)	promotion	Total Nonstop Action Wrestling
-Unforgiven (2004)	promotion	WWE
-No Way Out (2008)	promotion	WWE
-Starrcade (1997)	promotion	World Championship Wrestling
-Unforgiven (2003)	promotion	WWE
-Backlash (2008)	promotion	WWE
-Vengeance (2004)	promotion	WWE
-Vengeance (2001)	promotion	WWE
+ECW One Night Stand	promotion	World Wrestling Entertainment
+ECW One Night Stand	promotion	Extreme Championship Wrestling
+ECW One Night Stand	promotion	World Wrestling Entertainment
+One Night Stand	promotion	World Wrestling Entertainment
+Cyber Sunday	promotion	World Wrestling Entertainment
+King of the Ring	promotion	WWE
+In Your House 1	promotion	World Wrestling Entertainment
+Starrcade	promotion	World Championship Wrestling
+King of the Ring	promotion	WWE
+One Night Stand	promotion	WWE
+King of the Ring	promotion	WWE
+Cyber Sunday	promotion	World Wrestling Entertainment
+Backlash	promotion	World Wrestling Entertainment
+Judgment Day	promotion	World Wrestling Entertainment
+The Great American Bash	promotion	World Wrestling Entertainment
+No Way Out	promotion	World Wrestling Entertainment
+New Year's Revolution	promotion	World Wrestling Entertainment
+Backlash	promotion	World Wrestling Entertainment
+Unforgiven	promotion	World Wrestling Entertainment
+No Way Out	promotion	World Wrestling Entertainment
+No Mercy	promotion	World Wrestling Entertainment
+Unforgiven	promotion	World Wrestling Entertainment
+No Way Out	promotion	World Wrestling Entertainment
+No Way Out	promotion	World Wrestling Entertainment
+Judgment Day	promotion	WWE
+Vengeance	promotion	World Wrestling Entertainment
+Vengeance	promotion	World Wrestling Entertainment
+Rising Above	promotion	Ring of Honor
+New Year's Revolution	promotion	World Wrestling Entertainment
+Unforgiven	promotion	WWE
+Armageddon	promotion	World Wrestling Entertainment
+Breakdown: In Your House	promotion	World Wrestling Federation
+Unforgiven	promotion	World Wrestling Entertainment
+Victory Road	promotion	Total Nonstop Action Wrestling
+Over the Edge	promotion	WWE
+Turning Point	promotion	Total Nonstop Action Wrestling
+No Mercy	promotion	World Wrestling Entertainment
+Final Resolution	promotion	Total Nonstop Action Wrestling
+Unforgiven	promotion	World Wrestling Entertainment
+No Way Out	promotion	World Wrestling Entertainment
+Starrcade	promotion	World Championship Wrestling
+Unforgiven	promotion	World Wrestling Entertainment
+Backlash	promotion	World Wrestling Entertainment
+Vengeance	promotion	World Wrestling Entertainment
+Vengeance	promotion	World Wrestling Entertainment
 WrestleRock 86	promotion	American Wrestling Association
-No Mercy (2005)	promotion	WWE
-Taboo Tuesday (2005)	promotion	WWE
+No Mercy	promotion	World Wrestling Entertainment
+Taboo Tuesday	promotion	WWE
 Over the Edge: In Your House	promotion	WWE
-Backlash (2005)	promotion	WWE
-King of the Ring (1997)	promotion	WWE
-No Way Out (2002)	promotion	WWE
-King of the Ring (1996)	promotion	WWE
-Vengeance (2003)	promotion	WWE
-Backlash (2004)	promotion	WWE
-No Mercy (2002)	promotion	WWE
-Armageddon (2002)	promotion	WWE
-Lockdown (2008)	promotion	Total Nonstop Action Wrestling
-Take No Prisoners (2008)	promotion	Ring of Honor
-Bad Blood (2004)	promotion	WWE
-Vengeance (2002)	promotion	WWE
+King of the Ring	promotion	WWE
+Backlash	promotion	World Wrestling Entertainment
+No Way Out	promotion	World Wrestling Entertainment
+King of the Ring	promotion	World Wrestling Federation
+Vengeance	promotion	World Wrestling Entertainment
+Backlash	promotion	World Wrestling Entertainment
+No Mercy	promotion	World Wrestling Entertainment
+Armageddon	promotion	World Wrestling Entertainment
+Lockdown	promotion	Total Nonstop Action Wrestling
+Take No Prisoners	promotion	Ring of Honor
+Bad Blood	promotion	World Wrestling Entertainment
+Vengeance	promotion	WWE
 In Your House 13: Final Four	promotion	WWE
-No Way Out (2003)	promotion	WWE
-Judgment Day (2005)	promotion	WWE
+No Way Out	promotion	World Wrestling Entertainment
+Judgment Day	promotion	World Wrestling Entertainment
+House of Hardcore	promotion	House of Hardcore
 Rock Bottom: In Your House	promotion	WWE
-Bash at the Beach (1996)	promotion	World Championship Wrestling
-Taboo Tuesday (2004)	promotion	WWE
-Night of Champions (2008)	promotion	WWE
-Judgment Day (2008)	promotion	WWE
-Slammiversary (2008)	promotion	Total Nonstop Action Wrestling
-Armageddon (2005)	promotion	WWE
-Backlash (2003)	promotion	WWE
-Starrcade (1983)	promotion	National Wrestling Alliance
-Starrcade (1985)	promotion	National Wrestling Alliance
+Bash at the Beach	promotion	World Championship Wrestling
+Taboo Tuesday	promotion	World Wrestling Entertainment
+Night of Champions	promotion	World Wrestling Entertainment
+Judgment Day	promotion	World Wrestling Entertainment
+Slammiversary	promotion	Total Nonstop Action Wrestling
+Armageddon	promotion	World Wrestling Entertainment
+Backlash	promotion	World Wrestling Entertainment
+Starrcade	promotion	National Wrestling Alliance
+Starrcade	promotion	National Wrestling Alliance
 In Your House 14: Revenge of the 'Taker	promotion	WWE
 Respect is Earned II	promotion	Ring of Honor
-Starrcade (1987)	promotion	National Wrestling Alliance
-Starrcade (1989)	promotion	National Wrestling Alliance
+Starrcade	promotion	National Wrestling Alliance
+Starrcade	promotion	National Wrestling Alliance
 Bound for Glory IV	promotion	Total Nonstop Action Wrestling
-Starrcade (1990)	promotion	National Wrestling Alliance
-Victory Road (2008)	promotion	Total Nonstop Action Wrestling
-Hard Justice (2008)	promotion	Total Nonstop Action Wrestling
-No Surrender (2008)	promotion	Total Nonstop Action Wrestling
-Genesis (2009)	promotion	Total Nonstop Action Wrestling
-Turning Point (2008)	promotion	Total Nonstop Action Wrestling
-Sacrifice (2008)	promotion	Total Nonstop Action Wrestling
-Starrcade (1991)	promotion	World Championship Wrestling
-Starrcade (1993)	promotion	World Championship Wrestling
-The Great American Bash (2008)	promotion	WWE
-Judgment Day (2004)	promotion	WWE
-Destination X (2008)	promotion	Total Nonstop Action Wrestling
-Survivor Series (2008)	promotion	WWE
-Starrcade (1998)	promotion	World Championship Wrestling
-Starrcade (1988)	promotion	National Wrestling Alliance
-Starrcade (1996)	promotion	World Championship Wrestling
-Slamboree (1993)	promotion	World Championship Wrestling
-Starrcade (1999)	promotion	World Championship Wrestling
-Night of Champions (2009)	promotion	WWE
-The Great American Bash (2006)	promotion	WWE
-In Your House 2: The Lumberjacks	promotion	WWE
+Starrcade	promotion	World Championship Wrestling
+Victory Road	promotion	Total Nonstop Action Wrestling
+Hard Justice	promotion	Total Nonstop Action Wrestling
+No Surrender	promotion	Total Nonstop Action Wrestling
+Genesis	promotion	Total Nonstop Action Wrestling
+Turning Point	promotion	Total Nonstop Action Wrestling
+Sacrifice	promotion	Total Nonstop Action Wrestling
+Starrcade	promotion	World Championship Wrestling
+Starrcade	promotion	World Championship Wrestling
+The Great American Bash	promotion	World Wrestling Entertainment
+Judgment Day	promotion	World Wrestling Entertainment
+Destination X	promotion	Total Nonstop Action Wrestling
+Survivor Series	promotion	World Wrestling Entertainment
+Starrcade	promotion	World Championship Wrestling
+Starrcade	promotion	National Wrestling Alliance
+Starrcade	promotion	World Championship Wrestling
+Slamboree	promotion	World Championship Wrestling
+Starrcade	promotion	World Championship Wrestling
+Night of Champions	promotion	World Wrestling Entertainment
+The Great American Bash	promotion	World Wrestling Entertainment
+In Your House 2	promotion	WWE
 No Way Out of Texas: In Your House	promotion	WWE
-No Way Out (2001)	promotion	WWE
-No Way Out (2000)	promotion	WWE
-Armageddon (2006)	promotion	WWE
-No Mercy (2008)	promotion	WWE
-Royal Rumble (2009)	promotion	WWE
-No Way Out (2009)	promotion	WWE
-The Great American Bash (2004)	promotion	WWE
+No Way Out	promotion	World Wrestling Federation
+No Way Out	promotion	WWE
+Armageddon	promotion	World Wrestling Entertainment
+No Mercy	promotion	World Wrestling Entertainment
+Royal Rumble	promotion	World Wrestling Entertainment
+No Way Out	promotion	World Wrestling Entertainment
+The Great American Bash	promotion	World Wrestling Entertainment
 NWA Anniversary Show	promotion	National Wrestling Alliance
-NWA Anniversary Show  NWA 51st Anniversary Show:Battle of the Belts 1999  1	promotion	National Wrestling Alliance
-NWA Anniversary Show  NWA 52nd Anniversary Show:Battle of the Belts 2000  1	promotion	National Wrestling Alliance
-NWA Anniversary Show  NWA 53rd Anniversary Show:Battle of the Belts 2001  1	promotion	National Wrestling Alliance
-NWA Anniversary Show  NWA 54th Anniversary Show:Battle of the Belts 2002  1	promotion	National Wrestling Alliance
-NWA Anniversary Show  NWA 55th Anniversary Show   1	promotion	National Wrestling Alliance
-NWA Anniversary Show  NWA 56th Anniversary Show   1	promotion	National Wrestling Alliance
-NWA Anniversary Show  NWA 57th Anniversary Show   1	promotion	National Wrestling Alliance
-NWA Anniversary Show  NWA 60th Anniversary Show   1	promotion	National Wrestling Alliance
-The Great American Bash (2005)	promotion	WWE
+The Great American Bash	promotion	World Wrestling Entertainment
 Unforgiven: In Your House	promotion	WWE
-Cyber Sunday (2008)	promotion	WWE
-Armageddon (2008)	promotion	WWE
-New Year's Revolution (2005)	promotion	WWE
+Cyber Sunday	promotion	World Wrestling Entertainment
+Armageddon	promotion	WWE
+New Year's Revolution	promotion	World Wrestling Entertainment
 ROH New Horizons	promotion	Ring of Honor
-No Mercy (1999)	promotion	WWE
-Bloodymania (2007)	promotion	Juggalo Championship Wrestling
-Armageddon (2003)	promotion	WWE
-Bad Blood (2003)	promotion	WWE
-Armageddon (2004)	promotion	WWE
-Judgment Day (2009)	promotion	WWE
-Backlash (2009)	promotion	WWE
+No Mercy	promotion	WWE
+Bloodymania	promotion	Juggalo Championship Wrestling
+Armageddon	promotion	World Wrestling Entertainment
+Bad Blood	promotion	World Wrestling Entertainment
+Armageddon	promotion	World Wrestling Entertainment
+Judgment Day	promotion	World Wrestling Entertainment
+Backlash	promotion	World Wrestling Entertainment
 Judgment Day: In Your House	promotion	WWE
 Millennium Final	promotion	World Championship Wrestling
 SuperBrawl I	promotion	World Championship Wrestling
 St. Valentine's Day Massacre: In Your House	promotion	WWE
-Rising Above (2008)	promotion	Ring of Honor
-Judgment Day (2001)	promotion	WWE
-Driven (2008)	promotion	Ring of Honor
-King of the Ring (1993)	promotion	WWE
-No Mercy (2004)	promotion	WWE
-No Mercy (2003)	promotion	WWE
-Final Resolution (December 2008)	promotion	Total Nonstop Action Wrestling
+Rising Above	promotion	Ring of Honor
+Judgment Day	promotion	World Wrestling Entertainment
+Driven	promotion	Ring of Honor
+King of the Ring	promotion	WWE
+No Mercy	promotion	World Wrestling Entertainment
+No Mercy	promotion	World Wrestling Entertainment
+Final Resolution	promotion	Total Nonstop Action Wrestling
 In Your House 3	promotion	WWE
-Against All Odds (2009)	promotion	Total Nonstop Action Wrestling
-Armageddon (2000)	promotion	WWE
-Unforgiven (2002)	promotion	WWE
-Judgment Day (2003)	promotion	WWE
-Backlash (2002)	promotion	WWE
-SummerSlam (2009)	promotion	WWE
-WWE The Bash	promotion	WWE
-Card Subject to Change	promotion	Pro Wrestling Guerrilla
-Lockdown (2009)	promotion	Total Nonstop Action Wrestling
-Destination X (2009)	promotion	Total Nonstop Action Wrestling
-Sacrifice (2009)	promotion	Total Nonstop Action Wrestling
-Slammiversary (2009)	promotion	Total Nonstop Action Wrestling
-No Surrender (2009)	promotion	Total Nonstop Action Wrestling
-Bound for Glory (2009)	promotion	Total Nonstop Action Wrestling
-Hard Justice (2009)	promotion	Total Nonstop Action Wrestling
-Victory Road (2009)	promotion	Total Nonstop Action Wrestling
-The Brawl to End It All	promotion	WWE
+Against All Odds	promotion	Total Nonstop Action Wrestling
+Armageddon	promotion	World Wrestling Entertainment
+Unforgiven	promotion	World Wrestling Entertainment
+Judgment Day	promotion	World Wrestling Entertainment
+Backlash	promotion	World Wrestling Entertainment
+SummerSlam	promotion	World Wrestling Entertainment
+WWE The Bash	promotion	World Wrestling Entertainment
+Destination X	promotion	Total Nonstop Action Wrestling
+Lockdown	promotion	Total Nonstop Action Wrestling
+Slammiversary	promotion	Total Nonstop Action Wrestling
+Sacrifice	promotion	Total Nonstop Action Wrestling
+Victory Road	promotion	Total Nonstop Action Wrestling
+No Surrender	promotion	Total Nonstop Action Wrestling
+Hard Justice	promotion	Total Nonstop Action Wrestling
+Bound for Glory	promotion	Total Nonstop Action Wrestling
+The Brawl to End It All	promotion	World Wrestling Entertainment
 The War to Settle the Score	promotion	WWE
 Caged Collision	promotion	Ring of Honor
-WrestleMania XXVI	promotion	WWE
-Rey de Reyes (2009)	promotion	Asistencia Asesoría y Administración
-TripleManía XVII	promotion	Asistencia Asesoría y Administración
-Against All Odds (2005)	promotion	Total Nonstop Action Wrestling
+WrestleMania XXVI	promotion	World Wrestling Entertainment
+Rey de Reyes	promotion	Asistencia Asesoría y Administración
+Triplemanía XVII	promotion	Asistencia Asesoría y Administración
+Against All Odds	promotion	Total Nonstop Action Wrestling
 Shimmer Volumes	promotion	Shimmer Women Athletes
-Shimmer Volumes  himmer Women Athletes Volume 2   1	promotion	Shimmer Women Athletes
-Shimmer Volumes  himmer Women Athletes Volume 3   1	promotion	Shimmer Women Athletes
-Shimmer Volumes  himmer Women Athletes Volume 4   1	promotion	Shimmer Women Athletes
-Shimmer Volumes  himmer Women Athletes Volume 5   1	promotion	Shimmer Women Athletes
-Shimmer Volumes  himmer Women Athletes Volume 6   1	promotion	Shimmer Women Athletes
-Shimmer Volumes  himmer Women Athletes Volume 7   1	promotion	Shimmer Women Athletes
-Shimmer Volumes  himmer Women Athletes Volume 8   1	promotion	Shimmer Women Athletes
-Shimmer Volumes  himmer Women Athletes Volume 9   1	promotion	Shimmer Women Athletes
-Shimmer Volumes  himmer Women Athletes Volume 10   1	promotion	Shimmer Women Athletes
-Shimmer Volumes  himmer Women Athletes Volume 11   1	promotion	Shimmer Women Athletes
-Shimmer Volumes  himmer Women Athletes Volume 12   1	promotion	Shimmer Women Athletes
-Shimmer Volumes  himmer Women Athletes Volume 13   1	promotion	Shimmer Women Athletes
-Shimmer Volumes  himmer Women Athletes Volume 14   1	promotion	Shimmer Women Athletes
-Shimmer Volumes  himmer Women Athletes Volume 15   1	promotion	Shimmer Women Athletes
-Shimmer Volumes  himmer Women Athletes Volume 16   1	promotion	Shimmer Women Athletes
-Shimmer Volumes  himmer Women Athletes Volume 17   1	promotion	Shimmer Women Athletes
-Shimmer Volumes  himmer Women Athletes Volume 18   1	promotion	Shimmer Women Athletes
-Shimmer Volumes  himmer Women Athletes Volume 19   1	promotion	Shimmer Women Athletes
-Shimmer Volumes  himmer Women Athletes Volume 20   1	promotion	Shimmer Women Athletes
-Shimmer Volumes  himmer Women Athletes Volume 21   1	promotion	Shimmer Women Athletes
-Shimmer Volumes  himmer Women Athletes Volume 22   1	promotion	Shimmer Women Athletes
-Shimmer Volumes  himmer Women Athletes Volume 23   1	promotion	Shimmer Women Athletes
-Shimmer Volumes  himmer Women Athletes Volume 24   1	promotion	Shimmer Women Athletes
-Shimmer Volumes  himmer Women Athletes Volume 25   1	promotion	Shimmer Women Athletes
-Shimmer Volumes  himmer Women Athletes Volume 26   1	promotion	Shimmer Women Athletes
-Shimmer Volumes  himmer Women Athletes Volume 27   1	promotion	Shimmer Women Athletes
-Shimmer Volumes  himmer Women Athletes Volume 28   1	promotion	Shimmer Women Athletes
-Shimmer Volumes  himmer Women Athletes Volume 29   1	promotion	Shimmer Women Athletes
-Shimmer Volumes  himmer Women Athletes Volume 30   1	promotion	Shimmer Women Athletes
-Shimmer Volumes  himmer Women Athletes Volume 31   1	promotion	Shimmer Women Athletes
-Shimmer Volumes  himmer Women Athletes Volume 32   1	promotion	Shimmer Women Athletes
-Shimmer Volumes  himmer Women Athletes Volume 33   1	promotion	Shimmer Women Athletes
-Shimmer Volumes  himmer Women Athletes Volume 34   1	promotion	Shimmer Women Athletes
-Shimmer Volumes  himmer Women Athletes Volume 35   1	promotion	Shimmer Women Athletes
-Shimmer Volumes  himmer Women Athletes Volume 36   1	promotion	Shimmer Women Athletes
-Shimmer Volumes  himmer Women Athletes Volume 37   1	promotion	Shimmer Women Athletes
-Shimmer Volumes  himmer Women Athletes Volume 38   1	promotion	Shimmer Women Athletes
-Shimmer Volumes  himmer Women Athletes Volume 39   1	promotion	Shimmer Women Athletes
-Shimmer Volumes  himmer Women Athletes Volume 40   1	promotion	Shimmer Women Athletes
-Take No Prisoners (2009)	promotion	Ring of Honor
-ECW UltraClash	promotion	Extreme Championship Wrestling#Tri-State Wrestling Alliance and Eastern Championship Wrestling
-ECW Summer Sizzler	promotion	Extreme Championship Wrestling#Tri-State Wrestling Alliance and Eastern Championship Wrestling
-NWA Bloodfest	promotion	Extreme Championship Wrestling#Tri-State Wrestling Alliance and Eastern Championship Wrestling
+Take No Prisoners	promotion	Ring of Honor
+UltraClash	promotion	National Wrestling Alliance
+UltraClash	promotion	Extreme Championship Wrestling
+Super Summer Sizzler	promotion	National Wrestling Alliance
+Super Summer Sizzler	promotion	Extreme Championship Wrestling
+NWA Bloodfest	promotion	National Wrestling Alliance
+NWA Bloodfest	promotion	Extreme Championship Wrestling
 Return of the Funker	promotion	Extreme Championship Wrestling
-TripleManía I	promotion	Asistencia Asesoría y Administración
-TripleManía II-A	promotion	Asistencia Asesoría y Administración
-TripleManía II-B	promotion	Asistencia Asesoría y Administración
-TripleManía II-C	promotion	Asistencia Asesoría y Administración
-TripleManía III-A	promotion	Asistencia Asesoría y Administración
-TripleManía IV-A	promotion	Asistencia Asesoría y Administración
-TripleManía III-C	promotion	Asistencia Asesoría y Administración
-TripleManía III-B	promotion	Asistencia Asesoría y Administración
-TripleManía IV-B	promotion	Asistencia Asesoría y Administración
-TripleManía V-A	promotion	Asistencia Asesoría y Administración
-TripleManía IV-C	promotion	Asistencia Asesoría y Administración
-TripleManía V-B	promotion	Asistencia Asesoría y Administración
-TripleManía VI	promotion	Asistencia Asesoría y Administración
-TripleManía VII	promotion	Asistencia Asesoría y Administración
-TripleManía VIII	promotion	Asistencia Asesoría y Administración
-TripleManía X	promotion	Asistencia Asesoría y Administración
-TripleManía IX	promotion	Asistencia Asesoría y Administración
-TripleManía XI	promotion	Asistencia Asesoría y Administración
-TripleManía XII	promotion	Asistencia Asesoría y Administración
-TripleManía XIII	promotion	Asistencia Asesoría y Administración
-TripleManía XIV	promotion	Asistencia Asesoría y Administración
+Triplemanía II-A	promotion	Asistencia Asesoría y Administración
+Triplemanía IV-A	promotion	Asistencia Asesoría y Administración
+Triplemanía III-C	promotion	Asistencia Asesoría y Administración
+Triplemanía IV-B	promotion	Asistencia Asesoría y Administración
+Triplemanía I	promotion	Asistencia Asesoría y Administración
+Triplemanía VI	promotion	Asistencia Asesoría y Administración
+Triplemanía IV-C	promotion	Asistencia Asesoría y Administración
+Triplemanía II-C	promotion	Asistencia Asesoría y Administración
+Triplemanía III-A	promotion	Asistencia Asesoría y Administración
+Triplemanía V-A	promotion	Asistencia Asesoría y Administración
+Triplemanía VIII	promotion	Asistencia Asesoría y Administración
+Triplemanía III-B	promotion	Asistencia Asesoría y Administración
+Triplemanía II-B	promotion	Asistencia Asesoría y Administración
+Triplemanía V-B	promotion	Asistencia Asesoría y Administración
+Triplemanía IX	promotion	Asistencia Asesoría y Administración
+Triplemanía VII	promotion	Asistencia Asesoría y Administración
+Triplemanía X	promotion	Asistencia Asesoría y Administración
+Triplemanía XIII	promotion	Asistencia Asesoría y Administración
+Triplemanía XI	promotion	Asistencia Asesoría y Administración
+Triplemanía XII	promotion	Asistencia Asesoría y Administración
+Triplemanía XIV	promotion	Asistencia Asesoría y Administración
 WrestleMania XXVII	promotion	WWE
 Backlash: In Your House	promotion	WWE
-Royal Rumble (2010)	promotion	WWE
-WWE Breaking Point	promotion	WWE
+Royal Rumble	promotion	World Wrestling Entertainment
+WWE Breaking Point	promotion	World Wrestling Entertainment
 DGUSA Enter the Dragon	promotion	Dragon Gate USA
-DGUSA Enter the Dragon  2010   1	promotion	Dragon Gate USA
-DGUSA Enter the Dragon  2011   1	promotion	Dragon Gate USA
-Verano de Escándalo (2009)	promotion	Asistencia Asesoría y Administración
-Hell in a Cell (2009)	promotion	WWE
-Backlash (2000)	promotion	WWE
-Backlash (2001)	promotion	WWE
-Judgment Day (2000)	promotion	WWE
-Judgment Day (2002)	promotion	WWE
-Extreme Rules (2009)	promotion	WWE
-Final Resolution (2009)	promotion	Total Nonstop Action Wrestling
-Turning Point (2009)	promotion	Total Nonstop Action Wrestling
-Infierno en el Ring (2009)	promotion	Consejo Mundial de Lucha Libre
-Homenaje a Dos Leyendas (2009)	promotion	Consejo Mundial de Lucha Libre
+Verano de Escándalo	promotion	Asistencia Asesoría y Administración
+Hell in a Cell	promotion	World Wrestling Entertainment
+Backlash	promotion	WWE
+Backlash	promotion	World Wrestling Entertainment
+Judgment Day	promotion	WWE
+Judgment Day	promotion	WWE
+Extreme Rules	promotion	WWE
+Final Resolution	promotion	Total Nonstop Action Wrestling
+Turning Point	promotion	Total Nonstop Action Wrestling
+Infierno en el Ring	promotion	Consejo Mundial de Lucha Libre
+Homenaje a Dos Leyendas	promotion	Consejo Mundial de Lucha Libre
 La Hora Cero	promotion	Consejo Mundial de Lucha Libre
-Bragging Rights (2009)	promotion	WWE
-Survivor Series (2009)	promotion	WWE
-Jim Crockett, Sr. Memorial Cup Tag Team Tournament	promotion	Jim Crockett Promotions
-Jim Crockett, Sr. Memorial Cup Tag Team Tournament  2nd Annual Jim Crockett, Sr.Memorial Cup Tag Team   1	promotion	Jim Crockett Promotions
-Jim Crockett, Sr. Memorial Cup Tag Team Tournament  3rd Annual Jim Crockett, Sr.Memorial Cup Tag Team   1	promotion	Jim Crockett Promotions
+Bragging Rights	promotion	World Wrestling Entertainment
+Survivor Series	promotion	World Wrestling Entertainment
+Jim Crockett Sr. Memorial Cup Tag Team Tournament	promotion	Jim Crockett Promotions
 CMLL 76th Anniversary Show	promotion	Consejo Mundial de Lucha Libre
 Héroes Inmortales III	promotion	Asistencia Asesoría y Administración
-Antonio Peña Memorial Show (2008)	promotion	Asistencia Asesoría y Administración
-Antonio Peña Memorial Show (2007)	promotion	Asistencia Asesoría y Administración
+CMLL International Gran Prix	promotion	Consejo Mundial de Lucha Libre
+Antonio Peña Memorial Show	promotion	Asistencia Asesoría y Administración
+Antonio Peña Memorial Show	promotion	Asistencia Asesoría y Administración
 DGUSA Untouchable	promotion	Dragon Gate USA
-DGUSA Untouchable  2010   1	promotion	Dragon Gate USA
-TLC: Tables, Ladders & Chairs (2009)	promotion	WWE
-Guerra de Titanes (2009)	promotion	Asistencia Asesoría y Administración
-Guerra de Titanes (1997)	promotion	Asistencia Asesoría y Administración
-Guerra de Titanes (1998)	promotion	Asistencia Asesoría y Administración
-Guerra de Titanes (1999)	promotion	Asistencia Asesoría y Administración
-Guerra de Titanes (2000)	promotion	Asistencia Asesoría y Administración
-Guerra de Titanes (2001)	promotion	Asistencia Asesoría y Administración
-Guerra de Titanes (2002)	promotion	Asistencia Asesoría y Administración
-Guerra de Titanes (2003)	promotion	Asistencia Asesoría y Administración
-Guerra de Titanes (2004)	promotion	Asistencia Asesoría y Administración
-Guerra de Titanes (2005)	promotion	Asistencia Asesoría y Administración
-Guerra de Titanes (2006)	promotion	Asistencia Asesoría y Administración
-Guerra de Titanes (2007)	promotion	Asistencia Asesoría y Administración
-Guerra de Titanes (2008)	promotion	Asistencia Asesoría y Administración
+TLC: Tables, Ladders & Chairs	promotion	World Wrestling Entertainment
+Guerra de Titanes	promotion	Asistencia Asesoría y Administración
+Guerra de Titanes	promotion	Asistencia Asesoría y Administración
+Guerra de Titanes	promotion	Asistencia Asesoría y Administración
+Guerra de Titanes	promotion	Asistencia Asesoría y Administración
+Guerra de Titanes	promotion	Asistencia Asesoría y Administración
+Guerra de Titanes	promotion	Asistencia Asesoría y Administración
+Guerra de Titanes	promotion	Asistencia Asesoría y Administración
+Guerra de Titanes	promotion	Asistencia Asesoría y Administración
+Guerra de Titanes	promotion	Asistencia Asesoría y Administración
+Guerra de Titanes	promotion	Asistencia Asesoría y Administración
+Guerra de Titanes	promotion	Asistencia Asesoría y Administración
+Guerra de Titanes	promotion	Asistencia Asesoría y Administración
+Guerra de Titanes	promotion	Asistencia Asesoría y Administración
 TripleSEM	promotion	Asistencia Asesoría y Administración
 TripleSEM	promotion	Pro Wrestling Noah
 CMLL 75th Anniversary Show	promotion	Consejo Mundial de Lucha Libre
@@ -683,262 +417,861 @@ CMLL 73rd Anniversary Show	promotion	Consejo Mundial de Lucha Libre
 CMLL 72nd Anniversary Show	promotion	Consejo Mundial de Lucha Libre
 CMLL 70th Anniversary Show	promotion	Consejo Mundial de Lucha Libre
 CMLL 71st Anniversary Show	promotion	Consejo Mundial de Lucha Libre
-Homenaje a Dos Leyendas (2007)	promotion	Consejo Mundial de Lucha Libre
-Homenaje a Dos Leyendas (2008)	promotion	Consejo Mundial de Lucha Libre
-Infierno en el Ring (2008)	promotion	Consejo Mundial de Lucha Libre
-Sin Piedad (2008)	promotion	Consejo Mundial de Lucha Libre
+Homenaje a Dos Leyendas	promotion	Consejo Mundial de Lucha Libre
+Homenaje a Dos Leyendas	promotion	Consejo Mundial de Lucha Libre
+Sin Piedad	promotion	Consejo Mundial de Lucha Libre
+Infierno en el Ring	promotion	Consejo Mundial de Lucha Libre
+Leyenda de Plata	promotion	Consejo Mundial de Lucha Libre
 Gran Alternativa 2009	promotion	Consejo Mundial de Lucha Libre
+Turning Point	promotion	Total Nonstop Action Wrestling
 DGUSA Freedom Fight	promotion	Dragon Gate USA
-DGUSA Freedom Fight  2011   1	promotion	Dragon Gate USA
 DGUSA Fearless	promotion	Dragon Gate USA
-Elimination Chamber (2010)	promotion	WWE
+Elimination Chamber	promotion	World Wrestling Entertainment
 CMLL 69th Anniversary Show	promotion	Consejo Mundial de Lucha Libre
-Sam Muchnick Memorial Tournament	promotion	WWE
-Genesis (2010)	promotion	Total Nonstop Action Wrestling
-Destination X (2010)	promotion	Total Nonstop Action Wrestling
-Against All Odds (2010)	promotion	Total Nonstop Action Wrestling
-King of the Ring (2008)	promotion	WWE
-King of the Ring (2006)	promotion	WWE
+Sam Muchnick Memorial Tournament	promotion	World Wrestling Entertainment
+Genesis	promotion	Total Nonstop Action Wrestling
+Destination X	promotion	Total Nonstop Action Wrestling
+Against All Odds	promotion	Total Nonstop Action Wrestling
+King of the Ring	promotion	World Wrestling Entertainment
+King of the Ring	promotion	World Wrestling Entertainment
 Open the Ultimate Gate	promotion	Dragon Gate USA
-DGUSA Mercury Rising	promotion	Dragon Gate USA
-Destination X (2005)	promotion	Total Nonstop Action Wrestling
+WWNLive Mercury Rising	promotion	Dragon Gate USA
+WWNLive Mercury Rising	promotion	WWNLive
+Destination X	promotion	Total Nonstop Action Wrestling
+Hard Justice	promotion	Total Nonstop Action Wrestling
 Sin Salida	promotion	Consejo Mundial de Lucha Libre
-Survivor Series (2010)	promotion	WWE
+Survivor Series	promotion	World Wrestling Entertainment
 WWC Euphoria	promotion	World Wrestling Council
-Rey de Reyes (2010)	promotion	Asistencia Asesoría y Administración
+Rey de Reyes	promotion	Asistencia Asesoría y Administración
 Final Battle 2009	promotion	Ring of Honor
-Lockdown (2010)	promotion	Total Nonstop Action Wrestling
-Verano de Escándalo (1997)	promotion	Asistencia Asesoría y Administración
-Verano de Escándalo (1998)	promotion	Asistencia Asesoría y Administración
-Verano de Escándalo (1999)	promotion	Asistencia Asesoría y Administración
-Verano de Escándalo (2000)	promotion	Asistencia Asesoría y Administración
-Verano de Escándalo (2001)	promotion	Asistencia Asesoría y Administración
-Verano de Escándalo (2003)	promotion	Asistencia Asesoría y Administración
-Verano de Escándalo (2002)	promotion	Asistencia Asesoría y Administración
-Verano de Escándalo (2004)	promotion	Asistencia Asesoría y Administración
-Verano de Escándalo (2005)	promotion	Asistencia Asesoría y Administración
-Verano de Escándalo (2006)	promotion	Asistencia Asesoría y Administración
-Verano de Escándalo (2008)	promotion	Asistencia Asesoría y Administración
-Verano de Escándalo (2007)	promotion	Asistencia Asesoría y Administración
-TripleManía XV	promotion	Asistencia Asesoría y Administración
-King of the Ring (2001)	promotion	WWE
-King of the Ring (2002)	promotion	WWE
-King of the Ring (2000)	promotion	WWE
-TripleManía XVI	promotion	Asistencia Asesoría y Administración
+Lockdown	promotion	Total Nonstop Action Wrestling
+Verano de Escándalo	promotion	Asistencia Asesoría y Administración
+Verano de Escándalo	promotion	Asistencia Asesoría y Administración
+Verano de Escándalo	promotion	Asistencia Asesoría y Administración
+Verano de Escándalo	promotion	Asistencia Asesoría y Administración
+Verano de Escándalo	promotion	Asistencia Asesoría y Administración
+Verano de Escándalo	promotion	Asistencia Asesoría y Administración
+Verano de Escándalo	promotion	Asistencia Asesoría y Administración
+Verano de Escándalo	promotion	Asistencia Asesoría y Administración
+Verano de Escándalo	promotion	Asistencia Asesoría y Administración
+Triplemanía XV	promotion	Asistencia Asesoría y Administración
+Verano de Escándalo	promotion	Asistencia Asesoría y Administración
+Verano de Escándalo	promotion	Asistencia Asesoría y Administración
+Verano de Escándalo	promotion	Asistencia Asesoría y Administración
+King of the Ring	promotion	World Wrestling Entertainment
+King of the Ring	promotion	WWE
+King of the Ring	promotion	WWE
+Triplemanía XVI	promotion	Asistencia Asesoría y Administración
+Money in the Bank	promotion	World Wrestling Entertainment
 WWE Fatal 4-Way	promotion	WWE
-Money in the Bank (2010)	promotion	WWE
-Rey de Reyes (1997)	promotion	Asistencia Asesoría y Administración
-Rey de Reyes (1998)	promotion	Asistencia Asesoría y Administración
-Rey de Reyes (1999)	promotion	Asistencia Asesoría y Administración
-Rey de Reyes (2000)	promotion	Asistencia Asesoría y Administración
-Rey de Reyes (2001)	promotion	Asistencia Asesoría y Administración
-Rey de Reyes (2002)	promotion	Asistencia Asesoría y Administración
-Rey de Reyes (2003)	promotion	Asistencia Asesoría y Administración
-Rey de Reyes (2004)	promotion	Asistencia Asesoría y Administración
-Rey de Reyes (2006)	promotion	Asistencia Asesoría y Administración
-Rey de Reyes (2005)	promotion	Asistencia Asesoría y Administración
-Rey de Reyes (2007)	promotion	Asistencia Asesoría y Administración
-Rey de Reyes (2008)	promotion	Asistencia Asesoría y Administración
-Homenaje a Dos Leyendas (2010)	promotion	Consejo Mundial de Lucha Libre
+Rey de Reyes	promotion	Asistencia Asesoría y Administración
+Rey de Reyes	promotion	Asistencia Asesoría y Administración
+Rey de Reyes	promotion	Asistencia Asesoría y Administración
+Rey de Reyes	promotion	Asistencia Asesoría y Administración
+Rey de Reyes	promotion	Asistencia Asesoría y Administración
+Rey de Reyes	promotion	Asistencia Asesoría y Administración
+Rey de Reyes	promotion	Asistencia Asesoría y Administración
+Rey de Reyes	promotion	Asistencia Asesoría y Administración
+Rey de Reyes	promotion	Asistencia Asesoría y Administración
+Rey de Reyes	promotion	Asistencia Asesoría y Administración
+Rey de Reyes	promotion	Asistencia Asesoría y Administración
+Rey de Reyes	promotion	Asistencia Asesoría y Administración
+Homenaje a Dos Leyendas	promotion	Consejo Mundial de Lucha Libre
 CMLL 68th Anniversary Show	promotion	Consejo Mundial de Lucha Libre
-Extreme Rules (2010)	promotion	WWE
-Sin Piedad (2007)	promotion	Consejo Mundial de Lucha Libre
-Sin Piedad (2006)	promotion	Consejo Mundial de Lucha Libre
-Sin Piedad (2001)	promotion	Consejo Mundial de Lucha Libre
-Sin Piedad (2000)	promotion	Consejo Mundial de Lucha Libre
-CMLL Apocalypsis	promotion	Consejo Mundial de Lucha Libre
-Jucio Final (2001)	promotion	Consejo Mundial de Lucha Libre
-Jucio Final (2000)	promotion	Consejo Mundial de Lucha Libre
+Extreme Rules	promotion	World Wrestling Entertainment
+Sin Piedad	promotion	Consejo Mundial de Lucha Libre
+Sin Piedad	promotion	Consejo Mundial de Lucha Libre
+Sin Piedad	promotion	Consejo Mundial de Lucha Libre
+Sin Piedad	promotion	Consejo Mundial de Lucha Libre
+Juicio Final	promotion	Consejo Mundial de Lucha Libre
+Juicio Final	promotion	Consejo Mundial de Lucha Libre
+Juicio Final	promotion	Consejo Mundial de Lucha Libre
+Juicio Final	promotion	Consejo Mundial de Lucha Libre
 Entre Torre Infernal	promotion	Consejo Mundial de Lucha Libre
-Jucio Final (1991)	promotion	Consejo Mundial de Lucha Libre
-Jucio Final (1990)	promotion	Consejo Mundial de Lucha Libre
-Ruleta de la Muerte (1999)	promotion	Consejo Mundial de Lucha Libre
-Ruleta de la Muerte (1998)	promotion	Consejo Mundial de Lucha Libre
-Jucio Final (2005)	promotion	Consejo Mundial de Lucha Libre
-Homenaje a Dos Leyendas (2006)	promotion	Consejo Mundial de Lucha Libre
-Homenaje a Dos Leyendas (2005)	promotion	Consejo Mundial de Lucha Libre
-Over the Limit (2010)	promotion	WWE
+Ruleta de la Muerte	promotion	Consejo Mundial de Lucha Libre
+Juicio Final	promotion	Consejo Mundial de Lucha Libre
+Homenaje a Dos Leyendas	promotion	Consejo Mundial de Lucha Libre
+Ruleta de la Muerte	promotion	Consejo Mundial de Lucha Libre
+Homenaje a Dos Leyendas	promotion	Consejo Mundial de Lucha Libre
+Over the Limit	promotion	World Wrestling Entertainment
 ROH The Big Bang!	promotion	Ring of Honor
-Wrestling Summit	promotion	National Wrestling Alliance
-Fiesta Lucha	promotion	National Wrestling Alliance
-Reclaiming the Glory	promotion	National Wrestling Alliance
-Fully Loaded (1999)	promotion	WWE
-TripleManía XVIII	promotion	Asistencia Asesoría y Administración
-Sacrifice (2010)	promotion	Total Nonstop Action Wrestling
-King of the Ring (1999)	promotion	WWE
-No Mercy (UK)	promotion	WWE
-Bloodymania II	promotion	Juggalo Championship Wrestling
+Wrestling Summit	promotion	NWA Wrestling
+Fiesta Lucha	promotion	NWA Wrestling
+Reclaiming the Glory	promotion	NWA Wrestling
+Fully Loaded	promotion	WWE
+Triplemanía XVIII	promotion	Asistencia Asesoría y Administración
+Sacrifice	promotion	Total Nonstop Action Wrestling
+King of the Ring	promotion	WWE
+No Mercy	promotion	WWE
 Bloodymania III	promotion	Juggalo Championship Wrestling
-Gran Alternativa (2010)	promotion	Consejo Mundial de Lucha Libre
+Bloodymania II	promotion	Juggalo Championship Wrestling
+Gran Alternativa 2010	promotion	Consejo Mundial de Lucha Libre
 In Your House 6	promotion	WWE
 In Your House 7: Good Friends, Better Enemies	promotion	WWE
-In Your House 5: Seasons Beatings	promotion	WWE
+In Your House 5	promotion	WWE
 In Your House 4	promotion	WWE
 In Your House 8: Beware of Dog	promotion	WWE
 Badd Blood: In Your House	promotion	WWE
-D-Generation X: In Your House	promotion	WWE
-Ground Zero: In Your House	promotion	WWE
 In Your House 16: Canadian Stampede	promotion	WWE
-In Your House 15: A Cold Day in Hell	promotion	WWE
+Ground Zero: In Your House	promotion	WWE
+D-Generation X: In Your House	promotion	WWE
+In Your House 15: A Cold Day in Hell	promotion	World Wrestling Entertainment
 In Your House 9: International Incident	promotion	WWE
-In Your House 10: Mind Games	promotion	WWE
 In Your House 11: Buried Alive	promotion	WWE
+In Your House 10: Mind Games	promotion	WWE
 In Your House 12: It's Time	promotion	WWE
 Fully Loaded: In Your House	promotion	WWE
 Slammiversary VIII	promotion	Total Nonstop Action Wrestling
-CMLL Super Viernes (March 2010)	promotion	Consejo Mundial de Lucha Libre
-CMLL Super Viernes (March 2010)  CMLL Super Viernes   1	promotion	Consejo Mundial de Lucha Libre
-CMLL Super Viernes (March 2010)  CMLL Super Viernes   2	promotion	Consejo Mundial de Lucha Libre
-CMLL Super Viernes (February 2010)	promotion	Consejo Mundial de Lucha Libre
-CMLL Super Viernes (February 2010)  CMLL Super Viernes   1	promotion	Consejo Mundial de Lucha Libre
-CMLL Super Viernes (February 2010)  CMLL Super Viernes   2	promotion	Consejo Mundial de Lucha Libre
-CMLL Super Viernes (February 2010)  CMLL Super Viernes   3	promotion	Consejo Mundial de Lucha Libre
-CMLL Super Viernes (January 2010)	promotion	Consejo Mundial de Lucha Libre
-CMLL Super Viernes (January 2010)  CMLL Super Viernes   1	promotion	Consejo Mundial de Lucha Libre
-CMLL Super Viernes (January 2010)  CMLL Super Viernes   2	promotion	Consejo Mundial de Lucha Libre
-CMLL Super Viernes (January 2010)  CMLL Super Viernes   3	promotion	Consejo Mundial de Lucha Libre
-CMLL Super Viernes (January 2010)  CMLL Super Viernes   4	promotion	Consejo Mundial de Lucha Libre
-CMLL Super Viernes (April 2010)	promotion	Consejo Mundial de Lucha Libre
-CMLL Super Viernes (April 2010)  CMLL Super Viernes   1	promotion	Consejo Mundial de Lucha Libre
-CMLL Super Viernes (April 2010)  CMLL Super Viernes   2	promotion	Consejo Mundial de Lucha Libre
-CMLL Super Viernes (April 2010)  CMLL Super Viernes   3	promotion	Consejo Mundial de Lucha Libre
-CMLL Super Viernes (April 2010)  CMLL Super Viernes   4	promotion	Consejo Mundial de Lucha Libre
-CMLL Super Viernes (May 2010)	promotion	Consejo Mundial de Lucha Libre
-CMLL Super Viernes (May 2010)  CMLL Super Viernes   1	promotion	Consejo Mundial de Lucha Libre
-CMLL Super Viernes (May 2010)  CMLL Super Viernes   2	promotion	Consejo Mundial de Lucha Libre
-CMLL Super Viernes (May 2010)  CMLL Super Viernes   3	promotion	Consejo Mundial de Lucha Libre
+CMLL Super Viernes	promotion	Consejo Mundial de Lucha Libre
+CMLL Super Viernes	promotion	Consejo Mundial de Lucha Libre
+CMLL Super Viernes	promotion	Consejo Mundial de Lucha Libre
+CMLL Super Viernes	promotion	Consejo Mundial de Lucha Libre
+CMLL Super Viernes	promotion	Consejo Mundial de Lucha Libre
+Break the Barrier	promotion	Allied Powers Wrestling Federation
+Break the Barrier	promotion	Combat Zone Wrestling
+Break the Barrier	promotion	Extreme Championship Wrestling
+Break the Barrier	promotion	Independent Pro Wrestling
+Break the Barrier	promotion	Independent Professional Wrestling Alliance
+Break the Barrier	promotion	Maryland Championship Wrestling
+Break the Barrier	promotion	Music City Wrestling
+Break the Barrier	promotion	National Wrestling Alliance
+Break the Barrier	promotion	New Dimension Wrestling
+Break the Barrier	promotion	South's Greatest Wrestling Fans
+Break the Barrier	promotion	Steel City Wrestling
+Break the Barrier	promotion	World Legion Wrestling
+Break the Barrier	promotion	World Wrestling Organization
 Death Before Dishonor VIII	promotion	Ring of Honor
-Sin Salida (2010)	promotion	Consejo Mundial de Lucha Libre
-Unforgiven (2000)	promotion	WWE
-Unforgiven (1999)	promotion	WWE
-Unforgiven (2001)	promotion	WWE
-Fully Loaded (2000)	promotion	WWE
-No Mercy (2000)	promotion	WWE
-No Mercy (2001)	promotion	WWE
-Armageddon (1999)	promotion	WWE
-SummerSlam (2010)	promotion	WWE
-CMLL Super Viernes (June 2010)	promotion	Consejo Mundial de Lucha Libre
-CMLL Super Viernes (June 2010)  CMLL Super Viernes   1	promotion	Consejo Mundial de Lucha Libre
-CMLL Super Viernes (June 2010)  CMLL Super Viernes   2	promotion	Consejo Mundial de Lucha Libre
-CMLL Super Viernes (June 2010)  CMLL Super Viernes   3	promotion	Consejo Mundial de Lucha Libre
-Victory Road (2010)	promotion	Total Nonstop Action Wrestling
-CMLL 67th Anniversary Show	promotion	Consejo Mundial de Lucha Libre
+Sin Salida	promotion	Consejo Mundial de Lucha Libre
+Unforgiven	promotion	WWE
+Unforgiven	promotion	WWE
+Unforgiven	promotion	World Wrestling Entertainment
+No Mercy	promotion	WWE
+No Mercy	promotion	World Wrestling Entertainment
+Fully Loaded	promotion	WWE
+Armageddon	promotion	WWE
+SummerSlam	promotion	World Wrestling Entertainment
+CMLL Super Viernes	promotion	Consejo Mundial de Lucha Libre
+Victory Road	promotion	Total Nonstop Action Wrestling
 CMLL 66th Anniversary Show	promotion	Consejo Mundial de Lucha Libre
 CMLL 65th Anniversary Show	promotion	Consejo Mundial de Lucha Libre
-Verano de Escándalo (2010)	promotion	Asistencia Asesoría y Administración
-Bragging Rights (2010)	promotion	WWE
-Hell in a Cell (2010)	promotion	WWE
-Night of Champions (2010)	promotion	WWE
-TLC: Tables, Ladders & Chairs (2010)	promotion	WWE
-Hardcore Justice (2010)	promotion	Total Nonstop Action Wrestling
-CMLL 64th Anniversary Show	promotion	Consejo Mundial de Lucha Libre
-CMLL 63rd Anniversary Show	promotion	Consejo Mundial de Lucha Libre
-CMLL 62nd Anniversary Show	promotion	Consejo Mundial de Lucha Libre
+CMLL 67th Anniversary Show	promotion	Consejo Mundial de Lucha Libre
+Leyenda de Azul	promotion	Consejo Mundial de Lucha Libre
+Verano de Escándalo	promotion	Asistencia Asesoría y Administración
+WrestleMania XXX	promotion	WWE
+Bragging Rights	promotion	World Wrestling Entertainment
+Hell in a Cell	promotion	World Wrestling Entertainment
+Night of Champions	promotion	WWE
+TLC: Tables, Ladders & Chairs	promotion	WWE
+Hardcore Justice	promotion	Total Nonstop Action Wrestling
 CMLL 61st Anniversary Show	promotion	Consejo Mundial de Lucha Libre
+CMLL 62nd Anniversary Show	promotion	Consejo Mundial de Lucha Libre
+CMLL 64th Anniversary Show	promotion	Consejo Mundial de Lucha Libre
 CMLL 59th Anniversary Show	promotion	Consejo Mundial de Lucha Libre
-CMLL 60th Anniversary Show	promotion	Consejo Mundial de Lucha Libre
 EMLL 58th Anniversary Show	promotion	Consejo Mundial de Lucha Libre
 EMLL 57th Anniversary Show	promotion	Consejo Mundial de Lucha Libre
-Infierno en el Ring (2010)	promotion	Consejo Mundial de Lucha Libre
-CMLL Super Viernes (July 2010)	promotion	Consejo Mundial de Lucha Libre
-CMLL Super Viernes (July 2010)  CMLL Super Viernes   1	promotion	Consejo Mundial de Lucha Libre
-CMLL Super Viernes (July 2010)  CMLL Super Viernes   2	promotion	Consejo Mundial de Lucha Libre
-CMLL Super Viernes (July 2010)  CMLL Super Viernes   3	promotion	Consejo Mundial de Lucha Libre
-CMLL Super Viernes (July 2010)  CMLL Super Viernes   4	promotion	Consejo Mundial de Lucha Libre
-Promociones Gutiérrez 1st Anniversary Show	promotion	Consejo Mundial de Lucha Libre
+CMLL 60th Anniversary Show	promotion	Consejo Mundial de Lucha Libre
+CMLL 63rd Anniversary Show	promotion	Consejo Mundial de Lucha Libre
+CMLL Super Viernes	promotion	Consejo Mundial de Lucha Libre
+Infierno en el Ring	promotion	Consejo Mundial de Lucha Libre
+Promociones Gutiérrez 1st Anniversary Show	promotion	Consejo Mundial de Lucha Libre / Promociones Gutierrez
 List of Universal Wrestling Association Shows	promotion	Universal Wrestling Association
-List of Universal Wrestling Association Shows  UWA 7th Anniversary Show   1	promotion	Universal Wrestling Association
-List of Universal Wrestling Association Shows  UWA 9th Anniversary Show   1	promotion	Universal Wrestling Association
-List of Universal Wrestling Association Shows  UWA 14th Anniversary Show   1	promotion	Universal Wrestling Association
-List of Universal Wrestling Association Shows  UWA 16th Anniversary Show   1	promotion	Universal Wrestling Association
-List of Universal Wrestling Association Shows  UWA 17th Anniversary Show   1	promotion	Universal Wrestling Association
-List of Universal Wrestling Association Shows  UWA 18th Anniversary Show   1	promotion	Universal Wrestling Association
-List of Universal Wrestling Association Shows  UWA 19th Anniversary Show   1	promotion	Universal Wrestling Association
 Glory By Honor IX	promotion	Ring of Honor
-CMLL Universal Championship (2009)	promotion	Consejo Mundial de Lucha Libre
-CMLL Universal Championship (2010)	promotion	Consejo Mundial de Lucha Libre
-CMLL Super Viernes (August 2010)	promotion	Consejo Mundial de Lucha Libre
-CMLL Super Viernes (August 2010)  CMLL Super Viernes   1	promotion	Consejo Mundial de Lucha Libre
+CMLL Universal Championship	promotion	Consejo Mundial de Lucha Libre
+CMLL Universal Championship	promotion	Consejo Mundial de Lucha Libre
+CMLL Super Viernes	promotion	Consejo Mundial de Lucha Libre
 Bloodymania IV	promotion	Juggalo Championship Wrestling
-No Surrender (2010)	promotion	Total Nonstop Action Wrestling
-Bound for Glory (2010)	promotion	Total Nonstop Action Wrestling
+No Surrender	promotion	Total Nonstop Action Wrestling
+Bound for Glory	promotion	Total Nonstop Action Wrestling
 CMLL 77th Anniversary Show	promotion	Consejo Mundial de Lucha Libre
-Royal Rumble (2011)	promotion	WWE
+Royal Rumble	promotion	WWE
 Héroes Inmortales IV	promotion	Asistencia Asesoría y Administración
 Final Battle 2010	promotion	Ring of Honor
-Turning Point (2010)	promotion	Total Nonstop Action Wrestling
+Turning Point	promotion	Total Nonstop Action Wrestling
 WrestleMania XXVIII	promotion	WWE
+WrestleMania 29	promotion	WWE
 Double Tables	promotion	Extreme Championship Wrestling
-Final Resolution (2010)	promotion	Total Nonstop Action Wrestling
-Guerra de Titanes (2010)	promotion	Asistencia Asesoría y Administración
-Elimination Chamber (2011)	promotion	WWE
-King of the Ring (2010)	promotion	WWE
+Final Resolution	promotion	Total Nonstop Action Wrestling
+Guerra de Titanes	promotion	Asistencia Asesoría y Administración
+Elimination Chamber	promotion	WWE
+King of the Ring	promotion	World Wrestling Entertainment
 CZW Cage of Death	promotion	Combat Zone Wrestling
-CZW Cage of Death  II   1	promotion	Combat Zone Wrestling
-CZW Cage of Death  3   1	promotion	Combat Zone Wrestling
-CZW Cage of Death  IV   1	promotion	Combat Zone Wrestling
-CZW Cage of Death  V: Suspended   1	promotion	Combat Zone Wrestling
-CZW Cage of Death  VI   1	promotion	Combat Zone Wrestling
-CZW Cage of Death  7: Living in Sin   1	promotion	Combat Zone Wrestling
-CZW Cage of Death  8: Coming Undone   1	promotion	Combat Zone Wrestling
-CZW Cage of Death  IX   1	promotion	Combat Zone Wrestling
-CZW Cage of Death  X   1	promotion	Combat Zone Wrestling
-CZW Cage of Death  XI   1	promotion	Combat Zone Wrestling
-CZW Cage of Death  XII   1	promotion	Combat Zone Wrestling
-Extreme Rules (2011)	promotion	WWE
-Genesis (2011)	promotion	Total Nonstop Action Wrestling
-Against All Odds (2011)	promotion	Total Nonstop Action Wrestling
-Over the Limit (2011)	promotion	WWE
-9th Anniversary Show	promotion	Ring of Honor
-Victory Road (2011)	promotion	Total Nonstop Action Wrestling
-Destination X (2011)	promotion	Total Nonstop Action Wrestling
-Rey de Reyes (2011)	promotion	Asistencia Asesoría y Administración
-Lockdown (2011)	promotion	Total Nonstop Action Wrestling
-Sin Piedad (2010)	promotion	Consejo Mundial de Lucha Libre
-Fantasticamania 2011	promotion	Consejo Mundial de Lucha Libre
-Fantasticamania 2011	promotion	New Japan Pro Wrestling
+Extreme Rules	promotion	WWE
+Genesis	promotion	Total Nonstop Action Wrestling
+Against All Odds	promotion	Total Nonstop Action Wrestling
+Over the Limit	promotion	WWE
+ROH 9th Anniversary Show	promotion	Ring of Honor
+Victory Road	promotion	Total Nonstop Action Wrestling
+Destination X	promotion	Total Nonstop Action Wrestling
+Rey de Reyes	promotion	Asistencia Asesoría y Administración
+Lockdown	promotion	Total Nonstop Action Wrestling
+Sin Piedad	promotion	Consejo Mundial de Lucha Libre
+Fantastica Mania 2011	promotion	Consejo Mundial de Lucha Libre
+Fantastica Mania 2011	promotion	New Japan Pro Wrestling
 WWF Capital Carnage	promotion	WWE
 Gary Albright Memorial Show	promotion	World Xtreme Wrestling
-NJPW Resolution	promotion	New Japan Pro Wrestling
 Yokozuna Memorial Show	promotion	World Xtreme Wrestling
-Enter The Dragon 2010	promotion	Dragon Gate USA
-DGUSA Uprising	promotion	Dragon Gate USA
-Untouchable 2010	promotion	Dragon Gate USA
-DGUSA Freedom Fight 2011	promotion	Dragon Gate USA
-Bushido: Code of the Warrior	promotion	Dragon Gate USA
 DGUSA United: NYC	promotion	Dragon Gate USA
-Zero1 Truth Century Creation	promotion	Pro Wrestling Zero1
-Zero1 Truth Century Creation  Zero1 10th Anniversary : Pro-Wrestling   1	promotion	Pro Wrestling Zero1
-Zero1 Truth Century Creation  Zero1 10th Anniversary : Pro-Wrestling   2	promotion	Pro Wrestling Zero1
-Homenaje a Dos Leyendas (2011)	promotion	Consejo Mundial de Lucha Libre
-Genesis (2007)	promotion	Total Nonstop Action Wrestling
+Bushido: Code of the Warrior	promotion	Dragon Gate USA
+DGUSA Uprising	promotion	Dragon Gate USA
+Homenaje a Dos Leyendas	promotion	Consejo Mundial de Lucha Libre
+Genesis	promotion	Total Nonstop Action Wrestling
 Honor Takes Center Stage	promotion	Ring of Honor
-TripleManía XIX	promotion	Asistencia Asesoría y Administración
-Giant Baba Memorial Spectacular	promotion	All Japan Pro Wrestling
+Triplemanía XIX	promotion	Asistencia Asesoría y Administración
+Giant Baba Memorial Spectacular	promotion	All-Japan Pro Wrestling
 Giant Baba Memorial Spectacular	promotion	New Japan Pro Wrestling
-Giant Baba Memorial Six Man Tag Team Tournament	promotion	All Japan Pro Wrestling
-Giant Baba Memorial Cup	promotion	All Japan Pro Wrestling
-WWE Capitol Punishment	promotion	WWE
-Enter The Dragon 2011	promotion	Dragon Gate USA
+Giant Baba Memorial Six Man Tag Team Tournament	promotion	All-Japan Pro Wrestling
+Giant Baba Memorial Cup	promotion	All-Japan Pro Wrestling
 Acid-Fest: A Tribute to Trent Acid	promotion	Combat Zone Wrestling
 Acid-Fest: A Tribute to Trent Acid	promotion	Jersey All Pro Wrestling
-Dennis Coralluzzo Invitational	promotion	List of National Wrestling Alliance territories
-SummerSlam (2011)	promotion	WWE
-Hatchet Attacks (2011)	promotion	Juggalo Championship Wrestling
+Dennis Coralluzzo Invitational	promotion	List of NWA territories
+SummerSlam	promotion	WWE
+Hatchet Attacks	promotion	Juggalo Championship Wrestling
 Bruiser Brody Memorial Cup	promotion	World Wrestling Council
-Hustle King Memorial Six Man Tag Team Tournament	promotion	Hustle (professional wrestling)
+Hustle King Memorial Six Man Tag Team Tournament	promotion	Hustle
 Fred Ward Memorial Show	promotion	Georgia Championship Wrestling
-Sacrifice (2011)	promotion	Total Nonstop Action Wrestling
-Bunkhouse Stampede (1988)	promotion	National Wrestling Alliance
-Money in the Bank (2011)	promotion	WWE
+Sacrifice	promotion	Total Nonstop Action Wrestling
+Bunkhouse Stampede	promotion	National Wrestling Alliance
+Money in the Bank	promotion	WWE
 Slammiversary IX	promotion	Total Nonstop Action Wrestling
 St. Andrews Brawl	promotion	Juggalo Championship Wrestling
+Vengeance	promotion	WWE
+Starrcade	promotion	World Championship Wrestling
+WWE Capitol Punishment	promotion	WWE
 Best in the World 2011	promotion	Ring of Honor
-The Great American Bash (1988)	promotion	National Wrestling Alliance
-Hardcore Justice (2011)	promotion	Total Nonstop Action Wrestling
-Verano de Escándalo (2011)	promotion	Asistencia Asesoría y Administración
+The Great American Bash	promotion	National Wrestling Alliance
+Hardcore Justice	promotion	Total Nonstop Action Wrestling
+Night of Champions	promotion	WWE
+Final Resolution	promotion	Total Nonstop Action Wrestling
+Verano de Escándalo	promotion	Asistencia Asesoría y Administración
 CMLL 78th Anniversary Show	promotion	Consejo Mundial de Lucha Libre
-Survivor Series (2011)	promotion	WWE
-Vengence (2011)	promotion	WWE
-Bound for Glory (2011)	promotion	Total Nonstop Action Wrestling
+Survivor Series	promotion	WWE
+Bound for Glory	promotion	Total Nonstop Action Wrestling
 Big Egg Wrestling Universe	promotion	All Japan Women's Pro-Wrestling
+Final Resolution	promotion	Total Nonstop Action Wrestling
+Turning Point	promotion	Total Nonstop Action Wrestling
+Triplemanía XX	promotion	Asistencia Asesoría y Administración
+Genesis	promotion	Total Nonstop Action Wrestling
+Deaf Wrestlefest	promotion	Steel City Wrestling
+Hell in a Cell	promotion	WWE
+Héroes Inmortales	promotion	Asistencia Asesoría y Administración
+Royal Rumble	promotion	WWE
+Elimination Chamber	promotion	WWE
+TLC: Tables, Ladders & Chairs	promotion	WWE
+CMLL Universal Championship	promotion	Consejo Mundial de Lucha Libre
+No Surrender	promotion	Total Nonstop Action Wrestling
+Guerra de Titanes	promotion	Asistencia Asesoría y Administración
+Death Before Dishonor IX	promotion	Ring of Honor
+Final Battle 2011	promotion	Ring of Honor
+Bloodymania 5	promotion	Juggalo Championship Wrestling
+Juicio Final	promotion	Consejo Mundial de Lucha Libre
+Chikara High Noon	promotion	Chikara
+WrestleWar	promotion	National Wrestling Alliance
+Against All Odds	promotion	Total Nonstop Action Wrestling
+Rey de Reyes	promotion	Asistencia Asesoría y Administración
+Genesis	promotion	Total Nonstop Action Wrestling
+SummerSlam	promotion	WWE
+Money in the Bank	promotion	WWE
+Survivor Series	promotion	WWE
+The Great American Bash	promotion	National Wrestling Alliance
+Victory Road	promotion	Total Nonstop Action Wrestling
+Against All Odds	promotion	Total Nonstop Action Wrestling
+El Protector	promotion	International Wrestling Revolution Group
+Fantastica Mania 2012	promotion	Consejo Mundial de Lucha Libre
+Fantastica Mania 2012	promotion	New Japan Pro Wrestling
+IWRG Guerra de Campeones	promotion	International Wrestling Revolution Group
+IWRG Guerra de Campeones	promotion	Promociones Wagner
+Over the Limit	promotion	WWE
+Night of Champions	promotion	WWE
+Royal Rumble	promotion	WWE
+TLC: Tables, Ladders & Chairs	promotion	WWE
+El Castillo del Terror	promotion	International Wrestling Revolution Group
+El Castillo del Terror	promotion	International Wrestling Revolution Group
+Guerra de Sexos	promotion	International Wrestling Revolution Group
+No Surrender	promotion	Total Nonstop Action Wrestling
+Lockdown	promotion	Total Nonstop Action Wrestling
+10th Anniversary Show: Young Wolves Rising	promotion	Ring of Honor
+Chikarasaurus Rex: How to Hatch a Dinosaur	promotion	Chikara
+Sacrifice	promotion	Total Nonstop Action Wrestling
+Hell in a Cell	promotion	WWE
+No Way Out	promotion	WWE
+WrestleMania 33	promotion	WWE
+WrestleMania 32	promotion	WWE
+Jeff Peterson Memorial Cup	promotion	Full Impact Pro
+Jeff Peterson Memorial Cup	promotion	NWA Florida
+Eddie Graham Memorial Battle of the Belts	promotion	Full Impact Pro
+Slammiversary 10	promotion	Total Nonstop Action Wrestling
+Showdown in the Sun	promotion	Ring of Honor
+Extreme Rules	promotion	WWE
+Sacrifice	promotion	Total Nonstop Action Wrestling
+DGUSA Open The Northern Gate	promotion	Dragon Gate USA
+Border Wars	promotion	Ring of Honor
+World Wrestling Peace Festival	promotion	Asistencia Asesoría y Administración
+World Wrestling Peace Festival	promotion	Consejo Mundial de Lucha Libre
+World Wrestling Peace Festival	promotion	Michinoku Pro
+World Wrestling Peace Festival	promotion	New Japan Pro Wrestling
+World Wrestling Peace Festival	promotion	World Championship Wrestling
+Destination X	promotion	Total Nonstop Action Wrestling
+Best in the World 2012: Hostage Crisis	promotion	Ring of Honor
+Hardcore Justice	promotion	Total Nonstop Action Wrestling
+Bound for Glory	promotion	Total Nonstop Action Wrestling
+SummerSlam	promotion	WWE
+Elimination Chamber	promotion	WWE
+WWE Raw 1000	promotion	WWE
+Extreme Rules	promotion	WWE
+Boiling Point	promotion	Ring of Honor
+No Surrender	promotion	Total Nonstop Action Wrestling
+CMLL Universal Championship	promotion	Consejo Mundial de Lucha Libre
+Héroes Inmortales	promotion	Asistencia Asesoría y Administración
+Death Before Dishonor X: State of Emergency	promotion	Ring of Honor
+CMLL 79th Anniversary Show	promotion	Consejo Mundial de Lucha Libre
+Homenaje a Dos Leyendas	promotion	Consejo Mundial de Lucha Libre
+TNA Gut Check	promotion	Total Nonstop Action Wrestling
+CMLL Super Viernes	promotion	Consejo Mundial de Lucha Libre
+CMLL Super Viernes	promotion	Consejo Mundial de Lucha Libre
+Infierno en el Ring	promotion	Consejo Mundial de Lucha Libre
+Glory By Honor XI: The Unbreakable Hope	promotion	Ring of Honor
+Sin Piedad	promotion	Consejo Mundial de Lucha Libre
+CMLL Super Viernes	promotion	Consejo Mundial de Lucha Libre
+CMLL Torneo Nacional de Parejas Increibles	promotion	Consejo Mundial de Lucha Libre
+CMLL Torneo Nacional de Parejas Increibles	promotion	Consejo Mundial de Lucha Libre
+CMLL Torneo Nacional de Parejas Increibles	promotion	Consejo Mundial de Lucha Libre
+Turning Point	promotion	Total Nonstop Action Wrestling
+CMLL Mini-Estrellas tournaments	promotion	Consejo Mundial de Lucha Libre
+CMLL Super Viernes	promotion	Consejo Mundial de Lucha Libre
+Mike Marino Memorial Shield	promotion	Joint Promotions
+Torneo Sangre Nueva	promotion	Consejo Mundial de Lucha Libre
+CMLL singles wrestling tournaments	promotion	Consejo Mundial de Lucha Libre
+EMLL 1st Anniversary Show	promotion	Empresa Mexicana de Lucha Libre
+EMLL 2nd Anniversary Show	promotion	Consejo Mundial de Lucha Libre
+EMLL 3rd Anniversary Show	promotion	Consejo Mundial de Lucha Libre
+EMLL 4th Anniversary Show	promotion	Consejo Mundial de Lucha Libre
+EMLL 5th Anniversary Show	promotion	Consejo Mundial de Lucha Libre
+EMLL 6th Anniversary Show	promotion	Consejo Mundial de Lucha Libre
+EMLL 7th Anniversary Show	promotion	Consejo Mundial de Lucha Libre
+EMLL 8th Anniversary Show	promotion	Consejo Mundial de Lucha Libre
+EMLL 9th Anniversary Show	promotion	Consejo Mundial de Lucha Libre
+EMLL 10th Anniversary Show	promotion	Consejo Mundial de Lucha Libre
+EMLL 52nd Anniversary Show	promotion	Consejo Mundial de Lucha Libre
+Forjando un Ídolo	promotion	Consejo Mundial de Lucha Libre
+El Castillo del Terror	promotion	International Wrestling Revolution Group
+Final Resolution	promotion	Total Nonstop Action Wrestling
+CMLL Super Viernes	promotion	Consejo Mundial de Lucha Libre
+Bloodymania 6	promotion	Juggalo Championship Wrestling
+Homenaje a Dos Leyendas: El Santo y Salvador Lutteroth	promotion	Consejo Mundial de Lucha Libre
+Homenaje a Dos Leyendas: El Santo y Salvador Lutteroth	promotion	Consejo Mundial de Lucha Libre
+Homenaje a Dos Leyendas: El Santo y Salvador Lutteroth	promotion	Consejo Mundial de Lucha Libre
+Homenaje a Salvador Lutteroth	promotion	Consejo Mundial de Lucha Libre
+EMLL 55th Anniversary Show	promotion	Consejo Mundial de Lucha Libre
+EMLL 56th Anniversary Show	promotion	Consejo Mundial de Lucha Libre
+Homenaje a Dos Leyendas: El Santo y Salvador Lutteroth	promotion	Consejo Mundial de Lucha Libre
+Homenaje a Salvador Lutteroth	promotion	Consejo Mundial de Lucha Libre
+Homenaje a Salvador Lutteroth	promotion	Consejo Mundial de Lucha Libre
+EMLL 51st Anniversary Show	promotion	Consejo Mundial de Lucha Libre
+EMLL 53rd Anniversary Show	promotion	Consejo Mundial de Lucha Libre
+EMLL 54th Anniversary Show	promotion	Consejo Mundial de Lucha Libre
+Fantastica Mania 2013	promotion	Consejo Mundial de Lucha Libre
+Fantastica Mania 2013	promotion	New Japan Pro Wrestling
+Final Battle 2012: Doomsday	promotion	Ring of Honor
+Under the Hood	promotion	Chikara
+EMLL 48th Anniversary Show	promotion	Consejo Mundial de Lucha Libre
+EMLL 50th Anniversary Show	promotion	Consejo Mundial de Lucha Libre
+EMLL 49th Anniversary Show	promotion	Consejo Mundial de Lucha Libre
+Guerra de Titanes	promotion	Asistencia Asesoría y Administración
+CMLL Super Viernes	promotion	Consejo Mundial de Lucha Libre
+CMLL Super Viernes	promotion	Consejo Mundial de Lucha Libre
+CMLL tag team tournaments	promotion	Consejo Mundial de Lucha Libre
+CMLL Super Viernes	promotion	Consejo Mundial de Lucha Libre
+CMLL Reyes del Aire	promotion	Consejo Mundial de Lucha Libre
+EMLL 11th Anniversary Show	promotion	Consejo Mundial de Lucha Libre
+EMLL 12th Anniversary Show	promotion	Consejo Mundial de Lucha Libre
+EMLL 13th Anniversary Show	promotion	Consejo Mundial de Lucha Libre
+EMLL 14th Anniversary Show	promotion	Consejo Mundial de Lucha Libre
+EMLL 16th Anniversary Show	promotion	Consejo Mundial de Lucha Libre
+EMLL 15th Anniversary Show	promotion	Consejo Mundial de Lucha Libre
+EMLL 17th Anniversary Show	promotion	Consejo Mundial de Lucha Libre
+EMLL 47th Anniversary Show	promotion	Consejo Mundial de Lucha Libre
+EMLL 21st Anniversary Show	promotion	Consejo Mundial de Lucha Libre
+EMLL 19th Anniversary Show	promotion	Consejo Mundial de Lucha Libre
+EMLL 24th Anniversary Show	promotion	Consejo Mundial de Lucha Libre
+EMLL 18th Anniversary Show	promotion	Consejo Mundial de Lucha Libre
+EMLL 23rd Anniversary Show	promotion	Consejo Mundial de Lucha Libre
+EMLL 22nd Anniversary Show	promotion	Consejo Mundial de Lucha Libre
+EMLL 25th Anniversary Show	promotion	Consejo Mundial de Lucha Libre
+EMLL 26th Anniversary Show	promotion	Consejo Mundial de Lucha Libre
+EMLL 20th Anniversary Show	promotion	Consejo Mundial de Lucha Libre
+EMLL 27th Anniversary Show	promotion	Consejo Mundial de Lucha Libre
+EMLL 29th Anniversary Show	promotion	Consejo Mundial de Lucha Libre
+EMLL 28th Anniversary Show	promotion	Consejo Mundial de Lucha Libre
+EMLL 30th Anniversary Show	promotion	Consejo Mundial de Lucha Libre
+EMLL 30th Anniversary Show	promotion	Consejo Mundial de Lucha Libre
+EMLL 45th Anniversary Show	promotion	Empresa Mexicana de Lucha Libre
+EMLL 46th Anniversary Show	promotion	Empresa Mexicana de Lucha Libre
+EMLL 31st Anniversary Show	promotion	Consejo Mundial de Lucha Libre
+EMLL 32nd Anniversary Show	promotion	Consejo Mundial de Lucha Libre
+EMLL 33rd Anniversary Show	promotion	Consejo Mundial de Lucha Libre
+EMLL 34th Anniversary Show	promotion	Consejo Mundial de Lucha Libre
+EMLL 33rd Anniversary Show	promotion	Consejo Mundial de Lucha Libre
+EMLL 35th Anniversary Show	promotion	Consejo Mundial de Lucha Libre
+EMLL 36th Anniversary Show	promotion	Consejo Mundial de Lucha Libre
+EMLL 38th Anniversary Show	promotion	Consejo Mundial de Lucha Libre
+EMLL 37th Anniversary Show	promotion	Consejo Mundial de Lucha Libre
+EMLL 39th Anniversary Show	promotion	Consejo Mundial de Lucha Libre
+EMLL 39th Anniversary Show	promotion	Consejo Mundial de Lucha Libre
+EMLL 40th Anniversary Show	promotion	Consejo Mundial de Lucha Libre
+EMLL 41st Anniversary Show	promotion	Consejo Mundial de Lucha Libre
+EMLL 42nd Anniversary Show	promotion	Consejo Mundial de Lucha Libre
+EMLL 42nd Anniversary Show	promotion	Consejo Mundial de Lucha Libre
+EMLL 42nd Anniversary Show	promotion	Consejo Mundial de Lucha Libre
+EMLL 43rd Anniversary Show	promotion	Consejo Mundial de Lucha Libre
+EMLL 44th Anniversary Show	promotion	Consejo Mundial de Lucha Libre
+EMLL 44th Anniversary Show	promotion	Consejo Mundial de Lucha Libre
+Lockdown	promotion	Total Nonstop Action Wrestling
+Sin Piedad	promotion	Consejo Mundial de Lucha Libre
+Prisión Fatal	promotion	International Wrestling Revolution Group
+Sin Piedad	promotion	Consejo Mundial de Lucha Libre
+Genesis	promotion	Total Nonstop Action Wrestling
+Sin Piedad	promotion	Consejo Mundial de Lucha Libre
+Sin Piedad	promotion	Consejo Mundial de Lucha Libre
+Aniversario: Never Compromise	promotion	Chikara
+TLC: Tables, Ladders & Chairs	promotion	WWE
+Hell in a Cell	promotion	WWE
+Night of Champions	promotion	WWE
+TNA One Night Only	promotion	Total Nonstop Action Wrestling
+TNA One Night Only	promotion	Wrestle-1
+Royal Rumble	promotion	WWE
+SummerSlam	promotion	WWE
+ROH 11th Anniversary Show	promotion	Ring of Honor
+El Protector	promotion	International Wrestling Revolution Group
+Proyeccion a Nuevas Promesas	promotion	International Wrestling Revolution Group
+IWRG 16th Anniversary Show	promotion	International Wrestling Revolution Group
+Arena Naucalpan 35th Anniversary Show	promotion	International Wrestling Revolution Group
+IWRG Ruleta de la Muerte	promotion	International Wrestling Revolution Group
+Proyeccion a Nuevas Promesas	promotion	International Wrestling Revolution Group
+Rebelión de los Juniors	promotion	International Wrestling Revolution Group
+Guerra del Golfo	promotion	International Wrestling Revolution Group
+Rey del Ring	promotion	International Wrestling Revolution Group
+Guerra de Empresas	promotion	International Wrestling Revolution Group
+La Gran Cruzada	promotion	International Wrestling Revolution Group
+Festival de las Máscaras	promotion	International Wrestling Revolution Group
+Legado Final	promotion	International Wrestling Revolution Group
+Homenaje a Dos Leyendas	promotion	Consejo Mundial de Lucha Libre
+CMLL Torneo Nacional de Parejas Increibles	promotion	Consejo Mundial de Lucha Libre
+Rey de Reyes	promotion	Asistencia Asesoría y Administración
+Prisión Fatal	promotion	International Wrestling Revolution Group
+Slammiversary XI	promotion	Total Nonstop Action Wrestling
+La Copa Junior	promotion	Consejo Mundial de Lucha Libre
+Final Resolution	promotion	Total Nonstop Action Wrestling
+Payback	promotion	WWE
+Supercard of Honor VII	promotion	Ring of Honor
+CMLL 80th Anniversary Show	promotion	Consejo Mundial de Lucha Libre
+Gran Alternativa 2013	promotion	Consejo Mundial de Lucha Libre
+Triplemanía XXI	promotion	Asistencia Asesoría y Administración
+Survivor Series	promotion	WWE
+Border Wars	promotion	Ring of Honor
+Guerra de Familias	promotion	International Wrestling Revolution Group
+IWRG Copa Revolucionaria	promotion	International Wrestling Revolution Group
+Guerra de Sexos	promotion	International Wrestling Revolution Group
+IWRG 17th Anniversary Show	promotion	International Wrestling Revolution Group
+Legado Final	promotion	International Wrestling Revolution Group
+Guerra del Golfo	promotion	International Wrestling Revolution Group
+Guerra de Empresas	promotion	International Wrestling Revolution Group
+IWRG La Jaula del Honor	promotion	International Wrestling Revolution Group
+Guerra de Empresas	promotion	International Wrestling Revolution Group
+Caravana de Campeones	promotion	International Wrestling Revolution Group
+Guerra del Golfo	promotion	International Wrestling Revolution Group
+Guerra Revolucionaria	promotion	International Wrestling Revolution Group
+Festival de las Máscaras	promotion	International Wrestling Revolution Group
+Rey del Ring	promotion	International Wrestling Revolution Group
+IWRG La Jaula de la Muerte	promotion	International Wrestling Revolution Group
+Rebelión de los Juniors	promotion	International Wrestling Revolution Group
+Arena Naucalpan 34th Anniversary Show	promotion	International Wrestling Revolution Group
+Dr. Wagner 50th Anniversary Show	promotion	International Wrestling Revolution Group
+El Castillo del Terror	promotion	International Wrestling Revolution Group
+La Gran Cruzada	promotion	International Wrestling Revolution Group
+Arena Mexico 57th Anniversary Show	promotion	Consejo Mundial de Lucha Libre
+Pequeño Reyes del Aire	promotion	Consejo Mundial de Lucha Libre
+Elimination Chamber	promotion	WWE
+El Castillo del Terror	promotion	International Wrestling Revolution Group
+Arena Coliseo 70th Anniversary Show	promotion	Consejo Mundial de Lucha Libre
+Best in the World 2013	promotion	Ring of Honor
+Guerra de Empresas	promotion	International Wrestling Revolution Group
+Guerra del Golfo	promotion	International Wrestling Revolution Group
+Arena Naucalpan 33rd Anniversary Show	promotion	International Wrestling Revolution Group
+Rebelión de los Juniors	promotion	International Wrestling Revolution Group
+Rey del Ring	promotion	International Wrestling Revolution Group
+Money in the Bank	promotion	WWE
+Bound for Glory	promotion	Total Nonstop Action Wrestling
+Lockdown	promotion	Total Nonstop Action Wrestling
+Night of Champions	promotion	WWE
+Battleground	promotion	WWE
+CMLL Universal Championship	promotion	Consejo Mundial de Lucha Libre
+All Together	promotion	All Japan Pro Wrestling
+All Together	promotion	New Japan Pro Wrestling
+All Together	promotion	Pro Wrestling Noah
+Royal Rumble	promotion	WWE
+Death Before Dishonor XI	promotion	Ring of Honor
+Survivor Series	promotion	WWE
+Héroes Inmortales VII	promotion	Asistencia Asesoría y Administración
+Hell in a Cell	promotion	WWE
+TLC: Tables, Ladders & Chairs	promotion	WWE
+Payback	promotion	WWE
+Money in the Bank	promotion	WWE
+Extreme Rules	promotion	WWE
+The New Beginning	promotion	New Japan Pro Wrestling
+Power Struggle	promotion	New Japan Pro Wrestling
+King of Pro-Wrestling	promotion	New Japan Pro Wrestling
+King of Pro-Wrestling	promotion	New Japan Pro Wrestling
+The New Beginning	promotion	New Japan Pro Wrestling
+Power Struggle	promotion	New Japan Pro Wrestling
+Destruction	promotion	New Japan Pro Wrestling
+Power Struggle	promotion	New Japan Pro Wrestling
+Dominion 6.18	promotion	New Japan Pro Wrestling
+Dominion 6.19	promotion	New Japan Pro Wrestling
+Dominion 6.16	promotion	New Japan Pro Wrestling
+Dominion 6.20	promotion	New Japan Pro Wrestling
+Destruction	promotion	New Japan Pro Wrestling
+Wrestling Dontaku 2010	promotion	New Japan Pro Wrestling
+Wrestling Dontaku 2009	promotion	New Japan Pro Wrestling
+Wrestling Dontaku 2012	promotion	New Japan Pro Wrestling
+Dominion 6.22	promotion	New Japan Pro Wrestling
+Wrestling Dontaku 2013	promotion	New Japan Pro Wrestling
+The New Beginning	promotion	New Japan Pro Wrestling
+Wrestling Dontaku 2011	promotion	New Japan Pro Wrestling
+Wrestling Dontaku	promotion	New Japan Pro Wrestling
+Destruction '09	promotion	New Japan Pro Wrestling
+Destruction '07	promotion	New Japan Pro Wrestling
+Destruction '08	promotion	New Japan Pro Wrestling
+Destruction '10	promotion	New Japan Pro Wrestling
+Destruction '11	promotion	New Japan Pro Wrestling
+Fantastica Mania 2014	promotion	Consejo Mundial de Lucha Libre
+Fantastica Mania 2014	promotion	New Japan Pro Wrestling
+Glory By Honor XII	promotion	Ring of Honor
+Final Battle 2013	promotion	Ring of Honor
+Guerra de Titanes	promotion	Asistencia Asesoría y Administración
+FMW Supershow	promotion	Extreme Championship Wrestling
+FMW Supershow	promotion	Frontier Martial-Arts Wrestling
+The New Beginning in Hiroshima	promotion	New Japan Pro Wrestling
+Dominion 6.21	promotion	New Japan Pro Wrestling
+Invasion Attack 2014	promotion	New Japan Pro Wrestling
+Invasion Attack	promotion	New Japan Pro Wrestling
+Wrestling Dontaku 2014	promotion	New Japan Pro Wrestling
+The New Beginning in Osaka	promotion	New Japan Pro Wrestling
+Turning Point	promotion	Total Nonstop Action Wrestling
+Slammiversary XII	promotion	Total Nonstop Action Wrestling
+ROH 12th Anniversary Show	promotion	Ring of Honor
+Chikara You Only Live Twice	promotion	Chikara
+Battleground	promotion	WWE
+Sacrifice	promotion	Total Nonstop Action Wrestling
+UK Rampage	promotion	WWE
+NJPW Invasion Tour 2011	promotion	New Japan Pro Wrestling
+NXT Arrival	promotion	WWE
+Kaisen: Outbreak	promotion	Wrestle-1
+Rey de Reyes	promotion	Asistencia Asesoría y Administración
+Battle Royal at the Albert Hall	promotion	World Wrestling Entertainment
+Supercard of Honor VIII	promotion	Ring of Honor
+Bloodymania 7	promotion	Juggalo Championship Wrestling
+Global Wars	promotion	New Japan Pro Wrestling
+Global Wars	promotion	Ring of Honor
+NJPW War of the Worlds	promotion	New Japan Pro Wrestling
+NJPW War of the Worlds	promotion	Ring of Honor
+WrestleMania 31	promotion	WWE
+Best in the World 2014	promotion	Ring of Honor
+Extreme Rules	promotion	WWE
+Back to the Yokohama Arena	promotion	New Japan Pro Wrestling
+List of NCW Femme Fatales events	promotion	NCW Femmes Fatales
+Verano de Escándalo	promotion	Asistencia Asesoría y Administración
+Destruction in Okayama	promotion	New Japan Pro Wrestling
+Destruction in Kobe	promotion	New Japan Pro Wrestling
+WWE SmackDown Road to WrestleMania 22 Tour	promotion	World Wrestling Entertainment
+King of Pro-Wrestling	promotion	New Japan Pro Wrestling
+Bound for Glory	promotion	Total Nonstop Action Wrestling
+Bound for Glory	promotion	Wrestle-1
+Triplemanía XXII	promotion	Asistencia Asesoría y Administración
+Homenaje a Dos Leyendas	promotion	Consejo Mundial de Lucha Libre
+Juicio Final	promotion	Consejo Mundial de Lucha Libre
+Infierno en el Ring	promotion	Consejo Mundial de Lucha Libre
+Sin Salida	promotion	Consejo Mundial de Lucha Libre
+Power Struggle	promotion	New Japan Pro Wrestling
+CMLL 81st Anniversary Show	promotion	Consejo Mundial de Lucha Libre
+CMLL Torneo Nacional de Parejas Increibles	promotion	Consejo Mundial de Lucha Libre
+Gran Alternativa 2014	promotion	Consejo Mundial de Lucha Libre
+Wrestle Kingdom 9	promotion	New Japan Pro Wrestling
+CMLL Universal Championship	promotion	Consejo Mundial de Lucha Libre
+En Busca de un Ídolo 2012	promotion	Consejo Mundial de Lucha Libre
+En Busca de un Ídolo 2013	promotion	Consejo Mundial de Lucha Libre
+En Busca de un Ídolo 2014	promotion	Consejo Mundial de Lucha Libre
+Glory by Honor VIII: The Final Countdown	promotion	Ring of Honor
+Royal Rumble	promotion	WWE
+Elimination Chamber	promotion	WWE
+Aniversario de Arena México	promotion	Empresa Mexicana de Lucha Libre
+Aniversario de Arena México	promotion	Consejo Mundial de Lucha Libre
+NEVER	promotion	New Japan Pro Wrestling
+EMLL Carnaval de Campeones	promotion	Consejo Mundial de Lucha Libre
+CMLL Super Viernes	promotion	Consejo Mundial de Lucha Libre
+Héroes Inmortales VIII	promotion	Asistencia Asesoría y Administración
+CMLL Super Viernes	promotion	Consejo Mundial de Lucha Libre
+CMLL Super Viernes	promotion	Consejo Mundial de Lucha Libre
+Chikara Tomorrow Never Dies	promotion	Chikara
+Fantastica Mania 2015	promotion	Consejo Mundial de Lucha Libre
+Fantastica Mania 2015	promotion	New Japan Pro Wrestling
+Guerra de Titanes	promotion	Asistencia Asesoría y Administración
+CMLL Super Viernes	promotion	Consejo Mundial de Lucha Libre
+El Castillo del Terror	promotion	International Wrestling Revolution Group
+El Castillo del Terror	promotion	International Wrestling Revolution Group
+El Castillo del Terror	promotion	International Wrestling Revolution Group
+El Castillo del Terror	promotion	International Wrestling Revolution Group
+El Castillo del Terror	promotion	International Wrestling Revolution Group
+The New Beginning in Osaka	promotion	New Japan Pro Wrestling
+Final Battle 2014	promotion	Ring of Honor
+Infierno en el Ring	promotion	Consejo Mundial de Lucha Libre
+Glory By Honor XIII	promotion	Ring of Honor
+CMLL Super Viernes	promotion	Consejo Mundial de Lucha Libre
+The New Beginning in Sendai	promotion	New Japan Pro Wrestling
+WWE Super Tuesday	promotion	World Wrestling Entertainment
+Wrestling Dontaku 2015	promotion	New Japan Pro Wrestling
+Fastlane	promotion	WWE
+It Ain't Seinfeld	promotion	Extreme Championship Wrestling
+Payback	promotion	WWE
+Invasion Attack 2015	promotion	New Japan Pro Wrestling
+SummerSlam	promotion	WWE
+Money in the Bank	promotion	WWE
+Battleground	promotion	WWE
+Night of Champions	promotion	WWE
+Hell in a Cell	promotion	WWE
+TLC: Tables, Ladders & Chairs	promotion	WWE
+Survivor Series	promotion	WWE
+Money in the Bank	promotion	WWE
+SummerSlam	promotion	WWE
+Payback	promotion	WWE
+Battleground	promotion	WWE
+Hell in a Cell	promotion	WWE
+NWA World Title Tournament	promotion	National Wrestling Alliance
+NWA World Title Tournament	promotion	Extreme Championship Wrestling
+Holiday Hell	promotion	Extreme Championship Wrestling
+Hostile City Showdown	promotion	National Wrestling Alliance
+Hostile City Showdown	promotion	Extreme Championship Wrestling
+ECW House Party	promotion	Extreme Championship Wrestling
+ROH 13th Anniversary Show	promotion	Ring of Honor
+IWA Japan	promotion	Extreme Championship Wrestling
+IWA Japan	promotion	International Wrestling Association of Japan
+NXT TakeOver: R Evolution	promotion	WWE
+NXT TakeOver	promotion	WWE
+NXT TakeOver: Fatal 4-Way	promotion	WWE
+NXT TakeOver: Rival	promotion	WWE
+A Matter of Respect	promotion	Extreme Championship Wrestling
+Homenaje a Dos Leyendas	promotion	Consejo Mundial de Lucha Libre
+CMLL Torneo Nacional de Parejas Increibles	promotion	Consejo Mundial de Lucha Libre
+ECW Gangstas Paradise	promotion	Extreme Championship Wrestling
+NJPW War of the Worlds	promotion	New Japan Pro Wrestling
+NJPW War of the Worlds	promotion	Ring of Honor
+Global Wars '15	promotion	New Japan Pro Wrestling
+Global Wars '15	promotion	Ring of Honor
+Supercard of Honor IX	promotion	Ring of Honor
+Rey de Reyes	promotion	Asistencia Asesoría y Administración
+Dominion 7.5 in Osaka-jo Hall	promotion	New Japan Pro Wrestling
+Fritz Von Erich Retirement Show	promotion	World Class Championship Wrestling
+WCCW Star Wars	promotion	World Class Championship Wrestling
+Big Time Wrestling Star Wars	promotion	World Class Championship Wrestling
+Fastlane	promotion	WWE
+Slammiversary	promotion	Total Nonstop Action Wrestling
+Lucha Libre World Cup	promotion	Asistencia Asesoría y Administración
+King of the Ring	promotion	WWE
+Extreme Rules	promotion	WWE
+Verano de Escándalo	promotion	Asistencia Asesoría y Administración
+WrestleMonster	promotion	World Wrestling Professionals
+Best in the World 2015	promotion	Ring of Honor
+En Busca de un Ídolo 2015	promotion	Consejo Mundial de Lucha Libre
+Death Before Dishonor XIII	promotion	Ring of Honor
+CMLL Universal Championship	promotion	Consejo Mundial de Lucha Libre
+Destruction in Kobe	promotion	New Japan Pro Wrestling
+Destruction in Okayama	promotion	New Japan Pro Wrestling
+Bound for Glory	promotion	Total Nonstop Action Wrestling
+The Beast in the East	promotion	WWE
+Sin Salida	promotion	Consejo Mundial de Lucha Libre
+Triplemanía XXIII	promotion	Asistencia Asesoría y Administración
+CMLL Entre el Cielo y el Infierno	promotion	Consejo Mundial de Lucha Libre
+Field of Honor	promotion	Ring of Honor
+Starrcade	promotion	National Wrestling Alliance
+Starrcade	promotion	Jim Crockett Promotions
+King of Pro-Wrestling	promotion	New Japan Pro Wrestling
+CMLL 82nd Anniversary Show	promotion	Consejo Mundial de Lucha Libre
+Mark Curtis Memorial Weekend of Champions	promotion	Southern States Wrestling
+Power Struggle	promotion	New Japan Pro Wrestling
+Legado Final	promotion	International Wrestling Revolution Group
+Prisión Fatal	promotion	International Wrestling Revolution Group
+Prisión Fatal	promotion	International Wrestling Revolution Group
+Rey del Ring	promotion	International Wrestling Revolution Group
+Guerra del Golfo	promotion	International Wrestling Revolution Group
+Festival de las Máscaras	promotion	International Wrestling Revolution Group
+Rebelión de los Juniors	promotion	International Wrestling Revolution Group
+El Protector	promotion	International Wrestling Revolution Group
+Sin Escape Con Correas	promotion	International Wrestling Revolution Group
+IWRG La Isla	promotion	International Wrestling Revolution Group
+IWRG 18th Anniversary Show	promotion	International Wrestling Revolution Group
+Guerra Revolucionaria	promotion	International Wrestling Revolution Group
+IWRG La Jaula de Las Locas	promotion	International Wrestling Revolution Group
+La Gran Cruzada	promotion	International Wrestling Revolution Group
+Arena Naucalpan 38th Anniversary Show	promotion	International Wrestling Revolution Group
+Caravana de Campeones	promotion	International Wrestling Revolution Group
+El Castillo del Terror	promotion	International Wrestling Revolution Group
+Prisión Fatal	promotion	International Wrestling Revolution Group
+Guerra de Familias	promotion	International Wrestling Revolution Group
+Guerra de Escuelas	promotion	International Wrestling Revolution Group
+Rey del Ring	promotion	International Wrestling Revolution Group
+Festival de las Máscaras	promotion	International Wrestling Revolution Group
+IWRG Ruleta de la Muerte	promotion	International Wrestling Revolution Group
+Guerra del Golfo	promotion	International Wrestling Revolution Group
+Rebelión de los Juniors	promotion	International Wrestling Revolution Group
+El Protector	promotion	International Wrestling Revolution Group
+IWRG 19th Anniversary Show	promotion	International Wrestling Revolution Group
+Héroes Inmortales IX	promotion	Asistencia Asesoría y Administración
+Guerra del Golfo	promotion	International Wrestling Revolution Group
+Guerra del Golfo	promotion	International Wrestling Revolution Group
+Wrestle Kingdom 10	promotion	New Japan Pro Wrestling
+NXT TakeOver: Brooklyn	promotion	WWE
+NXT TakeOver: Unstoppable	promotion	WWE
+All Star Extravaganza VII	promotion	Ring of Honor
+NXT TakeOver: London	promotion	WWE
+NXT TakeOver: Respect	promotion	WWE
+Starrcade	promotion	National Wrestling Alliance
+Starrcade	promotion	Jim Crockett Promotions
+Starrcade	promotion	World Championship Wrestling
+Starrcade	promotion	World Championship Wrestling
+WrestleWar	promotion	National Wrestling Alliance
+Beach Blast	promotion	World Championship Wrestling
+WrestleWar	promotion	World Championship Wrestling
+Beach Blast	promotion	World Championship Wrestling
+WrestleWar	promotion	World Championship Wrestling
+Fear & Loathing VIII	promotion	Insane Championship Wrestling
+WWE Live from Madison Square Garden	promotion	WWE
+Glory By Honor XIV	promotion	Ring of Honor
+TNA World Title Series	promotion	Total Nonstop Action Wrestling
+Survival of the Fittest	promotion	Ring of Honor
+Fantastica Mania 2016	promotion	Consejo Mundial de Lucha Libre
+Fantastica Mania 2016	promotion	New Japan Pro Wrestling
+Final Battle	promotion	Ring of Honor
+The New Beginning in Osaka	promotion	New Japan Pro Wrestling
+The New Beginning in Niigata	promotion	New Japan Pro Wrestling
+Infierno en el Ring	promotion	Consejo Mundial de Lucha Libre
+Sin Piedad	promotion	Consejo Mundial de Lucha Libre
+Stu Hart 50th Anniversary Show	promotion	Stampede Wrestling
+Stampede Wrestling 50th Anniversary Show	promotion	Stampede Wrestling
+NXT TakeOver: Dallas	promotion	WWE
+NWA Smoky Mountain The Finale	promotion	NWA Smoky Mountain Wrestling
+Guerra de Titanes	promotion	Asistencia Asesoría y Administración
+Invasion Attack 2016	promotion	New Japan Pro Wrestling
+Wrestling Dontaku 2016	promotion	New Japan Pro Wrestling
+Dominion 6.19 in Osaka-jo Hall	promotion	New Japan Pro Wrestling
+Global Wars	promotion	New Japan Pro Wrestling
+Global Wars	promotion	Ring of Honor
+ROH 14th Anniversary Show	promotion	Ring of Honor
+Rey de Reyes	promotion	Asistencia Asesoría y Administración
+Honor Rising: Japan 2016	promotion	New Japan Pro Wrestling
+Honor Rising: Japan 2016	promotion	Ring of Honor
+Homenaje a Dos Leyendas	promotion	Consejo Mundial de Lucha Libre
+El Protector	promotion	International Wrestling Revolution Group
+NJPW War of the Worlds	promotion	New Japan Pro Wrestling
+NJPW War of the Worlds	promotion	Ring of Honor
+Roadblock	promotion	WWE
+List of Philippine Wrestling Revolution events	promotion	Philippine Wrestling Revolution
+Supercard of Honor X	promotion	Ring of Honor
+Rebelión de los Juniors	promotion	International Wrestling Revolution Group
+Gran Alternativa 2012	promotion	Consejo Mundial de Lucha Libre
+Gran Alternativa 2011	promotion	Consejo Mundial de Lucha Libre
+CMLL Torneo Nacional de Parejas Increíbles	promotion	Consejo Mundial de Lucha Libre
+Gran Alternativa 2016	promotion	Consejo Mundial de Lucha Libre
+Arena México 60th Anniversary Show	promotion	Consejo Mundial de Lucha Libre
+Wrestling Hinokuni	promotion	New Japan Pro Wrestling
+Guerra del Golfo	promotion	International Wrestling Revolution Group
+Slammiversary	promotion	Total Nonstop Action Wrestling
+Lucha Libre World Cup	promotion	Asistencia Asesoría y Administración
+NXT TakeOver: The End	promotion	WWE
+Cruiserweight Classic	promotion	WWE
+Best in the World '16	promotion	Ring of Honor
+Survivor Series	promotion	WWE
+CMLL International Gran Prix	promotion	Consejo Mundial de Lucha Libre
+CMLL International Gran Prix	promotion	Consejo Mundial de Lucha Libre
+NXT TakeOver: Brooklyn II	promotion	WWE
+Final Battle 2006	promotion	Ring of Honor
+Final Battle 2007	promotion	Ring of Honor
+ROH Final Battle 2008	promotion	Ring of Honor
+WWE Clash of Champions	promotion	WWE
+52nd Anniversary of Lucha Libre in Estado de México	promotion	International Wrestling Revolution Group
+49th Anniversary of Lucha Libre in Estado de México	promotion	International Wrestling Revolution Group
+Arena Naucalpan 15th Anniversary Show	promotion	Promociones Moreno
+Arena Naucalpan 15th Anniversary Show	promotion	Consejo Mundial de Lucha Libre
+Arena Naucalpan 25th Anniversary Show	promotion	International Wrestling Revolution Group
+Arena Naucalpan 22nd Anniversary Show	promotion	International Wrestling Revolution Group
+Arena Naucalpan 21st Anniversary Show	promotion	International Wrestling Revolution Group
+Arena Naucalpan 24th Anniversary Show	promotion	International Wrestling Revolution Group
+Arena Naucalpan 26th Anniversary Show	promotion	International Wrestling Revolution Group
+Arena Naucalpan 23rd Anniversary Show	promotion	International Wrestling Revolution Group
+Arena Naucalpan 27th Anniversary Show	promotion	International Wrestling Revolution Group
+Arena Naucalpan 31st Anniversary Show	promotion	International Wrestling Revolution Group
+Arena Naucalpan 32nd Anniversary Show	promotion	International Wrestling Revolution Group
+Arena Naucalpan 5th Anniversary Show	promotion	Promociones Moreno
+Arena Naucalpan 5th Anniversary Show	promotion	Universal Wrestling Association
+Arena Naucalpan 29th Anniversary Show	promotion	International Wrestling Revolution Group
+Arena Naucalpan 30th Anniversary Show	promotion	International Wrestling Revolution Group
+Guerra del Golfo	promotion	International Wrestling Revolution Group
+Arena Naucalpan 36th Anniversary Show	promotion	International Wrestling Revolution Group
+Caravana de Campeones	promotion	International Wrestling Revolution Group
+Arena Naucalpan 37th Anniversary Show	promotion	International Wrestling Revolution Group
+Caravana de Campeones	promotion	International Wrestling Revolution Group
+El Castillo del Terror	promotion	International Wrestling Revolution Group
+Caravana de Campeones	promotion	International Wrestling Revolution Group
+Caravana de Campeones	promotion	International Wrestling Revolution Group
+Caravana de Campeones	promotion	International Wrestling Revolution Group
+El Castillo del Terror	promotion	International Wrestling Revolution Group
+El Castillo del Terror	promotion	International Wrestling Revolution Group
+El Castillo del Terror	promotion	International Wrestling Revolution Group
+El Castillo del Terror	promotion	International Wrestling Revolution Group
+El Gran Desafío Femenil – Sin Empate, Sin Indulto	promotion	International Wrestling Revolution Group
+El Gran Desafío	promotion	International Wrestling Revolution Group
+El Gran Desafío	promotion	International Wrestling Revolution Group
+Festival de las Máscaras	promotion	International Wrestling Revolution Group
+Festival de las Máscaras	promotion	International Wrestling Revolution Group
+Festival de las Máscaras	promotion	International Wrestling Revolution Group
+Festival de las Máscaras	promotion	International Wrestling Revolution Group
+Festival de las Máscaras	promotion	International Wrestling Revolution Group
+Guerra Revolucionaria	promotion	International Wrestling Revolution Group
+IWRG 7th Anniversary Show	promotion	International Wrestling Revolution Group
+Guerra de Familias	promotion	International Wrestling Revolution Group
+Guerra de Familias	promotion	Promociones Wagner
+IWRG 10th Anniversary Show	promotion	International Wrestling Revolution Group
+Guerra Revolucionaria	promotion	International Wrestling Revolution Group
+Guerra del Golfo	promotion	International Wrestling Revolution Group
+IWRG 20th Anniversary Show	promotion	International Wrestling Revolution Group
+Guerra Revolucionaria	promotion	International Wrestling Revolution Group
+IWRG 6th Anniversary Show	promotion	International Wrestling Revolution Group
+IWRG 5th Anniversary Show	promotion	International Wrestling Revolution Group
+IWRG 8th Anniversary Show	promotion	International Wrestling Revolution Group
+IWRG Junior de Juniors	promotion	International Wrestling Revolution Group
+IWRG Ruleta de la Muerte	promotion	International Wrestling Revolution Group
+IWRG Ruleta de la Muerte	promotion	International Wrestling Revolution Group
+Rey del Ring	promotion	International Wrestling Revolution Group
+IWRG Ruleta de la Muerte	promotion	International Wrestling Revolution Group
+Prisión Fatal	promotion	International Wrestling Revolution Group
+IWRG La Fortaleza	promotion	International Wrestling Revolution Group
+Rey del Ring	promotion	International Wrestling Revolution Group
+Bound for Glory	promotion	Total Nonstop Action Wrestling
+Caravana de Campeones	promotion	International Wrestling Revolution Group
+Caravana de Campeones	promotion	International Wrestling Revolution Group
+Triplemanía XXIV	promotion	Asistencia Asesoría y Administración
+King of Pro-Wrestling	promotion	New Japan Pro Wrestling
+Backlash	promotion	WWE
+Power Struggle	promotion	New Japan Pro Wrestling
+No Mercy	promotion	WWE
+Destruction	promotion	New Japan Pro Wrestling
+CMLL 83rd Anniversary Show	promotion	Consejo Mundial de Lucha Libre
+Death Before Dishonor XIV	promotion	Ring of Honor
+Field of Honor	promotion	Ring of Honor
+All Star Extravaganza VI	promotion	Ring of Honor
+IWRG Máscara vs. Máscara	promotion	International Wrestling Revolution Group
+All Star Extravaganza VIII	promotion	Ring of Honor
+NXT TakeOver: Toronto	promotion	WWE
+Fear & Loathing IX	promotion	Insane Championship Wrestling
+IWRG Máscara vs. Máscara	promotion	International Wrestling Revolution Group
+Glory By Honor XV	promotion	Ring of Honor
+Héroes Inmortales X	promotion	AAA
+CMLL Universal Championship	promotion	Consejo Mundial de Lucha Libre

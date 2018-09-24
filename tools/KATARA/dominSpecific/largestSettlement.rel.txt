@@ -1,51 +1,47 @@
-Belgium	largestSettlement	Brussels
-Bermuda	largestSettlement	St. George's, Bermuda
-Cocos (Keeling) Islands	largestSettlement	Bantam, Cocos (Keeling) Islands
-Guam	largestSettlement	Dededo, Guam
+Cocos	largestSettlement	Bantam
+European Union	largestSettlement	London and Paris
+European Free Trade Association	largestSettlement	Oslo
+Guam	largestSettlement	Dededo
+Isle of Man	largestSettlement	capital
+Kerguelen Islands	largestSettlement	Port-aux-Français
+Liechtenstein	largestSettlement	Schaan
 Monaco	largestSettlement	Monte Carlo
-Hoy	largestSettlement	Lyness
-Soay, Skye	largestSettlement	Mol-chlach
+Saint Helena	largestSettlement	Half Tree Hollow
+San Marino	largestSettlement	Dogana
+Singapore	largestSettlement	Bedok
+South Georgia and the South Sandwich Islands	largestSettlement	Grytviken
+Special administrative regions of China	largestSettlement	Hong Kong
 United States Minor Outlying Islands	largestSettlement	Wake Island
-Outer Hebrides	largestSettlement	Stornoway
-Great Cumbrae	largestSettlement	Millport, Isle of Cumbrae
-North Uist	largestSettlement	Lochmaddy
-South Uist	largestSettlement	Lochboisdale
-Barra	largestSettlement	Castlebay
-Benbecula	largestSettlement	Balivanich
-Raasay	largestSettlement	Inverarish
+Nordic Council	largestSettlement	Stockholm
+Caribbean Community	largestSettlement	Port-au-Prince
+Palestinian territories	largestSettlement	Gaza City
+Palestinian territories	largestSettlement	Hebron
+Palestinian territories	largestSettlement	Nablus
+Palestinian territories	largestSettlement	Khan Yunis
+Palestinian territories	largestSettlement	East Jerusalem
+British Overseas Territories	largestSettlement	George Town, Cayman Islands
+British Overseas Territories	largestSettlement	Gibraltar
+British Overseas Territories	largestSettlement	West Bay, Cayman Islands
 Australian Antarctic Territory	largestSettlement	Mirny Station
-Lismore, Scotland	largestSettlement	Achnacroish
-Foula	largestSettlement	Ham (disambiguation)
-Isle of Mull	largestSettlement	Tobermory, Mull
-Rùm	largestSettlement	Kinloch Castle
-Gigha	largestSettlement	Ardminish
-Muck, Scotland	largestSettlement	Port Mòr
-Mainland, Shetland	largestSettlement	Lerwick
-Mainland, Orkney	largestSettlement	Kirkwall
-Eigg	largestSettlement	Cleadale, Eigg
-Coll	largestSettlement	Arinagour
-Tiree	largestSettlement	Scarinish
-Yell, Shetland	largestSettlement	Mid Yell
-Fetlar	largestSettlement	Houbie
-Unst	largestSettlement	Baltasound
-Papa Stour	largestSettlement	Biggings
-Whalsay	largestSettlement	Symbister
-Stronsay	largestSettlement	Whitehall, Orkney
-Westray	largestSettlement	Pierowall
-West Burra	largestSettlement	Hamnavoe
-South Ronaldsay	largestSettlement	St Margaret's Hope
-Burray	largestSettlement	Burray Village
-Shapinsay	largestSettlement	Balfour, Orkney
-Isle of Bute	largestSettlement	Rothesay, Bute
-Great Bernera	largestSettlement	Breaclete
-Baleshare	largestSettlement	Samhla
-Seil	largestSettlement	Ellenabeich
-Trinidad and Tobago	largestSettlement	San Fernando, Trinidad and Tobago
-Gibraltar	largestSettlement	Westside (Gibraltar)
-South Walls	largestSettlement	Longhope, Orkney
-Colonsay	largestSettlement	Scalasaig
-Isle of Arran	largestSettlement	Brodick
-Jura, Scotland	largestSettlement	Craighouse
-Lewis and Harris	largestSettlement	Stornoway
-Islay	largestSettlement	Port Ellen
-Skye	largestSettlement	Portree
+Andean Community	largestSettlement	Bogotá
+Andean Community	largestSettlement	Lima
+Andean Community	largestSettlement	Guayaquil
+Andean Community	largestSettlement	Santa Cruz de la Sierra
+Territories of the United States	largestSettlement	San Juan, Puerto Rico
+Territories of the United States	largestSettlement	Puerto Rico
+Union of South American Nations	largestSettlement	São Paulo
+Union of South American Nations	largestSettlement	Brazil
+Association of Caribbean States	largestSettlement	Bogotá
+Gibraltar	largestSettlement	Westside
+British Indian Ocean Territory	largestSettlement	Camp Justice
+CAF – Development Bank of Latin America	largestSettlement	Multilateral development bank
+American Samoa	largestSettlement	Tafuna, American Samoa
+Saint Helena, Ascension and Tristan da Cunha	largestSettlement	Half Tree Hollow
+Mercosur	largestSettlement	São Paulo
+Mercosur	largestSettlement	Buenos Aires
+Mercosur	largestSettlement	Rio de Janeiro
+Mercosur	largestSettlement	Caracas
+French overseas departments and territories	largestSettlement	Nouméa
+French overseas departments and territories	largestSettlement	New Caledonia
+French overseas departments and territories	largestSettlement	Papeete
+French overseas departments and territories	largestSettlement	French Polynesia

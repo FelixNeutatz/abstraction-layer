@@ -1,185 +1,184 @@
-Adrenal gland	precursor	Mesoderm
-Adrenal gland	precursor	Neural crest
+Aorta	precursor	Truncus arteriosus
+Aorta	precursor	Aortic arches
+Aorta	precursor	Dorsal aorta
+Adrenal gland	precursor	Mesoderm and neural crest
+Cervix	precursor	Paramesonephric duct
 Clitoris	precursor	Genital tubercle
-Labia majora	precursor	Labioscrotal swelling
-Labia minora	precursor	Development of the urinary and reproductive organs
+Labia majora	precursor	Genital swelling
+Labia minora	precursor	Urogenital folds
 Thyroid	precursor	Thyroid diverticulum
-Uterus	precursor	Paramesonephric duct
-Urethra	precursor	Definitive urogenital sinus
-Urinary bladder	precursor	Definitive urogenital sinus
-Vagina	precursor	Definitive urogenital sinus
-Vagina	precursor	Paramesonephric duct
-Pancreas	precursor	Pancreatic bud
-Spleen	precursor	Mesenchyme
+Uterus	precursor	Müllerian duct
+Urethra	precursor	Urogenital sinus
+Urinary bladder	precursor	Urogenital sinus
+Vagina	precursor	urogenital sinus and paramesonephric ducts
+Zygote	precursor	Gametes
+Pancreas	precursor	Pancreatic buds
+Stomach	precursor	Foregut
+Spleen	precursor	Mesenchyme of dorsal mesogastrium
 Prostate	precursor	Endodermic evaginations of the urethra
-Tongue	precursor	Pharyngeal arch
+Tongue	precursor	Pharyngeal arches
 Tongue	precursor	Lateral lingual swelling
 Tongue	precursor	Tuberculum impar
-Thymus	precursor	Pharyngeal pouch (embryology)
-Pituitary gland	precursor	Ectoderm
-Pituitary gland	precursor	Rathke's pouch
-Placenta	precursor	Decidua
-Placenta	precursor	Chorion
+Placenta	precursor	Decidua basalis
+Placenta	precursor	Chorion frondosum
+Mucous membrane	precursor	Ectoderm
 Duodenum	precursor	Foregut
 Duodenum	precursor	Midgut
+Iris	precursor	Mesoderm and neural ectoderm
 Cecum	precursor	Midgut
 Ileum	precursor	Midgut
 Jejunum	precursor	Midgut
-Vermiform appendix	precursor	Midgut
-Bartholin's gland	precursor	Definitive urogenital sinus
+Appendix	precursor	Midgut
+Bartholin's gland	precursor	Urogenital sinus
 Esophagus	precursor	Foregut
-Bulbourethral gland	precursor	Definitive urogenital sinus
+Bulbourethral gland	precursor	Urogenital sinus
 Ureter	precursor	Ureteric bud
-Pleural cavity	precursor	Intra-embryonic coelom
+Pleural cavity	precursor	Intraembryonic coelom
 Gallbladder	precursor	Foregut
 Neural tube	precursor	Neural groove
-Nephron	precursor	Metanephrogenic blastema
+Nephron	precursor	Metanephric blastema
 Mons pubis	precursor	Genital tubercle
 Blastula	precursor	Morula
 Morula	precursor	Zygote
-Eustachian tube	precursor	Pharyngeal pouch (embryology)
+Navel	precursor	Umbilical cord
+Navel	precursor	Ductus venosus
+Eustachian tube	precursor	first pharyngeal pouch
 Sigmoid colon	precursor	Hindgut
 Vomeronasal organ	precursor	Nasal placode
-Left ventricle	precursor	Embryonic ventricle
-Left ventricle	precursor	Bulbus cordis
-Right ventricle	precursor	Embryonic ventricle
-Right ventricle	precursor	Bulbus cordis
 Adrenal cortex	precursor	Mesoderm
+Parathyroid gland	precursor	neural crest mesenchyme and third and fourth pharyngeal pouch endoderm
 Endoderm	precursor	Hypoblast
-Thoracic diaphragm	precursor	Septum transversum
-Palatine tonsil	precursor	Pharyngeal arch
-Anterior pituitary	precursor	Oral mucosa
+Thoracic diaphragm	precursor	Septum transversum, pleuroperitoneal folds, body wall
+Palatine tonsil	precursor	Pharyngeal arches
+Anterior pituitary	precursor	oral mucosa
 Epiglottis	precursor	Hypopharyngeal eminence
 Seminal vesicle	precursor	Mesonephric duct
-Laryngeal prominence	precursor	Branchial arch
-Epididymis	precursor	Mesonephric duct
-Vas deferens	precursor	Mesonephric duct
+Adam's apple	precursor	4
+Epididymis	precursor	Wolffian duct
+Vas deferens	precursor	Wolffian duct
 Mesonephric duct	precursor	Intermediate mesoderm
-Definitive urogenital sinus	precursor	Cloaca (embryology)
+Urogenital sinus	precursor	Cloaca
 Blastocyst	precursor	Morula
 Adrenal medulla	precursor	Neural crest
-Bowman's capsule	precursor	Metanephrogenic blastema
+Human brain	precursor	Neural tube
+Bowman's capsule	precursor	Metanephric blastema
 Distal convoluted tubule	precursor	Metanephrogenic blastema
-Pulmonary artery	precursor	Truncus arteriosus (embryology)
-Mesenchyme	precursor	Mesoderm
-Internal carotid artery	precursor	Aortic arches
+Pulmonary artery	precursor	Truncus arteriosus
+Mesenchyme	precursor	primarily mesoderm
+Internal carotid artery	precursor	3
 Posterior pituitary	precursor	Neural tube
-Proximal convoluted tubule	precursor	Metanephrogenic blastema
+Proximal tubule	precursor	Metanephric blastema
 Loop of Henle	precursor	Metanephrogenic blastema
+Renal calyx	precursor	Ureteric bud
 Fascia	precursor	Mesenchyme
 Notochord	precursor	Chordamesoderm
-Posterior column-medial lemniscus pathway	precursor	Neural tube
-Posterior column-medial lemniscus pathway	precursor	Neural crest
+Posterior column–medial lemniscus pathway	precursor	Neural tube and crest
 Hindgut	precursor	Mesenchyme
-Glomerulus	precursor	Metanephrogenic blastema
-Gartner's duct	precursor	Mesonephric duct
+Glomerulus	precursor	Metanephric blastema
+Gartner's duct	precursor	Wolffian duct
 Renal pelvis	precursor	Ureteric bud
-Ductus arteriosus	precursor	Aortic arches
+Ductus arteriosus	precursor	aortic arch 6
 Paramesonephric duct	precursor	Intermediate mesoderm
 Ovarian follicle	precursor	Cortical cords
-Blastocoele	precursor	Morula
+Blastocoel	precursor	morula
 Philtrum	precursor	Medial nasal prominence
-Peritoneal cavity	precursor	Intra-embryonic coelom
+Podocyte	precursor	Intermediate mesoderm
+Peritoneal cavity	precursor	Intraembryonic coelom
 Somite	precursor	Paraxial mesoderm
-Rete testis	precursor	Mesonephric duct
+Rete testis	precursor	Wolffian duct
 Allantois	precursor	Yolk sac
+Gestational sac	precursor	Heuser's membrane
 Yolk sac	precursor	Endoderm
-Genital tubercle	precursor	Somatopleuric mesenchyme
+Genital tubercle	precursor	Somatopleure
 Dorsal root ganglion	precursor	Neural crest
+Papillary duct	precursor	Ureteric bud
 Serous membrane	precursor	Mesoderm
-Efferent ducts	precursor	Mesonephric duct
+Efferent ducts	precursor	Wolffian duct
 Neural plate	precursor	Ectoderm
 Somitomere	precursor	Paraxial mesoderm
 Gubernaculum	precursor	Intermediate mesoderm
-Ear canal	precursor	First pharyngeal arch
+Ear canal	precursor	groove  of the first branchial arch.
 Celiac artery	precursor	Vitelline arteries
 Anal canal	precursor	Hindgut
 Anal canal	precursor	Proctodeum
 Descending aorta	precursor	Dorsal aorta
+Periodontal fiber	precursor	Dental follicle
 Superior mesenteric artery	precursor	Vitelline arteries
-Pericardial cavity	precursor	Intra-embryonic coelom
-Cricoid cartilage	precursor	Branchial arch
-Thyroid cartilage	precursor	Branchial arch
-Ultimopharyngeal body	precursor	Pharyngeal pouch (embryology)
+Cricoid cartilage	precursor	4
+Thyroid cartilage	precursor	4
+Ultimopharyngeal body	precursor	Fourth pharyngeal pouch
 Pancreatic duct	precursor	Pancreatic bud
-Nucleus pulposus	precursor	Notochord
 Inferior mesenteric artery	precursor	Vitelline arteries
-Prostatic utricle	precursor	Paramesonephric duct
+Prostatic utricle	precursor	Müllerian duct
 Proctodeum	precursor	Surface ectoderm
-Arytenoid cartilage	precursor	Branchial arch
-Common carotid artery	precursor	Aortic arches
-Fossa ovalis (heart)	precursor	Foramen ovale (heart)
-Tympanic cavity	precursor	Pharyngeal pouch (embryology)
-Sclerotome	precursor	Somite
-Myotome	precursor	Somite
+Arytenoid cartilage	precursor	4
+Common carotid artery	precursor	aortic arch 3
+Neurogenic placodes	precursor	Ectoderm
+Fossa ovalis	precursor	Foramen ovale
+Tympanic cavity	precursor	first pharyngeal pouch
 Ascending colon	precursor	Midgut
 Mesonephros	precursor	Intermediate mesoderm
-Primary urethral groove	precursor	Development of the urinary and reproductive organs
+Primary urethral groove	precursor	Urogenital folds
 Aortic arch	precursor	Aortic arches
-Splenic flexure	precursor	Midgut
-Splenic flexure	precursor	Hindgut
-Hepatic flexure	precursor	Midgut
-Hepatic flexure	precursor	Hindgut
-Connecting tubule	precursor	Metanephrogenic blastema
-Ascending aorta	precursor	Truncus arteriosus (embryology)
-Round ligament of uterus	precursor	Gubernaculum
-Juxtamedullary nephron	precursor	Metanephrogenic blastema
+Connecting tubule	precursor	Metanephric blastema
+Ascending aorta	precursor	Truncus arteriosus
+Round ligament of uterus	precursor	lower gubernaculum
+Juxtamedullary nephron	precursor	Metanephric blastema
+Septum transversum	precursor	Mesenchyme
 Meckel's cartilage	precursor	First pharyngeal arch
 Epoophoron	precursor	Mesonephric duct
 Ligamentum venosum	precursor	Ductus venosus
 Vitelline duct	precursor	Midgut
 Vitelline duct	precursor	Yolk sac
+Colic flexures	precursor	Hindgut
 Transverse colon	precursor	Midgut
 Transverse colon	precursor	Hindgut
-Maxillary artery	precursor	Aortic arches
+Maxillary artery	precursor	aortic arch 1
 Foregut	precursor	Mesenchyme
 Pronephros	precursor	Nephrotome
 Greater omentum	precursor	Dorsal mesentery
 Midgut	precursor	Mesenchyme
 Descending colon	precursor	Hindgut
-Ureteric bud	precursor	Mesonephric duct
-Foramen cecum (tongue)	precursor	Pharyngeal arch
-Gonadal cord	precursor	Gonadal ridge
-Cortical cords	precursor	Gonadal cord
-Gonadal ridge	precursor	Development of the urinary and reproductive organs
-Tunica vaginalis	precursor	Processus vaginalis
-Appendix of testis	precursor	Paramesonephric duct
+Ureteric bud	precursor	Wolffian duct
+Sex cords	precursor	Gonadal ridge
+Gonadal ridge	precursor	Urogenital folds
+Appendix of testis	precursor	Müllerian duct
 Pronephric duct	precursor	Intermediate mesoderm
-Blood island of umbilical vesicle	precursor	Mesoderm
+Gubernaculum testis	precursor	Gubernaculum
+Blood islands	precursor	Mesoderm
 Alar plate	precursor	Neural tube
 Inner cell mass	precursor	Blastocyst
-Metanephrogenic blastema	precursor	Mesonephric duct
+Metanephrogenic blastema	precursor	Wolffian duct
 Lateral plate mesoderm	precursor	Mesoderm
+Axial mesoderm	precursor	Mesoderm
 Stomodeum	precursor	Surface ectoderm
-Atrioventricular cushions	precursor	Neural crest
+Endocardial cushions	precursor	Lateral plate mesoderm
 Labioscrotal swelling	precursor	Genital tubercle
-Anterior commissure of labia majora	precursor	Labioscrotal swelling
 Neural groove	precursor	Neural plate
 Neural fold	precursor	Neural plate
 White pulp	precursor	Mesoderm
-Cloacal membrane	precursor	Primitive streak
-Optic cup (embryology)	precursor	Optic vesicle
-Maxillary prominence	precursor	First pharyngeal arch
+Cloacal membrane	precursor	caudal end of the primitive streak
+Optic cup	precursor	Optic vesicles
+Maxillary prominence	precursor	First branchial arch
 Splanchnopleuric mesenchyme	precursor	Lateral plate mesoderm
 Splanchnopleuric mesenchyme	precursor	Endoderm
 Somatopleuric mesenchyme	precursor	Lateral plate mesoderm
 Somatopleuric mesenchyme	precursor	Ectoderm
-Basal plate (neural tube)	precursor	Neural tube
+Basal plate	precursor	Neural tube
 Floor plate	precursor	Notochord
 Central tendon of diaphragm	precursor	Septum transversum
 Epiblast	precursor	Inner cell mass
+Cardiac muscle cell	precursor	Mesoderm
 Neuroectoderm	precursor	Ectoderm
 Secondary palate development	precursor	Maxillary prominence
-Perineal raphe	precursor	Development of the urinary and reproductive organs
-Appendix of epididymidis	precursor	Mesonephric duct
+Perineal raphe	precursor	Urogenital folds
+Appendix of the epididymis	precursor	Wolffian duct
 Aorticopulmonary septum	precursor	Neural crest
-Spongy urethra	precursor	Development of the urinary and reproductive organs
+Spongy urethra	precursor	Urogenital folds
 Bilaminar blastocyst	precursor	Inner cell mass
-Major calyx	precursor	Ureteric bud
-Minor calyx	precursor	Ureteric bud
 Paradidymis	precursor	Mesonephric tubules
 Paroophoron	precursor	Mesonephric tubules
-Cloaca (embryology)	precursor	Endoderm
+Cloaca	precursor	Endoderm
 Pancreatic bud	precursor	Foregut
 Limb bud	precursor	Lateral plate mesoderm
 Ductuli transversi	precursor	Mesonephros
@@ -187,32 +186,32 @@ Nephrotome	precursor	Mesoderm
 Lateral nasal prominence	precursor	Frontonasal prominence
 Medial nasal prominence	precursor	Frontonasal prominence
 Otic pit	precursor	Otic placode
-Otic vesicle	precursor	Otic pit
+Otic vesicle	precursor	otic placode, auditory pit or otic pit, otic cup,
 Intermaxillary segment	precursor	Medial nasal prominence
 Primary palate	precursor	Intermaxillary segment
-Respiratory bud	precursor	Foregut
+Respiratory bud	precursor	Ventral part of the Foregut
 Human penis	precursor	Genital tubercle
-Human penis	precursor	Development of the urinary and reproductive organs
+Human penis	precursor	Urogenital folds
 Hypoblast	precursor	Inner cell mass
 Surface ectoderm	precursor	Ectoderm
 Lens placode	precursor	Surface ectoderm
-Tubular heart	precursor	Lateral plate mesoderm
-Extra-embryonic coelom	precursor	Heuser's membrane
+Tubular heart	precursor	Splanchnic mesoderm
 Intra-embryonic coelom	precursor	Lateral plate mesoderm
 Laryngotracheal groove	precursor	Endoderm
 Nephrogenic cord	precursor	Intermediate mesoderm
-Nephrogenic cord	precursor	Development of the urinary and reproductive organs
-Testis cords	precursor	Gonadal cord
+Nephrogenic cord	precursor	Urogenital ridge
 Tracheoesophageal septum	precursor	Tracheoesophageal folds
-Posterior commissure of labia majora	precursor	Labioscrotal swelling
-Premaxilla	precursor	Medial nasal prominence
-Mandibular prominence	precursor	First pharyngeal arch
+Premaxilla	precursor	Median nasal prominence
+Mandibular prominence	precursor	First branchial arch
 Liver	precursor	Foregut
-Scrotum	precursor	Labioscrotal swelling
+Scrotum	precursor	Labioscrotal folds
 Rectum	precursor	Hindgut
-Fallopian tube	precursor	Paramesonephric duct
+Fallopian tube	precursor	Müllerian duct
 Vulva	precursor	Genital tubercle
-Vulva	precursor	Development of the urinary and reproductive organs
+Vulva	precursor	Urogenital folds
 Juxtaoral organ of Chievitz	precursor	Ectoderm
+Renal stem cell	precursor	Metanephric blastema
 Foreskin	precursor	Genital tubercle
-Foreskin	precursor	Development of the urinary and reproductive organs
+Foreskin	precursor	Urogenital folds
+Origin of speech	precursor	2
+Aortic sac	precursor	Neural crest

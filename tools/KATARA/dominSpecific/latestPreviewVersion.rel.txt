@@ -1,605 +1,676 @@
-Apache HTTP Server	latestPreviewVersion	2.3.12-beta
-BIND	latestPreviewVersion	10 devel-20110322
-JUnit	latestPreviewVersion	4.9 Beta 2
-Calligra Suite	latestPreviewVersion	Calligra 2.4 Snapshot 2
-LimeWire	latestPreviewVersion	5.6.1
-LAME	latestPreviewVersion	3.99a4
-Lightworks	latestPreviewVersion	Lightworks Beta 10.0.4
-PostgreSQL	latestPreviewVersion	9.1beta3
-Qt (framework)	latestPreviewVersion	4.8 Beta
-Samba (software)	latestPreviewVersion	3.6.0rc3
-Concurrent Versions System	latestPreviewVersion	1.12.13
-Gnuplot	latestPreviewVersion	Through CVS
-Gecko (layout engine)	latestPreviewVersion	7.0a1
-Sendmail	latestPreviewVersion	MeTA1 1.0.Alpha1.0
-Advanced Maryland Automatic Network Disk Archiver	latestPreviewVersion	3.2.0 beta3
-GNUstep	latestPreviewVersion	make 2.6.0, base 1.21.0, gui & back 0.19.0
-Netwide Assembler	latestPreviewVersion	2.10rc6
-Speex	latestPreviewVersion	1.2rc1
-Revision Control System	latestPreviewVersion	5.7.96
-EDE	latestPreviewVersion	2.0 beta
-IceWM	latestPreviewVersion	1.3.7pre1
-Enlightenment (window manager)	latestPreviewVersion	E17 0.16.999.55225
-UAE (emulator)	latestPreviewVersion	0.8.29 (UAE)
-AWeb	latestPreviewVersion	3.5.09 Beta
-Voyager (web browser)	latestPreviewVersion	3.3.126
-Z shell	latestPreviewVersion	4.3.12
-POV-Ray	latestPreviewVersion	3.7 Release Candidate 3
-Theora	latestPreviewVersion	1.2.0 Alpha 1
-Apache POI	latestPreviewVersion	3.8 Beta 3
-Pan (newsreader)	latestPreviewVersion	0.134
-Xnews	latestPreviewVersion	2009.05.01
-Advanced Packaging Tool	latestPreviewVersion	(None)
-Dpkg	latestPreviewVersion	1.15.8.4
-Robocode	latestPreviewVersion	1.7.3.0 Beta
+AOL	latestPreviewVersion	11
+Dia	latestPreviewVersion	0.97
+Freenet	latestPreviewVersion	0.7
+GNU Compiler Collection	latestPreviewVersion	7
+LimeWire	latestPreviewVersion	5.6
+Lightworks	latestPreviewVersion	12.5
+Samba	latestPreviewVersion	4.5
+XEmacs	latestPreviewVersion	21.5
+Wine	latestPreviewVersion	1.9
+Concurrent Versions System	latestPreviewVersion	1.12
+NeXTSTEP	latestPreviewVersion	4.2
+Hercules	latestPreviewVersion	4
+GNUstep	latestPreviewVersion	only in the SVN software repository
+Beonex Communicator	latestPreviewVersion	0.8
+Speex	latestPreviewVersion	1.2
+OpenOffice.org	latestPreviewVersion	3.4
+IceWM	latestPreviewVersion	1.3
+UAE	latestPreviewVersion	0.8
+AWeb	latestPreviewVersion	3.5
+Voyager	latestPreviewVersion	3.3
+IBM PC DOS	latestPreviewVersion	[[#PC DOS 7.10
+POV-Ray	latestPreviewVersion	3.7
+Theora	latestPreviewVersion	1.2
+GNU Compiler for Java	latestPreviewVersion	7
+RISC OS	latestPreviewVersion	5.23
+Xnews	latestPreviewVersion	2009.05
+Dpkg	latestPreviewVersion	1.18
+Advanced Packaging Tool	latestPreviewVersion	1.3
 PmWiki	latestPreviewVersion	SVN only
 Qmail	latestPreviewVersion	netqmail 1.06
-Yahoo! Messenger	latestPreviewVersion	Mac: 3.0.1 Beta build 235554  /
-HTML-Kit	latestPreviewVersion	HTML-Kit Tools (build 300)
-John the Ripper	latestPreviewVersion	currently none
-NetBeans	latestPreviewVersion	7.0.1
-FFmpeg	latestPreviewVersion	Git
-Eclipse (software)	latestPreviewVersion	3.7M7
-WinMX	latestPreviewVersion	3.54 Beta 4
+Yahoo! Messenger	latestPreviewVersion	Mac: 3.0.1 Beta build 35554 /
+HTML-Kit	latestPreviewVersion	HTML-Kit Tools
+Eclipse	latestPreviewVersion	Neon Release Candidate 3
+WinMX	latestPreviewVersion	3.54
 OpenGEM	latestPreviewVersion	6
-Fink	latestPreviewVersion	source distribution 0.29.15
-SableCC	latestPreviewVersion	4-beta.2
-WxWidgets	latestPreviewVersion	2.9.2
-Firebird (database server)	latestPreviewVersion	2.5.0 RC 3
-Scribus	latestPreviewVersion	1.4.0 RC5
-Liquid War	latestPreviewVersion	Liquid War 6 0.0.9beta
-Magic (software)	latestPreviewVersion	8.0
-Info-ZIP	latestPreviewVersion	3.1c
-Info-ZIP  1	latestPreviewVersion	6.10b
-Portage (software)	latestPreviewVersion	2.2.0 alpha 41
-SETI@home	latestPreviewVersion	6.12.28
+Fink	latestPreviewVersion	source distribution 0.38.4
+SableCC	latestPreviewVersion	4
+Sawfish	latestPreviewVersion	1.11
+GNU GRUB	latestPreviewVersion	2.02
+Firebird	latestPreviewVersion	3
+Cinelerra	latestPreviewVersion	5
+Scribus	latestPreviewVersion	1.5
+GNU Mailman	latestPreviewVersion	3
+Skolelinux	latestPreviewVersion	8
+Liquid War	latestPreviewVersion	Liquid War 6 0.6.3902
+Magic	latestPreviewVersion	8.1
+OpenZaurus	latestPreviewVersion	3.5
+Info-ZIP	latestPreviewVersion	3.1
+Info-ZIP	latestPreviewVersion	6.1
 IBM OpenDX	latestPreviewVersion	Through CVS
-CHARMM	latestPreviewVersion	c36a3
-Gadu-Gadu	latestPreviewVersion	10.3.2.12444 Beta
-Berkeley Open Infrastructure for Network Computing	latestPreviewVersion	6.13.1
-Xcode	latestPreviewVersion	4.2
-SHOUTcast	latestPreviewVersion	2.0 (Build 28)
-MinGW	latestPreviewVersion	none
-Midgard (software)	latestPreviewVersion	10.05.4
-Prime95	latestPreviewVersion	26.6
-Inkscape	latestPreviewVersion	0.48.1
-Folding@home	latestPreviewVersion	All platforms:
-Folding@home	latestPreviewVersion	7.1.24
-Object Windows Library	latestPreviewVersion	OWLNext 6.31.5
-X11.app	latestPreviewVersion	2.6.2
-VirtualDub	latestPreviewVersion	1.10.0.33848
-Festival Speech Synthesis System	latestPreviewVersion	2.1
-Adobe Audition	latestPreviewVersion	Unknown
-ADRIFT	latestPreviewVersion	5.0 release 18
-FVWM	latestPreviewVersion	2.7.0
-Mozilla Composer	latestPreviewVersion	1.8b1
-Mutt (e-mail client)	latestPreviewVersion	1.5.21
-Microsoft XNA	latestPreviewVersion	4.0 beta
-Terragen  Classic   1	latestPreviewVersion	1.9.99.1
+CHARMM	latestPreviewVersion	c41a1, c41a2
+Berkeley Open Infrastructure for Network Computing	latestPreviewVersion	7.6
+ReactOS	latestPreviewVersion	0.4
+AutoREALM	latestPreviewVersion	alpha 3.0.2
+Damn Small Linux	latestPreviewVersion	4.11
+JavaServer Faces	latestPreviewVersion	2.3
+StepMania	latestPreviewVersion	5.1
+Mozilla Composer	latestPreviewVersion	1.8
+MicroBSD	latestPreviewVersion	0.7
+X	latestPreviewVersion	2.3
+Skencil	latestPreviewVersion	1
+Media Player Classic	latestPreviewVersion	1.7
+Dasher	latestPreviewVersion	5
+Haiku	latestPreviewVersion	R1 Alpha 4.1
+GameMaker: Studio	latestPreviewVersion	v1.99.505 Early Access
+Terragen	latestPreviewVersion	1.9
 BioPerl	latestPreviewVersion	nightly builds
-Graphviz	latestPreviewVersion	2.29.20110612.0445
-Tencent QQ	latestPreviewVersion	See preview releases
-Xitami	latestPreviewVersion	5.0a0
-OpenLP	latestPreviewVersion	1.9.6 (beta)
-Invision Power Board	latestPreviewVersion	3.2.0 Beta 3
-WiX	latestPreviewVersion	3.6 (updated weekly)
-Cooperative Linux	latestPreviewVersion	-/+
-1964 (emulator)	latestPreviewVersion	r75
-OpenSSI	latestPreviewVersion	1.9.6
-FastTracker 2	latestPreviewVersion	2.09 (leaked)
-Exult	latestPreviewVersion	1.49rc1
-WebKit	latestPreviewVersion	r79746
-BusyBox	latestPreviewVersion	1.18.0
-Darwine	latestPreviewVersion	1.1.21
-Uppaal Model Checker	latestPreviewVersion	4.1.13
-Rxvt	latestPreviewVersion	2.7.10
-CDex	latestPreviewVersion	1.70 beta 4
-LiteStep	latestPreviewVersion	0.25 experimental build
-Zabbix	latestPreviewVersion	1.9.5
-Glade Interface Designer	latestPreviewVersion	3.9.1
-XBMC	latestPreviewVersion	Neutral build from Git
-JEdit	latestPreviewVersion	-
-Spybot – Search & Destroy	latestPreviewVersion	2.0 beta 1
+BioJava	latestPreviewVersion	Nightly builds
+Stateflow	latestPreviewVersion	R2015b
+Mnet	latestPreviewVersion	0.7
+Xitami	latestPreviewVersion	5
+Dropline GNOME	latestPreviewVersion	3.14
+Xen	latestPreviewVersion	4.6
+WiX	latestPreviewVersion	4
+Wings 3D	latestPreviewVersion	2
+Last.fm	latestPreviewVersion	2.1
+OpenSSI	latestPreviewVersion	1.9
+FastTracker 2	latestPreviewVersion	2.09
+Fli4l	latestPreviewVersion	Tarball version
+Dev-C++	latestPreviewVersion	5.6
+PearPC	latestPreviewVersion	0.6
+WebKit	latestPreviewVersion	Nightly
+Darwine	latestPreviewVersion	1.5
+Uppaal Model Checker	latestPreviewVersion	4.1
+Tin	latestPreviewVersion	Unstable 2.3.4
+Rxvt	latestPreviewVersion	2.7
+LiteStep	latestPreviewVersion	0.25
+Zabbix	latestPreviewVersion	3.2
+SolidWorks	latestPreviewVersion	SolidWorks 2017 Beta2
+Kodi	latestPreviewVersion	Neutral build from Git
+JEdit	latestPreviewVersion	5.3
 Adabas D	latestPreviewVersion	15.01
-Midnight Commander	latestPreviewVersion	4.8.0-pre1
-Less (Unix)	latestPreviewVersion	441
-VisualBoyAdvance	latestPreviewVersion	1.8.0 beta 3
-Asterisk (PBX)	latestPreviewVersion	10.0.0-beta1
-ESET NOD32	latestPreviewVersion	5.0.84 RC 1
-Grace (plotting tool)	latestPreviewVersion	5.99.1dev5
-Quicksilver (software)	latestPreviewVersion	1.0\u00DF60 (Build 3850)
-Openswan	latestPreviewVersion	2.6.34dr2
-Adventure Game Studio	latestPreviewVersion	3.2.1 Beta 1
-TeamSpeak	latestPreviewVersion	3.0.0-rc2 (Client)
-TeamSpeak	latestPreviewVersion	3.0.0-rc1 (Server)
-Himle (framework)	latestPreviewVersion	'trunk'
-DBAN	latestPreviewVersion	2.2.6
-Ejabberd	latestPreviewVersion	3.0.0 alpha 3
-Netatalk	latestPreviewVersion	2.2-beta4
-Mental ray	latestPreviewVersion	3.9 Beta
-Tlen.pl	latestPreviewVersion	7.0.1.72
-APT-RPM	latestPreviewVersion	0.5.15lorg3.94a
-WxPython	latestPreviewVersion	2.9.2.1
-Kile	latestPreviewVersion	2.1b5
-Lzop	latestPreviewVersion	1.02 rc1
-CFEngine	latestPreviewVersion	3.2.0b1
-SquirrelMail	latestPreviewVersion	1.5.1
-Krusader	latestPreviewVersion	daily snapshots from GIT
-Xara Xtreme	latestPreviewVersion	0.7 (Xara Xtreme for Linux)
-Internet Explorer for Mac	latestPreviewVersion	N/A
-NetNewsWire	latestPreviewVersion	3.2b28
-Gretl	latestPreviewVersion	Through CVS
-Suricata (software)	latestPreviewVersion	1.1Beta2
-Sphere (program)	latestPreviewVersion	1.5
-CPanel	latestPreviewVersion	11.29.0.12
-JMonkey Engine	latestPreviewVersion	3.0 Alpha-4
-Postfix (software)	latestPreviewVersion	2.9-20110706
-WikkaWiki	latestPreviewVersion	1.4 (current)
-Hibernate (Java)	latestPreviewVersion	4.0.0 Beta4
-XMMS2	latestPreviewVersion	0.7 DrNo
-JMeter	latestPreviewVersion	nightly build
-GObject	latestPreviewVersion	2.29.4
-Condor High-Throughput Computing System	latestPreviewVersion	7.5.5
-Ruby on Rails	latestPreviewVersion	3.1.0.rc4
-Anim8or	latestPreviewVersion	0.97d
-OpenSceneGraph	latestPreviewVersion	2.9.16
-Java OpenGL	latestPreviewVersion	2.0
-JOnAS	latestPreviewVersion	5.3 M1
-GLib	latestPreviewVersion	2.29.2
-PCBoard	latestPreviewVersion	15.4 beta
-PeerGuardian	latestPreviewVersion	2.0 RC1
-Apache Geronimo	latestPreviewVersion	3.0-M1
-HijackThis	latestPreviewVersion	2.0.5 beta
-IBM WebSphere Application Server	latestPreviewVersion	8.0 March 2011 Beta refresh
-Kolab	latestPreviewVersion	2.3.0 alpha 1
-Project64	latestPreviewVersion	1.7.51.51
-Lustre (file system)	latestPreviewVersion	2.0.0
-ProtoWall	latestPreviewVersion	2.01 (build 9)
-Gajim	latestPreviewVersion	SVN
-Alexandria (software)	latestPreviewVersion	-
-FreeMarker	latestPreviewVersion	2.4 Preview 1
-PSPad	latestPreviewVersion	4.5.5 (2415)
-SVGALib	latestPreviewVersion	1.9.25
-Java Anon Proxy	latestPreviewVersion	v00.15.019-beta
-HiveMind (software)	latestPreviewVersion	2.0-alpha1
-LiVES	latestPreviewVersion	1.4.5
-DWR (Java)	latestPreviewVersion	3.rc2
-Apache Wicket	latestPreviewVersion	1.5-RC5.1
-Swfdec	latestPreviewVersion	0.9.2
+JAWS	latestPreviewVersion	18
+VisualBoyAdvance	latestPreviewVersion	1.8
+ESET NOD32	latestPreviewVersion	8
+Grace	latestPreviewVersion	5.99
+Ubuntu	latestPreviewVersion	Ubuntu Core 16 beta
+Adventure Game Studio	latestPreviewVersion	3.4
+Java 3D	latestPreviewVersion	1.6
+Fox toolkit	latestPreviewVersion	1.7
+Mental Ray	latestPreviewVersion	3.14
+Tlen.pl	latestPreviewVersion	7
+APT-RPM	latestPreviewVersion	0.5
+WxPython	latestPreviewVersion	3
+FreeJ	latestPreviewVersion	0.11
+Turkix	latestPreviewVersion	10
+Kile	latestPreviewVersion	2.1
+Lzop	latestPreviewVersion	1.02
+SquirrelMail	latestPreviewVersion	1.5
+MusE	latestPreviewVersion	3
+NetNewsWire	latestPreviewVersion	4
+Gretl	latestPreviewVersion	Through git
+Suricata	latestPreviewVersion	3
+OpenSolaris	latestPreviewVersion	snv_134  x86/SPARC
+YAM	latestPreviewVersion	2.1
+Cc65	latestPreviewVersion	2.13
+EXist	latestPreviewVersion	3
+Multi Theft Auto	latestPreviewVersion	1.6
+Tomboy	latestPreviewVersion	1.15
+Qpsmtpd	latestPreviewVersion	0.91
+Pygame	latestPreviewVersion	VersionControl
+SmoothWall	latestPreviewVersion	3.1
+JMonkeyEngine	latestPreviewVersion	3.1
+Gamebryo	latestPreviewVersion	Gamebryo 4.0
+Postfix	latestPreviewVersion	3.2
+Windows Mobile	latestPreviewVersion	6.5
+4th Dimension	latestPreviewVersion	15
+XMMS2	latestPreviewVersion	0.9
+Code Aster	latestPreviewVersion	13
+SharpDevelop	latestPreviewVersion	5.1
+Apache JMeter	latestPreviewVersion	nightly.html
+FreqTweak	latestPreviewVersion	? scr-only
+HTCondor	latestPreviewVersion	8.5
+Ruby on Rails	latestPreviewVersion	5
+Rockbox	latestPreviewVersion	Daily
+Anim8or	latestPreviewVersion	0.98
+Java OpenGL	latestPreviewVersion	2.3
+AutoHotkey	latestPreviewVersion	2
+Napster	latestPreviewVersion	5
+Mesa	latestPreviewVersion	12
+OGRE	latestPreviewVersion	2.1
+PCBoard	latestPreviewVersion	15.4
+TestNG	latestPreviewVersion	6.9
+The Hessling Editor	latestPreviewVersion	3.4
+Natural Language Toolkit	latestPreviewVersion	3
+GPHPedit	latestPreviewVersion	0.9
+HijackThis	latestPreviewVersion	2
+IBM WebSphere Application Server	latestPreviewVersion	9
+SWI-Prolog	latestPreviewVersion	7.3
+Lustre	latestPreviewVersion	2.8
+TortoiseCVS	latestPreviewVersion	1.12
+Gajim	latestPreviewVersion	
+SVGALib	latestPreviewVersion	1.9
+Java Anon Proxy	latestPreviewVersion	0.19
+FireHOL	latestPreviewVersion	firehol-3.0.0-rc.2.tar.bz2
+Apache HiveMind	latestPreviewVersion	2
+JamVM	latestPreviewVersion	ebd11bde
+DWR	latestPreviewVersion	3
 Pinnacle Studio	latestPreviewVersion	None
-PCGen	latestPreviewVersion	5.17.4 (Alpha)
-Internet Explorer 3	latestPreviewVersion	July 17, 1996 / Beta 2
-Internet Explorer 4	latestPreviewVersion	April 1997 / Beta 1
-Bean Scripting Framework	latestPreviewVersion	3.0 Beta3
+PCGen	latestPreviewVersion	6.06
+Bean Scripting Framework	latestPreviewVersion	3
+Skype for Business Server	latestPreviewVersion	2015
 DigiGuide	latestPreviewVersion	8.5
-389 Directory Server	latestPreviewVersion	1.2.8.rc2
-IKVM.NET	latestPreviewVersion	0.45.4042
+Boa	latestPreviewVersion	0.94
+OpenCV	latestPreviewVersion	3
+FCEUX	latestPreviewVersion	Interim Build 3260
+IKVM.NET	latestPreviewVersion	IKVM.NET 8.0 Release Candidate 1
 Truevision3D	latestPreviewVersion	6.5
-XWiki	latestPreviewVersion	3.2 Milestone 1
-Music Player Daemon  GMPC   1	latestPreviewVersion	0.19.0-rc2
-DigiKam	latestPreviewVersion	2.0.0 beta 6
-GNOME Terminal	latestPreviewVersion	2.33.90
-MediaPortal	latestPreviewVersion	1.2.0 Beta
-GQview	latestPreviewVersion	2.1.5
-TextMaker	latestPreviewVersion	2011
+XWiki	latestPreviewVersion	8.4
+Python Imaging Library	latestPreviewVersion	1.2
+MediaPortal	latestPreviewVersion	2
+Koha	latestPreviewVersion	16.05
 SonicStage	latestPreviewVersion	5.2
-Xming	latestPreviewVersion	7.5.0.36
-Eye of GNOME	latestPreviewVersion	3.1.1
-Django (Web framework)	latestPreviewVersion	1.3 RC1
-AutoIt	latestPreviewVersion	3.3.5.6
-PowerArchiver	latestPreviewVersion	12.00 RC5
 Ezycom	latestPreviewVersion	v2.15g2
 Mac-on-Mac	latestPreviewVersion	0.21
-PyMOL	latestPreviewVersion	1.3r2
-Sabbu	latestPreviewVersion	0.3.0
-SimpleTest	latestPreviewVersion	1.1alpha3
-XULRunner	latestPreviewVersion	8.0a1
-PvPGN	latestPreviewVersion	1.99.r577
-Soya3D	latestPreviewVersion	0.15rc1
-Combined Community Codec Pack	latestPreviewVersion	2011-07-20 beta
-PolyEdit	latestPreviewVersion	6.0 Beta 1
-Alfresco (software)	latestPreviewVersion	Community Edition 3.4.d
+XULRunner	latestPreviewVersion	41
+Libevent	latestPreviewVersion	2.1
+PvPGN	latestPreviewVersion	1.99
+Combined Community Codec Pack	latestPreviewVersion	2015-10-25
+Xsupplicant	latestPreviewVersion	2.2
+PolyEdit	latestPreviewVersion	6
+Monte Carlo N-Particle Transport Code	latestPreviewVersion	MCNP 6.1.1beta
+StrongSwan	latestPreviewVersion	v5.4.1dr1
 NAnt	latestPreviewVersion	n/a
-Hydrogen (software)	latestPreviewVersion	0.9.5-rc1
-File Roller	latestPreviewVersion	2.91.93
-WikidPad	latestPreviewVersion	WikidPad 2.1beta11
-TopLink	latestPreviewVersion	11g preview
-NetworkManager	latestPreviewVersion	0.8.9997
-TeXnicCenter	latestPreviewVersion	2.0 Alpha 3
-ACDSee	latestPreviewVersion	ACDSee Pro: 4.0.93 /
-SubRip	latestPreviewVersion	1.50b5
+Hydrogen	latestPreviewVersion	0.9
+WikidPad	latestPreviewVersion	WikidPad 2.3beta15
+C++	latestPreviewVersion	2
+Modular Ocean Model	latestPreviewVersion	MOM6
 Alphatk	latestPreviewVersion	8.5
-AutoPatcher	latestPreviewVersion	1.0.0.6
-GeoGebra	latestPreviewVersion	3.9.283.0
-Reference Manager	latestPreviewVersion	12
-XCircuit	latestPreviewVersion	3.7.3
-Launchpad (website)  Launchpad Suite   1	latestPreviewVersion	3.1.10
-PaltalkScene	latestPreviewVersion	N/A
-Open Power Template	latestPreviewVersion	2.1-beta1
-TinyFugue	latestPreviewVersion	5.0 beta 8
-FFTW	latestPreviewVersion	3.3-beta1
-CVSNT  CVS Suite   1	latestPreviewVersion	2009
-RoundCube	latestPreviewVersion	0.5.2
-OSCAR McMaster	latestPreviewVersion	10 12
-SpamBayes	latestPreviewVersion	1.1a6
-NHibernate	latestPreviewVersion	3.0.0 Beta 2
-Code::Blocks	latestPreviewVersion	nightly build (7257)
-LXR Cross Referencer	latestPreviewVersion	0.9.10
-TurboGears	latestPreviewVersion	none
-WinEdt	latestPreviewVersion	6.0 Build: 20100317
-DD-WRT	latestPreviewVersion	v24 preSP2
-Beamer (LaTeX)	latestPreviewVersion	3.11-hg
-Asio C++ library	latestPreviewVersion	1.5.3
-TORQUE Resource Manager	latestPreviewVersion	3.0.0
-Music on Console	latestPreviewVersion	2.5.0 alpha 4
-CrypTool	latestPreviewVersion	CT 2.0 Beta 5JCT 1.0 RC4
-Dolphin (emulator)	latestPreviewVersion	r7683
-GoldWave	latestPreviewVersion	5.63b
-FBReader	latestPreviewVersion	1.0.12
-Adept Manager	latestPreviewVersion	3 (beta 7.2) 4
-GeneWeb	latestPreviewVersion	5.02 Preview in CVS
-Windows Driver Kit	latestPreviewVersion	7.1.0
-Cdrtools	latestPreviewVersion	3.01a05
-Audacious (software)	latestPreviewVersion	Latest preview software release/Audacious
-BitC	latestPreviewVersion	BitC 0.10.1
-CakePHP	latestPreviewVersion	2.0.0
-PCSX2	latestPreviewVersion	0.9.8 r4829
-Sixtyforce	latestPreviewVersion	0.9.5 beta 1
-WYMeditor	latestPreviewVersion	1.x
-OllyDbg	latestPreviewVersion	2.01 alpha 3
-JOONE	latestPreviewVersion	2.0 RC1
+Open MPI	latestPreviewVersion	2
+XCircuit	latestPreviewVersion	3.9
+Launchpad	latestPreviewVersion	3.1
+Xara Xtreme LX	latestPreviewVersion	0.7
+Open Power Template	latestPreviewVersion	2.1
+Lightweight Java Game Library	latestPreviewVersion	3
+Xubuntu	latestPreviewVersion	16.1
+Photo Booth	latestPreviewVersion	9.2
+SpamBayes	latestPreviewVersion	1.1
+DD-WRT	latestPreviewVersion	Constantly being updated in beta form in forums
+Music on Console	latestPreviewVersion	2.6
+CrypTool	latestPreviewVersion	CT 1.4.31 Beta 6b
+CrypTool	latestPreviewVersion	JCT 1.0 RC8
+SQLObject	latestPreviewVersion	3.2
+NewsBin Pro	latestPreviewVersion	6.6
+TextMate	latestPreviewVersion	2
+GeneWeb	latestPreviewVersion	7
+Aptitude	latestPreviewVersion	0.7
+Windows Driver Frameworks	latestPreviewVersion	1.15
+RTEMS	latestPreviewVersion	
+WYMeditor	latestPreviewVersion	1
+SheepShaver	latestPreviewVersion	2.4
+Distributed Replicated Block Device	latestPreviewVersion	9
+Weka	latestPreviewVersion	3.9
+Munin	latestPreviewVersion	2.99
+OllyDbg	latestPreviewVersion	7236.0
+GNU Fortran	latestPreviewVersion	7
+JOONE	latestPreviewVersion	2
 Microsoft Office Live	latestPreviewVersion	Office Live Workspace
-OpenJPEG	latestPreviewVersion	2.0 alpha
-Compiz	latestPreviewVersion	0.9.4
-SpaceMonger	latestPreviewVersion	2.1.2-pre3
-GridWay	latestPreviewVersion	5.5.1
-Poppler (software)	latestPreviewVersion	0.17.1
-Das U-Boot	latestPreviewVersion	v2011.09
-UDig	latestPreviewVersion	1.2-RC2
-OmegaT	latestPreviewVersion	2.2.0
-Selenium (software)	latestPreviewVersion	2.0rc3
-SoftMaker Office	latestPreviewVersion	2011
-Jetty (Web server)	latestPreviewVersion	8.0.0.M3
-Zend Framework	latestPreviewVersion	2.0.dev2
-BackupPC	latestPreviewVersion	3.2.0beta1
-KGB Archiver	latestPreviewVersion	2.0 beta 2
-Dnsmasq	latestPreviewVersion	2.56
-Zinc Y!	latestPreviewVersion	1.2pre1
+SageMath	latestPreviewVersion	7.4
+Flashblock	latestPreviewVersion	1.3
+T-Coffee	latestPreviewVersion	11
+Das U-Boot	latestPreviewVersion	v2016.07-rc1
+Q	latestPreviewVersion	0.9
+UDig	latestPreviewVersion	1.2
+DeSmuME	latestPreviewVersion	SVN 5522
+BackupPC	latestPreviewVersion	4
+KGB Archiver	latestPreviewVersion	2
 Denshin 8 go	latestPreviewVersion	V32.1.6.0 081
 Live Search Academic	latestPreviewVersion	Beta
 MSN QnA	latestPreviewVersion	Beta
 Live Clipboard	latestPreviewVersion	0.93
-Aircrack-ng	latestPreviewVersion	1.0-rc4
-NeoPaint	latestPreviewVersion	4.7c
-GlueGen	latestPreviewVersion	2.0
-JOVE	latestPreviewVersion	4.16.0.73
-IlohaMail	latestPreviewVersion	0.9-20050415
-Virtual TI	latestPreviewVersion	3.0 Alpha
-Cabal (software)	latestPreviewVersion	1.8.0.1
-Mapbender	latestPreviewVersion	2.6. rc1
-TablEdit Tablature Editor	latestPreviewVersion	2.69 d8
+Aircrack-ng	latestPreviewVersion	1.2
+GlueGen	latestPreviewVersion	2.1
+MediaCoder	latestPreviewVersion	0.8
+JOVE	latestPreviewVersion	4.16
+IlohaMail	latestPreviewVersion	0.9
+Virtual TI	latestPreviewVersion	3
+Spring Framework	latestPreviewVersion	5
+Jv16 powertools	latestPreviewVersion	jv16 PowerTools 2017 RC2
+Mapbender	latestPreviewVersion	3
+WikipediaFS	latestPreviewVersion	r75
 Uim	latestPreviewVersion	none
-GRAMPS	latestPreviewVersion	Through SVN
-JSPWiki	latestPreviewVersion	n/a
-PremiumBulletinBoard	latestPreviewVersion	pre-ALPHA
+Gramps	latestPreviewVersion	5
+Okapi Framework	latestPreviewVersion	M31-SNAPSHOT
+TheSky	latestPreviewVersion	10.5
 Live Search Books	latestPreviewVersion	Beta
-TxtSQL	latestPreviewVersion	4.0 Alpha http://txtsql.com/index.php?module=dev
-Mixxx	latestPreviewVersion	1.9.0-beta1
-Bazaar (software)	latestPreviewVersion	2.4b5
-Windows Live Search Center	latestPreviewVersion	Beta (Build 1.0.0.0200)
+ObjectWeb ASM	latestPreviewVersion	6
+TxtSQL	latestPreviewVersion	4
+Ns	latestPreviewVersion	Mercurial repository
 Lomboz	latestPreviewVersion	3.3
-OpenEV	latestPreviewVersion	svn
-Emesene	latestPreviewVersion	Git: 2.11.5dev
-Gnome-dictionary	latestPreviewVersion	2.27.2
-Prototype JavaScript Framework	latestPreviewVersion	1.7 RC3
-Qt Jambi	latestPreviewVersion	4.7.1 beta 3
-Pound (networking)	latestPreviewVersion	2.6c
-GMS (software)	latestPreviewVersion	6.5
-Seaside (software)	latestPreviewVersion	3.0-alpha5
-EasyTag	latestPreviewVersion	2.1.6
-MapServer	latestPreviewVersion	6.0.0-beta6
-Tesseract (software)	latestPreviewVersion	3.00 (svn)
-Gpsd	latestPreviewVersion	2.94
-Adempiere	latestPreviewVersion	3.5.4-alpha
+OpenEV	latestPreviewVersion	
+BALL	latestPreviewVersion	1.4
+LAMMPS	latestPreviewVersion	21
+Emesene	latestPreviewVersion	Git: 2.12.6-dev
+GNOME Screensaver	latestPreviewVersion	3.5
+HomeBank	latestPreviewVersion	-
+GMS	latestPreviewVersion	10.1
+EndNote	latestPreviewVersion	22334
+GNewSense	latestPreviewVersion	4
+Logos Bible Software	latestPreviewVersion	6.14
 CodeRush	latestPreviewVersion	none
-GNOME Panel	latestPreviewVersion	2.91.94
-GNU Smalltalk	latestPreviewVersion	3.2.3
+Watir	latestPreviewVersion	6
 NetDrive	latestPreviewVersion	4.1
-JetPAG	latestPreviewVersion	0.6.3
-Cacani	latestPreviewVersion	1.1.12
-Berkeley Automounter	latestPreviewVersion	6.2a2
-Yahoo! UI Library	latestPreviewVersion	3.4.0
-Dr. DivX	latestPreviewVersion	2.0.1 Beta 7
-Dr. DivX  OSS for Mac OS X   1	latestPreviewVersion	2.0.1 Beta 2
-ISPConfig	latestPreviewVersion	currently none
-WinBuilder	latestPreviewVersion	WinBuilder 82.0.0.15 http://code.google.com/p/winbuilder/downloads/detail?name=WinBuilder082 preview2.zip
-SXEmacs	latestPreviewVersion	22.1.10 (from tla)
-SymTorrent	latestPreviewVersion	1.41
-OpenNMS	latestPreviewVersion	1.9.8
-Tigase	latestPreviewVersion	tigase-server-5.1.0-beta2-b2555
-DBMail IMAP and POP3 server	latestPreviewVersion	2.3.6
-Open Journal Systems	latestPreviewVersion	2.3.x
-N-Track Studio	latestPreviewVersion	6.1.1 Build 2677 Beta
-WebERP	latestPreviewVersion	4.00 rc3
-OpenJDK  7   1	latestPreviewVersion	OpenJDK7 Build b147
-HP Integrity Virtual Machines	latestPreviewVersion	4.1
-LXDE	latestPreviewVersion	0.5.6
-HandBrake	latestPreviewVersion	SVN3460
-MSN WiFi Hotspots  Windows Live WiFi Center   1	latestPreviewVersion	Beta 4
-Falcon (storage engine)	latestPreviewVersion	MySQL 6.0.9
-Comic Life	latestPreviewVersion	1.3.4 Windows OS
-Helium (Haskell)	latestPreviewVersion	1.7
-Qcodo	latestPreviewVersion	0.4.16
-Joost	latestPreviewVersion	1.1.7
-NonVisual Desktop Access	latestPreviewVersion	2011.2beta1
-OpenERP	latestPreviewVersion	6.1
-Jimm	latestPreviewVersion	0.7.100123 beta
-Apache OpenJPA	latestPreviewVersion	2.2.0
-Apache Continuum	latestPreviewVersion	1.4.0 (Beta)
-MapWindow GIS	latestPreviewVersion	6.0 Beta
-KompoZer	latestPreviewVersion	0.8b3
-Graph (software)	latestPreviewVersion	4.4.0.452
-OptimFROG	latestPreviewVersion	4.910b *only Windows*
-Google Guice	latestPreviewVersion	3.0rc3
-Google Pinyin	latestPreviewVersion	3.0.1.98
+Hiawatha	latestPreviewVersion	none
+MythDora	latestPreviewVersion	12.23
+JetPAG	latestPreviewVersion	0.6
+Berkeley Automounter	latestPreviewVersion	6.2
+Trinity Rescue Kit	latestPreviewVersion	3.4
+HyperCam	latestPreviewVersion	rery
+Dr. DivX	latestPreviewVersion	2
+PCSX-Reloaded	latestPreviewVersion	Snapshot
+VAG-COM	latestPreviewVersion	14.8
+Xenomai	latestPreviewVersion	3
+XDXF	latestPreviewVersion	0.4
+MSN WiFi Hotspots	latestPreviewVersion	Beta 4
+Falcon	latestPreviewVersion	MySQL 6.0.9
+LedgerSMB	latestPreviewVersion	1.5
+Helium	latestPreviewVersion	1.7
+Qcodo	latestPreviewVersion	0.4
+Joost	latestPreviewVersion	1.1
+GlusterFS	latestPreviewVersion	3.7
+Rigs of Rods	latestPreviewVersion	0.4
+Citect	latestPreviewVersion	2015
+Tinc	latestPreviewVersion	1.1
+Visual MODFLOW	latestPreviewVersion	2015
+HLSW	latestPreviewVersion	1.4
+Jimm	latestPreviewVersion	0.7
+KompoZer	latestPreviewVersion	0.8
+BKChem	latestPreviewVersion	0.14
+Scrivener	latestPreviewVersion	Linux 1.9.0.1 BETA
+OptimFROG	latestPreviewVersion	4.91
+GPM	latestPreviewVersion	1.99
+Google Pinyin	latestPreviewVersion	3
 Microsoft Live Labs Deepfish	latestPreviewVersion	Beta
-CamStudio	latestPreviewVersion	2.6, release 294
-Zwiki	latestPreviewVersion	2.0b1
-Bcfg2	latestPreviewVersion	1.2.0pre3
+Zwiki	latestPreviewVersion	2
+Pootle	latestPreviewVersion	2.8
+Bcfg2	latestPreviewVersion	1.4
+OpenMRS	latestPreviewVersion	2
+Screamer Radio	latestPreviewVersion	0.4
 Xmonad	latestPreviewVersion	latest Darcs revision
-IronRuby	latestPreviewVersion	IronRuby 1.1.2
-The Master Genealogist	latestPreviewVersion	TMG v8 Public Beta
-Ford Sync	latestPreviewVersion	5.0
-Virtualmin	latestPreviewVersion	3.78
-HX DOS Extender	latestPreviewVersion	2.17
-Gimmie	latestPreviewVersion	0.2.8 (Now defunct)
-Fresh (IDE)	latestPreviewVersion	2.0.3
-Emerge Desktop	latestPreviewVersion	None
-Gnome-screenshot	latestPreviewVersion	2.27.2
-OCRopus	latestPreviewVersion	0.4.4 (alpha)
-Fyre	latestPreviewVersion	2.0
-ACT!	latestPreviewVersion	Version 13.1.111.0
-DeepZoomPix	latestPreviewVersion	Technology Demonstration
-McBBS	latestPreviewVersion	5.5.3 demo
-FVWM-Crystal	latestPreviewVersion	3.0.5
-Yi (editor)	latestPreviewVersion	latest Darcs revision
-Brasero (software)	latestPreviewVersion	2.91.4
-Yep	latestPreviewVersion	1.6b4
-Apache Cayenne	latestPreviewVersion	3.1M2
-Server2Go	latestPreviewVersion	1.8.0
-Office Open XML Converter	latestPreviewVersion	2007-06-15
-MonoDevelop	latestPreviewVersion	2.6 beta 3
-Sandboxie	latestPreviewVersion	3.57.01 Beta
-Open Dental	latestPreviewVersion	7.1(Beta)
-Avaya Enterprise Switch Manager	latestPreviewVersion	6.3
-EcosimPro	latestPreviewVersion	4.6
-ProgDVB	latestPreviewVersion	6.34.1
-Cinderella (software)	latestPreviewVersion	Cinderella 2.1 build 1351
-KeY	latestPreviewVersion	1.7.2194
-Libtiff	latestPreviewVersion	4.0.0beta7
-Kadu (software)	latestPreviewVersion	0.10.0-alpha1
-NanoFX GE	latestPreviewVersion	Pre-Release Alpha 1.6a
-SpeedCommander	latestPreviewVersion	none
-SendSpace  Wizard   1	latestPreviewVersion	1.2.2
+Entity Framework	latestPreviewVersion	7
+IronRuby	latestPreviewVersion	IronRuby 1.1.3
+Gimmie	latestPreviewVersion	0.2
+IPython	latestPreviewVersion	4.1
+Emerge Desktop	latestPreviewVersion	6.2
+Fyre	latestPreviewVersion	2
+McBBS	latestPreviewVersion	5.5
+Yi	latestPreviewVersion	latest Git revision
+Apache Cayenne	latestPreviewVersion	4.0
+GeckOS	latestPreviewVersion	2
+Glftpd	latestPreviewVersion	2.07
+Black Lab Linux	latestPreviewVersion	2015.09
+Sandboxie	latestPreviewVersion	5.13
+Propel	latestPreviewVersion	2
+Open Dental	latestPreviewVersion	15.3
+EcosimPro	latestPreviewVersion	5.2
+Cinderella	latestPreviewVersion	Cinderella 2.9 build 1897
+HyperFun	latestPreviewVersion	2.03
+KeY	latestPreviewVersion	2.5
+Sphinx	latestPreviewVersion	2.3
+PCMan File Manager	latestPreviewVersion	0.11
 FpGUI	latestPreviewVersion	-
-IronLisp	latestPreviewVersion	0.9.0.0
-Lego Digital Designer	latestPreviewVersion	TBA
-HTMLDOC	latestPreviewVersion	1.9 r1571
-Open Wonderland	latestPreviewVersion	0.5 User Preview 4 (2010-0 5 A4)
-CouchDB	latestPreviewVersion	1.1.0
-Courier (e-mail client)	latestPreviewVersion	3.6 Beta (Windows)
-Microsoft HealthVault	latestPreviewVersion	Beta
-HMailServer	latestPreviewVersion	5.3.4 beta (Build 1913)
-PortableApps.com	latestPreviewVersion	2.0 Beta 5
+IronLisp	latestPreviewVersion	0.9
+SmartWin++	latestPreviewVersion	2
+Clutter	latestPreviewVersion	1.21
+Translate Toolkit	latestPreviewVersion	2
+Xbox 360 system software	latestPreviewVersion	2
+HTMLDOC	latestPreviewVersion	NA
+Open Wonderland	latestPreviewVersion	0.5
+CouchDB	latestPreviewVersion	2
+Courier	latestPreviewVersion	3.6
+Remote Application Platform	latestPreviewVersion	3.1
 Microsoft Live Labs Listas	latestPreviewVersion	Beta
-Z-push	latestPreviewVersion	1.5.4 RC
+ASP.NET MVC	latestPreviewVersion	6
+PIKT	latestPreviewVersion	1.19
 PLplot	latestPreviewVersion	Through Subversion
-Mozilla Prism	latestPreviewVersion	1.0b4
-NullDC	latestPreviewVersion	1.0.4 r135
-Comeau C/C++	latestPreviewVersion	4.3.10.1 beta2
-Lift (web framework)	latestPreviewVersion	2.4M1
-Puppet (software)	latestPreviewVersion	2.7.2rc1
-Radiant (software)	latestPreviewVersion	edge
+Mozilla Prism	latestPreviewVersion	1
+Rainlendar	latestPreviewVersion	2.13
+XEphem	latestPreviewVersion	3.7
+C++	latestPreviewVersion	4.3
+Lift	latestPreviewVersion	3
+MSU Lossless Video Codec	latestPreviewVersion	0.6
+UltraDefrag	latestPreviewVersion	7
 Microsoft Live Labs Volta	latestPreviewVersion	Beta
 PHPEclipse	latestPreviewVersion	Nightly update
-CuneiForm (software)	latestPreviewVersion	sources
-Soprano (KDE)	latestPreviewVersion	2.5.63
-Odysseys	latestPreviewVersion	1.0 Mac OS X
-LuaTeX	latestPreviewVersion	beta-0.70.0
-JAMWiki	latestPreviewVersion	1.1 Beta 1
-SpiderOak	latestPreviewVersion	4.0.9823
-ABCDE	latestPreviewVersion	2.3.3
-Fprint	latestPreviewVersion	0.1.0-pre2
-Granite data services	latestPreviewVersion	2.2.0 SP1
-Zarafa (software)	latestPreviewVersion	6.40.9beta1, 7.0.0rc2
-Xpadder	latestPreviewVersion	Nightly Forum Builds
-WorldWide Telescope	latestPreviewVersion	Penumbra Beta (3.0.5)
-Family.Show	latestPreviewVersion	4.0 alpha
-Apache James	latestPreviewVersion	3.0-M2
-SQLite Manager	latestPreviewVersion	0.7.3
+Odysseys	latestPreviewVersion	1
+LuaTeX	latestPreviewVersion	0.96
+Aria	latestPreviewVersion	All
+CaRMetal	latestPreviewVersion	4.1
+Cosmos	latestPreviewVersion	Release 20150918
+Zarafa	latestPreviewVersion	7.1
+Mika VM	latestPreviewVersion	1.4
+Family.Show	latestPreviewVersion	4
+Apache James	latestPreviewVersion	3
+K Desktop Environment 3	latestPreviewVersion	14.1
 Gallium3D	latestPreviewVersion	0.4
-IOS SDK	latestPreviewVersion	iOS 5.0 beta 4
-ImpressCMS	latestPreviewVersion	1.3rc
-Gtranslator	latestPreviewVersion	2.90.1
-VUE (Visual Understanding Environment)	latestPreviewVersion	v3.1alpha11
-MUSHclient	latestPreviewVersion	4.72
-PowerWord	latestPreviewVersion	2.0 Beta
-SubSonic (software)	latestPreviewVersion	http://code.google.com/p/subsonicthree/
-ExifTool	latestPreviewVersion	8.61
-IzPack	latestPreviewVersion	5.0.0-beta8
-BeSweet	latestPreviewVersion	1.5b31
-TooLAME	latestPreviewVersion	0.2 m beta 8
-Ubuntu-restricted-extras	latestPreviewVersion	43
-Tinymail	latestPreviewVersion	0.0.9
-3DMLW	latestPreviewVersion	2.0 alpha 1
-JQuantLib	latestPreviewVersion	3.7
-ZTerm	latestPreviewVersion	1.1b7
+Gtranslator	latestPreviewVersion	2.91
+NetLimiter	latestPreviewVersion	4
+DrJava	latestPreviewVersion	drjava-beta-20160913-225446
+SubSonic	latestPreviewVersion	
+ExifTool	latestPreviewVersion	10.18
+TooLAME	latestPreviewVersion	12.0
+SliTaz	latestPreviewVersion	Cooking
+GPAC Project on Advanced Content	latestPreviewVersion	0.5
+Tinymail	latestPreviewVersion	1
+3DMLW	latestPreviewVersion	2
 Multitran	latestPreviewVersion	?
 VistaPE	latestPreviewVersion	v12RC1
-DiskCryptor	latestPreviewVersion	1.0.735.111 beta
-Zikula	latestPreviewVersion	Zikula 1.3.0-dev
-CodeLite	latestPreviewVersion	Downloads at SourceForge
-LuxRender	latestPreviewVersion	0.8 RC3
-Rsyslog	latestPreviewVersion	6.1.2
-JDownloader	latestPreviewVersion	0.9.581
-Routers2	latestPreviewVersion	2.20beta4
-Windows Live FrameIt	latestPreviewVersion	Beta (Build 1.1.3015.0)
-Drizzle (database server)	latestPreviewVersion	2011.06.20
-Switzerland (software)	latestPreviewVersion	0.0.7a
-SK1 (program)	latestPreviewVersion	0.9.1 prerelease2 (codename \
-Windows Live Video Messages	latestPreviewVersion	Beta (Build 2.0.40115.0)
-EntitySpaces	latestPreviewVersion	EntitySpaces Beta 2011.0.0331.0
-Plex (software)	latestPreviewVersion	0.9.2.7 (codename: \
-ASuite	latestPreviewVersion	2.0 Alpha 1
-Opera Dragonfly	latestPreviewVersion	1.1
-RawTherapee	latestPreviewVersion	3.0B1.33 (branch 3.0, revision 33)
-Generic Tile Engine	latestPreviewVersion	1.0b5
-Cisco Systems VPN Client	latestPreviewVersion	4.9.01.0230 for Mac
-PrestaShop	latestPreviewVersion	1.5.0.0 (alpha1 version)
-AndreaMosaic	latestPreviewVersion	AndreaMosaic 3.33.2
-Ovi Maps	latestPreviewVersion	3.06
-ZYpp	latestPreviewVersion	8.10.0
-Windchill (software)	latestPreviewVersion	Windchill 10.0 C000
-Spotify	latestPreviewVersion	Linux: 0.5.2.84.g6d797eb9
+GLScene	latestPreviewVersion	v1.2 SVN revision 6388
+GeoMedia	latestPreviewVersion	2016
+Object Oriented Input System	latestPreviewVersion	1.4
+GNU Emacs	latestPreviewVersion	25.1
+Higan	latestPreviewVersion	99.16
+OpenCL	latestPreviewVersion	2.2
+JBoss Tools	latestPreviewVersion	4.2
+TorChat	latestPreviewVersion	2
+GNU social	latestPreviewVersion	master
+Rsyslog	latestPreviewVersion	8.9
+Clonezilla	latestPreviewVersion	2.4
+JDownloader	latestPreviewVersion	0.9
+Windows Live FrameIt	latestPreviewVersion	Beta
+Switzerland	latestPreviewVersion	0.1
+SK1	latestPreviewVersion	2
+ALLPlayer	latestPreviewVersion	None
+GrADS	latestPreviewVersion	2.1
+Windows Live Video Messages	latestPreviewVersion	Beta
+Ubiquity	latestPreviewVersion	0.6
+ASuite	latestPreviewVersion	2
+Ixemul.library	latestPreviewVersion	50.17
+Opera Dragonfly	latestPreviewVersion	1.2012
+RawTherapee	latestPreviewVersion	daily
+EasyPeasy	latestPreviewVersion	2
+Cisco Systems VPN Client	latestPreviewVersion	4.9
+HMMER	latestPreviewVersion	3.1
+Rico	latestPreviewVersion	3
+AndreaMosaic	latestPreviewVersion	AndreaMosaic 3.36.7 Beta
+Ubiquity	latestPreviewVersion	2.21
+PDCurses	latestPreviewVersion	
+BLAG Linux and GNU	latestPreviewVersion	240000
+Ecopath	latestPreviewVersion	6.5
 Quick Objects	latestPreviewVersion	Quick Objects 4.2.2008.29
-Facelets  standalone   1	latestPreviewVersion	1.2-dev
-Spagic	latestPreviewVersion	3.0 RC
-Google Native Client	latestPreviewVersion	0.4
-Marionnet	latestPreviewVersion	0.60
-FUDforum	latestPreviewVersion	3.0.3 RC1
-GoldED	latestPreviewVersion	4.x (does not build)
-GoldED  +   1	latestPreviewVersion	1.1.5
-CodeIt.Right	latestPreviewVersion	none
-Vertebra (cloud computing framework)	latestPreviewVersion	0.3 beta
-JigLibX	latestPreviewVersion	0.3 Beta
-Mozilla Skywriter	latestPreviewVersion	0.9a1
-CELT	latestPreviewVersion	0.11.1
-The Only Sheet	latestPreviewVersion	3.0 (Demo)
-Rakudo Perl	latestPreviewVersion	#40 \
-ClipX	latestPreviewVersion	1.0.3.9
-WebSphere Portal	latestPreviewVersion	7.0
-OpenCOBOL	latestPreviewVersion	OpenCOBOL 1.1
-Palringo	latestPreviewVersion	Microsoft Windows: 2.5.3 r36842
+Facelets	latestPreviewVersion	1.2
+Microsoft Security Essentials	latestPreviewVersion	4.8
+Spagic	latestPreviewVersion	3
+Tor	latestPreviewVersion	0.2
+Fred Optical Engineering Software	latestPreviewVersion	15.9
+Marionnet	latestPreviewVersion	0.6
+Redsn0w	latestPreviewVersion	0.9
+Ring	latestPreviewVersion	1
+GoldED	latestPreviewVersion	4
+GoldED	latestPreviewVersion	1.1
+Vertebra	latestPreviewVersion	0.3
+Mozilla Skywriter	latestPreviewVersion	0.9
+CELT	latestPreviewVersion	0.11
+The Only Sheet	latestPreviewVersion	TOS CORE v2.00
+Premake	latestPreviewVersion	5
+ClipX	latestPreviewVersion	1
+MongoDB	latestPreviewVersion	3.3
+BlackBerry World	latestPreviewVersion	5
+WebSphere Portal	latestPreviewVersion	8
+GnuCOBOL	latestPreviewVersion	GnuCOBOL 2.0, GnuCOBOL 2 with Report Writer, GnuCOBOL C++
 My Phone	latestPreviewVersion	Beta
-Docky	latestPreviewVersion	2.2.0
-IronScheme	latestPreviewVersion	1.0 RC3
-Dom4j	latestPreviewVersion	2.0
-Resource Hacker	latestPreviewVersion	3.5.2.84
-Pluck (software)	latestPreviewVersion	4.7 beta
+IronScheme	latestPreviewVersion	0.9
+Sphinx	latestPreviewVersion	1.4
+Dom4j	latestPreviewVersion	2
+Gh0st RAT	latestPreviewVersion	Gh0st RAT Beta 3.6
+Tiny Core Linux	latestPreviewVersion	n/a
+WeeChat	latestPreviewVersion	1.7
 CS-BLAST	latestPreviewVersion	1.1
+Concrete5	latestPreviewVersion	8
 Tellico	latestPreviewVersion	-
-Managed Extensibility Framework	latestPreviewVersion	V2 Preview 3
-Open Language Tools	latestPreviewVersion	1.4.0
-Misfit Model 3d	latestPreviewVersion	1.3.8
-Download Accelerator Plus	latestPreviewVersion	9.7.0.1
-Embedded GLIBC	latestPreviewVersion	2.12
-ImageVis3D	latestPreviewVersion	2.1
-XZ Utils	latestPreviewVersion	5.1.1
-CppCMS	latestPreviewVersion	0.99.8
-Rawzor	latestPreviewVersion	0.47 beta
-Mailody	latestPreviewVersion	1.5.0-beta1 (KDE SC 4 port)
-Vistapack	latestPreviewVersion	3.0
-Synchronize It	latestPreviewVersion	3.4.1676
-DataNucleus	latestPreviewVersion	3.0 M4
-Nftables	latestPreviewVersion	GIT
-GTK+	latestPreviewVersion	3.1.8
-Robogallery	latestPreviewVersion	1.2.1
-OpenImageIO	latestPreviewVersion	0.9.0
-GoodSync	latestPreviewVersion	9 Beta
-KnowledgeBase Manager Pro	latestPreviewVersion	6.0.1
-Adminer	latestPreviewVersion	3.0.0
-JamaicaVM	latestPreviewVersion	3.4 (JDK 1.5 Compatible)
-TeXworks	latestPreviewVersion	0.5r765
-RockMelt	latestPreviewVersion	0.9.62.314 (Beta 3)
-Opsview	latestPreviewVersion	Opsview Community 3.13
+Managed Extensibility Framework	latestPreviewVersion	V2 Preview 5
+Open Language Tools	latestPreviewVersion	1.4
+Osiris	latestPreviewVersion	1
+Download Accelerator Plus	latestPreviewVersion	10
+Microsoft Research Image Composite Editor	latestPreviewVersion	c
+Avogadro	latestPreviewVersion	1.1
+Stopping and Range of Ions in Matter	latestPreviewVersion	SRIM-2013
+Google Quick Search Box	latestPreviewVersion	2
+Rawzor	latestPreviewVersion	0.47
+Mailody	latestPreviewVersion	1.5
+Synchronize It	latestPreviewVersion	3.5
+Nftables	latestPreviewVersion	
+GTK+	latestPreviewVersion	2.99
+Microsoft Vine	latestPreviewVersion	v1.0.2152.0
+Neatx	latestPreviewVersion	0.3
+GoodSync	latestPreviewVersion	10
+Moose File System	latestPreviewVersion	3
+KnowledgeBase Manager Pro	latestPreviewVersion	6.2
+Find My iPhone	latestPreviewVersion	iOS 9.2
 WikiTrust	latestPreviewVersion	v3.0.pre1
-Ubuntu Software Center	latestPreviewVersion	4.1.10
-Apparat (software)	latestPreviewVersion	1.0 RC9
-SoftRay	latestPreviewVersion	0.1.90
-MoSync	latestPreviewVersion	2.5
-Libguestfs	latestPreviewVersion	1.9.16
+Algodoo	latestPreviewVersion	2.2
+Advanced Intrusion Detection Environment	latestPreviewVersion	0.16
+Spring Roo	latestPreviewVersion	Spring Roo 2.0.0 M2
+Libvirt	latestPreviewVersion	2.3
 WorkPLAN	latestPreviewVersion	Version 4
-Sheetster	latestPreviewVersion	1.0
-Java Development Kit	latestPreviewVersion	JDK 7 Preview Release, Build b139
-DTRules	latestPreviewVersion	5.0-SNAPSHOT
-InfoZoom	latestPreviewVersion	6.4
-Memopal	latestPreviewVersion	1.9
-OpenCRG	latestPreviewVersion	1.0.3
-Traffic Server	latestPreviewVersion	2.1.9
-Transifex	latestPreviewVersion	1.1.0beta
-Tkabber	latestPreviewVersion	SVN
-Mach-II	latestPreviewVersion	1.9.0 M2
-SABnzbd	latestPreviewVersion	n/a
-OpenRasta	latestPreviewVersion	2.0Trunk
-Flat File Checker	latestPreviewVersion	0.7.2.7 beta
-RascalMPL	latestPreviewVersion	0.1.4
-Swish (SFTP client)	latestPreviewVersion	0.4.4
-Tween (software)	latestPreviewVersion	0.9.9.1
-Node.js	latestPreviewVersion	0.5.2
-Gram Vaani Community Media	latestPreviewVersion	0.2.1
-Encog	latestPreviewVersion	3.0.0
-Teracopy	latestPreviewVersion	2.2 beta 3
-RedDwarf Server	latestPreviewVersion	0.10.3
-Seed (programming)	latestPreviewVersion	2.31.5 \
-Alchemy (software)	latestPreviewVersion	Beta 008
-JQuery UI	latestPreviewVersion	1.9
+Sheetster	latestPreviewVersion	1
+Appcelerator Titanium	latestPreviewVersion	index.html#master
+GoldenDict	latestPreviewVersion	1.5
+InfoZoom	latestPreviewVersion	8
+CyanogenMod	latestPreviewVersion	14
+Memopal	latestPreviewVersion	3.9
+OpenCRG	latestPreviewVersion	1.1
+Tkabber	latestPreviewVersion	tkabber
+Mach-II	latestPreviewVersion	1.9
+SUPER	latestPreviewVersion	None
+AdBlock	latestPreviewVersion	Chrome, Safari, Opera:
+AdBlock	latestPreviewVersion	2.19
+Immunet	latestPreviewVersion	5
+StartOS	latestPreviewVersion	6
+LibHaru	latestPreviewVersion	2.3
+SprutCAM	latestPreviewVersion	11
+OpenRasta	latestPreviewVersion	2
+RascalMPL	latestPreviewVersion	0.8
+OpenDNSSEC	latestPreviewVersion	2
+Tween	latestPreviewVersion	0.9
+Cobalt	latestPreviewVersion	10
+PAUP*	latestPreviewVersion	4
+Fotografix	latestPreviewVersion	2
+360 Safeguard	latestPreviewVersion	10
+JQuery UI	latestPreviewVersion	1.12
+CYANA	latestPreviewVersion	3.96
 Packetsquare	latestPreviewVersion	r35
-BennuGD	latestPreviewVersion	1.0RC14
-Tracker (File manager)	latestPreviewVersion	Alpha Two
-SpoonWEP/WPA	latestPreviewVersion	SW3 Public Beta
-Diaspora (software)	latestPreviewVersion	Developer Release
-Linkinus	latestPreviewVersion	2.3 Beta build 24643 (Mac OS X)
-CFosSpeed	latestPreviewVersion	6.61 Build 1877 Beta
-Lightspark	latestPreviewVersion	0.5.0
-Realaxy ActionScript Editor	latestPreviewVersion	1.0.0 beta3
-Roboform	latestPreviewVersion	None
-XBMC4Xbox	latestPreviewVersion	Neutral build from SVN
-Play Framework	latestPreviewVersion	1.2.2 RC 2
+Tracker	latestPreviewVersion	Alpha Two
+WPA	latestPreviewVersion	SW3 Public Beta
+Illumination Software Creator	latestPreviewVersion	6
+Shapeshifter	latestPreviewVersion	2013
+Timberwolf	latestPreviewVersion	Release Candidate 3
 Rainwave	latestPreviewVersion	Beta: R3 Rev 37
-OsCMax	latestPreviewVersion	2.5 Release Candidate 1
-Flixel	latestPreviewVersion	2.50
-Madagascar (software)	latestPreviewVersion	Through Subversion
-Bitcoin	latestPreviewVersion	0.3.24
-Jappix	latestPreviewVersion	0.7 \
-Elgg (software)	latestPreviewVersion	1.8 beta 1
-WhatsUp Gold	latestPreviewVersion	15.0
-Review Board	latestPreviewVersion	1.6 beta 2
-FlexRAID	latestPreviewVersion	2.0 public preview (build 9)
-Intel Array Building Blocks	latestPreviewVersion	beta
-Series60-Remote	latestPreviewVersion	0.4.80
-MoWeS	latestPreviewVersion	Alpha 3.0.1
-XRumer	latestPreviewVersion	5.0
-SPADE	latestPreviewVersion	2.0r2233
-Unity (user interface)	latestPreviewVersion	4.4.0
-OrfeoGPL	latestPreviewVersion	3.8.1beta
-GraphStream	latestPreviewVersion	1.0-beta
-RJ TextEd	latestPreviewVersion	7.50 beta 4
-Puxa Rápido	latestPreviewVersion	0.861
+Madagascar	latestPreviewVersion	Through Subversion
+W3af	latestPreviewVersion	1.6
+Intel Array Building Blocks	latestPreviewVersion	1
+Element Anti-Virus	latestPreviewVersion	9
+DansGuardian	latestPreviewVersion	2.12
+BlackBerry Tablet OS	latestPreviewVersion	2.1
+MyPaint	latestPreviewVersion	1.2
+XRumer	latestPreviewVersion	5
+OrfeoGPL	latestPreviewVersion	3.9
+RJ TextEd	latestPreviewVersion	11.07
+NuGet	latestPreviewVersion	0.1
+Refinery CMS	latestPreviewVersion	3.1
+Apache Hama	latestPreviewVersion	0.6
 Microsoft pubCenter	latestPreviewVersion	Beta
-Fcitx	latestPreviewVersion	4.0.0
 Designbox	latestPreviewVersion	none
-Jekejeke Prolog	latestPreviewVersion	0.8.9
-Gitit (software)	latestPreviewVersion	via Git
-Conqueror Browser	latestPreviewVersion	1.2 Beta
-Citavi	latestPreviewVersion	3.0.18
-Apache Roller	latestPreviewVersion	5.0 Beta1
-KeePass	latestPreviewVersion	2.16
+BigCouch	latestPreviewVersion	0.4
+Netty	latestPreviewVersion	5
+Apache Roller	latestPreviewVersion	5.1
+Apache OpenEJB	latestPreviewVersion	7
+LiveCode	latestPreviewVersion	8.1
 SoftMaker Presentations	latestPreviewVersion	2011
-Ease (software)	latestPreviewVersion	0.4
-ATI Tray Tools	latestPreviewVersion	1.7.9.1564
-TestArchitect	latestPreviewVersion	6.0
-Hector (API)	latestPreviewVersion	none
-JGameAdmin	latestPreviewVersion	0.1
-JPlayer	latestPreviewVersion	2.0.5
-Oruxmaps	latestPreviewVersion	v3.4.0
-TenFourFox	latestPreviewVersion	6.0b1
-MECOMS	latestPreviewVersion	7.0 (2012)
-Maqetta	latestPreviewVersion	Preview 1
-WxFormBuilder	latestPreviewVersion	3.2.03-beta
-Gradle	latestPreviewVersion	1.0-milestone-3
-Coccinelle (software)	latestPreviewVersion	1.0.0-rc4
+FreedomBox	latestPreviewVersion	0.9
+RetroShare	latestPreviewVersion	0.6
+Virastyar	latestPreviewVersion	3.2
+ATI Tray Tools	latestPreviewVersion	1.7
+CSipSimple	latestPreviewVersion	Nightly
+Hector	latestPreviewVersion	none
+JPlayer	latestPreviewVersion	2
+Kiwix	latestPreviewVersion	0.9
+WxFormBuilder	latestPreviewVersion	3.5
+Tails	latestPreviewVersion	2.6
 Utalk	latestPreviewVersion	Java: 4.0
-LIO Target	latestPreviewVersion	4.0.0
-ITerm2	latestPreviewVersion	1.0.0.20110720 beta
-HDE Controller X	latestPreviewVersion	10.0-8
-MSR Tools	latestPreviewVersion	0.3.0
+LIO	latestPreviewVersion	4.2
+List of Wikipedia mobile applications	latestPreviewVersion	2.4
+Android-x86	latestPreviewVersion	6
+ASP.NET Razor	latestPreviewVersion	4
+HDE Controller X	latestPreviewVersion	10
+XOS Webtop	latestPreviewVersion	N/A
+Firefox OS	latestPreviewVersion	2.5
+Duplicati	latestPreviewVersion	2
+Ace	latestPreviewVersion	Git
+Makagiga	latestPreviewVersion	5.7
+Sublime Text	latestPreviewVersion	3
+Hotot	latestPreviewVersion	0.9
+2-plan project management software	latestPreviewVersion	2
+Juju	latestPreviewVersion	2
+Elasticsearch	latestPreviewVersion	5
+Spring Integration	latestPreviewVersion	4.1
+Tizen	latestPreviewVersion	2.4
+Dynamic Languages Toolkit	latestPreviewVersion	5.4
+Intorel	latestPreviewVersion	4.98
+OpenUniverse	latestPreviewVersion	1
+OpenMediaVault	latestPreviewVersion	3
+Skyscraper	latestPreviewVersion	--09-24
+Netsniff-ng	latestPreviewVersion	0.5
+Anduril	latestPreviewVersion	2
+FHFS	latestPreviewVersion	2
+LingCloud	latestPreviewVersion	0.9
+IPPOLIT	latestPreviewVersion	3.5998056E9
+Abas ERP	latestPreviewVersion	abas2017r4
+MasterChef	latestPreviewVersion	MSC4 beta
+Spyder	latestPreviewVersion	3
+FlylinkDC++	latestPreviewVersion	r5xx beta
+BrowserCMS	latestPreviewVersion	master
+Eigen	latestPreviewVersion	3.3
+GNU Solfege	latestPreviewVersion	3.21
+Adobe Muse	latestPreviewVersion	CC 2017
+FuelPHP	latestPreviewVersion	2
+Apache TomEE	latestPreviewVersion	7
+AngularJS	latestPreviewVersion	2.1
+Bootstrap	latestPreviewVersion	4
+Diazo	latestPreviewVersion	e917d54922
+TagLib	latestPreviewVersion	1.11
+Construct	latestPreviewVersion	r236
+Mednafen	latestPreviewVersion	0.9
+Squish	latestPreviewVersion	6.1
+ERPNext	latestPreviewVersion	v7.1.0
+Abiquo Enterprise Edition	latestPreviewVersion	3.4
+Sailfish OS	latestPreviewVersion	2
+ProFTPD	latestPreviewVersion	1.3
+RStudio	latestPreviewVersion	0.99
+Tent	latestPreviewVersion	0.3
+PDF.js	latestPreviewVersion	1.5
+JPOS	latestPreviewVersion	1.9
+Servo	latestPreviewVersion	0
+Parcellite	latestPreviewVersion	1
+Parcellite	latestPreviewVersion	1.4
+MyTracks	latestPreviewVersion	2
+Ardupilot	latestPreviewVersion	3.3
+WiFi Explorer	latestPreviewVersion	2.1
+GamePlay	latestPreviewVersion	4
+DTRules	latestPreviewVersion	5
+Symbiose	latestPreviewVersion	1
+Ubuntu Touch	latestPreviewVersion	16.1
+Qubes OS	latestPreviewVersion	R3.2 rc3
+Manjaro Linux	latestPreviewVersion	Not Available
+Libcaca	latestPreviewVersion	0.99
+Datomic	latestPreviewVersion	0.9
+NAS4Free	latestPreviewVersion	10.3
+Diodon	latestPreviewVersion	1.2
+Storm	latestPreviewVersion	0.1
+Maliit	latestPreviewVersion	0.99
+Mir	latestPreviewVersion	0.24
+PDF Split and Merge	latestPreviewVersion	3
+LocalWiki	latestPreviewVersion	
+Android Studio	latestPreviewVersion	2.2
+Ubuntu GNOME	latestPreviewVersion	16.1
+Open Broadcaster Software	latestPreviewVersion	v0.16.2
+Jem The Bee	latestPreviewVersion	BERGAMOTTO 2.2.0
+Wpkg	latestPreviewVersion	0.9
+Qmmp	latestPreviewVersion	1.2
+Fire OS	latestPreviewVersion	Fire OS 5 Developer Preview for Amazon Fire TV
+Buildroot	latestPreviewVersion	2016.05
+AOKP	latestPreviewVersion	kitkat
+SpaceEngine	latestPreviewVersion	0.9
+Nanolinux	latestPreviewVersion	n/a
+MiniPanzer and MegaPanzer	latestPreviewVersion	0.1
+CoreOS	latestPreviewVersion	1095.1
+Cloudify	latestPreviewVersion	3.4
+Mailpile	latestPreviewVersion	0.5
+Longene	latestPreviewVersion	1
+Godot	latestPreviewVersion	2
+CEITON	latestPreviewVersion	7.5
+RPCS3	latestPreviewVersion	artifacts
+IDempiere	latestPreviewVersion	devel-3.0
+Popcorn Time	latestPreviewVersion	Beta 3.9.0
+Fre:ac	latestPreviewVersion	Snapshot 20151122
+ZeroVM	latestPreviewVersion	0.9
+Hike Messenger	latestPreviewVersion	*4.2.8.82
+Hike Messenger	latestPreviewVersion	*3.5.0
+Hike Messenger	latestPreviewVersion	*2.6.2
+Hike Messenger	latestPreviewVersion	*4.3.1
+Hike Messenger	latestPreviewVersion	*2.6.0
+EsoTalk	latestPreviewVersion	1
+VX	latestPreviewVersion	0.9
+Zoom Cyprus	latestPreviewVersion	2014-06-02
+Contentverse	latestPreviewVersion	8.2
+AMD APP SDK	latestPreviewVersion	3
+MoonLightDE	latestPreviewVersion	0.5
+KDE Plasma 5	latestPreviewVersion	Prototype 1
+Eclipse SCADA	latestPreviewVersion	0.2
+ProjeQtOr	latestPreviewVersion	V5.5.1
+SPEDAS	latestPreviewVersion	nightly builds
+BasKet Note Pads	latestPreviewVersion	2
+CipherShed	latestPreviewVersion	0.7
+LuneOS	latestPreviewVersion	Café Mocha developer preview
+Peppermint	latestPreviewVersion	1.5
+Sinsy	latestPreviewVersion	0.92
+Aikuma	latestPreviewVersion	0.8
+List of Flex frameworks	latestPreviewVersion	3
+Lightning Memory-Mapped Database	latestPreviewVersion	0.9
+Nightshade	latestPreviewVersion	14.6
+Enterprise Storage OS	latestPreviewVersion	esos-master_d70b9b4_dgv
+EdgeHTML	latestPreviewVersion	14.14915
+Guix System Distribution	latestPreviewVersion	0.11
+Hierarchical Cluster Engine Project	latestPreviewVersion	1.4
+Gwrite	latestPreviewVersion	0.5
+Ionic	latestPreviewVersion	1.3
+Augur	latestPreviewVersion	Beta
+UniKey	latestPreviewVersion	4.2
+TiddlyMap	latestPreviewVersion	0.9
+Jabaco	latestPreviewVersion	BETA 1.5.2
+SAMSON	latestPreviewVersion	0.5
+FBReader	latestPreviewVersion	2
+EDI	latestPreviewVersion	0
+Odoo	latestPreviewVersion	current master version
+OxygenOS	latestPreviewVersion	3.1
+Colectica	latestPreviewVersion	5.2
+Crosswalk Project	latestPreviewVersion	22
+Goanna	latestPreviewVersion	Pale Moon 27.0.0 alpha 2
+Open Live Writer	latestPreviewVersion	0.6
+ViennaRNA Package	latestPreviewVersion	7560.0
+Nirvana	latestPreviewVersion	5.1
+Accord.NET	latestPreviewVersion	3.1
+NetPIPE	latestPreviewVersion	4
+Amazon Lumberyard	latestPreviewVersion	Beta 1.4
+Open VOGEL	latestPreviewVersion	1.1
+Padvish Antivirus	latestPreviewVersion	1.4
+Adobe Experience Design	latestPreviewVersion	0.5
+Kitura	latestPreviewVersion	0.13
+Gregorio	latestPreviewVersion	4.2
+IOS 10	latestPreviewVersion	10.1
+RogueKiller	latestPreviewVersion	12
+MacOS Sierra	latestPreviewVersion	10.12
+Apache NiFi	latestPreviewVersion	1
+Ghost	latestPreviewVersion	0.5
+OpenWebRTC	latestPreviewVersion	0.3

@@ -1,383 +1,292 @@
-Adrastea (moon)	escapeVelocity	28.8
-Carme (moon)	escapeVelocity	100.8
-Earth	escapeVelocity	40269.6
-Lysithea (moon)	escapeVelocity	79.2
-Mercury (planet)	escapeVelocity	15300.0
-Venus	escapeVelocity	37656.0
-433 Eros	escapeVelocity	37.08
-Jupiter	escapeVelocity	214200.0
-Europa (moon)	escapeVelocity	7290.0
-Callisto (moon)	escapeVelocity	8784.0
-Triton (moon)	escapeVelocity	5238.0
-Saturn	escapeVelocity	127800.0
-Uranus	escapeVelocity	76680.0
-Metis (moon)	escapeVelocity	43.2
-52 Europa	escapeVelocity	720.0
-4 Vesta	escapeVelocity	1260.0
-4179 Toutatis	escapeVelocity	6.84
-253 Mathilde	escapeVelocity	82.44
-16 Psyche	escapeVelocity	468.0
-Amalthea (moon)	escapeVelocity	208.8
-3753 Cruithne	escapeVelocity	9.36
-2 Pallas	escapeVelocity	1152.0
-Atlas (moon)	escapeVelocity	22.32
-588 Achilles	escapeVelocity	257.76
-Charon (moon)	escapeVelocity	2088.0
-Charon (moon)	escapeVelocity	1296.0
-Phobos (moon)	escapeVelocity	40.68
-Puck (moon)	escapeVelocity	248.4
-2060 Chiron	escapeVelocity	252.0
-Ganymede (moon)	escapeVelocity	9867.6
-Deimos (moon)	escapeVelocity	20.16
-Cordelia (moon)	escapeVelocity	61.2
-Ophelia (moon)	escapeVelocity	64.8
-Bianca (moon)	escapeVelocity	79.2
-Cressida (moon)	escapeVelocity	122.4
-Desdemona (moon)	escapeVelocity	97.2
-Juliet (moon)	escapeVelocity	144.0
-Rosalind (moon)	escapeVelocity	111.6
-Belinda (moon)	escapeVelocity	122.4
-Pan (moon)	escapeVelocity	21.6
-3 Juno	escapeVelocity	648.0
-Thebe (moon)	escapeVelocity	72000.0
-Leda (moon)	escapeVelocity	43.2
-Epimetheus (moon)	escapeVelocity	11.52
-Pandora (moon)	escapeVelocity	68.4
-5145 Pholus	escapeVelocity	352.8
-Hyperion (moon)	escapeVelocity	162000.0
-141 Lumen	escapeVelocity	216.0
-65 Cybele	escapeVelocity	451.8
-Elara (moon)	escapeVelocity	187.2
-Himalia (moon)	escapeVelocity	360.0
-Ananke (moon)	escapeVelocity	61.2
-Pasiphaë (moon)	escapeVelocity	129.6
-Sinope (moon)	escapeVelocity	82.8
-Enceladus (moon)	escapeVelocity	860.4
-24 Themis	escapeVelocity	313.2
-Phoebe (moon)	escapeVelocity	360.0
-Prometheus (moon)	escapeVelocity	68.4
-(143649) 2003 QQ47	escapeVelocity	2.52
-28978 Ixion	escapeVelocity	1562.4
-624 Hektor	escapeVelocity	468.0
-20000 Varuna	escapeVelocity	1404.0
-5 Astraea	escapeVelocity	223.2
-944 Hidalgo	escapeVelocity	39.6
-1620 Geographos	escapeVelocity	5.4
-2063 Bacchus	escapeVelocity	2.88
-90377 Sedna	escapeVelocity	2232.0
-2004 FH	escapeVelocity	57600.0
-Themisto (moon)	escapeVelocity	17.28
-Setebos (moon)	escapeVelocity	73.44
-21 Lutetia	escapeVelocity	216.0
-Portia (moon)	escapeVelocity	208.8
-Prospero (moon)	escapeVelocity	75.6
-1862 Apollo	escapeVelocity	3.24
-6 Hebe	escapeVelocity	468.0
-90 Antiope	escapeVelocity	126000.0
-90 Antiope  S/2000 90 1   1	escapeVelocity	126000.0
-139 Juewa	escapeVelocity	298.08
-2685 Masursky	escapeVelocity	32.4
-45 Eugenia	escapeVelocity	255.6
-1566 Icarus	escapeVelocity	0.0
-Petit-Prince (moon)	escapeVelocity	18.0
-1036 Ganymed	escapeVelocity	60.48
-3908 Nyx	escapeVelocity	1.8
-4183 Cuno	escapeVelocity	0.72
-Iocaste (moon)	escapeVelocity	11.0
-Ymir (moon)	escapeVelocity	31.32
-Stephano (moon)	escapeVelocity	46.8
-(4197) 1982 TA	escapeVelocity	3.24
-719 Albert	escapeVelocity	4.68
-25143 Itokawa	escapeVelocity	0.72
-6489 Golevka	escapeVelocity	1.08
-(66391) 1999 KW4	escapeVelocity	0.0
-51 Nemausa	escapeVelocity	281.52
-69230 Hermes	escapeVelocity	0.72
-2002 AA29	escapeVelocity	0.0
-2003 YN107	escapeVelocity	18000.0
-3200 Phaethon	escapeVelocity	9.72
-3552 Don Quixote	escapeVelocity	35.64
-2984 Chaucer	escapeVelocity	51.84
-2747 Český Krumlov	escapeVelocity	60.12
-2709 Sagan	escapeVelocity	38.52
-7 Iris	escapeVelocity	396.0
-288 Glauke	escapeVelocity	61.2
-323 Brucia	escapeVelocity	68.4
-2004 JG6	escapeVelocity	1.08
-11754 Herbig	escapeVelocity	9.36
-8 Flora	escapeVelocity	291.6
-9 Metis	escapeVelocity	396.0
-10 Hygiea	escapeVelocity	756.0
-11 Parthenope	escapeVelocity	338.76
-12 Victoria	escapeVelocity	214.56
-13 Egeria	escapeVelocity	395.28
-14 Irene	escapeVelocity	345.6
-17 Thetis	escapeVelocity	171.36
-15 Eunomia	escapeVelocity	576.0
-18 Melpomene	escapeVelocity	267.48
-19 Fortuna	escapeVelocity	428.4
-20 Massalia	escapeVelocity	334.8
-23 Thalia	escapeVelocity	204.48
-25 Phocaea	escapeVelocity	142.92
-26 Proserpina	escapeVelocity	181.08
-27 Euterpe	escapeVelocity	182.88
-28 Bellona	escapeVelocity	230.04
-29 Amphitrite	escapeVelocity	403.92
-30 Urania	escapeVelocity	190.44
-31 Euphrosyne	escapeVelocity	474.84
-32 Pomona	escapeVelocity	153.72
-33 Polyhymnia	escapeVelocity	93.6
-34 Circe	escapeVelocity	216.0
-35 Leukothea	escapeVelocity	196.2
-36 Atalante	escapeVelocity	200.88
-37 Fides	escapeVelocity	206.28
-38 Leda	escapeVelocity	220.68
-39 Laetitia	escapeVelocity	284.4
-40 Harmonia	escapeVelocity	204.84
-41 Daphne	escapeVelocity	331.2
-42 Isis	escapeVelocity	190.8
-43 Ariadne	escapeVelocity	122.4
-44 Nysa	escapeVelocity	134.28
-46 Hestia	escapeVelocity	236.16
-48 Doris	escapeVelocity	422.28
-47 Aglaja	escapeVelocity	241.56
-50 Virginia	escapeVelocity	189.72
-50 Virginia	escapeVelocity	190.0
-53 Kalypso	escapeVelocity	219.6
-54 Alexandra	escapeVelocity	315.72
-56 Melete	escapeVelocity	215.28
-55 Pandora	escapeVelocity	127.08
-57 Mnemosyne	escapeVelocity	214.2
-58 Concordia	escapeVelocity	177.84
-59 Elpis	escapeVelocity	313.56
-60 Echo	escapeVelocity	114.48
-61 Danaë	escapeVelocity	115.92
-62 Erato	escapeVelocity	181.44
-63 Ausonia	escapeVelocity	196.2
-66 Maja	escapeVelocity	138.6
-67 Asia	escapeVelocity	110.52
-68 Leto	escapeVelocity	233.28
-71 Niobe	escapeVelocity	158.76
-72 Feronia	escapeVelocity	163.8
-73 Klytia	escapeVelocity	84.6
-74 Galatea	escapeVelocity	226.08
-75 Eurydike	escapeVelocity	105.84
-76 Freia	escapeVelocity	349.56
-77 Frigga	escapeVelocity	131.76
-78 Diana	escapeVelocity	229.68
-79 Eurynome	escapeVelocity	126.72
-80 Sappho	escapeVelocity	149.04
-81 Terpsichore	escapeVelocity	226.8
-82 Alkmene	escapeVelocity	115.92
-83 Beatrix	escapeVelocity	154.8
-84 Klio	escapeVelocity	150.84
-86 Semele	escapeVelocity	229.68
-85 Io	escapeVelocity	252.0
-87 Sylvia	escapeVelocity	496.44
-88 Thisbe	escapeVelocity	381.96
-89 Julia	escapeVelocity	288.36
-91 Aegina	escapeVelocity	208.8
-92 Undina	escapeVelocity	240.48
-93 Minerva	escapeVelocity	268.2
-94 Aurora	escapeVelocity	389.88
-95 Arethusa	escapeVelocity	258.84
-96 Aegle	escapeVelocity	323.28
-98 Ianthe	escapeVelocity	198.72
-97 Klotho	escapeVelocity	157.68
-99 Dike	escapeVelocity	136.8
-100 Hekate	escapeVelocity	194.4
-101 Helena	escapeVelocity	125.28
-103 Hera	escapeVelocity	173.52
-104 Klymene	escapeVelocity	235.44
-105 Artemis	escapeVelocity	226.8
-106 Dione	escapeVelocity	279.0
-107 Camilla	escapeVelocity	21.6
-107 Camilla    1	escapeVelocity	360.0
-108 Hecuba	escapeVelocity	144.0
-109 Felicitas	escapeVelocity	170.28
-110 Lydia	escapeVelocity	163.8
-111 Ate	escapeVelocity	256.32
-112 Iphigenia	escapeVelocity	137.52
-113 Amalthea	escapeVelocity	87.84
-114 Kassandra	escapeVelocity	189.72
-115 Thyra	escapeVelocity	151.92
-116 Sirona	escapeVelocity	136.44
-117 Lomia	escapeVelocity	282.96
-118 Peitho	escapeVelocity	79.2
-119 Althaea	escapeVelocity	109.08
-120 Lachesis	escapeVelocity	331.2
-121 Hermione	escapeVelocity	21.6
-121 Hermione    1	escapeVelocity	270.0
-122 Gerda	escapeVelocity	155.52
-123 Brunhild	escapeVelocity	91.44
-124 Alkeste	escapeVelocity	145.44
-125 Liberatrix	escapeVelocity	83.16
-126 Velleda	escapeVelocity	85.32
-128 Nemesis	escapeVelocity	358.2
-129 Antigone	escapeVelocity	237.96
-130 Elektra	escapeVelocity	14.4
-130 Elektra    1	escapeVelocity	468.0
-131 Vala	escapeVelocity	77.04
-132 Aethra	escapeVelocity	82.8
-134 Sophrosyne	escapeVelocity	234.72
-133 Cyrene	escapeVelocity	126.72
-136 Austria	escapeVelocity	76.32
-137 Meliboea	escapeVelocity	276.84
-138 Tolosa	escapeVelocity	86.76
-140 Siwa	escapeVelocity	208.8
-2069 Hubble	escapeVelocity	65.52
-142 Polana	escapeVelocity	105.12
-143 Adria	escapeVelocity	171.0
-144 Vibilia	escapeVelocity	270.0
-146 Lucina	escapeVelocity	251.64
-147 Protogeneia	escapeVelocity	253.08
-Perdita (moon)	escapeVelocity	39.6
-145 Adeona	escapeVelocity	287.64
-148 Gallia	escapeVelocity	186.12
-149 Medusa	escapeVelocity	37.44
-153 Hilda	escapeVelocity	21.6
-160 Una	escapeVelocity	154.44
-159 Aemilia	escapeVelocity	198.0
-Cupid (moon)	escapeVelocity	27.36
-Mab (moon)	escapeVelocity	39.6
-Francisco (moon)	escapeVelocity	33.84
-181 Eucharis	escapeVelocity	201.6
-704 Interamnia	escapeVelocity	874.44
-2062 Aten	escapeVelocity	0.0
-(65407) 2002 RP120	escapeVelocity	27.36
-1221 Amor	escapeVelocity	0.0
-516 Amherstia	escapeVelocity	138.96
-Io (moon)	escapeVelocity	9208.8
-99942 Apophis	escapeVelocity	0.52
-2101 Adonis	escapeVelocity	1.08
-244 Sita	escapeVelocity	25.2
-258 Tyche	escapeVelocity	144.0
-281 Lucretia	escapeVelocity	25.2
-291 Alice	escapeVelocity	32.4
-292 Ludovica	escapeVelocity	72.0
-324 Bamberga	escapeVelocity	828.0
-333 Badenia	escapeVelocity	126.0
-341 California	escapeVelocity	32.4
-352 Gisela	escapeVelocity	36.0
-379 Huenna	escapeVelocity	133.92
-390 Alma	escapeVelocity	54.0
-399 Persephone	escapeVelocity	93.6
-10979 Fristephenson	escapeVelocity	7.56
-501 Urhixidur	escapeVelocity	147.24
-(148209) 2000 CR105	escapeVelocity	428.4
-36446 Cinodapistoia	escapeVelocity	5.76
-Haumea (dwarf planet)	escapeVelocity	3024.0
-(15874) 1996 TL66	escapeVelocity	1188.0
-1998 WW31	escapeVelocity	194.4
-(26375) 1999 DE9	escapeVelocity	961.2
-38083 Rhadamanthus	escapeVelocity	180.0
-38628 Huya	escapeVelocity	828.0
-(84719) 2002 VR128	escapeVelocity	606.96
-(47171) 1999 TC36	escapeVelocity	421.2
-(55565) 2002 AW197	escapeVelocity	1509.12
-2002 Euler	escapeVelocity	33.12
-(87269) 2000 OO67	escapeVelocity	54.0
-S/2000 (1998 WW31) 1	escapeVelocity	133.2
-(10302) 1989 ML	escapeVelocity	1.08
-475 Ocllo	escapeVelocity	59.04
-4349 Tibúrcio	escapeVelocity	49.68
-538 Friederike	escapeVelocity	115.2
-563 Suleika	escapeVelocity	101.52
-596 Scheila	escapeVelocity	216.0
-596 Scheila	escapeVelocity	270.0
-630 Euphemia	escapeVelocity	39.6
-741 Botolphia	escapeVelocity	56.16
-804 Hispania	escapeVelocity	467.64
-809 Lundia	escapeVelocity	10.8
-817 Annika	escapeVelocity	46.8
-854 Frostia	escapeVelocity	28.44
-867 Kovacia	escapeVelocity	39.6
-2138 Swissair	escapeVelocity	29.52
-1089 Tama	escapeVelocity	24.48
-1313 Berna	escapeVelocity	15.48
-3749 Balam	escapeVelocity	8.64
-2004 XR190	escapeVelocity	702.0
-3360 Syrinx	escapeVelocity	3.96
-(55637) 2002 UX25	escapeVelocity	1731.96
-1840 Hus	escapeVelocity	62774.075232
-7796 Járacimrman	escapeVelocity	12.6
-6188 Robertpepin	escapeVelocity	15.12
-(15788) 1993 SB	escapeVelocity	252.0
-1993 RO	escapeVelocity	180.0
-(48639) 1995 TL8	escapeVelocity	648.0
-(48639) 1995 TL8	escapeVelocity	288.0
-(84522) 2002 TC302	escapeVelocity	792.0
-7066 Nessus	escapeVelocity	100.8
-21751 Jennytaylor	escapeVelocity	5.76
-60558 Echeclus	escapeVelocity	133.2
-2006 HZ51	escapeVelocity	1.44
-1322 Coppernicus	escapeVelocity	15.48
-2202 Pele	escapeVelocity	1.8
-Linus (moon)	escapeVelocity	72.0
-Ceres (dwarf planet)	escapeVelocity	1836.0
-1002 Olbersia	escapeVelocity	61.2
-58534 Logos	escapeVelocity	107.64
-1999 Hirayama	escapeVelocity	64.8
-1997 Leverrier	escapeVelocity	12.96
-2007 McCuskey	escapeVelocity	41.76
-2177 Oliver	escapeVelocity	38.88
-(60608) 2000 EE173	escapeVelocity	159.84
-1993 RP	escapeVelocity	133.2
-2002 MS4	escapeVelocity	792.0
-118401 LINEAR	escapeVelocity	11.52
-1054 Forsytia	escapeVelocity	86.76
-(119070) 2001 KP77	escapeVelocity	216.0
-Romulus (moon)	escapeVelocity	25.2
-(119979) 2002 WC19	escapeVelocity	799.2
-Remus (moon)	escapeVelocity	14.4
-(12538) 1998 OH	escapeVelocity	5.76
-(20161) 1996 TR66	escapeVelocity	264.6
-(174567) 2003 MW12	escapeVelocity	1455.84
-(84922) 2003 VS2	escapeVelocity	1210.32
-(15875) 1996 TP66	escapeVelocity	666.0
-(119951) 2002 KX14	escapeVelocity	1103.76
-2001 QF298	escapeVelocity	961.2
-(15820) 1994 TB	escapeVelocity	317.88
-(19299) 1996 SZ4	escapeVelocity	192.24
-(20108) 1995 QZ9	escapeVelocity	220.68
-(144898) 2004 VD17	escapeVelocity	1.08
-(42301) 2001 UR163	escapeVelocity	1210.32
-(16684) 1994 JQ1	escapeVelocity	348.12
-(19255) 1994 VK8	escapeVelocity	333.0
-2003 QW90	escapeVelocity	1103.76
-(26181) 1996 GQ21	escapeVelocity	763.2
-(119068) 2001 KC77	escapeVelocity	382.68
-(118702) 2000 OM67	escapeVelocity	382.68
-(26308) 1998 SM165	escapeVelocity	452.88
-(119878) 2002 CY224	escapeVelocity	460.44
-(95625) 2002 GX32	escapeVelocity	291.24
-(118228) 1996 TQ66	escapeVelocity	317.88
-(33001) 1997 CU29	escapeVelocity	436.68
-(85627) 1998 HP151	escapeVelocity	584.28
-1097 Vicia	escapeVelocity	40.32
-1098 Hakone	escapeVelocity	47.16
-1099 Figneria	escapeVelocity	55.8
-1101 Clematis	escapeVelocity	72.0
-Geology of Mars	escapeVelocity	18097.2
-Mars	escapeVelocity	18097.2
-1404 Ajax	escapeVelocity	155.16
-1437 Diomedes	escapeVelocity	312.84
-1583 Antilochus	escapeVelocity	193.32
-1647 Menelaus	escapeVelocity	137.16
-1749 Telamon	escapeVelocity	154.44
-2260 Neoptolemus	escapeVelocity	136.44
-2456 Palamedes	escapeVelocity	174.6
-2759 Idomeneus	escapeVelocity	115.92
-2797 Teucer	escapeVelocity	211.32
-2920 Automedon	escapeVelocity	211.32
-3063 Makhaon	escapeVelocity	221.04
-3548 Eurybates	escapeVelocity	137.52
-3564 Talthybius	escapeVelocity	131.04
-3709 Polypoites	escapeVelocity	188.28
-2007 TU24	escapeVelocity	0.58
-(137108) 1999 AN10	escapeVelocity	2.8
-6619 Kolya	escapeVelocity	394.2883
-163693 Atira	escapeVelocity	1.8
-Neptune	escapeVelocity	84600.0
-951 Gaspra	escapeVelocity	21.6
-50000 Quaoar	escapeVelocity	1882.8
+Carme	escapeVelocity	~0.028 km/s
+Lysithea	escapeVelocity	~0.022 km/s
+Mercury	escapeVelocity	4.25
+433 Eros	escapeVelocity	0.0103
+Jupiter	escapeVelocity	59.5
+Callisto	escapeVelocity	2.44
+Uranus	escapeVelocity	21.3
+Saturn	escapeVelocity	35.5
+52 Europa	escapeVelocity	~0.2 km/s
+253 Mathilde	escapeVelocity	22.9
+4179 Toutatis	escapeVelocity	0.0019
+16 Psyche	escapeVelocity	~0.13 km/s
+2 Pallas	escapeVelocity	≈&thinsp;0.33 km/s
+Charon	escapeVelocity	0.37
+Phobos	escapeVelocity	11.39
+Puck	escapeVelocity	0.069
+Deimos	escapeVelocity	5.556
+Cordelia	escapeVelocity	~0.017 km/s
+Ophelia	escapeVelocity	~0.018 km/s
+Desdemona	escapeVelocity	~0.027 km/s
+Bianca	escapeVelocity	~0.022 km/s
+Cressida	escapeVelocity	~0.034 km/s
+Juliet	escapeVelocity	~0.040 km/s
+Belinda	escapeVelocity	~0.034 km/s
+Rosalind	escapeVelocity	~0.031 km/s
+Pan	escapeVelocity	≈&thinsp;0.006 km/s
+3 Juno	escapeVelocity	0.18
+Thebe	escapeVelocity	20
+Leda	escapeVelocity	~0.012 km/s
+Epimetheus	escapeVelocity	≈&thinsp;0.035 km/s
+Hyperion	escapeVelocity	45
+141 Lumen	escapeVelocity	~0.06 km/s
+65 Cybele	escapeVelocity	0.1255
+Pasiphae	escapeVelocity	~0.036 km/s
+Ananke	escapeVelocity	~0.017 km/s
+Himalia	escapeVelocity	~0.100 km/s
+Elara	escapeVelocity	~0.052 km/s
+Sinope	escapeVelocity	~0.023 km/s
+Enceladus	escapeVelocity	km/s
+Phoebe	escapeVelocity	≈&thinsp;0.10 km/s
+Prometheus	escapeVelocity	≈&thinsp;0.019 km/s
+	escapeVelocity	7.0E-4
+624 Hektor	escapeVelocity	~&thinsp;0.13 km/s
+5 Astraea	escapeVelocity	~0.062 km/s
+Churyumov–Gerasimenko	escapeVelocity	est.
+Setebos	escapeVelocity	~0.0204 km/s
+Portia	escapeVelocity	~0.058 km/s
+Prospero	escapeVelocity	~0.021 km/s
+6 Hebe	escapeVelocity	~0.13 km/s
+90 Antiope	escapeVelocity	variable; ~ 35−40 m/s
+139 Juewa	escapeVelocity	0.0828
+2685 Masursky	escapeVelocity	0.009
+45 Eugenia	escapeVelocity	0.071
+1566 Icarus	escapeVelocity	0
+Petit-Prince	escapeVelocity	~ 5 m/s
+3908 Nyx	escapeVelocity	5.0E-4
+Iocaste	escapeVelocity	11.0
+Ymir	escapeVelocity	8.7
+Stephano	escapeVelocity	~0.013 km/s
+719 Albert	escapeVelocity	~&thinsp;0.0013 km/s
+25143 Itokawa	escapeVelocity	~0.2 m/s
+6489 Golevka	escapeVelocity	3.0E-4
+	escapeVelocity	0
+51 Nemausa	escapeVelocity	0.0782
+2002 AA29	escapeVelocity	~0.000 032 km/s
+2003 YN107	escapeVelocity	~5&ndash;16×10−6 km/s
+288 Glauke	escapeVelocity	0.017
+323 Brucia	escapeVelocity	0.019
+	escapeVelocity	3.0E-4
+11754 Herbig	escapeVelocity	0.0026
+11 Parthenope	escapeVelocity	0.0941
+8 Flora	escapeVelocity	~0.081 km/s
+13 Egeria	escapeVelocity	≈0.1098 km/s
+9 Metis	escapeVelocity	~0.11 km/s
+14 Irene	escapeVelocity	0.096
+12 Victoria	escapeVelocity	0.0596
+17 Thetis	escapeVelocity	0.0476
+15 Eunomia	escapeVelocity	0.16
+18 Melpomene	escapeVelocity	~0.0743 km/s
+19 Fortuna	escapeVelocity	~0.1190 km/s
+20 Massalia	escapeVelocity	0.093
+23 Thalia	escapeVelocity	0.0568
+25 Phocaea	escapeVelocity	0.0397
+26 Proserpina	escapeVelocity	0.0503
+27 Euterpe	escapeVelocity	0.0508
+28 Bellona	escapeVelocity	0.0639
+29 Amphitrite	escapeVelocity	0.1122
+30 Urania	escapeVelocity	0.0529
+35 Leukothea	escapeVelocity	~0.0545 km/s
+36 Atalante	escapeVelocity	~0.0558 km/s
+34 Circe	escapeVelocity	~0.0600 km/s
+37 Fides	escapeVelocity	0.0573
+40 Harmonia	escapeVelocity	~0.0569 km/s
+38 Leda	escapeVelocity	0.0613
+39 Laetitia	escapeVelocity	~0.0790 km/s
+42 Isis	escapeVelocity	0.053
+43 Ariadne	escapeVelocity	~0.034 km/s
+44 Nysa	escapeVelocity	0.0373
+46 Hestia	escapeVelocity	0.0656
+47 Aglaja	escapeVelocity	0.0671
+48 Doris	escapeVelocity	0.1173
+53 Kalypso	escapeVelocity	0.061
+54 Alexandra	escapeVelocity	0.0877
+56 Melete	escapeVelocity	0.0598
+55 Pandora	escapeVelocity	0.0353
+57 Mnemosyne	escapeVelocity	0.0595
+58 Concordia	escapeVelocity	0.0494
+59 Elpis	escapeVelocity	0.0871
+60 Echo	escapeVelocity	0.0318
+63 Ausonia	escapeVelocity	0.0545
+62 Erato	escapeVelocity	0.0504
+61 Danaë	escapeVelocity	0.0322
+66 Maja	escapeVelocity	0.0385
+67 Asia	escapeVelocity	0.0307
+68 Leto	escapeVelocity	0.0648
+71 Niobe	escapeVelocity	0.0441
+73 Klytia	escapeVelocity	0.0235
+72 Feronia	escapeVelocity	0.0455
+74 Galatea	escapeVelocity	0.0628
+75 Eurydike	escapeVelocity	0.0294
+77 Frigga	escapeVelocity	0.0366
+76 Freia	escapeVelocity	0.0971
+78 Diana	escapeVelocity	0.0638
+79 Eurynome	escapeVelocity	0.0352
+80 Sappho	escapeVelocity	0.0414
+81 Terpsichore	escapeVelocity	0.063
+82 Alkmene	escapeVelocity	0.0322
+83 Beatrix	escapeVelocity	0.043
+84 Klio	escapeVelocity	0.0419
+86 Semele	escapeVelocity	0.0638
+85 Io	escapeVelocity	~&thinsp;0.07 km/s
+87 Sylvia	escapeVelocity	0.1379
+88 Thisbe	escapeVelocity	0.1061
+89 Julia	escapeVelocity	0.0801
+91 Aegina	escapeVelocity	0.058
+93 Minerva	escapeVelocity	8.035
+94 Aurora	escapeVelocity	0.1083
+95 Arethusa	escapeVelocity	0.0719
+98 Ianthe	escapeVelocity	0.0552
+99 Dike	escapeVelocity	~0.0380 km/s
+100 Hekate	escapeVelocity	~0.054 km/s
+96 Aegle	escapeVelocity	0.0898
+97 Klotho	escapeVelocity	0.0438
+101 Helena	escapeVelocity	0.0348
+104 Klymene	escapeVelocity	0.0654
+103 Hera	escapeVelocity	0.0482
+105 Artemis	escapeVelocity	0.063
+106 Dione	escapeVelocity	0.0775
+109 Felicitas	escapeVelocity	0.0473
+108 Hecuba	escapeVelocity	~0.040 km/s
+110 Lydia	escapeVelocity	0.0455
+113 Amalthea	escapeVelocity	0.0244
+116 Sirona	escapeVelocity	0.0379
+107 Camilla	escapeVelocity	0.1
+107 Camilla	escapeVelocity	~ 6 m/s
+114 Kassandra	escapeVelocity	0.0527
+115 Thyra	escapeVelocity	0.0422
+112 Iphigenia	escapeVelocity	0.0382
+111 Ate	escapeVelocity	0.0712
+117 Lomia	escapeVelocity	0.0786
+118 Peitho	escapeVelocity	0.022
+119 Althaea	escapeVelocity	0.0303
+120 Lachesis	escapeVelocity	0.092
+121 Hermione	escapeVelocity	0.075
+121 Hermione	escapeVelocity	~ 6 m/s
+122 Gerda	escapeVelocity	0.0432
+125 Liberatrix	escapeVelocity	0.0231
+124 Alkeste	escapeVelocity	0.0404
+123 Brunhild	escapeVelocity	0.0254
+126 Velleda	escapeVelocity	0.0237
+128 Nemesis	escapeVelocity	0.0995
+129 Antigone	escapeVelocity	0.0661
+131 Vala	escapeVelocity	0.0214
+130 Elektra	escapeVelocity	0.13
+130 Elektra	escapeVelocity	~ 4 m/s
+132 Aethra	escapeVelocity	0.023
+134 Sophrosyne	escapeVelocity	0.0652
+133 Cyrene	escapeVelocity	0.0352
+136 Austria	escapeVelocity	0.0212
+137 Meliboea	escapeVelocity	0.0769
+138 Tolosa	escapeVelocity	0.0241
+140 Siwa	escapeVelocity	0.058
+148 Gallia	escapeVelocity	0.0517
+147 Protogeneia	escapeVelocity	0.0703
+145 Adeona	escapeVelocity	0.0799
+Perdita	escapeVelocity	~0.011 km/s
+146 Lucina	escapeVelocity	0.0699
+144 Vibilia	escapeVelocity	0.075
+143 Adria	escapeVelocity	0.0475
+149 Medusa	escapeVelocity	0.0104
+153 Hilda	escapeVelocity	~ 6 m/s
+154 Bertha	escapeVelocity	0.0978
+155 Scylla	escapeVelocity	0.0262
+157 Dejanira	escapeVelocity	0.0101
+156 Xanthippe	escapeVelocity	0.064
+159 Aemilia	escapeVelocity	~0.055 km/s
+160 Una	escapeVelocity	0.0429
+164 Eva	escapeVelocity	4.857
+Cupid	escapeVelocity	~0.0076 km/s
+Mab	escapeVelocity	~0.011 km/s
+Francisco	escapeVelocity	~0.0094 km/s
+704 Interamnia	escapeVelocity	242.9
+2062 Aten	escapeVelocity	0
+1221 Amor	escapeVelocity	0
+516 Amherstia	escapeVelocity	0.0386
+Io	escapeVelocity	2.558
+99942 Apophis	escapeVelocity	~0.52 km/h
+244 Sita	escapeVelocity	~0.007 km/s
+292 Ludovica	escapeVelocity	~0.02 km/s
+281 Lucretia	escapeVelocity	~0.007 km/s
+291 Alice	escapeVelocity	~0.009 km/s
+324 Bamberga	escapeVelocity	0.11
+341 California	escapeVelocity	~0.009 km/s
+333 Badenia	escapeVelocity	~0.035 km/s
+352 Gisela	escapeVelocity	~0.01 km/s
+379 Huenna	escapeVelocity	0.0372
+390 Alma	escapeVelocity	~0.015 km/s
+399 Persephone	escapeVelocity	~0.0260 km/s
+10979 Fristephenson	escapeVelocity	0.0021
+501 Urhixidur	escapeVelocity	0.0409
+36446 Cinodapistoia	escapeVelocity	0.0016
+Haumea	escapeVelocity	0.91
+1998 WW31	escapeVelocity	0.054
+	escapeVelocity	0.117
+2002 Euler	escapeVelocity	0.0092
+2000	escapeVelocity	0.037
+475 Ocllo	escapeVelocity	0.0164
+513 Centesima	escapeVelocity	~
+538 Friederike	escapeVelocity	~0.032 km/s
+563 Suleika	escapeVelocity	~0.0282 km/s
+596 Scheila	escapeVelocity	60.0
+596 Scheila	escapeVelocity	75.0
+630 Euphemia	escapeVelocity	~0.011 km/s
+741 Botolphia	escapeVelocity	0.0156
+804 Hispania	escapeVelocity	~129.9m/s
+809 Lundia	escapeVelocity	0.003
+817 Annika	escapeVelocity	~0.013 km/s
+854 Frostia	escapeVelocity	0.0079
+867 Kovacia	escapeVelocity	~0.011 km/s
+1089 Tama	escapeVelocity	0.0068
+3360 Syrinx	escapeVelocity	~0.0011 km/s
+	escapeVelocity	0.227
+7796 Járacimrman	escapeVelocity	0.0035
+	escapeVelocity	~0.07 km/s
+21751 Jennytaylor	escapeVelocity	0.0016
+1322 Coppernicus	escapeVelocity	0.0043
+Linus	escapeVelocity	~20 m/s
+58534 Logos	escapeVelocity	0.0299
+Eris	escapeVelocity	±0.01 km/s
+1993 RP	escapeVelocity	0.037
+118401 LINEAR	escapeVelocity	s"^^
+1054 Forsytia	escapeVelocity	0.0241
+	escapeVelocity	0.06
+Romulus	escapeVelocity	~ 7 m/s
+Remus	escapeVelocity	~ 4 m/s
+	escapeVelocity	~0.0016 km/s
+	escapeVelocity	0.0883
+	escapeVelocity	0.0534
+	escapeVelocity	3.0E-4
+	escapeVelocity	0.0967
+	escapeVelocity	0.0925
+	escapeVelocity	0.1063
+	escapeVelocity	0.1279
+	escapeVelocity	0.0883
+	escapeVelocity	0.1213
+	escapeVelocity	0.1623
+1101 Clematis	escapeVelocity	0.02
+1099 Figneria	escapeVelocity	0.0155
+1097 Vicia	escapeVelocity	0.0112
+Mars	escapeVelocity	5.027
+1583 Antilochus	escapeVelocity	0.0537
+2456 Palamedes	escapeVelocity	0.0485
+2260 Neoptolemus	escapeVelocity	0.0379
+2759 Idomeneus	escapeVelocity	0.0322
+2920 Automedon	escapeVelocity	0.0587
+2797 Teucer	escapeVelocity	0.0587
+3063 Makhaon	escapeVelocity	0.0614
+3548 Eurybates	escapeVelocity	0.0382
+3564 Talthybius	escapeVelocity	0.0364
+2007 TU24	escapeVelocity	h"^^
+	escapeVelocity	~2.8 km/h
+	escapeVelocity	110
+Neptune	escapeVelocity	23.5
+951 Gaspra	escapeVelocity	~0.006 km/s
+50000 Quaoar	escapeVelocity	0.523
+Vanth	escapeVelocity	≈&thinsp;0.447 km/s
+Actaea	escapeVelocity	≈&thinsp;0.05 km/s
+	escapeVelocity	~
+	escapeVelocity	0.4846
+	escapeVelocity	0.0999
+	escapeVelocity	0.05116
+	escapeVelocity	~0.0004 km/s

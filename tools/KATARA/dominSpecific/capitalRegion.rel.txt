@@ -1,2 +1,3 @@
 Azores	capitalRegion	São Miguel Island
-Bragança District	capitalRegion	Alto Trás-os-Montes Subregion
+Madeira	capitalRegion	Madeira
+Bragança District	capitalRegion	Alto Trás-os-Montes

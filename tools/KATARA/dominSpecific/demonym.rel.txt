@@ -1,206 +1,237 @@
-Alabama	demonym	Alabamian
+Alabama	demonym	Adjectivals and demonyms for U.S. states
 Algeria	demonym	Algerian
-Andorra	demonym	Andorran
-Alaska	demonym	Alaskan
-Asia	demonym	Asian
+Andorra	demonym	List of Andorrans
+Alaska	demonym	List of demonyms for U.S. states
+Asia	demonym	Asian people
+Aruba	demonym	Culture of Aruba
 Angola	demonym	Angolan
-Aruba	demonym	Aruban
-Afghanistan	demonym	Afghan
+Afghanistan	demonym	Afghanref|Other terms that have been used as demonyms are Afghani and Afghanistani.|name=\
+Albania	demonym	Albanians
 Azerbaijan	demonym	Azerbaijani
-Albania	demonym	Albanian
-Antigua and Barbuda	demonym	Antiguan, Barbudan
+Antigua and Barbuda	demonym	Antiguan
+Antigua and Barbuda	demonym	Barbudan
 Anguilla	demonym	Anguillian
-Arkansas	demonym	Arkansan; Arkansawyer;Arkansawian
-Australian Capital Territory	demonym	Canberran
+Arkansas	demonym	Adjectivals and demonyms for U.S. states
 Belgium	demonym	Belgian
 Brazil	demonym	Brazilian
-The Bahamas	demonym	Bahamian
 Bulgaria	demonym	Bulgarian
-Barbados	demonym	Barbadian, Bajan (colloquial)
-Belarus	demonym	Belarusian
+The Bahamas	demonym	Demographics of the Bahamas
 Bangladesh	demonym	Bangladeshi
-Benin	demonym	Beninese; Beninois
-Belize	demonym	Belizean ( or ))
-Bermuda	demonym	Bermudian
+Barbados	demonym	Barbadians
+Benin	demonym	Beninese
+Belize	demonym	Belizeans
+Belarus	demonym	Belarusians
 Bolivia	demonym	Bolivian
-Botswana	demonym	Batswana
-Bosnia and Herzegovina	demonym	Bosnians, Herzegovinians
 Brunei	demonym	Bruneian
+Bermuda	demonym	Bermudian
+Burkina Faso	demonym	Burkinabé
+Burkina Faso	demonym	Burkinabè
+Burkina Faso	demonym	Burkinabe
 British Virgin Islands	demonym	Virgin Islander
-Burkina Faso	demonym	Burkinab\u00E9 (also Burkinab\u00E8 and Burkinabe)
-Basel	demonym	Basler
+Basel	demonym	,
 Colombia	demonym	Colombian
-Czech Republic	demonym	Czech
+Czechoslovakia	demonym	Czechoslovak
+Czech Republic	demonym	Czechs
+Comoros	demonym	Comorian
+Colorado	demonym	Coloradan/Coloradoan
+China	demonym	Chinese
 California	demonym	Californian
-People's Republic of China	demonym	Chinese
-Colorado	demonym	Coloradan
 Cameroon	demonym	Cameroonian
 Cayman Islands	demonym	Caymanian
-Central African Republic	demonym	Central African
+Central African Republic	demonym	Demographics of the Central African Republic
 Chad	demonym	Chadian
-Christmas Island	demonym	Christmas Islanders
 Chile	demonym	Chilean
-Cocos (Keeling) Islands	demonym	Cocossian (Cocos Islandian)
-Costa Rica	demonym	Costa Rican; Tico
-Croatia	demonym	Croat, Croatian
-Cyprus	demonym	Cypriot, Greek Cypriot, Turkish Cypriot
-Connecticut	demonym	Connecticuter, Nutmegger
+Christmas Island	demonym	Christmas Islander
+Costa Rica	demonym	Costa Rican people
+Costa Rica	demonym	Tico
+Croatia	demonym	Croatian
+Cyprus	demonym	Cypriot
+Connecticut	demonym	*                         Connecticuter \n*                         Connecticutian\n*
+Connecticut	demonym	Nutmegger
 Cook Islands	demonym	Cook Islander
 Delaware	demonym	Delawarean
-Dominican Republic	demonym	Dominican
-Europe	demonym	European
-England	demonym	English
-Ecuador	demonym	Ecuadorian
-Ecuador	demonym	Ecuadorean
-El Salvador	demonym	Salvadoran  , Central American
-Equatorial Guinea	demonym	Equatoguinean, Equatorial Guinean
-Finland	demonym	Finns, Finnish
-Fiji	demonym	Fiji Islander, Fijian
+Dominican Republic	demonym	People of the Dominican Republic
+Europe	demonym	Ethnic groups in Europe
+Ecuador	demonym	Ecuadorians
+European Union	demonym	Citizenship of the European Union
+El Salvador	demonym	Salvadorans
+Equatorial Guinea	demonym	Equatorial Guinean
+Equatorial Guinea	demonym	Equatoguinean
+Finland	demonym	Finns
+Fiji	demonym	Fijian
 French Polynesia	demonym	French Polynesian
 Federated States of Micronesia	demonym	Micronesian
-Germany	demonym	German
+Germany	demonym	Germans
 Guam	demonym	Guamanian
-Gabon	demonym	Gabonese, Gabonaise
+Gabon	demonym	Gabonese
+Gabon	demonym	Gabonaise
 Ghana	demonym	Ghanaian
-Greece	demonym	Greek (Officially: Hellenic)
-Greenland	demonym	Greenlander, Greenlandic
+Gaza Strip	demonym	Gazan
+Greece	demonym	Greek people
+Greenland	demonym	Greenlander
+Greenland	demonym	Greenlandic
 Guinea	demonym	Guinean
-Guinea-Bissau	demonym	Bissau-Guinean(s)
-Geneva	demonym	Genevois
-Hawaii	demonym	Hawaiian (see notes)
+Guinea-Bissau	demonym	Bissau-Guinean
+Hawaii	demonym	Hawaiian
 Hungary	demonym	Hungarian
-Honduras	demonym	Honduran, Catracho
-Haiti	demonym	Haitian
-Hong Kong	demonym	Hong Konger
-Iceland	demonym	Icelander, Icelandic
-India	demonym	Indian
-Italy	demonym	Italian
-Republic of Ireland	demonym	Irish
-Indonesia	demonym	Indonesian
+Honduras	demonym	Honduran
+Honduras	demonym	Catracho
+Haiti	demonym	Haitians
+Hong Kong	demonym	Hongkonger
+Hong Kong	demonym	Hong Kongese
+Iceland	demonym	Icelanders
+Italy	demonym	Italians
+Republic of Ireland	demonym	Irish people
+India	demonym	Indian people
+Indonesia	demonym	Demographics of Indonesia
 Idaho	demonym	Idahoan
-Iran	demonym	Iranian
-Isle of Man	demonym	Manx
+Iran	demonym	Iranian, Persian
+Isle of Man	demonym	Manx people
 Illinois	demonym	Illinoisan
-Japan	demonym	Japanese
-Jamaica	demonym	Jamaican
-Kazakhstan	demonym	Kazakh
+Japan	demonym	Japanese people
+Jamaica	demonym	Jamaican people
+Kazakhstan	demonym	Kazakhstani
 Kiribati	demonym	I-Kiribati
+Korea	demonym	Koreans
 Kansas	demonym	Kansan
 Kentucky	demonym	Kentuckian
+Kosovo	demonym	Kosovar, Kosovan
 Luxembourg	demonym	Luxembourgers
 Latvia	demonym	Latvian
-Lithuania	demonym	Lithuanian
-Libya	demonym	Libyan
-Laos	demonym	Laotian, Lao
-Lebanon	demonym	Lebanese
-Lesotho	demonym	Mosotho (singular), Basotho (plural)
+Libya	demonym	Demographics of Libya
+Lithuania	demonym	Lithuanians
+Laos	demonym	Lao people
+Lebanon	demonym	Lebanese people
+Lesotho	demonym	Mosotho
+Lesotho	demonym	Basotho
 Liberia	demonym	Liberian
-Politics of Libya	demonym	Libyan
-Liechtenstein	demonym	Liechtensteiner (male), Liechtensteinerin (female)
-Louisiana	demonym	Louisianian, Louisianais (French)
-Louisiana	demonym	Lwizyan\u00E9(\u00E8z) (Creole)
-Latin America	demonym	Latin American, American
-Lausanne	demonym	Les Lausannois
+Liechtenstein	demonym	Liechtensteiners
+Louisiana	demonym	Louisianian
+Latin America	demonym	Latin Americans
+Michigan	demonym	Michigander, Michiganian, Yooper
 Maryland	demonym	Marylander
-Michigan	demonym	Michigander
-Michigan	demonym	Michiganian
-Madagascar	demonym	Malagasy
+Madagascar	demonym	Malagasy people
+Macau	demonym	Macanese people
 Malawi	demonym	Malawian
-Maldives	demonym	Maldivian
 Mali	demonym	Malian
-Malta	demonym	Maltese
-Martinique	demonym	Martinican (Martiniquais in French)
+Marshall Islands	demonym	Marshallese
+Maldives	demonym	Maldivian
+Malta	demonym	Maltese people
 Mauritius	demonym	Mauritian
-Mayotte	demonym	Mahoran
-Monaco	demonym	Mon\u00E9gasque or Monegasque
-Moldova	demonym	Moldovan, Moldavian
+Moldova	demonym	Moldovans
+Mongolia	demonym	Mongol
 Mongolia	demonym	Mongolian
-Morocco	demonym	Moroccan
+Montserrat	demonym	Montserratian
+Monaco	demonym	Monégasque
+Monaco	demonym	Monacan
+Morocco	demonym	Moroccan people
 Mozambique	demonym	Mozambican
-Burma	demonym	Burmese/Myanma
-Minnesota	demonym	Minnesotan
+Myanmar	demonym	Burmese/Myanma
 Missouri	demonym	Missourian
+Minnesota	demonym	Minnesotan
 Maine	demonym	Mainer
 Montana	demonym	Montanan
 Montenegro	demonym	Montenegrin
 New Hampshire	demonym	Granite Stater, New Hampshirite
-North America	demonym	North American, American
+North America	demonym	North American
 Netherlands	demonym	Dutch
 Nevada	demonym	Nevadan
 Niue	demonym	Niuean
-North Korea	demonym	North Korean, Korean
-Norway	demonym	Norwegian
+Norway	demonym	Norwegians
+Norway	demonym	(Norwegian: Nordmann)
+North Korea	demonym	Demographics of North Korea
+North Korea	demonym	Koreans
 Namibia	demonym	Namibian
 Nauru	demonym	Nauruan
+New Caledonia	demonym	New Caledonian
 Netherlands Antilles	demonym	Netherlands Antillean
-Nicaragua	demonym	Nicaraguan
-Niger	demonym	Nigerien
-Nigeria	demonym	Nigerian
+Nicaragua	demonym	Nicaraguans
+Niger	demonym	Nigerien  (or)
+Nigeria	demonym	Nigerian people
+Northern Mariana Islands	demonym	Northern Mariana Islander
+Northern Mariana Islands	demonym	Chamorro
+Norfolk Island	demonym	Norfolk Islander
 Nevis	demonym	Nevisian
-Northern Territory	demonym	Territorian
 Nebraska	demonym	Nebraskan
-New Mexico	demonym	New Mexican
 North Dakota	demonym	North Dakotan
-New South Wales	demonym	New South Welshmen
-North Carolina	demonym	North Carolinian;
-North Carolina	demonym	Tar Heel (colloq.)
-New Jersey	demonym	New Jerseyan, New Jerseyite
-Ohio	demonym	Ohioan; Buckeye (colloq.)
-Oman	demonym	Omani
-Oklahoma	demonym	Oklahoman; Okie (colloq.)
+New Mexico	demonym	New Mexican
+New Jersey	demonym	New Jerseyan , New Jerseyite
+North Carolina	demonym	North Carolinian ;
+North Carolina	demonym	Tar Heel
+Ohio	demonym	Ohioan; Buckeye
+Oman	demonym	Omani people
+Oklahoma	demonym	Oklahoman; Okie
+Oceania	demonym	Oceanian
 Organization of American States	demonym	American
-Papua New Guinea	demonym	Papua New Guinean
-Poland	demonym	Pole/Polish
-Panama	demonym	Panamanian
+Papua New Guinea	demonym	Papuan people
+Poland	demonym	List of Polish people
+Poland	demonym	Poles
+Poland	demonym	Polak
+Panama	demonym	Panamanians
 Puerto Rico	demonym	Puerto Rican
+Puerto Rico	demonym	Boricua
 Portugal	demonym	Portuguese
 Pakistan	demonym	Pakistani
 Pennsylvania	demonym	Pennsylvanian
 Palau	demonym	Palauan
 Paraguay	demonym	Paraguayan
-Philippines	demonym	Filipino/Filipina
+Philippines	demonym	Filipinos
+Philippines	demonym	Pinoy (colloquial masculine)Pinay (colloquial feminine)
+Philippines	demonym	Philippine (English)
+Pitcairn Islands	demonym	Pitcairn Islanders
+Russia	demonym	Russians
 Rhode Island	demonym	Rhode Islander
-Russia	demonym	Russian
-Romania	demonym	Romanian
-Rwanda	demonym	Rwandan, Rwandese
-Republic of China	demonym	Taiwanese or Chinese or both
-Spain	demonym	Spanish, Spaniard
-South Australia	demonym	South Australian
+Romania	demonym	Romanians
+Rwanda	demonym	Rwandan
+Rwanda	demonym	Rwandese
+Taiwan	demonym	Taiwanese people
+Spain	demonym	Spanish people
+Scandinavia	demonym	Scandinavian people
 South Dakota	demonym	South Dakotan
 Sri Lanka	demonym	Sri Lankan
-Switzerland	demonym	Swiss
-South America	demonym	South American, American
-Soviet Union	demonym	Soviet
+South America	demonym	South American
+Switzerland	demonym	,
+Soviet Union	demonym	Soviet people
+Soviet Union	demonym	Russians
 Suriname	demonym	Surinamese
-Slovakia	demonym	Slovak
-Saint Helena	demonym	Saint Helenian\u2020
-Scotland	demonym	Scots, Scottish3
-South Korea	demonym	South Korean, Korean
-Saint Kitts and Nevis	demonym	Kittitian (or, Alternatively, Kittian), Nevisian
+Slovakia	demonym	Slovaks
+Saint Helena	demonym	Saint Heleniana
+South Korea	demonym	Demographics of South Korea
+South Korea	demonym	Koreans
 Saint Lucia	demonym	Saint Lucian
-Saint Vincent and the Grenadines	demonym	Vincentian
-Samoa	demonym	Samoan
-San Marino	demonym	Sammarinese
+Saint Kitts and Nevis	demonym	Kittitian or Nevisian
+Saint Vincent and the Grenadines	demonym	Vincentian, Vincy
+Samoa	demonym	Samoans
+Saint Pierre and Miquelon	demonym	Saint-Pierrais
+Saint Pierre and Miquelon	demonym	Miquelonnais
+San Marino	demonym	Sammarinese people
 Senegal	demonym	Senegalese
-Seychelles	demonym	Seychellois, Seychelloise, Seselwa (Creole)
+Seychelles	demonym	Seychellois
+Seychelles	demonym	Seychelloise
+Seychelles	demonym	Seselwa
 Sierra Leone	demonym	Sierra Leonean
 Singapore	demonym	Singaporean
-Slovenia	demonym	Slovenian, Slovene
-Somalia	demonym	Somali; Somalian
-Sudan	demonym	Sudanese
+Somalia	demonym	Somali
+Slovenia	demonym	Slovenes
+South Georgia and the South Sandwich Islands	demonym	South Georgian
+South Georgia and the South Sandwich Islands	demonym	South Sandwich Islander
+Sudan	demonym	Sudanese Arabs
 Swaziland	demonym	Swazi
-Savoy	demonym	Savoyan (formal), Savoyard (informal)
+Special administrative regions of China	demonym	Chinese
+Savoy	demonym	Savoyard , Savoisian , Savoyan
 South Carolina	demonym	South Carolinian
-Serbia	demonym	Serbian
+Principality of Sealand	demonym	Sealander, Sealandic
+Serbia	demonym	Serbians
 Texas	demonym	Texan
-Texas	demonym	Texian (archaic)
-Americas	demonym	American
-Tasmania	demonym	Tasmanian
+Texas	demonym	Texian
+Texas	demonym	Tejano
+Americas	demonym	American, New Worlder, and Pan-American are used
 Tajikistan	demonym	Tajikistani
 Tanzania	demonym	Tanzanian
-Thailand	demonym	Thai
-Togo	demonym	Togolese
+Thailand	demonym	Demographics of Thailand
+Thailand	demonym	Thai people
 Tokelau	demonym	Tokelauan
+Togo	demonym	Togolese
 Tonga	demonym	Tongan
 Tunisia	demonym	Tunisian
 Turks and Caicos Islands	demonym	Turks and Caicos Islander
@@ -208,330 +239,412 @@ Tuvalu	demonym	Tuvaluan
 Tennessee	demonym	Tennessean
 Tristan da Cunha	demonym	Tristanian
 Utah	demonym	Utahn or Utahan
-United Kingdom	demonym	British or Briton
-Ukraine	demonym	Ukrainian
-Uganda	demonym	Ugandan
-Uruguay	demonym	Uruguayan
-Uzbekistan	demonym	Uzbekistani; also Uzbek
-United States Virgin Islands	demonym	US Virgin Islander
-United States Minor Outlying Islands	demonym	American, Islander
+United Kingdom	demonym	British people
+United Kingdom	demonym	Briton
+Ukraine	demonym	Ukrainians
+Uruguay	demonym	Uruguayan people
+Uzbekistan	demonym	Uzbekistani
+United States Minor Outlying Islands	demonym	American
+United States Minor Outlying Islands	demonym	Islander
+United States Virgin Islands	demonym	Virgin Islander
 Venezuela	demonym	Venezuelan
-Vanuatu	demonym	Ni-Vanuatu; Vanuatuan
+Vanuatu	demonym	Ni-Vanuatu
 Virginia	demonym	Virginian
 Vermont	demonym	Vermonter
-West Virginia	demonym	West Virginian
-Wisconsin	demonym	Wisconsinite
-Wallis and Futuna	demonym	Wallisian, Futunan
-Western Sahara	demonym	Western Saharan
-Western Australia	demonym	Western Australian, West Australian, Sandgroper (colloquial)
+West Virginia	demonym	List of U.S. state residents names
+Wallis and Futuna	demonym	Wallisian
+Wallis and Futuna	demonym	Futunan
+Wisconsin	demonym	List of U.S. state residents names
 Wyoming	demonym	Wyomingite
 Zimbabwe	demonym	Zimbabwean
+Zanzibar	demonym	Zanzibari
 Zambia	demonym	Zambian
-Dalmatia	demonym	Dalmatian(s)
-Georgia (country)	demonym	Georgian
-Georgia (U.S. state)	demonym	Georgian
-Bern	demonym	Berner
-Easter Island	demonym	Rapa Nui or Pascuense
-Caribbean Community	demonym	Caribbean, West Indian
-Côte d'Ivoire	demonym	Ivorian/Ivoirian
-Queensland	demonym	Queenslander
-Sahrawi Arab Democratic Republic	demonym	Sahrawi
-Curaçao	demonym	Cura\u00E7aoan
+Arabian Peninsula	demonym	Ethnic groups in West Asia
+Georgia	demonym	Georgian
+Georgia	demonym	Georgian
+Bern	demonym	, ,
+Somaliland	demonym	Demographics of Somalia
+Arab League	demonym	Arabs
+Linz	demonym	Linzer
+Ivory Coast	demonym	Ivorian
+Ivory Coast	demonym	Ivoirian
+Curaçao	demonym	Antillian, West indies, Afro-latino Curaçaoan
+Curaçao	demonym	Dutch people
 The Gambia	demonym	Gambian
 United Arab Emirates	demonym	Emirati
-Wales	demonym	Welsh (Cymry)
+United Arab Emirates	demonym	Emirian
+United Arab Emirates	demonym	Emirati people
 Democratic Republic of the Congo	demonym	Congolese
-Denmark	demonym	Danish or Dane(s)
-Carriacou and Petite Martinique	demonym	Carriacouan, Petit Martiniquian
-ASEAN	demonym	Southeast Asian
-Mount Athos	demonym	Athonite (), Hagiorite ()
-Pune	demonym	Punekar
-Kyrgyzstan	demonym	Kyrgyz
-Kyrgyzstan	demonym	Kyrgyzstani
+Denmark	demonym	Danes
+Palestinian territories	demonym	Palestinian people
+Palestinian territories	demonym	Israeli settlers
+Kingdom of Tavolara	demonym	Tavolaran
+Carriacou and Petite Martinique	demonym	Carriacouan
+Carriacou and Petite Martinique	demonym	Petit Martiniquian
+Free Territory of Trieste	demonym	Triestine
+United Kingdom of Great Britain and Ireland	demonym	British people
+Mount Athos	demonym	Athonite
+Mount Athos	demonym	Agiorite
+Principality of Hutt River	demonym	Hutt Riverian
+Fribourg	demonym	,
+Kyrgyzstan	demonym	Kyrgyz people
 Peru	demonym	Peruvian
-Nepal	demonym	Nepali
-Ethiopia	demonym	Ethiopian
-Kenya	demonym	Kenyan
+Nepal	demonym	Demographics of Nepal
+Ethiopia	demonym	Demographics of Ethiopia
+Kenya	demonym	Demographics of Kenya
 Turkmenistan	demonym	Turkmen
 Vietnam	demonym	Vietnamese
+British Overseas Territories	demonym	British, Briton
+West Indies Federation	demonym	West Indian
+Puntland	demonym	Demographics of Somalia
+State of Palestine	demonym	Palestinian
+Jefferson	demonym	Jeffersonian
 Solomon Islands	demonym	Solomon Islander
 Northern Cyprus	demonym	Turkish Cypriot
 Renens	demonym	Les Renanais
-Buganda	demonym	Baganda
-Bangsamoro	demonym	Moro
-Cambodia	demonym	Khmer
-Saudi Arabia	demonym	Saudi Arabian, Saudi (informal)
-Yemen	demonym	Yemeni, Yemenite
-Karakalpakstan	demonym	Karakalpak
+Rotuma	demonym	Rotuman
+Cambodia	demonym	Cambodian
+Saudi Arabia	demonym	Saudi Arabian people
+Saudi Arabia	demonym	Saudi
+Yemen	demonym	Demographics of Yemen
+Karakalpakstan	demonym	Karakalpak people
+Herzegovina-Neretva Canton	demonym	Herzegovnian-Neretvanian
+Prussia	demonym	Prussian
+Transnistria	demonym	Transnistrian, Pridnestrovian
 South Asian Association for Regional Cooperation	demonym	South Asian
-Aigle	demonym	Les Aiglons
-Anglo-America	demonym	Anglo-American, American
+Posavina Canton	demonym	Posavinian
+Bienne	demonym	,
+Territories of the United States	demonym	American
+Anglo-America	demonym	Anglo-Americans
 Corbeyrier	demonym	Les Robaleux
+Gryon	demonym	Les Tachis
+Rennaz	demonym	Renard
 Lavey-Morcles	demonym	Lavey:Roccans
 Lavey-Morcles	demonym	Morcles:Morclans
-Gryon	demonym	Les Tachis
-Leysin	demonym	Leysenouds
 Noville, Switzerland	demonym	Les Novillois
-Ormont-Dessous	demonym	Les Ormonans
+Leysin	demonym	Leysenouds
 Ormont-Dessus	demonym	Les Ormonans
-Rennaz	demonym	Renard
+Ormont-Dessous	demonym	Les Ormonans
 Villeneuve, Vaud	demonym	Les Villeneuvois
-Apples, Vaud	demonym	Les Caque \u00E0 part
-Apples, Vaud	demonym	L\u00E8 Caca-pai
+French Somaliland	demonym	Somali
+French Somaliland	demonym	French Somali
+Apples, Vaud	demonym	Les Caque à part
+Apples, Vaud	demonym	Lè Caca-pai
 Aubonne	demonym	Les Aubonnois
 Torres Strait Islands	demonym	Torres Strait Islander
 Pompaples	demonym	Les Pompaplois
 Chexbres	demonym	Les Chexbriens
-Cully, Switzerland	demonym	Les Culli\u00E9rans
+Cully, Switzerland	demonym	Les Culliérans
 Grandvaux	demonym	Les Grandvaliens
 Forel, Vaud	demonym	Les Forellois
 Lutry	demonym	Les Lutryens/Nickname: \
 Savigny, Switzerland	demonym	Savignolans
 Saint-Saphorin	demonym	Les Saint-Saphoriens
-Villette, Vaud	demonym	L\u00E8 z'Aragne
-Lully, Vaud	demonym	Les Lulli\u00E9rans
-Darfur	demonym	Darfuri
+Villette, Vaud	demonym	Lè z'Aragne
+Lully, Vaud	demonym	Les Lulliérans
+Darfur	demonym	Darfuri and Darfurese
+Economic Cooperation Organization	demonym	Eurasian
 Martigny	demonym	Les Martignerains
-Iraqi Kurdistan	demonym	Iraqi, Iraqi Kurds
-Bunyoro	demonym	Bunyoro or Banyoro
-Oleyres	demonym	Les renards
+Iraqi Kurdistan	demonym	Kurdish People
+Iraqi Kurdistan	demonym	Kurdistanî
+Basque Country	demonym	Basque
+Una-Sana Canton	demonym	Una-Sanian
+West Herzegovina Canton	demonym	West Herzegovinian
+Central Bosnia Canton	demonym	Central Bosnian
+Empire of Atlantium	demonym	Atlantian
+Bunyoro	demonym	Bunyoro sub-region
 Cudrefin	demonym	Les Cudrefinois
+Oleyres	demonym	Les renards
 Vallamand	demonym	Les Vallamandais
+Akrotiri and Dhekelia	demonym	Akrotic-Dhecelic
 East African Community	demonym	East African
-North Sentinel Island	demonym	Sentinel Islander
+Union of South American Nations	demonym	South American
 Principality of Wales	demonym	Welsh, Cymreig
 Saubraz	demonym	Les Saubrians
 Montherod	demonym	Les Montherolis
 Grandson, Switzerland	demonym	Les Gransonnois
 Grandson, Switzerland	demonym	Les Bocans
-Corsier-sur-Vevey	demonym	Corsi\u00E9rans
+Corsier-sur-Vevey	demonym	Corsiérans
+Principality of Freedonia	demonym	Freedonian
+Oron, Vaud	demonym	Oronais, Oronaises
 Chevilly, Switzerland	demonym	Les Fouette grenouilles
-Massachusetts	demonym	Bay Stater
-Trélex	demonym	Les Tr\u00E9l\u00E9siens
-Payerne	demonym	Les Payernois
+Massachusetts	demonym	Bay Stater  Massachusite  \nMassachusettsian
+Trélex	demonym	Les Trélésiens
 Moudon	demonym	Les Moudonnois
 Moudon	demonym	Les Mange-plumes
-Moudon	demonym	Les Tra\u00EEne-bailli
+Moudon	demonym	Les Traîne-bailli
+Payerne	demonym	Les Payernois
 Treytorrens	demonym	Les Treytorranais
 Villars-Burquin	demonym	Les Roitelets
 Villars-le-Grand	demonym	Les Cigognes
-Aire-la-Ville	demonym	A\u00E9riens
+Aire-la-Ville	demonym	Aériens
 Cremin	demonym	Les Creminois
-Cologny	demonym	Colognotes (French)
+Wallis	demonym	Wallisian
+Cologny	demonym	Colognotes
 Coinsins	demonym	Les Coinsinnois
 Lens, Switzerland	demonym	Les Lensards
-Bernex, Switzerland	demonym	Bern\u00E9sien
-Arab Maghreb Union	demonym	Maghrebi
-Champagne, Switzerland	demonym	L\u00E8 z'Aragne
+Bernex, Switzerland	demonym	Bernésien
+Arab Maghreb Union	demonym	Maghrebis
+Champagne, Switzerland	demonym	Lè z'Aragne
 Champagne, Switzerland	demonym	Les Champagnoux
+How to Start Your Own Country	demonym	Lovelian
 Bhutan	demonym	Bhutanese
 Orvin	demonym	Orvinois
+Republic of Spanish Haiti	demonym	Dominican
 Monthey	demonym	Les Montheysans
-Cottens, Vaud	demonym	L\u00E8 Cot\u00E9ru
+Cottens, Vaud	demonym	Lè Cotéru
 Maracon	demonym	Les Maraconais
-Maracon	demonym	L\u00E8 Bourata-caion
+Maracon	demonym	Lè Bourata-caion
 Crans-près-Céligny	demonym	Les Corbeaux
 Oron-la-Ville	demonym	Oronais, Oronaises
-Juriens	demonym	L\u00E8 Lema\u00E7on
-Châtillens	demonym	Les Ch\u00E2tillannais
-Châtillens	demonym	L\u00E8 Tsatra-Tsin
-United States	demonym	American
+Juriens	demonym	Lè Lemaçon
+Châtillens	demonym	Les Châtillannais
+Châtillens	demonym	Lè Tsatra-Tsin
+United States	demonym	Americans
 Bofflens	demonym	Les Bocanis
-Bofflens	demonym	L\u00E8 Z'Ozi
-Trinidad and Tobago	demonym	Trinidadian, Tobagonian
+Bofflens	demonym	Lè Z'Ozi
+Trinidad and Tobago	demonym	Trinidadian
+Trinidad and Tobago	demonym	Trini
+Trinidad and Tobago	demonym	Trinbagonian
 Founex	demonym	Les Founachus
-Malaysia	demonym	Malaysian
+Malaysia	demonym	Malaysians
 Bettens	demonym	Les Grands-Pantets
 Bettens	demonym	Les Rufians
 Bournens	demonym	Les Argans
 Cuarnens	demonym	Les Cuarnenais
 Cuarnens	demonym	Les Cornichons
-Cuarnens	demonym	L\u00E8 Racene
-Montricher	demonym	Les Mont\u00E9lets
+Cuarnens	demonym	Lè Racene
+Montricher	demonym	Les Montélets
 Vufflens-la-Ville	demonym	Les Vufflanais
-Vufflens-la-Ville	demonym	L\u00E8 Pa\u00EE-rodzo
-Bullet, Switzerland	demonym	Les Bullatons
-Bullet, Switzerland	demonym	L\u00E8 Pi-Bot
+Vufflens-la-Ville	demonym	Lè Paî-rodzo
 Concise	demonym	Les Concisois
 Concise	demonym	Les Rebibes
-Corcelles-près-Concise	demonym	Les Corcellois
-Corcelles-près-Concise	demonym	Les Casse-\u00E9cuelles
-Corcelles-près-Concise	demonym	Les Couennati
-Fontaines-sur-Grandson	demonym	L\u00E8 z'Affam\u00E2
-Fontanezier	demonym	L\u00E8 Motsett\u00EE
-Mauborget	demonym	L\u00E8 Tsayou
+Fontaines-sur-Grandson	demonym	Lè z'Affamâ
+Mauborget	demonym	Lè Tsayou
 Mauborget	demonym	Les Grillons
+Fontanezier	demonym	Lè Motsettî
 Mutrux	demonym	Les Chats borgnes
-Novalles	demonym	L\u00E8 Tsa
-Onnens	demonym	Les B\u00E2veux
-Blonay	demonym	Les Blonaysans
-Blonay	demonym	Les Tire-Troncs
-Blonay	demonym	L\u00E8 Moutso
-Chardonne	demonym	Les Chardonnerets
-Chardonne	demonym	L\u00E8 Tserdignolet
-Corseaux	demonym	Les Corsalins
-Corseaux	demonym	L\u00E8 Corsacu
-La Tour-de-Peilz	demonym	Les Bo\u00E9lands
-La Tour-de-Peilz	demonym	L\u00E8 Verra
-Saint-Légier-La Chiésaz	demonym	Les Saint-L\u00E9gerins
-Saint-Légier-La Chiésaz	demonym	L\u00E8 Tyalo
-Bussigny-sur-Oron	demonym	Les Cabris
+Corcelles-près-Concise	demonym	Les Corcellois
+Corcelles-près-Concise	demonym	Les Casse-écuelles
+Corcelles-près-Concise	demonym	Les Couennati
+Novalles	demonym	Lè Tsa
+Onnens	demonym	Les Bâveux
+Bullet, Switzerland	demonym	Les Bullatons
+Bullet, Switzerland	demonym	Lè Pi-Bot
+Écoteaux	demonym	Les Escotaliens
+Écoteaux	demonym	Les Crapauds
+Corcelles-le-Jorat	demonym	Les Corçallins
+Corcelles-le-Jorat	demonym	Lè Grante-Coraille
 Chesalles-sur-Oron	demonym	Les Groseilles
 Carrouge	demonym	Les Carrougeois
 Carrouge	demonym	Les Choupions
-Corcelles-le-Jorat	demonym	Les Cor\u00E7allins
-Corcelles-le-Jorat	demonym	L\u00E8 Grante-Coraille
-Ecoteaux	demonym	Les Escotaliens
-Ecoteaux	demonym	Les Crapauds
+Corseaux	demonym	Les Corsalins
+Corseaux	demonym	Lè Corsacu
+Blonay	demonym	Les Blonaysans
+Blonay	demonym	Les Tire-Troncs
+Blonay	demonym	Lè Moutso
+Chardonne	demonym	Les Chardonnerets
+Chardonne	demonym	Lè Tserdignolet
+La Tour-de-Peilz	demonym	Les Boélands
+La Tour-de-Peilz	demonym	Lè Verra
+Bussigny-sur-Oron	demonym	Les Cabris
+Saint-Légier-La Chiésaz	demonym	Les Saint-Légerins
+Saint-Légier-La Chiésaz	demonym	Lè Tyalo
 Essertes	demonym	Les Coucous
+Les Tavernes	demonym	Lè Djanmâ
 Ferlens	demonym	Les Ferlanais
-Ferlens	demonym	L\u00E8 z'Etserpen\u00E2
-Les Tavernes	demonym	L\u00E8 Djanm\u00E2
-Les Thioleyres	demonym	Les Thiol\u00E9rus
+Ferlens	demonym	Lè z'Etserpenâ
 Les Cullayes	demonym	Les Cullatis
-Les Cullayes	demonym	L\u00E8 Rondze-Bourri
+Les Cullayes	demonym	Lè Rondze-Bourri
+Les Thioleyres	demonym	Les Thiolérus
 Oron-le-Châtel	demonym	Les Tournesols
-Montpreveyres	demonym	Les Rossignolets
-Palézieux	demonym	Les Pal\u00E9ziens
+Peney-le-Jorat	demonym	Les Penatzets
+Peney-le-Jorat	demonym	Les Tavans
+Vuibroye	demonym	Les Châtre-truies
+Palézieux	demonym	Les Paléziens
 Palézieux	demonym	Les Boudins
 Servion	demonym	Les Servionnais
 Servion	demonym	Les Anes
-Peney-le-Jorat	demonym	Les Penatzets
-Peney-le-Jorat	demonym	Les Tavans
-Vuibroye	demonym	Les Ch\u00E2tre-truies
+Montpreveyres	demonym	Les Rossignolets
 Ballaigues	demonym	Les Ballaiguis
 Ballaigues	demonym	Les Anes
-Bretonnières	demonym	L\u00E8 Caque-lentelye
-Baulmes	demonym	Les Baulm\u00E9rans
-Baulmes	demonym	L\u00E8 Rebata-tsaud\u00E8re
+Bretonnières	demonym	Lè Caque-lentelye
 Bavois	demonym	Les Bavoisans
 Bavois	demonym	Les Agasses
-Corcelles-sur-Chavornay	demonym	Les Hirondelles
-La Praz	demonym	Les Pratoux
-La Praz	demonym	L\u00E8 Grezale
-L'Abergement	demonym	Les Loups
-Les Clées	demonym	Les Bourdons
-Les Clées	demonym	Les Moustiques
-Lignerolle	demonym	Les Lignerollois
-Lignerolle	demonym	Les B\u0153ufs
-Premier, Switzerland	demonym	Les Promiolians
-Premier, Switzerland	demonym	L\u00E8 Ricllia-laitia
+Baulmes	demonym	Les Baulmérans
+Baulmes	demonym	Lè Rebata-tsaudère
 Rances	demonym	Les Ransignolets
+La Praz	demonym	Les Pratoux
+La Praz	demonym	Lè Grezale
+L'Abergement	demonym	Les Loups
+Lignerolle	demonym	Les Lignerollois
+Lignerolle	demonym	Les Bœufs
+Corcelles-sur-Chavornay	demonym	Les Hirondelles
 Valeyres-sous-Rances	demonym	Les Valeyriens
 Valeyres-sous-Rances	demonym	Les Renards
 Valeyres-sous-Rances	demonym	Les Hirondelles
+Premier, Switzerland	demonym	Les Promiolians
+Premier, Switzerland	demonym	Lè Ricllia-laitia
+Les Clées	demonym	Les Bourdons
+Les Clées	demonym	Les Moustiques
+Vaulion	demonym	Les Vaulienis
+Vaulion	demonym	Lè Foueta-Lîvra
 Vallorbe	demonym	Les Vallorbiers
 Vallorbe	demonym	Les Tire-Lune
-Vaulion	demonym	Les Vaulienis
-Vaulion	demonym	L\u00E8 Foueta-L\u00EEvra
 Vuiteboeuf	demonym	Les Vuitebolards
-Mézières, Vaud	demonym	Les M\u00E9zi\u00E9rois
+Mézières, Vaud	demonym	Les Méziérois
 Mézières, Vaud	demonym	Les Grands Pantets
-Bursinel	demonym	Les Tire-vouables
-Allaman	demonym	Les Allamanais
-Allaman	demonym	L\u00E8 Bregand
-Bursins	demonym	Les Bursinois
-Bursins	demonym	L\u00E8 Caca-dr\u00E2tse
-Bursins	demonym	L\u00E8 Medze-faye
-Burtigny	demonym	Les Burtigni\u00E9rans
+Vinzel	demonym	Les Vinzellois
+Vinzel	demonym	Les Sèche-brebis
+Perroy	demonym	Les Perrolans
+Perroy	demonym	Lè Bourla-satset
+Mont-sur-Rolle	demonym	Les Montois
+Mont-sur-Rolle	demonym	Lè Rapelyon
+Luins	demonym	Les Luinois
+Luins	demonym	Lè Pllianta-saudzon
+Burtigny	demonym	Les Burtigniérans
 Burtigny	demonym	Les Matagasses
-Dully	demonym	Les Perchettes
 Essertines-sur-Rolle	demonym	Les Essertinois
 Essertines-sur-Rolle	demonym	Les Croque-lendines
-Luins	demonym	Les Luinois
-Luins	demonym	L\u00E8 Pllianta-saudzon
-Perroy	demonym	Les Perrolans
-Perroy	demonym	L\u00E8 Bourla-satset
-Mont-sur-Rolle	demonym	Les Montois
-Mont-sur-Rolle	demonym	L\u00E8 Rapelyon
-Vinzel	demonym	Les Vinzellois
-Vinzel	demonym	Les S\u00E8che-brebis
-Arnex-sur-Nyon	demonym	Les Arn\u00E9siens
-Arnex-sur-Nyon	demonym	L\u00E8 Redale
-Mexico	demonym	Mexican
+Dully	demonym	Les Perchettes
+Bursins	demonym	Les Bursinois
+Bursins	demonym	Lè Caca-drâtse
+Bursins	demonym	Lè Medze-faye
+Bursinel	demonym	Les Tire-vouables
+Allaman	demonym	Les Allamanais
+Allaman	demonym	Lè Bregand
+Arnex-sur-Nyon	demonym	Les Arnésiens
+Arnex-sur-Nyon	demonym	Lè Redale
+Cherokee Nation	demonym	Cherokee/Cherokee Indian
+Mexico	demonym	Mexican people
 Vernayaz	demonym	Planain
-Fully	demonym	fulli\u00E9rain, fulli\u00E9raine
+Fully	demonym	fulliérain, fulliéraine
 Bassecourt	demonym	Les Patas
-Bonfol	demonym	les B\u00E2ts (les Crapauds)
+Bonfol	demonym	les Bâts
 Courfaivre	demonym	Mergats
-Lajoux (Switzerland)	demonym	Djoulais
+Lajoux	demonym	Djoulais
 Grandfontaine, Switzerland	demonym	Gueillemetins
+Les Breuleux	demonym	Breulotiers
 Le Noirmont	demonym	Noirmonier
-Les Breuleux	demonym	Breulotiers (\u00E8res)
 Vicques, Switzerland	demonym	Vicquois
-Australia	demonym	Australian, Aussie
-Victoria (Australia)	demonym	Victorian
-New Zealand	demonym	New Zealander,
-New Zealand	demonym	Kiwi (colloquial)
-Cuba	demonym	Cuban
-Canada	demonym	Canadian
-Sweden	demonym	Swedish or Swedes
-Africa	demonym	African
+Australia	demonym	Australians
+Australia	demonym	Aussie
+New Zealand	demonym	New Zealanders
+New Zealand	demonym	Kiwi
+Cuba	demonym	Cuban people
+Canada	demonym	Canadians
+Sweden	demonym	Swedish people
+Sweden	demonym	Swedes
+Africa	demonym	Ethnic groups of Africa
 France	demonym	French
-Büsserach	demonym	B\u00FCsseracher
+Ostermundigen	demonym	Mundige
+Büsserach	demonym	Büsseracher
 Vilters-Wangs	demonym	Viltelser, Wangser
-Syria	demonym	Syrian
+Eglisau	demonym	Eglisauer
 Kuwait	demonym	Kuwaiti
 Iraq	demonym	Iraqi
 Jordan	demonym	Jordanian
+Principality of Outer Baldonia	demonym	Baldonian
 Falkland Islands	demonym	Falkland Islander
-Gibraltar	demonym	Gibraltarian
-Cascadia (independence movement)	demonym	Cascadian
+Gibraltar	demonym	Gibraltarian people
+Gibraltar	demonym	Llanito
+Cascadia	demonym	Cascadian
 Egypt	demonym	Egyptian
 New York	demonym	New Yorker
 Qatar	demonym	Qatari
-Bellerive, Switzerland	demonym	L\u00E8 Renaille
-Israel	demonym	Israeli
+Bellerive, Switzerland	demonym	Lè Renaille
+Talossa	demonym	Talossan
+Israel	demonym	Israelis
+Sint Maarten	demonym	St. Maartener
+Third Hellenic Republic	demonym	Greek people
 African Union	demonym	African
 Armenia	demonym	Armenian
 Sergey, Switzerland	demonym	Les Ours
-Turkey	demonym	Turkish
-Dominica	demonym	Dominican
-Washington (state)	demonym	Washingtonian
-Darfur Regional Authority	demonym	Darfuri
-St. Peter-Pagig	demonym	Pagig, St. Peter
-Cricket Samoa	demonym	Samoan
+Turkey	demonym	Turkish people
+Gold Coast	demonym	Gold Coastian
+Dominica	demonym	Demographics of Dominica
+Washington	demonym	Washingtonian
+Avatele	demonym	Avatelean
+St. Peter-Pagig	demonym	Pagig
+St. Peter-Pagig	demonym	St. Peter, Switzerland
+Bureau of Ghana Languages	demonym	Ghanaian
+Cricket Samoa	demonym	Samoans
 Mississippi	demonym	Mississippian
 Djibouti	demonym	Djiboutian
-Guatemala	demonym	Guatemalan
+Faroe Islands	demonym	Faroe Islanders
 Eritrea	demonym	Eritrean
-Faroe Islands	demonym	Faroese
-Grenada	demonym	Grenadian
+Guatemala	demonym	Guatemalans
 Guyana	demonym	Guyanese
-South Africa	demonym	South African
+Grenada	demonym	Grenadian
+South Africa	demonym	South Africans
 Torres Strait Regional Authority	demonym	Torres Strait Islander
-Mauritania	demonym	Mauritanian
-Florida	demonym	Floridian
+Grand Duchy of the Lagoan Isles	demonym	Lagoan
+Mauritania	demonym	Demographics of Mauritania
+Florida	demonym	Floridian, Floridan
 Bahrain	demonym	Bahraini
-Abkhazia	demonym	Abkhaz, Abkhazian
-Argentina	demonym	Argentine, Argentinian, Argentinean
-Cape Verde	demonym	Cape Verdean
+Abkhazia	demonym	Abkhaz
+Abkhazia	demonym	Abkhazian
+Kingdom of the Netherlands	demonym	Dutch people
+Argentina	demonym	Argentines
+Argentina	demonym	Argentinian
+Argentina	demonym	Argentinean
+Cape Verde	demonym	Cape Verdean or Cabo Verdean
 East Timor	demonym	East Timorese
 Republic of the Congo	demonym	Congolese
+Afro-Eurasia	demonym	Afro-Eurasian, Afroeurasian, Eurafrasian, Old World
 Riaz	demonym	Riazois
-Cabeça do Cachorro	demonym	Amazonense (individual from Amazonas state);
-Cabeça do Cachorro	demonym	Brasileiro (Brazilian)
+Cabeça do Cachorro	demonym	Amazonense ;
+Cabeça do Cachorro	demonym	Brasileiro
+São Tomé and Príncipe	demonym	São Toméan
 São Tomé and Príncipe	demonym	Santomean
+Eurasia	demonym	Eurasian
 American Samoa	demonym	American Samoan
-Australia (continent)	demonym	Australian
-Indian subcontinent	demonym	Subcontinental
-Kievan Rus'	demonym	Rusyn or rusych
+American Samoa	demonym	Samoan
+Australia	demonym	Australian
+Indian subcontinent	demonym	South Asian ethnic groups
+Ancient Carthage	demonym	Carthaginian
+Grand Duchy of Westarctica	demonym	Westarctican, Byrdese
+Kingdom of Wallachia	demonym	Moravian Wallachian
+Subanon people	demonym	Subanen
 Burundi	demonym	Burundian
-Arizona	demonym	Arizonan, Arizonian
 Indiana	demonym	Hoosier
+Arizona	demonym	Adjectivals and demonyms for U.S. states
 Nation.1	demonym	Child
-Republic of Macedonia	demonym	Macedonian
-Åland Islands	demonym	\u00C5l\u00E4nning/\u00C5l\u00E4ndare (swedish), \u00C5landish
-Zamboanga City	demonym	Zamboangue\u00F1o
+Wirtland	demonym	Wirtlander; Witizen
+Republic of Macedonia	demonym	Macedonians
+Dependencies of Norway	demonym	Norwegian
+Åland Islands	demonym	Ålandic
+Åland Islands	demonym	Ålandish
+Community of Latin American and Caribbean States	demonym	Latin American
+Community of Latin American and Caribbean States	demonym	Caribbean
+Baden, Switzerland	demonym	Badener
 Iowa	demonym	Iowan
 Oregon	demonym	Oregonian
 Austria	demonym	Austrian
-Riva (Belgariad and Malloreon)	demonym	Rivan
-Drasnia (Belgariad and Malloreon)	demonym	Drasnian
-Sendaria (Belgariad)	demonym	Sendar
+Riva	demonym	Rivan
+Republic of Vevčani	demonym	Vevčanese
 Estonia	demonym	Estonian
-Cherek (Belgariad)	demonym	Cherek
-Kingdom of Tahiti	demonym	Tahitian
-National Transitional Council	demonym	Libyan
-Emirates eGovernment	demonym	Emirati
-South Sudan	demonym	South Sudanese
+Principality of Wy	demonym	Wyze
+Saint Barthélemy	demonym	Saint-Barth
+French overseas departments and territories	demonym	French
+Khatumo State	demonym	Khatumite
+Barony of Caux	demonym	Caletan or Cauxinard
+South Sudan	demonym	Demographics of South Sudan
+Communication for social change	demonym	Latin American, American
+Austenasia	demonym	Austenasian
+Grand Duchy of Flandrensis	demonym	Flandriaan, Flandrensisian
+ASEAN–India Commemorative Summit	demonym	South Asian
+Jubaland	demonym	Demographics of Somalia
+Sahrawi Arab Democratic Republic	demonym	Sahrawi people
+Sahrawi Arab Democratic Republic	demonym	Demographics of the Sahrawi Arab Democratic Republic
+Bangsamoro Republik	demonym	Bangsamoro
+Paraguayan architecture	demonym	Paraguayan
+Kingdom of Dagbon	demonym	Mole–Dagbani
+Holy Empire of Reunion	demonym	Reunian
+Norwegian expansion during the Middle Ages	demonym	Norwegians
+Norwegian expansion during the Middle Ages	demonym	Synonyms:
+Norwegian expansion during the Middle Ages	demonym	*
+Norwegian expansion during the Middle Ages	demonym	Northmen
+Norwegian expansion during the Middle Ages	demonym	Norsemen
+Tepic Territory	demonym	Tepicense
+Asgardia	demonym	Asgardian

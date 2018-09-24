@@ -1,259 +1,429 @@
-Macquarie University	viceChancellor	Steven Schwartz (vice-chancellor)
+Macquarie University	viceChancellor	S Bruce Dowton
 Mount Saint Vincent University	viceChancellor	Ramona Lumpkin
 Simon Fraser University	viceChancellor	Andrew Petter
-University of Oxford	viceChancellor	Andrew D. Hamilton
-University of Sydney	viceChancellor	Michael Spence (academic)
-University of Sussex	viceChancellor	Michael Farthing
-University of London	viceChancellor	Professor Geoffrey Crossick
-University of Bristol	viceChancellor	Eric Thomas (gynaecologist)
-University of Warwick	viceChancellor	Professor
+University of Oxford	viceChancellor	Louise Richardson
+University of Sydney	viceChancellor	Michael Spence
+University of Canterbury	viceChancellor	Rod Carr
+Victoria University of Wellington	viceChancellor	Grant Guilford
+Manchester Metropolitan University	viceChancellor	Malcolm Press
+University of London	viceChancellor	Sir Adrian Smith
+University of Bristol	viceChancellor	Hugh R. Brady
+University of Warwick	viceChancellor	Stuart Croft
 University of Fort Hare	viceChancellor	Mvuyo Tom
-University of Manchester	viceChancellor	Nancy Rothwell
+Jewish Theological Seminary of America	viceChancellor	Marc Gary
 Massey University	viceChancellor	Steve Maharey
-Australian Catholic University	viceChancellor	Greg Craven (academic)
-University of Southampton	viceChancellor	Professor Don Nutbeam
-University of Otago	viceChancellor	David Skegg
-University of New South Wales	viceChancellor	Fred Hilmer
-Kingston University	viceChancellor	Julius Weinberg
-Monash University	viceChancellor	Edward Byrne (academic)
-Monash University	viceChancellor	Order of Australia
+Australian Catholic University	viceChancellor	Greg Craven
+University of Otago	viceChancellor	Harlene Hayne
+University of Southampton	viceChancellor	Sir
+University of Southampton	viceChancellor	Christopher Snowden
+University of New South Wales	viceChancellor	Ian Jacobs
+Monash University	viceChancellor	Margaret Gardner,
 University of Bath	viceChancellor	Glynis Breakwell
-University of York	viceChancellor	Brian Cantor
-University of Liverpool	viceChancellor	Howard Newby
-Open University	viceChancellor	Martin G. Bean
-London Metropolitan University	viceChancellor	Malcolm Gillies
-Universiti Tenaga Nasional	viceChancellor	Mashkuri Yaacob
-University of Surrey	viceChancellor	Christopher Snowden
-Flinders University	viceChancellor	Michael N Barber
-La Trobe University	viceChancellor	Paul Johnson (economic historian)
-University of Queensland	viceChancellor	Paul Greenfield
-University of Leeds	viceChancellor	Michael Arthur (academic)
-University of East Anglia	viceChancellor	Edward Acton (academic)
+University of York	viceChancellor	Koen Lamberts
+University of Liverpool	viceChancellor	Professor Janet Beer
+Open University	viceChancellor	Peter Horrocks
+La Trobe University	viceChancellor	John Dewar
+University of Queensland	viceChancellor	Peter Høj
+University of Leeds	viceChancellor	Alan Langlands
+University of East Anglia	viceChancellor	David Richardson
 De Montfort University	viceChancellor	Dominic Shellard
-Queensland University of Technology	viceChancellor	Owen Peter Coaldrake
+Queensland University of Technology	viceChancellor	Professor Peter Coaldrake
 Newcastle University	viceChancellor	Chris Brink
+University of Kent	viceChancellor	Dame
 University of Kent	viceChancellor	Julia Goodfellow
-University of Birmingham	viceChancellor	David Eastwood
-Aston University	viceChancellor	Julia King
-Halmstad University, Sweden	viceChancellor	Carina Ihlström
-Middlesex University	viceChancellor	Michael Driscoll (economist)
-Keele University	viceChancellor	Nick Foskett
-Oregon State University	viceChancellor	Jay Kenton
-Oregon State University	viceChancellor	Susan Weeks
-University of Waikato	viceChancellor	Roy Crawford
-University of Exeter	viceChancellor	Steve Smith (academic)
-Swinburne University of Technology	viceChancellor	Linda Kristjanson
-University of Salford	viceChancellor	Martin Hall (academic)
-University of Hong Kong	viceChancellor	Tsui Lap-chee
+University of Adelaide	viceChancellor	Warren Bebbington
+University of Birmingham	viceChancellor	Sir David Eastwood
+Aston University	viceChancellor	Alec Cameron
+Halmstad University, Sweden	viceChancellor	Mikael Alexandersson
+Middlesex University	viceChancellor	Professor Tim Blackman
+University of Salford	viceChancellor	Helen Marshall
+University of Hong Kong	viceChancellor	Peter Mathieson
 Chinese University of Hong Kong	viceChancellor	Joseph Sung
 University of the West of England	viceChancellor	Steven West
 Auckland University of Technology	viceChancellor	Derek McCormack
+Lincoln University	viceChancellor	Professor Robin Pollard
 University of Auckland	viceChancellor	Stuart McCutcheon
-Lincoln University (New Zealand)	viceChancellor	Roger Field (New Zealand)
-University of Malaya	viceChancellor	Ghauth Jasmon
-Charles Darwin University	viceChancellor	Barney Glover
-University of Western Sydney	viceChancellor	Order of Australia
-University of Sheffield	viceChancellor	Keith Burnett
-Lancaster University	viceChancellor	Paul Wellings (academic)
-Queen's University Belfast	viceChancellor	Peter Gregson
-University of South Australia	viceChancellor	Peter Høj
-Cardiff University	viceChancellor	David Grant (academic)
-Loughborough University	viceChancellor	Shirley Pearce
-University of Zimbabwe	viceChancellor	Levi Nyagura
-University of Newcastle (Australia)	viceChancellor	Nicholas Saunders (Vice-Chancellor)
-University of Leicester	viceChancellor	Robert Burgess (sociologist)
-Darul Uloom Deoband	viceChancellor	Abul Qasim Nomani
+Australian National University	viceChancellor	Brian Schmidt
+Charles Darwin University	viceChancellor	Simon Maddocks
+Western Sydney University	viceChancellor	Barney Glover
+University of Sheffield	viceChancellor	Sir Keith Burnett
+Sheffield Hallam University	viceChancellor	Chris Husbands
+Lancaster University	viceChancellor	Mark Smith
+University of Wales	viceChancellor	Medwin Hughes
+University of the Witwatersrand	viceChancellor	Professor Adam Habib
+Queen's University Belfast	viceChancellor	Patrick Johnston
+University of Essex	viceChancellor	Professor Anthony Forster
+University of South Australia	viceChancellor	David Lloyd
+Cardiff University	viceChancellor	Colin Riordan
+Loughborough University	viceChancellor	Robert Allison
+University of Zimbabwe	viceChancellor	Prof Levi Nyagura
+Darul Uloom Deoband	viceChancellor	Mufti Abul Qasim Nomani
 University of Melbourne	viceChancellor	Glyn Davis
-University of Bradford	viceChancellor	Mark Cleary (professor)
-London South Bank University	viceChancellor	Martin Earwicker
-Liverpool John Moores University	viceChancellor	Michael Brown (physicist)
+University of Bradford	viceChancellor	Brian Cantor
+London South Bank University	viceChancellor	David Andrew Phoenix
+Liverpool John Moores University	viceChancellor	Nigel Weatherill
 University of Roehampton	viceChancellor	Paul O'Prey
-University of Canberra	viceChancellor	Stephen John Parker
-University of Nottingham Malaysia Campus	viceChancellor	David Greenaway (economist)
-Conservatoire National des Arts et Métiers	viceChancellor	Bernard Racimora
-Oxford Brookes University	viceChancellor	Janet Beer
-Southern Cross University	viceChancellor	Peter Leslie Lee
-Nottingham Trent University	viceChancellor	Professor
-University of Reading	viceChancellor	Gordon Marshall (sociologist)
-RMIT University	viceChancellor	Margaret Gardner
-RMIT University	viceChancellor	Order of Australia
-University of Southern Queensland	viceChancellor	Bill Lovegrove
-City University London	viceChancellor	Professor
-University of Greenwich	viceChancellor	Tessa Blackstone, Baroness Blackstone
-Open University of Israel	viceChancellor	Abraham Ginzburg
-Charles Sturt University	viceChancellor	Ian Goulter
-University of Hull	viceChancellor	Professor
-University of Portsmouth	viceChancellor	John Craven (educator)
+University of Canberra	viceChancellor	Stephen Parker,
+University of Nottingham Malaysia Campus	viceChancellor	David Greenaway
+Oxford Brookes University	viceChancellor	Alistair Fitt
+Ulster University	viceChancellor	Paddy Nixon
+University of Wollongong	viceChancellor	Paul Wellings
+University of Wollongong	viceChancellor	Commander of the Most Excellent Order of the British Empire
+University of Reading	viceChancellor	David Robert Bell
+Open University of Sri Lanka	viceChancellor	Prof. S.A. Ariadurai
+University of Hertfordshire	viceChancellor	Quintin McKellar
+RMIT University	viceChancellor	Martin G. Bean
+University of Calcutta	viceChancellor	Ashutosh Ghosh
+Bangladesh University of Engineering and Technology	viceChancellor	Saiful Islam
+University of Hull	viceChancellor	Calie Pistorius
+University of Notre Dame Australia	viceChancellor	Celia Hammond
 University of Tasmania	viceChancellor	Peter Rathjen
 Deakin University	viceChancellor	Jane den Hollander
-University of Wolverhampton	viceChancellor	Caroline Gipps
-University of Cape Town	viceChancellor	Max Price
-University of KwaZulu-Natal	viceChancellor	Malegapuru William Makgoba
-Presidency University, Kolkata	viceChancellor	Amita Chatterjee
-Coventry University	viceChancellor	Madeleine Atkins
-Cranfield University	viceChancellor	Professor
-Leeds Metropolitan University	viceChancellor	Susan Price (academic)
+Sri Sathya Sai University	viceChancellor	Kalidhindi B. R. Varma
+University of Cape Town	viceChancellor	Dr Max Price
+University of KwaZulu-Natal	viceChancellor	Dr. Albert van Jaarsveld
+Presidency University, Kolkata	viceChancellor	Dr. Anuradha Lohia
+University of Buckingham	viceChancellor	Anthony Seldon
+University of Engineering and Technology, Lahore	viceChancellor	Fazal Ahmad Khalid
+Bournemouth University	viceChancellor	John Vinney
+University of Derby	viceChancellor	Kathryn Mitchell
+Cranfield University	viceChancellor	Peter Gregson
+University of Gloucestershire	viceChancellor	Stephen Marston
+University of Huddersfield	viceChancellor	Bob Cryan
+Leeds Beckett University	viceChancellor	Peter Slee
 University of Lincoln	viceChancellor	Mary Stuart
-National University of Malaysia	viceChancellor	Sharifah Hapsah Syed Hasan Shahabudin
-Universiti Sains Malaysia	viceChancellor	Dzulkifli Abdul Razak
-Sewanee: The University of the South	viceChancellor	John McCardell, Jr.
-University of Bolton	viceChancellor	George Holmes
-University of Chester	viceChancellor	Tim Wheeler (academic)
-Bath Spa University	viceChancellor	Frank Morgan (academic)
-Lahore University of Management Sciences	viceChancellor	Adil Najam
-Federal University of Rio de Janeiro	viceChancellor	Sylvia da Silveira de Mello Vargas
-Hong Kong Institute of Education	viceChancellor	Anthony Cheung
-Stellenbosch University	viceChancellor	Russel Botman
-Federal University of Technology Akure	viceChancellor	Prof. Adebisi Balogun
-Glyndŵr University	viceChancellor	Michael Scott (academic)
+University of West London	viceChancellor	Peter John
+Birkbeck, University of London	viceChancellor	Sir Adrian Smith
+Edith Cowan University	viceChancellor	Steve Chapman
+Quaid-i-Azam University	viceChancellor	Dr. Javed Ashraf
+North Eastern Hill University	viceChancellor	Sri Krishna Srivastava
+University of Bolton	viceChancellor	Professor George Holmes DL
+University of Chester	viceChancellor	Tim Wheeler
+Bath Spa University	viceChancellor	Prof. Christina Slade
+Federal University of Technology Akure	viceChancellor	Prof. Biyi Daramola
 University of Macedonia	viceChancellor	Christos Konstantatos
-University of Macedonia	viceChancellor	Achilleas Zapranis
-University of Macedonia	viceChancellor	Harri Papanagos
-Buckinghamshire New University	viceChancellor	Ruth Farwell
-Jamia Millia Islamia	viceChancellor	Najeeb Jung
-Open University Malaysia	viceChancellor	Anuwar Ali
-University of Botswana	viceChancellor	Rebaone Tshotlego
+University of Macedonia	viceChancellor	Harry Papapanagos
+Sunni Cultural Center, Karanthur	viceChancellor	Hussain Saqafi Chullikkod
+Dow University of Health Sciences	viceChancellor	Prof. Masood Hameed
+Islamia College University	viceChancellor	Professor Dr. Habib Ahmad
+Buckinghamshire New University	viceChancellor	Rebecca Bunting
+University of the South Pacific	viceChancellor	Rajesh Chandra
+Jamia Millia Islamia	viceChancellor	Prof. Talat Ahmad
+University of London Institute in Paris	viceChancellor	Adrian Smith
+University of Botswana	viceChancellor	Thabo Fako
 University of Johannesburg	viceChancellor	Ihron Rensburg
-Rhodes University	viceChancellor	Saleem Badat
-West Bengal National University of Juridical Sciences	viceChancellor	Mahendra Pal Singh
-Bangladesh Agricultural University	viceChancellor	Abdus Sattar Mondal
-Tribhuvan University	viceChancellor	Madhav Prasad Sharma
-University of Wales, Newport	viceChancellor	Peter Noyes
-Liverpool Hope University	viceChancellor	Gerald Pillay
+University of the West Indies	viceChancellor	Sir Hilary Beckles
+Rhodes University	viceChancellor	Sizwe Mabizela
+West Bengal National University of Juridical Sciences	viceChancellor	Prof.  P Ishwar Bhat.
+Bangladesh Agricultural University	viceChancellor	Ali Akbar
+Pontifical Catholic University of Valparaíso	viceChancellor	Pbr. Dietrich Lorenz Daiber
+University of Wales, Newport	viceChancellor	Stephen Hagen
+Cardiff Metropolitan University	viceChancellor	Cara Aitchison
+University of Chittagong	viceChancellor	Iftekhar Uddin Chowdhury
+International Medical University	viceChancellor	Abdul Aziz Baba
+MBM Engineering College	viceChancellor	Vice Chancellor of JNVU
+Liverpool Hope University	viceChancellor	Gerald J. Pillay
 Tokyo University of the Arts	viceChancellor	Kenji Watanabe
-University of Zambia	viceChancellor	Professor Stephen Simukanga
-University of Colombo	viceChancellor	Professor
-Bond University	viceChancellor	Robert Stable
-University of Ghana	viceChancellor	Clifford Nii Boi Tagoe
-United Arab Emirates University	viceChancellor	Abdullah Al-Khanbashi
-University of Benin (Nigeria)	viceChancellor	Osayuki Godwin Oshodin
-Universiti Teknologi Malaysia	viceChancellor	Zaini Ujang
-Universiti Putra Malaysia	viceChancellor	Radin Umar Radin Sohadi
-University of Karachi	viceChancellor	Pirzada Qasim
-University of Limpopo	viceChancellor	Mahlo Mokgalong
+Jawaharlal Nehru University, Delhi	viceChancellor	Mamidala Jagadesh Kumar
+University of Zambia	viceChancellor	Professor Luke Evuta Mumba
+Magee College	viceChancellor	Professor Paddy Nixon
+Comillas Pontifical University	viceChancellor	Rev. Joaquín Barrero Díaz, SJ
+University of Colombo	viceChancellor	Lakshman Dissanayake
+University of the Punjab	viceChancellor	Mujahid Kamran
+Bond University	viceChancellor	Tim Brailsford
+University of Rajshahi	viceChancellor	Muhammad Mizanuddin
+University of Ghana	viceChancellor	Ebenezer Oduro Owusu
+North South University	viceChancellor	Atiqul Islam
+St Mary's University, Twickenham	viceChancellor	Francis Campbell
+Konstfack	viceChancellor	Maria Lantz
+University of Technology, Malaysia	viceChancellor	Professor Datuk Ir. Dr. Wahid Omar
+Islamia University	viceChancellor	Qaiser Mushtaq
+Adekunle Ajasin University	viceChancellor	Professor Igbekele Amos Ajibefun
+Islamic University in Uganda	viceChancellor	Ahmad Ssengendo
+University of Limpopo	viceChancellor	Prof. Mahlo Mokgalong
+University of Khartoum	viceChancellor	Prof. Ahmed Mohamed Suleiman\npreceded by Prof. ElSiddig Ahmed ElMustafa
+Shahjalal University of Science and Technology	viceChancellor	Md Aminul Haque Bhuyan
+Jahangirnagar University	viceChancellor	Farzana Islam
 IT University of Copenhagen	viceChancellor	Mads Tofte
-University of Fiji	viceChancellor	Rajesh Chandra
-Makerere University	viceChancellor	Venansius Baryamureeba
-Papua New Guinea University of Technology	viceChancellor	Misty Baloiloi
-Pacific Adventist University	viceChancellor	Branimir Schubert
-Visva-Bharati University	viceChancellor	Rajat Kanta Ray
-Independent University, Bangladesh	viceChancellor	Bazlul Chowdhury
-Amrita Vishwa Vidyapeetham	viceChancellor	Venkat Rangan
-Federal University of Alagoas	viceChancellor	Eurico de Barros Lobo Filho
-University of Dar es Salaam	viceChancellor	Prof. R.S. Mukandala
-University for the Creative Arts	viceChancellor	Elaine Thomas
-University of Peshawar	viceChancellor	Dr. Azmat Hayat Khan
-Lagos State University	viceChancellor	Lateef Hussain
-University of Cape Coast	viceChancellor	Naana Jane Opoku-Agyemang
-University of Medical Sciences and Technology	viceChancellor	Prof. Dr.
+University of Lagos	viceChancellor	Professor Rahmon Ade Bello
+University of Piura	viceChancellor	Mons. Emilio Arizmendi Echecopar
+Mbarara University of Science and Technology	viceChancellor	Celestino Obua
+Ndejje University	viceChancellor	Prof. Eriabu Lugujjo
+Makerere University	viceChancellor	John Ddumba Ssentamu
+Nkumba University	viceChancellor	Prof. Hannington Sengendo
+Papua New Guinea University of Technology	viceChancellor	Albert Schram
+University of Ibadan	viceChancellor	Abel Idowu Olayinka get
+University for the Creative Arts	viceChancellor	Professor Simon Ofield-Kerr PhD FRSA
+Lagos State University	viceChancellor	Olanrewaju Fagbohun
+University of Cape Coast	viceChancellor	Prof. Joseph Ghartey Ampiah
 University of Zululand	viceChancellor	Ntomb'fikile Mazibuko
-University of Dhaka	viceChancellor	AAMS Arefin Siddique
-Kwame Nkrumah University of Science and Technology	viceChancellor	William Otoo Ellis
-Guru Gobind Singh Indraprastha University	viceChancellor	D. K. Bandyopadhyay
-Siddhartha University	viceChancellor	Bhikkhu Sunanda Mahasthavira
-Monash University, South Africa campus	viceChancellor	Tyrone Pretorius
-University of Kelaniya	viceChancellor	Sarath Amunugama
+Kwame Nkrumah University of Science and Technology	viceChancellor	Professor Kwasi Obiri-Danso
+Guru Gobind Singh Indraprastha University	viceChancellor	Anil Kumar Tyagi
+Siddhartha University	viceChancellor	Dr. Bhikkhu Sunanda Mahasthavira
+University of Kelaniya	viceChancellor	Prof. Sunanda Madduma Bandara
+University of Engineering and Technology, Peshawar	viceChancellor	Dr. Iftikhar Hussain
+King Edward Medical University	viceChancellor	Faisal Masud
 University of Northampton	viceChancellor	Nick Petford
-University of Namibia	viceChancellor	Lazarus Hangula
-National University of Kaohsiung	viceChancellor	Po-Chin Lee
-National University of Kaohsiung	viceChancellor	Von-Wen Soo
-International University College Of Technology Twintech	viceChancellor	Professor Dato' Dr. Mohd Razali Agus
-BIMTECH	viceChancellor	BIMTECH
+Rivers State University of Science and Technology	viceChancellor	Blessing Didia
+University of Namibia	viceChancellor	Prof. Lazarus Hangula
+University of Winchester	viceChancellor	Joy Carter
+National University of Kaohsiung	viceChancellor	Pao-Tiao, Chuang and Hsing-Lung, Lien
+Twintech International University College of Technology	viceChancellor	Professor Dato' Dr. Mohd Razali Agus
+University of Asia Pacific	viceChancellor	Jamilur Reza Choudhury
+Bethlehem University	viceChancellor	Brother Peter Bray
+Nalsar University of Law	viceChancellor	Faizan Mustafa
+Obafemi Awolowo University	viceChancellor	Professor Anthony Elujoba
 College of Digital Sciences	viceChancellor	Hanif Akhtar
-Bayero University Kano	viceChancellor	Abubakar Rasheed
+Al Jamea tus Saifiyah	viceChancellor	Dr. Syedna Aliqadr Mufaddal Saifuddin
+Bayero University Kano	viceChancellor	Muhammad Yahuza Bello
 University of Chichester	viceChancellor	Clive Behagg
-Abia State University	viceChancellor	Professor Chibuzo Ogbuagu
-Saint Mary's University (Halifax)	viceChancellor	J. Colin Dodds
-University of Education, Winneba	viceChancellor	Prof. A. Asabere-Ameyaw
-University of Cumbria	viceChancellor	Graham Upton
-University of Peradeniya	viceChancellor	Professor
-BRAC University	viceChancellor	Ainun Nishat
-University of Bedfordshire	viceChancellor	Les Ebdon
-Swansea Metropolitan University	viceChancellor	David Warner (SIHE)
-Central University of Technology	viceChancellor	Thandwa Mthembu
-University of Jammu	viceChancellor	Varun sahni
-University of Mosul	viceChancellor	Dr Omar Al-Tikriti
-Edge Hill University	viceChancellor	John Cater (academic)
-University of Ruhuna	viceChancellor	Susirith Mendis
-Bahauddin Zakariya University	viceChancellor	Muhammad Zafarullah
-Centro Federal de Educação Tecnológica Celso Suckow da Fonseca	viceChancellor	Carlos Henrique Figueiredo Alves
-V. L. B. Janakiammal College of Engineering and Technology	viceChancellor	Anna University of Teechnology,Coimbatore
-Midlands State University	viceChancellor	Ngwabi Bhebhe
-University of London International Programmes	viceChancellor	Graeme Davies
-Lahore College for Women University	viceChancellor	Dr. Farhat Saleemi
-Universiti Tun Hussein Onn Malaysia	viceChancellor	Mohd Noh Dalimin
-University of Education	viceChancellor	Prof. Dr.Farhat Saleem
-Queen's University	viceChancellor	Daniel Woolf
-Pondicherry University	viceChancellor	Jalees Ahmed Khan Tareen
-Leading University	viceChancellor	Professor
-Berhampur University	viceChancellor	Jayanta Kumar Mohapatra
-Shri Mata Vaishno Devi University	viceChancellor	Rameshwar Nath Koul Bamezai
-Indira Gandhi National Open University	viceChancellor	V. N. Rajasekharan Pillai
-Southeast University (Bangladesh)	viceChancellor	Dr. ANM Meshquat Uddin
-Daffodil International University	viceChancellor	Professor Dr. Aminul Islam
-International University of Business Agriculture and Technology	viceChancellor	Doctor of Philosophy
-Dr. Balasaheb Sawant Konkan Krishi Vidyapeeth	viceChancellor	V. B. Mehta
-Uganda Martyrs University	viceChancellor	Charles Olweny
-University of Mines and Technology	viceChancellor	Daniel Mireku-Gyimah
-University of Juba	viceChancellor	Prof. Agrey Abatte
+Falmouth University	viceChancellor	Anne Carlisle
+Faculty of Medicine, University of Colombo	viceChancellor	Professor
+Faculty of Medicine, University of Colombo	viceChancellor	Kshanika Hirimburegama
+Delhi Technological University	viceChancellor	Vice-Chancellor.php
+Regent's University London	viceChancellor	Aldwyn Cooper
+Eastern University, Sri Lanka	viceChancellor	vc-s-message
+Agricultural University of Athens	viceChancellor	Epameinondas Paplomatas
+Agricultural University of Athens	viceChancellor	Georgios Papadakis
+Jamia Hamdard	viceChancellor	Seyed E. Hasnain
+Ziauddin University	viceChancellor	Dr. Pirzada Qasim
+University of Peradeniya	viceChancellor	Prof. Upul B.Dissanayake
+University of Bedfordshire	viceChancellor	Bill Rammell
+University of Malawi	viceChancellor	Professor John Saka
+Ulster University at Coleraine	viceChancellor	Professor Paddy Nixon
+Punjab Agricultural University	viceChancellor	Baldev Singh Dhillon
+Central University of Technology	viceChancellor	Prof. Henk de Jager
+Ahsanullah University of Science and Technology	viceChancellor	A. M. M. Safiullah
+University of Mosul	viceChancellor	Dr. Nazar Majeed Qubba\n                   Dr. Adnan AlSaffawi
+Edge Hill University	viceChancellor	John Cater
+University of Abuja	viceChancellor	Professor Professor Michael Umale Adikwu
+Bahauddin Zakariya University	viceChancellor	Muhammad naeeem
+Michael Okpara University of Agriculture	viceChancellor	Francis Otunta
+University of St Mark & St John	viceChancellor	Cara Aitchison
+Darul Huda Islamic University	viceChancellor	Bahauddeen Muhammed Nadwi
+Federal Center for Technological Education of Rio de Janeiro	viceChancellor	Mauricio Motta
+Anil Neerukonda Institute of Technology and Sciences	viceChancellor	G S N Raju, Andhra University
+Midlands State University	viceChancellor	Ngwabi Bhebe
+Jaypee University of Information Technology	viceChancellor	Prof. S. K. Kak
+Mizoram University	viceChancellor	Prof R. Lalthantluanga
+Girne American University	viceChancellor	Assoc. Prof. Dr. Asim Vehbi
+Uganda Christian University	viceChancellor	John Senyonyi
+American International University-Bangladesh	viceChancellor	Carmen Lamagna
+Asian University of Bangladesh	viceChancellor	Abul Hasan M Sadeq
+Stamford University Bangladesh	viceChancellor	M. Feroze Ahmed
+Berhampur University	viceChancellor	index.php?option=com content&view=article&id=57&Itemid=26
+University of Liberal Arts Bangladesh	viceChancellor	Imran Rahman
+Maharaja Ganga Singh University	viceChancellor	Chandra Kala Padia
+Devi Ahilya Vishwavidyalaya	viceChancellor	vc.php
+Southeast University	viceChancellor	Prof. Dr. Anwar Hossain
+University of Development Alternative	viceChancellor	Emajuddin Ahamed
+Jagannath University	viceChancellor	Professor Dr. Mijanur Rahman
+Dr. Balasaheb Sawant Konkan Krishi Vidyapeeth	viceChancellor	Dr. Tapas Bhattacharyya
+Junagadh Agricultural University	viceChancellor	Dr.A.R.Pathak
+Uganda Martyrs University	viceChancellor	John Maviirii
+University of Mines and Technology	viceChancellor	Jerry Kuma
+University of Juba	viceChancellor	Prof. John Akech
 University of Nova Gorica	viceChancellor	Gvido Bratina
 University of Nova Gorica	viceChancellor	Mladen Franko
-Sabaragamuwa University of Sri Lanka	viceChancellor	Prof. M. S. Rupasinghe
-Omdurman Islamic University	viceChancellor	Prof Dr Mohamed Osman Salih
-Yogi Vemana University	viceChancellor	Arjula Ramachandra Reddy
-Pontifical John Paul II Institute for Studies on Marriage and Family	viceChancellor	Diocese
-UBC Okanagan	viceChancellor	Doug Owram
-University of al-Jazirah	viceChancellor	Prof. Hassan Hussein
-University of Selangor	viceChancellor	Datuk Dr. Rosti Bin Saruwono
-AIMST University	viceChancellor	Fredrick C Smales
-Jawaharlal Nehru Technological University, Anantapur	viceChancellor	B. Krishna Gandhi
+Dr. Ram Manohar Lohiya National Law University	viceChancellor	Gurdip Singh
+Kyambogo University	viceChancellor	Elly Katunguka
+Bindura University of Science Education	viceChancellor	Eddie Mwenje
+University of Agriculture, Makurdi	viceChancellor	Emmanuel Kucha
+Yogi Vemana University	viceChancellor	Prof. Shyam sundar
+Pontifical John Paul II Institute for Studies on Marriage and Family	viceChancellor	Diocesan ordinary of each session
+Deen Dayal Upadhyay Gorakhpur University	viceChancellor	webpages.php?tag=vice-Chancellor
+Bangladesh National University	viceChancellor	Harun-or-Rashid
+Islamic University, Bangladesh	viceChancellor	Rashid Askari
+Namibia University of Science and Technology	viceChancellor	Prof. Tjama Tjivikua
 World University of Bangladesh	viceChancellor	Abdul Mannan Choudhury
-University of Kashmir	viceChancellor	Talat Ahmad
-Dr. Babasaheb Ambedkar Marathwada University	viceChancellor	Dr.Vijay M. Pandharipande
-Shobhit University	viceChancellor	Anoop Swarup
+King George's Medical University	viceChancellor	Ravi Kant
+Uttar Pradesh University of Medical Sciences	viceChancellor	T. Prabhakar
+Premier University, Chittagong	viceChancellor	Anupam Sen
+University of Nottingham Ningbo China	viceChancellor	Professor David Greenaway
+Sher-e-Bangla Agricultural University	viceChancellor	Professor Dr. Kamal Uddin Ahamed
+Rajiv Gandhi University	viceChancellor	Prof. Tamo Mibang
+Jai Prakash University	viceChancellor	Prof. Lokesh Chandra Prasad
+Krantiguru Shyamji Krishna Verma Kachchh University	viceChancellor	Chandrasinh B Jadeja
+Maharshi Dayanand University	viceChancellor	Prof. Bijender Kumar Punia
+Baba Ghulam Shah Badshah University	viceChancellor	Prof Javed Massarat
+Bharath University	viceChancellor	
+Tilak Maharashtra University	viceChancellor	Deepak J. Tilak
+Hemwati Nandan Bahuguna Garhwal University	viceChancellor	Jawahar Lal Kaul
 John Paul II Institute	viceChancellor	Donald Wuerl
-Bolan Medical College	viceChancellor	Prof: Dr. Shanaz Naseer Baloch
-Great Zimbabwe University	viceChancellor	Obert Maravanyika
-Busitema University	viceChancellor	Doctor of Philosophy
-Vardhaman Mahaveer Open University	viceChancellor	Prof. (Dr.) Naresh Dadhich
-P.D. Memorial Religious and Educational Association	viceChancellor	Vijender Singh Ahlawat
-Universiti Sains Islam Malaysia	viceChancellor	Muhamad Bin Muda
-Universiti Malaysia Perlis	viceChancellor	Brig. Gen. Prof. Dato' Dr. Kamarudin Hussin
-Hong Kong College of Engineering	viceChancellor	C M Kwan
-Universiti Utara Malaysia	viceChancellor	Malay styles and titles#Dato'
-University of Ilorin	viceChancellor	Is-haq Olarenwaju Oloyede
-Beaconhouse National University	viceChancellor	Sartaj Aziz
-Baqai Medical University	viceChancellor	Lieutenant General
-Universidade Federal Rural do Rio de Janeiro	viceChancellor	Ana Maria Dantas Soares
-G C University Faisalabad	viceChancellor	Zakir Hussain
+Mahatma Gandhi Antarrashtriya Hindi Vishwavidyalaya	viceChancellor	Girishwar Misra
+Oxford Aviation Academy	viceChancellor	CAPT.Dave Pratt\n*
+Oxford Aviation Academy	viceChancellor	Multi Crew Coordination
+Oxford Aviation Academy	viceChancellor	:
+Oxford Aviation Academy	viceChancellor	Pilot in command
+Oxford Aviation Academy	viceChancellor	.Laurie Ramage
+Oxford Aviation Academy	viceChancellor	*CFI: CAPT.Paul Taylor
+Pan Africa Christian University	viceChancellor	Professor Margaret Muthwii
+Gulu University	viceChancellor	Pen-Mogi Nyeko
+Busitema University	viceChancellor	Mary Okwakol
+Bangladesh Islami University	viceChancellor	Anwarullah Chowdhury
+Universiti Malaysia Sabah	viceChancellor	Prof. Datuk Dr. Mohd. Harun Bin Abdullah
+Hong Kong College of Engineering	viceChancellor	Mr. C M Kwan
+Universiti Utara Malaysia	viceChancellor	Professor Dato' Dr Mohamed Mustafa Ishak
+University of Ilorin	viceChancellor	Abdul Ganiyu Ambali
+Beaconhouse National University	viceChancellor	Shahid Hafeez Kardar
+South Eastern University of Sri Lanka	viceChancellor	Prof. M. M. M. Najim
+RMIT University Vietnam	viceChancellor	Martin G. Bean
+Amrita School of Engineering	viceChancellor	P. Venkat Rangan
+Sikkim University	viceChancellor	Tanka Bahadur Subba
+National Law University, Delhi	viceChancellor	Ranbir Singh
+Neelain University	viceChancellor	Professor Mohammed Alamin Ahmed
+Chinhoyi University of Technology	viceChancellor	Professor David J Simbi
+Khyber Medical University	viceChancellor	Muhammad Hafizullah
+Federal Rural University of Rio de Janeiro	viceChancellor	Ana Maria Dantas Soares
+University of Mauritius	viceChancellor	Professor  Romeela Mohee, CSK
+Gono University	viceChancellor	Dr. Mesbahuddin Ahmad
+G. B. Pant University of Agriculture and Technology	viceChancellor	Suvam gairola
+Rana Institute of Higher Studies	viceChancellor	Dr.M.Naim Azimi
 University of Pretoria	viceChancellor	Cheryl de la Rey
-Aligarh Muslim University	viceChancellor	P. K. Abdul Aziz
-Sohar University	viceChancellor	Dr Abood bin Hamed Al Sawafi
-Bangor University	viceChancellor	John G. Hughes
-Gautam Buddha University	viceChancellor	S. R. Lakha
-Gautam Buddha University	viceChancellor	Uttar Pradesh
-International University of Management	viceChancellor	David Namwandi
-University of Nottingham	viceChancellor	David Greenaway (economist)
-BIMTECH Bhubaneswar	viceChancellor	BIMTECH
-National University of Science and Technology, Zimbabwe	viceChancellor	Lindela Ndlovu
-University of Cambridge	viceChancellor	Leszek Borysiewicz
-University of Seychelles	viceChancellor	Rolph Payet
-Uttarakhand Open University	viceChancellor	Vinay Kumar Pathak
-Doon University	viceChancellor	Girijesh Pant
-North-West University	viceChancellor	Dr. T. Eloff
+Sohar University	viceChancellor	Professor Barry Winn
+Bangor University	viceChancellor	John G Hughes
+International University of Management	viceChancellor	Virginia Namwandi
+University of Jaffna	viceChancellor	Vasanthy Arasaratnam
+University of Wales Trinity Saint David	viceChancellor	Medwin Hughes
+Busoga University	viceChancellor	David Lameck Kibikyo
+Kabale University	viceChancellor	Joy Kwesiga
+Muteesa I Royal University	viceChancellor	Arthur Sserwanga
+African Bible University	viceChancellor	Dr. O. Palmer Robertson
+University of Nottingham	viceChancellor	David Greenaway
+Birla Institute of Management Technology, Bhubaneswar	viceChancellor	H. Chaturvedi
+Central University of Karnataka	viceChancellor	Prof. H.M. Maheshwaraiah
+National University of Science and Technology, Zimbabwe	viceChancellor	Professor Samson Sibanda
+IONIS Education Group	viceChancellor	Fabrice Bardeche
+IONIS Education Group	viceChancellor	Marc Drillech
+University of Cambridge	viceChancellor	Sir Leszek Borysiewicz
+University of Port Harcourt	viceChancellor	Prof. Ndokwa Lale
+University of Seychelles	viceChancellor	Marina Confait
+University of the Arts London	viceChancellor	Nigel Carrington
+North-West University	viceChancellor	Prof Dan Kgwadi
 Kingsway Campus Auckland Park	viceChancellor	Ihron Rensburg
-Bhatkhande Music Institute	viceChancellor	Shruti Sadolikar
-Central University of Kashmir	viceChancellor	Abdul Wahid
-Rajiv Gandhi Proudyogiki Vishwavidyalaya	viceChancellor	Piyush Trivedi
-Madrasa Kashiful Huda	viceChancellor	Madrasa Kashiful Huda
-University School of Information Technology	viceChancellor	D. K. Bandyopadhyay
-KCA University	viceChancellor	Prof. Noah Midamba
-Durham University	viceChancellor	Chris Higgins (academic)
-University of Military Science and Technology	viceChancellor	Brigadier
-Canterbury Christ Church University	viceChancellor	Robin Baker
-Jamia Qurania Arabia Lalbagh	viceChancellor	Mufti
-University Hall (University of Hong Kong)	viceChancellor	Senior tutor
-Darul Uloom Canada	viceChancellor	Mufti
-UBCO Heat	viceChancellor	Doug Owram
-Al-Jamiatul Islamiah Azizul Uloom Babunagar	viceChancellor	Mawlānā
-Upper Nile University	viceChancellor	Doctor of Philosophy
+Bhatkhande Music Institute	viceChancellor	Pro.Shruti Sadolikar Katkar
+Bunting Road Campus Auckland Park	viceChancellor	Ihron Rensburg
+Institute for Marine and Antarctic Studies	viceChancellor	Professor Peter Rathjen
+Guru Tegh Bahadur Institute of Technology	viceChancellor	Anil Kumar Tyagi
+Mewar University	viceChancellor	Mr. Chhotu Ram Chaudhary
+Madrasa Kashiful Huda	viceChancellor	Maulana Abdul Majeed Sahib Baqavi
+Uttarakhand Technical University	viceChancellor	Prof. P.K Garg
+University School of Information, Communication and Technology	viceChancellor	Anil Kumar Tyagi
+Nasarawa State University	viceChancellor	Prof. Muhammad Akaro Mainoma
+Kaduna State University	viceChancellor	Prof. William Barnabas Quirix
+Fountain University	viceChancellor	Professor Bashiru Ademola Raji
+Durham University	viceChancellor	Stuart Corbridge
+Tasmanian Institute of Agriculture	viceChancellor	Peter Rathjen
+Noida International University	viceChancellor	Vikram Singh
+University School of Chemical Technology	viceChancellor	Anil Kumar Tyagi
+University of Military Science and Technology	viceChancellor	Brigadier Timothy Sabiiti Mutebile
+National University of Study and Research in Law	viceChancellor	Prof. B.C. Nirmal
+Canterbury Christ Church University	viceChancellor	Rama Thirunamachandran
+Jamia Qurania Arabia Lalbagh	viceChancellor	Mufti Fazlul Hoque Amini
+Al-Jamiatul Islamiah Azizul Uloom Babunagar	viceChancellor	Hazrat Maulana Muhibbullah
+Victoria University Uganda	viceChancellor	Stephen Isabalija
+Upper Nile University	viceChancellor	Prof. Bol Deng Chol PhD
+University of Energy and Natural Resources	viceChancellor	Prof Mrs. Esi Awuah
+Federal University of São João del-Rei	viceChancellor	Sérgio Augusto Araújo da Gama Cerqueira
+University of Dhaka	viceChancellor	AAMS Arefin Siddique
+Jagadguru Rambhadracharya Handicapped University	viceChancellor	Prof. Yogesh Chandra Dubey
+International University of Africa	viceChancellor	Kamal Obeid
+John Garang Memorial University	viceChancellor	Prof. Julia Aker Duany PhD
+Institute of Chemical Technology	viceChancellor	G. D. Yadav
+Institute of Chemical Technology	viceChancellor	Fellow of the Royal Society of Chemistry
+University of Exeter	viceChancellor	Steve Smith
+Jiangsu Second Normal University	viceChancellor	Professor 周成平 hengping Zhou
+Muni University	viceChancellor	Christine Dranzoa
+The East African University	viceChancellor	Prof.
+Amrita Vishwa Vidyapeetham	viceChancellor	P. Venkat Rangan
+University of Indianapolis – Athens Campus	viceChancellor	Susie Michaelidis
+University of Indianapolis – Athens Campus	viceChancellor	Vasilis Kiritsis
+University of Indianapolis – Athens Campus	viceChancellor	Dimitrios Levendakis
+Jindal Global Business School	viceChancellor	Prof. C. Raj Kumar
+Madrasah Riyazul Uloom	viceChancellor	Maulana Abdul Raheem Mazaahiri
+New York University Abu Dhabi	viceChancellor	Alfred Bloom
+Central University of Jammu	viceChancellor	Prof Ashok Aima
+Covenant University	viceChancellor	AA Atayero
+O. P. Jindal Global University	viceChancellor	C. Raj Kumar
+National Law University and Judicial Academy, Assam	viceChancellor	Dr. J. S. Patil
+Lahore Leads University	viceChancellor	Mahmood Ahmad Bodla
+Abdul Wali Khan University Mardan	viceChancellor	Prof. Dr Ihsan Ali
+Soroti University	viceChancellor	Robert Ikoja
+UTAS Faculty of Law	viceChancellor	Peter Rathjen
+Hamdard University Bangladesh	viceChancellor	Dr.Tanvir Ahmed Khan
+Thunchath Ezhuthachan Malayalam University	viceChancellor	K. Jayakumar
+European University of Bangladesh	viceChancellor	Prof. Dr. Mokbul Ahmed Khan
+Rajabazar Science College	viceChancellor	Sugata Marjit
+University School of Law and Legal Studies	viceChancellor	Anil Kumar Tyagi
+Assam Don Bosco University	viceChancellor	Fr  Stephen Mavely, SDB
+Northwest University Kano	viceChancellor	Professor Mustapha Ahmad Isah
+Sol Plaatje University	viceChancellor	Yunus Ballim
+Prajyothi Niketan College	viceChancellor	M.Abdul Salam
+Faculty Of Engineering, Jamia Millia Islamia	viceChancellor	Talat Ahmad
+Landmark University	viceChancellor	Professor Aize Obayan
+Gregory University	viceChancellor	Juliet Elu
+Bauchi State University	viceChancellor	Professor
+Bauchi State University	viceChancellor	Ezzeldin Muktar Abdurahman
+Laikipia University	viceChancellor	Prof. Francis Lelo, PHD
+Pontificia Universidad Católica del Ecuador	viceChancellor	Gilberto Freire Yánez, S.J.
+University of Mpumalanga	viceChancellor	Prof Thoko Mayekiso
+Coleg Cymraeg Cenedlaethol	viceChancellor	Andrew Green
+Rajshahi University of Engineering & Technology	viceChancellor	Mohd. Rafiqul Alam Beg
+Salem University, Lokoja	viceChancellor	Joseph Fuwape
+Chandigarh University	viceChancellor	Dr. R.S Bawa
+Indira Gandhi University, Meerpur	viceChancellor	Prof. Dr. S.P. Bansal
+Kingston University	viceChancellor	Julius Weinberg
+Jagan Nath University, NCR	viceChancellor	H. L. Verma
+Guru Ravidas Ayurved University	viceChancellor	Prof. Om Prakash Upadhyaya
+UET KSK Campus	viceChancellor	Fazal Ahmad Khalid
+NFC Institute of Engineering and Fertilizer Research	viceChancellor	Fazal Ahmad Khalid
+AMU Malappuram Campus	viceChancellor	Lt. General Zameerud-din Shah
+University of Kent – School of Sport & Exercise Sciences	viceChancellor	Dame
+University of Kent – School of Sport & Exercise Sciences	viceChancellor	Julia Goodfellow
+Aligarh Muslim University	viceChancellor	Lt. General Zameer Uddin Shah
+Cihan University	viceChancellor	Serwan Baban
+University of Vocational Technology	viceChancellor	Dr. T.A. Piyasiri
+Maharaja Agrasen University	viceChancellor	Prof.S.P. Bansal
+St. Augustine International University	viceChancellor	Charity B. Mulenga PhD
+Liaquat University of Medical and Health Sciences	viceChancellor	Noshad A. Shaikh
+Uganda Technology and Management University	viceChancellor	Prof. Venansius Baryamureeba
+Amrita School of Engineering, Bengaluru	viceChancellor	P. Venkat Rangan
+Apex Professional University	viceChancellor	Prof. Dr. Ajit Kumar Anandrao Dange
+Ramakrishna Mission Vivekananda University - Coimbatore Campus	viceChancellor	Swami Atmapriyananda, Swami Abhiramananda
+Muhammad Nawaz Sharif University of Engineering & Technology	viceChancellor	DR PLAN C
+University of Engineering and Technology, Rasul	viceChancellor	Fazal Ahmad Khalid
+Khawaja Fareed University of Engineering and Information Technology	viceChancellor	Athar Mahboob
+Federal University Dutse	viceChancellor	Professor Fatima Botoul
+Federal University, Lokoja	viceChancellor	Professor Abdulmumini Hassan Rafindadi
+Pakistan Institute of Engineering and Technology	viceChancellor	Zubair Ahmad Khan
+University of Swabi	viceChancellor	Prof. Dr Noor Jehan
+FATA University	viceChancellor	Dr. Mohammad Tahir Shah
+Information Technology University	viceChancellor	Umar Saif
+Indira Gandhi Technological and Medical Sciences University	viceChancellor	Dr.S.N.Pandey
+Atal Bihari Vajpayee Hindi Vishwavidyalaya	viceChancellor	Mohan Lal Cheepa
+Chaudhary Ranbir Singh University	viceChancellor	Major general  Ranjit Singh
+Chhattisgarh Kamdhenu Vishwavidyalaya	viceChancellor	Dr. Umesh K. Mishra
+Darul Uloom Mau	viceChancellor	Hafiz Zaki Naqshbandi
+Pacific University	viceChancellor	Prof. Bhagawati Prakash Sharma
+Tasmanian School of Business and Economics	viceChancellor	Peter Rathjen
+Jamia-tul-Madina	viceChancellor	Mufti Muhammad Qasam Qadri
+Faculty of Social Sciences, Banaras Hindu University	viceChancellor	Girish Chandra Tripathi
+Federal University, Otuoke	viceChancellor	Prof. Seth Accra Jaja
+Institute of Science, Banaras Hindu University	viceChancellor	Girish Chandra Tripathi
+Adeleke University	viceChancellor	Professor Oluwole Olayiwola Amusan
+Muslim Youth University	viceChancellor	Dr. Maria Sultan
+Ondo State University of Medical Sciences	viceChancellor	Professor Friday Okonofua
+FLAME University	viceChancellor	Dr. Devi Singh
+Riphah International University Faisalabad	viceChancellor	Anis Ahmad
+Faculty of Visual Arts, Banaras Hindu University	viceChancellor	Girish Chandra Tripathi
+Chaudhary Bansi Lal University	viceChancellor	Prof. S.K. Gakhar
+University College of Science, Technology & Agriculture	viceChancellor	Sugata Marjit
+Uttarakhand Sanskrit University	viceChancellor	Prof. Piyush Kant Dixit
+Guangdong Technion-Israel Institute of Technology	viceChancellor	Aaron Ciechanover
+Faridpur Engineering College	viceChancellor	AAMS Arefin Siddique
+Bangladesh Army International University of Science & Technology	viceChancellor	Brig. Gen.
+BRAC University	viceChancellor	Syed Saad Andaleeb
+University of Kisubi	viceChancellor	John Ssebuwufu
+Markaz Law College	viceChancellor	Hussain Saqafi Chullikkod
+Markaz Arts and Science College	viceChancellor	Hussain Saqafi Chullikkod
+Rajshahi Science & Technology University	viceChancellor	Prof. Dr. Mohammed Shahjahan

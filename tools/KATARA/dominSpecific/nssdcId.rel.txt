@@ -1,7 +1,8 @@
-International Space Station	nssdcId	1998-067A
-Skylab	nssdcId	1973-027A
-Mir	nssdcId	1986-017A
-Salyut 1	nssdcId	1971-032A
-Salyut 3	nssdcId	1974-046A
-Genesis I	nssdcId	2006-029A
-Genesis II	nssdcId	2007-028A
+Skylab	nssdcId	1973
+Mir	nssdcId	1986
+Salyut 3	nssdcId	1974
+Salyut 1	nssdcId	1971
+Genesis I	nssdcId	2006
+Genesis II	nssdcId	2007
+Kosmos 557	nssdcId	1973
+Tiangong-1	nssdcId	2011

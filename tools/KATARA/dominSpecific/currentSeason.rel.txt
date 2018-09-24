@@ -1,345 +1,746 @@
-National Football League	currentSeason	2011 NFL season
-National Hockey League	currentSeason	2011-12 NHL season
-National Basketball Association	currentSeason	2011\u201312 NBA season
-Six Nations Championship	currentSeason	2011 Six Nations Championship
-Major League Baseball	currentSeason	2011 Major League Baseball season
-Canadian Football League	currentSeason	2011 CFL season
-Women's National Basketball Association	currentSeason	2011 WNBA season
-Arena Football League	currentSeason	2011 Arena Football League season
-Baloncesto Superior Nacional	currentSeason	BSN Season 2011
-National Lacrosse League	currentSeason	2011 NLL season
-Nippon Professional Baseball	currentSeason	2011 Nippon Professional Baseball season
-Caribbean Series	currentSeason	2011 Caribbean Series
-IRB Sevens World Series	currentSeason	2010\u201311 IRB Sevens World Series
-Ontario Hockey League	currentSeason	2010\u201311 OHL season
-Western Hockey League	currentSeason	2011\u201312 WHL season
-Quebec Major Junior Hockey League	currentSeason	2010\u201311 QMJHL season
-Ice Hockey World Championships	currentSeason	2011 Men's World Ice Hockey Championships
-Davis Cup	currentSeason	2011 Davis Cup
-Major League Lacrosse	currentSeason	2011 MLL season
-OFC Nations Cup	currentSeason	2012 OFC Nations Cup
-University Athletic Association of the Philippines	currentSeason	UAAP Season 74
-National Basketball League (Australasia)	currentSeason	2010\u201311 NBL season
-Elitserien	currentSeason	2011\u201312 Elitserien season
-Currie Cup	currentSeason	2011 Currie Cup Premier Division
-Philippine Basketball Association	currentSeason	2011 PBA Governors Cup
-Little League Baseball	currentSeason	2010 Little League World Series
-Central Hockey League	currentSeason	2010\u201311 CHL season
-NCAA Men's Division I Basketball Championship	currentSeason	2011 NCAA Men's Division I Basketball Tournament
-Deutsche Eishockey Liga	currentSeason	2010\u201311 Deutsche Eishockey Liga season
-NCAA Women's Division I Basketball Championship	currentSeason	2011 NCAA Women's Division I Basketball Tournament
-Euroleague Basketball	currentSeason	2011\u201312 Euroleague Basketball
-British Basketball League	currentSeason	2011\u201312 British Basketball League season
-National League A	currentSeason	2011\u201312 National League A
-SM-liiga	currentSeason	2010\u201311 SM-liiga season
-United States Hockey League	currentSeason	2010\u201311 USHL season
-Lingerie Football League	currentSeason	2011-12 LFL season
-Anglo-Welsh Cup	currentSeason	2010\u201311 LV Cup
-Little League World Series	currentSeason	Qualification for the 2011 Little League World Series
-DFB-Pokal	currentSeason	2011\u201312 DFB-Pokal
-ITM Cup	currentSeason	2011 ITM Cup
-NCAA Men's Lacrosse Championship	currentSeason	2011 NCAA Division I Men's Lacrosse Championship2011 Division I Championship
-Svenska Cupen	currentSeason	2011 Svenska Cupen
-Churchill Cup	currentSeason	2011 Churchill Cup
-EuroBasket	currentSeason	EuroBasket 2011
-PGA European Tour	currentSeason	2011 European Tour
-Hockey World Cup	currentSeason	2010 Men's Hockey World Cup
-FIRST Lego League	currentSeason	Body Forward
-Elite Ice Hockey League	currentSeason	2010\u201311 EIHL season
-Cyberathlete Professional League	currentSeason	CPL Events 2009
-Fed Cup	currentSeason	2011 Fed Cup
-Korea Professional Baseball	currentSeason	2011 Korea Professional Baseball season
-Liga ACB	currentSeason	2011\u201312 ACB season
-Japan Golf Tour	currentSeason	2011 Japan Golf Tour
-Asian Tour	currentSeason	2011 Asian Tour
-World TeamTennis	currentSeason	2011 World TeamTennis season
-Top League	currentSeason	2010-11 Top League
-Super Basketball League	currentSeason	2010\u201311 SBL season
-Sunshine Tour	currentSeason	2011 Sunshine Tour
-World Men's Handball Championship	currentSeason	2011 World Men's Handball Championship
-FIVB World League	currentSeason	2011 FIVB World League
-FIVB World Grand Prix	currentSeason	2011 FIVB World Grand Prix
-PGA Tour of Australasia	currentSeason	2011 PGA Tour of Australasia
-FAI Cup	currentSeason	2011 FAI Cup
-Irish Cup	currentSeason	2010\u201311 Irish Cup
-European Nations Cup (rugby union)	currentSeason	2010\u20132012 European Nations Cup First Division
-Korean Basketball League	currentSeason	2010\u201311 KBL season
-Victorian Women's Football League	currentSeason	2011 VWFL season
-British Columbia Hockey League	currentSeason	2010\u201311 BCHL season
-Ligue Nationale de Basketball	currentSeason	2011-12 LNB season
-UCI Women's Road World Cup	currentSeason	2011 UCI Women's Road World Cup
-Swiss Cup	currentSeason	2010\u201311 Swiss Cup
-Central Canada Hockey League	currentSeason	2011\u201312 CCHL season
-New England Collegiate Baseball League	currentSeason	2011 NECBL season
-Slovak Extraliga	currentSeason	2010\u201311 Slovak Extraliga
-Liga ABA	currentSeason	2010\u201311 Liga ABA
-Australian Ice Hockey League	currentSeason	2011 AIHL season
-BLNO	currentSeason	2010\u201311 BLNO season
-Turkish Basketball League	currentSeason	Turkish Basketball League 2010\u20132011
-Australian Football International Cup	currentSeason	2011 Australian Football International Cup
-Women's National Basketball League	currentSeason	2010/11 WNBL Season
-New Zealand Football Championship	currentSeason	2010-11 ASB Premiership
-Ontario Australian Football League	currentSeason	2011 OAFL season
-United States Australian Football League	currentSeason	April\u2013October
-ARCA Racing Series presented by Menards	currentSeason	2011 in ARCA Racing Series
-Kootenay International Junior Hockey League	currentSeason	2010-11 KIJHL Season
-Mestis	currentSeason	2009\u201310 Mestis season
-Continental Indoor Football League	currentSeason	2011 Continental Indoor Football League season
-FIRST Robotics Competition	currentSeason	Logo Motion
-Bundesliga (baseball)	currentSeason	2011
-Suomi-sarja	currentSeason	2009-10 Suomi-sarja season
-Major League Gaming	currentSeason	2010-11 MLG Pro Circuit Offseason
-Shakey's V-League	currentSeason	V-League 8th Season 2nd Conference
-TAC Cup	currentSeason	2011 TAC Cup
-Pacific Nations Cup	currentSeason	2011 IRB Pacific Nations Cup
-Tiwi Islands Football League	currentSeason	2010-11 Wet Season
-National Basketball League (New Zealand)	currentSeason	2011 New Zealand NBL
-Shute Shield	currentSeason	2010 Shute Shield Season
-IIHF World Championship Division I	currentSeason	2011 IIHF World Championship Division I
-Superliga Española de Hockey Hielo	currentSeason	Liga Nacional 2010/2011 season
-Russian Major League	currentSeason	2010-11 VHL season
-South East Australian Basketball League	currentSeason	2011 SEABL season
-Northern Football League (Australia)	currentSeason	2011 Northern Football League Season
-International League	currentSeason	2011 International League season
-Australian Football League	currentSeason	2011 AFL season
-HockeyAllsvenskan	currentSeason	2011\u201312 HockeyAllsvenskan season
-HEBA A1	currentSeason	HEBA A1 2010\u201311
-IIHF World Championship Division II	currentSeason	2011 IIHF World Championship Division II
-IIHF World Championship Division III	currentSeason	2011 IIHF World Championship Division III
-Rugby Super League (United States)	currentSeason	2011 Rugby Super League season
-Liga Española de Baloncesto	currentSeason	2011\u20132012 LEB Oro season
-IIHF World U20 Championship	currentSeason	2011 World Junior Ice Hockey Championships
-FINA Water Polo World League	currentSeason	2011 FINA Men's Water Polo World League
-IRB Nations Cup	currentSeason	2011 IRB Nations Cup
-Basketball League of Serbia	currentSeason	2011\u201312 Basketball League of Serbia
-Sultan Azlan Shah Cup	currentSeason	2011 Sultan Azlan Shah Cup
-British Superbike Championship	currentSeason	2011 British Superbike Championship season
-Lega Basket Serie A	currentSeason	Lega Basket Serie A 2010\u201311
-Rugby Pro D2	currentSeason	2010\u201311 Rugby Pro D2 season
-Turkish Super Cup	currentSeason	2011 Turkish Super Cup
-Speedway World Cup	currentSeason	2011 Speedway World Cup
-FIBA Asia Championship	currentSeason	2011 FIBA Asia Championship
-FIBA Africa Championship	currentSeason	2011 FIBA Africa Championship
-FIBA Americas Championship	currentSeason	2011 FIBA Americas Championship
-FIBA Oceania Championship	currentSeason	FIBA Oceania Championship 2009
-William Jones Cup	currentSeason	2010 William Jones Cup
-Heartland Championship	currentSeason	2010 Heartland Championship
-Women's Hockey World Cup	currentSeason	2010 Women's Hockey World Cup
-Africa Cup	currentSeason	2008 Africa Cup
-Men's Collegiate Lacrosse Association	currentSeason	2011
-Basketball Bundesliga	currentSeason	Basketball Bundesliga 2010\u201311
-Professional Rugby League	currentSeason	2011 Professional Rugby League season
-Women's EHF Challenge Cup	currentSeason	2010\u201311 Women's EHF Challenge Cup
-Women's EHF Cup	currentSeason	2010\u201311 Women's EHF Cup
-EHF Women's Cup Winners' Cup	currentSeason	2010\u201311 EHF Women's Cup Winners' Cup
-EHF Women's Champions League	currentSeason	EHF Women's Champions League 2011/12
-Liga Portuguesa de Basquetebol	currentSeason	2010\u201311 LPB Season
-World Polo Championship	currentSeason	thumb|230px|The current champion team, Chile, with President Michelle Bachelet and the trophy of the 2008 World Polo Championship
-IAAF World Race Walking Challenge	currentSeason	2010 IAAF World Race Walking Challenge
-Women's CEV Champions League	currentSeason	Women's CEV Champions League 2011\u201312
-CEV Champions League	currentSeason	Men's CEV Champions League 2011\u201312
-Korisliiga	currentSeason	2011-12 Korisliiga season
-Eurocup Basketball	currentSeason	Eurocup Basketball 2011\u201312
-Israeli Basketball Super League	currentSeason	2010\u201311 Israeli Basketball Super League
-V.League (Japan)	currentSeason	V.League 2009/10
+National Football League	currentSeason	2016
+National Hockey League	currentSeason	2016
+National Basketball Association	currentSeason	2016
+World Series of Poker	currentSeason	2016
+Major League Baseball	currentSeason	2016
+Canadian Football League	currentSeason	2016
+Women's National Basketball Association	currentSeason	2016
+National Lacrosse League	currentSeason	2016
+Nippon Professional Baseball	currentSeason	2016
+LPGA	currentSeason	2016
+Caribbean Series	currentSeason	2016
+Hong Kong Sevens	currentSeason	2016
+World Rugby Sevens Series	currentSeason	2016
+American Hockey League	currentSeason	2016
+Western Hockey League	currentSeason	2016
+Quebec Major Junior Hockey League	currentSeason	2015
+Ontario Hockey League	currentSeason	2016
+Ice Hockey World Championships	currentSeason	2016
+Davis Cup	currentSeason	2016
+Major League Lacrosse	currentSeason	2016
+World Cup of Hockey	currentSeason	2016
+University Athletic Association of the Philippines	currentSeason	UAAP Season 79
+Super Rugby	currentSeason	2016
+National Basketball League	currentSeason	2016
+Victorian Football League	currentSeason	2016
+ECHL	currentSeason	2016
+Swedish Hockey League	currentSeason	2016
+West Australian Football League	currentSeason	2016
+Canadian American Association of Professional Baseball	currentSeason	2016
+South Australian National Football League	currentSeason	2016
+Little League Baseball	currentSeason	2016
+World Poker Tour	currentSeason	World Poker Tour season 15 results
+NBA Development League	currentSeason	2016
+Hockey Champions Trophy	currentSeason	2016
+NCAA Men's Division I Basketball Tournament	currentSeason	2017
+Deutsche Eishockey Liga	currentSeason	2016
+NCAA Women's Division I Basketball Championship	currentSeason	2016
+National Invitation Tournament	currentSeason	2016
+NCAA Men's Ice Hockey Championship	currentSeason	2016
+British Basketball League	currentSeason	2016
+National League A	currentSeason	2016
+Canadian Interuniversity Sport women's ice hockey	currentSeason	2011
+NCAA Rifle Championship	currentSeason	2016
+Liiga	currentSeason	2016
+United States Hockey League	currentSeason	2015
+Anglo-Welsh Cup	currentSeason	2016
+World Lacrosse Championship	currentSeason	2014
+Oceania Cup	currentSeason	2015
+Mitre 10 Cup	currentSeason	2016
+NCAA Men's Lacrosse Championship	currentSeason	2016
+German Football League	currentSeason	2016
+PlusLiga	currentSeason	2016
+Spengler Cup	currentSeason	2016
+Centrobasket	currentSeason	2016
+EuroBasket	currentSeason	EuroBasket 2017 qualification
+PGA European Tour	currentSeason	2016
+Southern Professional Hockey League	currentSeason	2016
+Chinese Basketball Association	currentSeason	2015
+Hockey World Cup	currentSeason	2014
+FIRST Lego League	currentSeason	Animal Allies
+Top 14	currentSeason	2016
+Elite Ice Hockey League	currentSeason	2015
+Cyberathlete Professional League	currentSeason	N/A
+Fed Cup	currentSeason	2016
+KBO League	currentSeason	2016
+Lietuvos krepšinio lyga	currentSeason	2016
+Liga ACB	currentSeason	2016
+IIHF World Women's Championships	currentSeason	2016
+European Poker Tour	currentSeason	European Poker Tour season 13 results
+Challenge Tour	currentSeason	2016
+Japan Golf Tour	currentSeason	2016
+PGA Tour Canada	currentSeason	2016
+Asian Tour	currentSeason	2016
+Super Basketball League	currentSeason	2015
+Sunshine Tour	currentSeason	2016
+FIVB Volleyball World League	currentSeason	2016
+English Basketball League	currentSeason	2015
+FIVB Volleyball World Grand Prix	currentSeason	2016
+PGA Tour of Australasia	currentSeason	2016
+Ladies European Tour	currentSeason	2016
+LPGA of Japan Tour	currentSeason	2016
+Rugby Europe International Championships	currentSeason	2016
+Thomas Cup	currentSeason	2016
+Women's Chinese Basketball Association	currentSeason	2014
+Korean Basketball League	currentSeason	2015
+Victorian Women's Football League	currentSeason	2015
+British Columbia Hockey League	currentSeason	2015
+FIBA Basketball World Cup	currentSeason	2019
+LNB Pro A	currentSeason	2016
+Royal Bank Cup	currentSeason	2016
+World Baseball Classic	currentSeason	2017
+Sudirman Cup	currentSeason	2017
+National Collegiate Athletic Association	currentSeason	NCAA Season 92
+New England Collegiate Baseball League	currentSeason	2016
+Slovak Extraliga	currentSeason	2016
+Uber Cup	currentSeason	2016
+ABA League	currentSeason	2016
+Liga Nacional de Básquet	currentSeason	2016
+Asia League Ice Hockey	currentSeason	2016
+Australian Ice Hockey League	currentSeason	2016
+BLNO	currentSeason	2015
+Turkish Basketball Super League	currentSeason	2016
+Turkish Women's Basketball League	currentSeason	2016
+English Premier Ice Hockey League	currentSeason	2015
+A-1 Liga	currentSeason	2016
+National Collegiate Athletic Association	currentSeason	NCAA South Season 18
+EuroBasket Women	currentSeason	EuroBasket Women 2015
+AFL Ontario	currentSeason	2015
+Kootenay International Junior Hockey League	currentSeason	2016
+FedEx Cup	currentSeason	2016
+Basketball Championship of Bosnia and Herzegovina	currentSeason	2015
+Euro Hockey Tour	currentSeason	2015
+Chinese Professional Baseball League	currentSeason	2016
+Maui Invitational Tournament	currentSeason	2016
+Australian Football League pre-season competition	currentSeason	2016
+Bundesliga	currentSeason	2015
+Suomi-sarja	currentSeason	2015
+Copa del Rey de Baloncesto	currentSeason	2016
+Major League Gaming	currentSeason	2016
+Shakey's V-League	currentSeason	Shakey's V-League 13th Season Reinforced Conference
+World Rugby Pacific Nations Cup	currentSeason	2016
+Tasmanian Football League	currentSeason	2015
+Intrust Super Premiership NSW	currentSeason	2016
+Ligue Magnus	currentSeason	2016
+Supercopa de España de Baloncesto	currentSeason	2016
+Maritime Junior A Hockey League	currentSeason	2015
+National League B	currentSeason	2016
+Prairie Junior Hockey League	currentSeason	2016
+Vancouver Island Junior Hockey League	currentSeason	2016
+Manitoba Major Junior Hockey League	currentSeason	2015
+Metal Ligaen	currentSeason	2016
+Liga Nacional de Hockey Hielo	currentSeason	2015
+Women's National Invitation Tournament	currentSeason	2016
+Supreme Hockey League	currentSeason	2014
+South East Australian Basketball League	currentSeason	2016
+National Collegiate Roller Hockey Association	currentSeason	2012
+Ukrainian Basketball SuperLeague	currentSeason	2016
+Big V	currentSeason	2016
+Liga Nacional de Baloncesto Profesional	currentSeason	2016
+Queensland Basketball League	currentSeason	2016
+Premier League	currentSeason	2016
+Mexican Pacific League	currentSeason	2016
+Waratah League	currentSeason	2016
+Australian Football League	currentSeason	2016
+HockeyAllsvenskan	currentSeason	2016
+IIHF World Championship Division II	currentSeason	2016
+IIHF World Championship Division III	currentSeason	2016
+South Australian Amateur Football League	currentSeason	2014
+Telus Cup	currentSeason	2016
+Liga Española de Baloncesto	currentSeason	2016
+Speedway Grand Prix	currentSeason	2016
+World U-17 Hockey Challenge	currentSeason	2014
+IIHF World U20 Championship	currentSeason	2016
+2006–07 EIHL season	currentSeason	2006
+2005–06 EIHL season	currentSeason	2005
+Irish American Football League	currentSeason	2016
+2003–04 EIHL season	currentSeason	2003
+World Rugby Nations Cup	currentSeason	2016
+National Pro Fastpitch	currentSeason	2016
+Safari Sevens	currentSeason	2016
+Polish Basketball League	currentSeason	2016
+Basketball League of Serbia	currentSeason	2015
+Sultan Azlan Shah Cup	currentSeason	2016
+Lega Basket Serie A	currentSeason	2016
+FIBA Women's Basketball World Cup	currentSeason	2018
+African Men's Handball Championship	currentSeason	2016
+Rugby Pro D2	currentSeason	2016
+AfroBasket	currentSeason	AfroBasket 2015
+FIBA Americas Championship	currentSeason	2015
+FIBA Oceania Championship	currentSeason	2017
+Heartland Championship	currentSeason	2016
+Women's Hockey World Cup	currentSeason	2014
+London Sevens	currentSeason	2016
+Singapore Sevens	currentSeason	2016
+USA Sevens	currentSeason	2016
+Africa Cup	currentSeason	2016
+Pan American Men's Handball Championship	currentSeason	2016
+African Women's Volleyball Championship	currentSeason	2015
+Liga Sudamericana de Básquetbol	currentSeason	2015
+African Volleyball Championship U21	currentSeason	2015
+Basketball Bundesliga	currentSeason	2016
+Professional Rugby League	currentSeason	2013
+Women's EHF Challenge Cup	currentSeason	2015
+Women's EHF Cup	currentSeason	2016
+Women's EHF Champions League	currentSeason	2016
+Liga Portuguesa de Basquetebol	currentSeason	2016
+FIVB Volleyball Men's U21 World Championship	currentSeason	2015
+FIVB Volleyball Women's U20 World Championship	currentSeason	2015
+IAAF Race Walking Challenge	currentSeason	2016
+Portuguese Volleyball First Division	currentSeason	2014
+Women's CEV Cup	currentSeason	2016
+CEV Champions League	currentSeason	2016
+CEV Challenge Cup	currentSeason	2015
+CEV Women's Champions League	currentSeason	2016
+CEV Women's Challenge Cup	currentSeason	2016
+Korisliiga	currentSeason	2015
+EuroCup Basketball	currentSeason	2016
+Israeli Basketball Premier League	currentSeason	2016
+V.League	currentSeason	V.League 2015-16
 Enterprise Football League	currentSeason	Enterprise Football League 2008
-Victory Shield	currentSeason	2009 Victory Shield
-Football Superleague of Kosovo	currentSeason	2011\u201312 Football Superleague of Kosovo
-Divizia A (Baschet Masculin)	currentSeason	2010\u201311 Divizia A
-Ultimate Indoor Football League	currentSeason	2011 UIFL season
-Women's Six Nations Championship	currentSeason	2011 Women's Six Nations Championship
-International Rules Series	currentSeason	2011 International Rules Series
+Victory Shield	currentSeason	2014
+World Junior A Challenge	currentSeason	2015
+Liga Națională	currentSeason	2016
+FIVB Volleyball Boys' U19 World Championship	currentSeason	2015
+Bahraini Premier League	currentSeason	2015
+Women's Six Nations Championship	currentSeason	2016
+Scottish Basketball Championships	currentSeason	2016
+Cyprus Basketball Division 1	currentSeason	2016
 Highschool Football League	currentSeason	Highschool Football League 2008
-FIRST Tech Challenge	currentSeason	Get Over It!
-Women's National Cricket League	currentSeason	Women's National Cricket League 2009-10
-GET-ligaen	currentSeason	2010\u201311 GET-ligaen season
-New South Wales Major League	currentSeason	NSW Major League 2010-11
-Croatian Ice Hockey League	currentSeason	2010\u201311 Croatian Ice Hockey League season
-EuroLeague Women	currentSeason	EuroLeague Women 2011\u201312
-Professional Inline Hockey Association	currentSeason	2010\u201311 PIHA season
-Canadian Major Indoor Soccer League	currentSeason	2010 CMISL season
-British Columbia Intercollegiate Hockey League	currentSeason	2009-10 BCIHL season
-EuroChallenge	currentSeason	EuroChallenge 2011\u201312
-Caloundra RSL Cup (cricket)	currentSeason	2006/2007
-AMA Supersport Championship	currentSeason	2010 AMA Pro Supersport Championship season
-Birinci Lig	currentSeason	Birinci Lig 2010-11
-Macedonian Cup	currentSeason	2010\u201311 Macedonian Cup
-Austrian Hockey League	currentSeason	2010\u201311 Erste Bank Eishockey Liga season
-ANZ Championship	currentSeason	2011 ANZ Championship season
-Elitserien (bandy)	currentSeason	2010\u20132011 Elitserien (bandy)
-FIBA Under-21 World Championship	currentSeason	FIBA Under-21 World Championship 2005
-Gordon Head Baseball Association	currentSeason	2009 Gordon Head Baseball Association
-Polish American Football League	currentSeason	2011 PLFA season
-FIBA Under-19 World Championship	currentSeason	2011 FIBA Under-19 World Championship
-Baseball in Greece	currentSeason	2010 Greek Baseball League season
-Superliga Brasileira de Voleibol	currentSeason	2009-10 Superliga season
-FIBA Americas Under-20 Championship	currentSeason	FIBA Americas Under-21 Championship 2004
-FIBA Americas Under-20 Championship for Women	currentSeason	FIBA Americas Under-20 Championship for Women 2006
-FIBA Americas Under-18 Championship	currentSeason	FIBA Americas Under-18 Championship 2010
-FIBA Americas Under-18 Championship for Women	currentSeason	FIBA Americas Under-18 Championship for Women 2010
-Team Speedway Junior World Championship	currentSeason	2010 Team Speedway Junior World Championship
-South Australia Rugby Union	currentSeason	2011
-Speedway Ekstraliga	currentSeason	2010 Speedway Ekstraliga
-Intercity Football League	currentSeason	2010 Intercity Football League
-CIS football	currentSeason	2010 CIS football season
-European Trophy	currentSeason	2011 European Trophy
-French Road Cycling Cup	currentSeason	2011 French Road Cycling Cup
-FIBA Africa Championship for Women	currentSeason	FIBA Africa Championship for Women 2009
-FIBA Oceania Championship for Women	currentSeason	FIBA Oceania Championship for Women 2009
-FIBA Americas Championship for Women	currentSeason	FIBA Americas Championship for Women 2011
-Scottish Premiership	currentSeason	2010-11 Scottish Premiership
-Superbike World Championship	currentSeason	2011 Superbike World Championship season
-Supersport World Championship	currentSeason	2011 Supersport World Championship season
-Scottish Regional Leagues	currentSeason	2007-08 Scottish Hydro Electric Regional Leagues
-Flint Metro League	currentSeason	39
-Michigan State League	currentSeason	Defunct
-Elgon Cup	currentSeason	2010 Elgon Cup
+South Australian Women's Football League	currentSeason	2014
+FIVB Volleyball Girls' U18 World Championship	currentSeason	2015
+Basketligan	currentSeason	2016
+FIRST Tech Challenge	currentSeason	FIRST Velocity Vortex
+SuperLiga	currentSeason	2016
+AFL Women's National Championships	currentSeason	2015
+GET-ligaen	currentSeason	2016
+WSF World Team Squash Championships	currentSeason	2015
+New South Wales Major League	currentSeason	index.cfm?fuseaction=Display Page&PageID=8999&OrgID=20422
+Croatian Ice Hockey League	currentSeason	2016
+EuroLeague Women	currentSeason	2016
+EuroCup Women	currentSeason	2016
+Österreichische Basketball Bundesliga	currentSeason	2016
+Professional Inline Hockey Association	currentSeason	Founders Cup
+BBL Cup	currentSeason	2014
+BBL Trophy	currentSeason	2015
+British Columbia Intercollegiate Hockey League	currentSeason	2014
+OK Liga	currentSeason	2015
+Caloundra RSL Cup	currentSeason	2006
+AMA Supersport Championship	currentSeason	2016
+Badminton Asia Championships	currentSeason	2016
+List of Davis Cup champions	currentSeason	2016
+Rip Curl Pro	currentSeason	Rip Curl Pro 2015
+Rip Curl Pro	currentSeason	Rip Curl Pro 2015
+North American Roller Hockey Championships	currentSeason	2013
+Austrian Hockey League	currentSeason	2015
+Western Australian Amateur Football League	currentSeason	2016
+Elitserien	currentSeason	2015
+LEN Euro Cup	currentSeason	2016
+Premier A Slovenian Basketball League	currentSeason	2016
+Netball Superleague	currentSeason	2016
+Kosovo Basketball Superleague	currentSeason	2016
+State Basketball League	currentSeason	2016
+2007–08 EIHL season	currentSeason	2007
+Polish American Football League	currentSeason	2016
+FIBA Asia Champions Cup	currentSeason	2016
+Greek Basketball Cup	currentSeason	2016
+NBA Summer League	currentSeason	2016
+FIBA Americas Under-18 Championship	currentSeason	2016
+FIBA Americas Under-18 Championship for Women	currentSeason	2016
+Team Speedway Junior World Championship	currentSeason	2016
+FIBA Stanković Continental Champions' Cup	currentSeason	2016
+South American Basketball Championship	currentSeason	2016
+Individual Speedway Junior World Championship	currentSeason	2016
+Individual Speedway European Championship	currentSeason	2016
+Intercity Football League	currentSeason	2015
+Serie A2 Basket	currentSeason	2016
+North American 3 Hockey League	currentSeason	2015
+Canadian Interuniversity Sport football	currentSeason	2016
+FIBA Africa Clubs Champions Cup	currentSeason	2015
+French Road Cycling Cup	currentSeason	2016
+FIBA Americas Women's Championship	currentSeason	2015
+FIBA Oceania Women's Championship	currentSeason	2017
+AfroBasket Women	currentSeason	AfroBasket Women 2015
+Supersport World Championship	currentSeason	2016
+Elgon Cup	currentSeason	2012
 FIBA Oceania Youth Tournament	currentSeason	FIBA Oceania Youth Tournament 2010
-Premier league men	currentSeason	2010-11 season
-CAR Development Trophy	currentSeason	2008 Castel Beer Trophy
-Baltic Basketball League	currentSeason	Baltic Basketball League 2010\u201311
-Iranian Basketball Super League	currentSeason	2010\u201311 Iranian Basketball Super League
-Russian Volleyball Super League	currentSeason	Russian Volleyball Super League 2009\u201310
-Grand Prix gliding	currentSeason	FAI World Grand Prix 2010-2011
-UEMOA Tournament	currentSeason	2010 UEMOA Tournament
-LNFA	currentSeason	LNFA 2011
-Iranian Volleyball Super League	currentSeason	2010\u201311 Iranian Volleyball Super League
-Philadelphia Collegiate Roller Hockey League	currentSeason	2010\u201311 PCRHL season
-British Universities American Football League	currentSeason	2010-11
-Rugby-Bundesliga	currentSeason	Rugby-Bundesliga 2010\u201311
-FIBA Americas League	currentSeason	2010\u201311 Americas League
-Darwin Rugby League	currentSeason	Darwin Rugby League season 2009
-National Amateur Cup	currentSeason	2008 National Amateur Cup
-Independent Indoor Football Alliance	currentSeason	2010
-JK Tyre National Racing Championship	currentSeason	2008 JK Tyre National Racing Championship
-Team Speedway Junior European Championship	currentSeason	2010 Team Speedway Junior European Championship
-Irish Baseball League	currentSeason	2011 Irish Baseball League season
-A1 Ethniki Volleyball	currentSeason	Volleyleague 2010-2011
-Bulgarian Hockey League	currentSeason	2010-11 BHL Season
-South American Rugby Championship	currentSeason	2011 South American Rugby Championship
-Premier Calendar	currentSeason	2011 BC Premier Calendar
-Intercontinental Cup (basketball)	currentSeason	1996 Intercontinental Cup (basketball)
-Kontinental Hockey League	currentSeason	2011\u201312 KHL season
-FIBA CBC Championship	currentSeason	FIBA CBC Championship 2011
-FIBA Europe Under-20 Championship	currentSeason	2011 FIBA Europe Under-20 Championship
-FIBA Europe Under-16 Championship	currentSeason	2011 FIBA Europe Under-16 Championship
-Turkish Second Basketball League	currentSeason	TBL2 2010-2011 season
-American Inline Hockey League	currentSeason	2011 Champions Cup Finals
-IIHF InLine Hockey World Championship	currentSeason	2011 IIHF InLine Hockey World Championship
-Division Élite	currentSeason	2011 Division \u00C9lite
-Lebanese Basketball League	currentSeason	2010\u201311 Lebanese Basketball League
-FIBA Europe Under-20 Championship for Women	currentSeason	2011 FIBA Europe Under-20 Championship for Women
-Balkan International Basketball League	currentSeason	2010\u201311 BIBL season
-Central Carolina Hockey	currentSeason	2008\u201309 CCH season
-Indoor Football League	currentSeason	2011 Indoor Football League season
-Spring training	currentSeason	2011 Major League Baseball season
-Spring training  2011 Major League Baseball season   1	currentSeason	2011 Major League Baseball season
-FIBA Under-17 World Championship	currentSeason	FIBA Under-17 World Championship 2012
+World Pump Festival	currentSeason	World Pump Festival 2016
+Premier League	currentSeason	2016
+Championnat LNA	currentSeason	2016
+African Development Trophy	currentSeason	2008
+Asian Netball Championships	currentSeason	2016
+Baltic Basketball League	currentSeason	2016
+African Men's Junior Handball Championship	currentSeason	2014
+Iranian Basketball Super League	currentSeason	2015
+Russian Volleyball Super League	currentSeason	2015
+Grand Prix gliding	currentSeason	FAI World Grand Prix 2012-2013
+African Clubs Championship	currentSeason	2016
+Liga Nacional de Fútbol Americano	currentSeason	2015
+Iranian Volleyball Super League	currentSeason	2015
+Philadelphia Collegiate Roller Hockey League	currentSeason	2010
+División de Honor de Waterpolo	currentSeason	2015
+Rugby-Bundesliga	currentSeason	2015
+Hockey Junior World Cup	currentSeason	2016
+Women's Hockey Junior World Cup	currentSeason	2016
+2004–05 EIHL season	currentSeason	2004
+FIBA Americas League	currentSeason	2016
+Korvpalli Meistriliiga	currentSeason	2016
+Girls' Africa Volleyball Championship U18	currentSeason	2016
+African Volleyball Championship U19	currentSeason	2016
+Women's Africa Volleyball Championship U20	currentSeason	2015
+NCAA Division I Football Bowl Subdivision	currentSeason	2016
+College Basketball Invitational	currentSeason	2016
+National Amateur Cup	currentSeason	2012
+Independent Indoor Football Alliance	currentSeason	2012
+Maritime Football League	currentSeason	2015
+Greek A2 Basket League	currentSeason	2016
+Macedonian First League	currentSeason	2015
+Team Speedway Junior European Championship	currentSeason	2014
+Irish Baseball League	currentSeason	2014
+A1 Ethniki Volleyball	currentSeason	2015
+Polska Hokej Liga	currentSeason	2016
+National Basketball League	currentSeason	2015
+Bulgarian Hockey League	currentSeason	2011
+Bobsleigh World Cup	currentSeason	2015
+FIBA Intercontinental Cup	currentSeason	2016
+Kontinental Hockey League	currentSeason	2016
+World University Baseball Championship	currentSeason	2018
+Latin American Poker Tour	currentSeason	Latin American Poker Tour season 7 results
+Superliga de Voleibol Masculina	currentSeason	2016
+Superliga Femenina de Voleibol	currentSeason	2016
+FIBA Europe Under-20 Championship	currentSeason	2016
+FIBA Europe Under-16 Championship	currentSeason	2016
+FIBA Europe Under-18 Championship	currentSeason	2016
+Turkish Basketball Second League	currentSeason	TB2L 2015–16 season
+Turkish Basketball First League	currentSeason	2015
+Canadian University Field Lacrosse Association	currentSeason	2015
+Division Élite	currentSeason	2015
+Lebanese Basketball League	currentSeason	2015
+Women's Nations Cup	currentSeason	Nations Cup  2013
+FIBA Europe Under-20 Championship for Women	currentSeason	2016
+Balkan International Basketball League	currentSeason	2016
+FIBA Europe Under-16 Championship for Women	currentSeason	2016
+Indoor Football League	currentSeason	2016
+Salibandyliiga	currentSeason	2015
+FIBA Under-17 World Championship for Women	currentSeason	2016
+2008–09 EIHL season	currentSeason	2008
 Messenger Premier League	currentSeason	2010
-CECAFA U-17 Championship	currentSeason	2009 CECAFA U-17 Championship
-Libyan Arab Basketball Federation	currentSeason	Libyan Basketball League 2008-09
-Women's Football Alliance	currentSeason	2011 Women's Football Alliance season
-Triple Crown College Baseball League	currentSeason	2009 TCCBL Season
-United States Open Cup for Arena Soccer	currentSeason	2010\u201311 US Open Arena Soccer Championship
-Greater Brisbane League	currentSeason	Greater Brisbane League 2009-10
-Dominican Republic Volleyball League	currentSeason	2010 Dominican Republic Volleyball League
-Belgian Football League	currentSeason	2011 BFL season
-Flemish American Football League	currentSeason	2011 BFL season
-New Zealand National Rugby Sevens Tournament	currentSeason	2009 Pub Charity Sevens
-Super Ibérica de Rugby	currentSeason	2009 Superliga season
-National Dodgeball League	currentSeason	2010\u201311 NDL season
-Novo Basquete Brasil	currentSeason	2010-11 NBB season
-ASEAN Basketball League	currentSeason	2010\u201311 ABL Regular Season
-2nd Rugby-Bundesliga	currentSeason	Rugby-Bundesliga 2010\u201311
-World Netball Series	currentSeason	2010 World Netball Series
-MOL Liga	currentSeason	2010\u201311 MOL Liga season
-Liga de Voleibol Superior Femenino	currentSeason	2011 Liga de Voleibol Superior Femenino
-Samsung Diamond League	currentSeason	2011 Samsung Diamond League
-Serbian Hockey League	currentSeason	2009\u201310 Serbian Hockey League season
-Varsity Cup	currentSeason	2011 Varsity Cup
-Alberta Footy Women's League	currentSeason	2009 AFWL season
-UCI World Tour	currentSeason	2011 UCI World Tour
-Eastern Canada Australian Football League	currentSeason	2010 ECAFL season
-American Premier League	currentSeason	2009 American Premier League
-State Wars	currentSeason	State Wars V
-Yellow Sea Cup	currentSeason	2011 Yellow Sea Cup
-ESC Youth League	currentSeason	2009 ESC Youth League
-Rugby Canada National Junior Championship	currentSeason	2009 RCNJC season
-Serie A1 (inline hockey)	currentSeason	2008\u201309 Serie A1 season
-LEB Plata	currentSeason	2010\u20132011 LEB Plata season
-PGA Tour	currentSeason	2011 PGA Tour
-Americas Rugby Championship	currentSeason	2010 Americas Rugby Championship season
-UNAF U-17 Tournament	currentSeason	2011 UNAF U-17 Tournament
-British Supersport Championship	currentSeason	2010 British Supersport Championship season
-Liga EBA	currentSeason	2011\u20132012 Liga EBA season
-Copa America (indoor)	currentSeason	2008\u201309 Copa America (indoor)
-FIVB Club World Championship	currentSeason	2010 FIVB Men's Club World Championship
-USA Outdoor Track and Field Championships	currentSeason	2011 USA Outdoor Track and Field Championships
-Liga de Voleibol Superior Masculino	currentSeason	2009 Liga de Voleibol Superior Masculino
-Slohokej Liga	currentSeason	2010\u201311 Slohokej Liga season
-Southeast Football League	currentSeason	2011 SEFL Season
-VTB United League	currentSeason	VTB United League 2010\u201311
-Team Long Track World Championship	currentSeason	2010 Team Long Track World Championship
-USA Indoor Track and Field Championships	currentSeason	2010 USA Indoor Track and Field Championships
-National Basketball League (Indonesia)	currentSeason	2010-11 NBL Indonesia
-FIM Superstock 1000 Championship	currentSeason	2010 FIM Superstock 1000 Championship season
-Istanbul sevens	currentSeason	2010
-Major League Roller Hockey 2	currentSeason	2009\u201310 MLRH2 season
-Great Lakes Lacrosse League	currentSeason	2009
-Bosnia and Herzegovina Hockey League	currentSeason	2010\u201311 Bosnia and Herzegovina Hockey League season
-Major League Roller Hockey AA	currentSeason	2009\u201310 MLRH AA
-Metropolitan Swimming	currentSeason	2011 Long Course Season
-Proliga (Indonesia)	currentSeason	2011 Proliga
-Swiss Women's Cup	currentSeason	2009\u201310 Swiss Women's Cup
-Victoria Cup (rugby union)	currentSeason	2010 Victoria Cup
-Dewar Shield	currentSeason	2010 Dewar Shield Season
-German Athletics Championships	currentSeason	2011 German Athletics Championships
-FIBA Europe Under-18 Championship for Women	currentSeason	2011 FIBA Europe Under-18 Championship for Women
-Melbourne Winter Baseball League	currentSeason	Melbourne Winter Baseball Season 2010
-Hungarian Basketball National Championship	currentSeason	Hungarian Basketball National Championship 2010-11
-European Trophy Junior	currentSeason	2010 European Trophy Junior
-Mariborska Hokejska Liga	currentSeason	2009\u201310 Mariborska Hokejska Liga season
-British Superbike Championship Support Series	currentSeason	2010 British Supersport Championship season
-British Superbike Championship Support Series  National Superstock 1000 Championship   1	currentSeason	2010 National Superstock 1000 Championship season
-British Superbike Championship Support Series  National Superstock 600 Championship   1	currentSeason	2011 National Superstock 600 Championship season
-British Superbike Championship Support Series  British 125 Championship   1	currentSeason	2011 British 125 Championship season
-Pecos League	currentSeason	In Season
-2010–11 EIHL season	currentSeason	2010\u201311 EIHL season
-History of the FIBA World Championship	currentSeason	2010 FIBA World Championship
-Red Bull MotoGP Rookie Cup	currentSeason	2010 Red Bull MotoGP Rookie Cup season
-Baseball Victoria Summer League	currentSeason	Baseball Victoria Summer League Season 2010
-GOMTV Global Starcraft II League	currentSeason	Global Starcraft II League July, Global Starcraft II Team League Season 1
-Italia Rugby Football League	currentSeason	2010 iRFLeague Season
-Ligue Elite	currentSeason	2010\u201311 Ligue Elite season
-Ontario Australian Football League Division 2	currentSeason	2010 OAFL Division 2 season
-Hawaii Professional Football League	currentSeason	2011 HPFL season
-Swedish Division 1 (ice hockey)	currentSeason	2010\u201311 Swedish Division 1 season
-Slovak 1.Liga	currentSeason	2011-12 1.liga season
-Second Division Men(Icelandic Basketball)	currentSeason	2010-11 season
-First Division Men (Icelandic basketball)	currentSeason	2010-11 season
-First Division Women (Icelandic Basketball)	currentSeason	2010-11 season
-Premier league women	currentSeason	2010-11 season
-Baloncesto Profesional Colombiano	currentSeason	Copa Invitacional FCB 2010
-Turkish Cup Basketball	currentSeason	2010\u201311 Turkish Cup Basketball
-Austrian Cup	currentSeason	2010\u201311 Austrian Cup
-Semaine des As	currentSeason	Semaine des As 2011
-Czech Extraliga	currentSeason	2010\u201311 Czech Extraliga season
-Basketball League of Serbia B	currentSeason	2010\u201311 Basketball League of Serbia B
-Serbian First League (basketball)	currentSeason	2010\u201311 Serbian First League (Basketball)
-PBA Developmental league	currentSeason	2011 PBA D-League Foundation Cup
-Regional Sparkasse League	currentSeason	2011\u201312 Regional Sparkasse League
-V-League (South Korea)	currentSeason	2010-11 V-League (South Korea)
-FIRST Collegiate Pilot Program	currentSeason	All Your Base / Best Trajectory
-Texas Sixman Football League	currentSeason	2011 TSFL Season
-East Coast Rugby Conference	currentSeason	2011
-Ligue Francophone de Football Amercain de Belgique	currentSeason	2011 BFL season
-South Texas Swimming	currentSeason	2011 Long Course Season
-FIRS Inline Hockey World Championships	currentSeason	2011 FIRS World Inline Hockey Championships
-FIRS Senior Men's Inline Hockey World Championships	currentSeason	2011 FIRS World Inline Hockey Championships
-Nemzeti Bajnokság I/A (women's basketball)	currentSeason	2010\u201311 Nemzeti Bajnoks\u00E1g I/A (women's basketball)
-Southern Indoor Football League	currentSeason	2011 SIFL season
-North American Lacrosse League	currentSeason	2012 North American Lacrosse League season
-Sevens grand prix series	currentSeason	Sevens Grand Prix Series 2011
-UNAF U-20 Tournament	currentSeason	2011 UNAF U-20 Tournament
-UNAF U-23 Tournament	currentSeason	2011 UNAF U-23 Tournament
-Canadian Rugby Championship	currentSeason	2011 Canadian Rugby Championship season
+Latvijas Basketbola līga	currentSeason	2016
+Italian Basketball Supercup	currentSeason	2016
+Italian Basketball Cup	currentSeason	2016
+CECAFA U-17 Championship	currentSeason	2009
+County Championship	currentSeason	2016
+Libyan Arab Basketball Federation	currentSeason	Libyan Division I Basketball League 2008–09
+A1 Ethniki Water Polo	currentSeason	2015
+Women's Football Alliance	currentSeason	2016
+Greek Men's Handball Championship	currentSeason	2015
+Triple Crown College Baseball League	currentSeason	2009
+Quiksilver Pro Gold Coast	currentSeason	Quiksilver Pro Gold Coast 2016
+Greater Brisbane League	currentSeason	Greater Brisbane League 2011-12
+Australia Women's Championships	currentSeason	2014
+Dominican Republic Volleyball League	currentSeason	2010
+Asian Women's Youth Handball Championship	currentSeason	2015
+Asian Men's Handball Championship	currentSeason	2016
+Asian Women's Handball Championship	currentSeason	2015
+FIBA Asia Challenge	currentSeason	2016
+Belgian Football League	currentSeason	2016
+Flemish American Football League	currentSeason	2014
+New Zealand National Rugby Sevens Tournament	currentSeason	2013
+Super Ibérica de Rugby	currentSeason	2009
+Albanian Basketball League	currentSeason	2016
+National Dodgeball League	currentSeason	2016
+Novo Basquete Brasil	currentSeason	2015
+ASEAN Basketball League	currentSeason	2016
+Fast5 Netball World Series	currentSeason	2014
+MOL Liga	currentSeason	2016
+Liga de Voleibol Superior Femenino	currentSeason	2016
+IAAF Diamond League	currentSeason	2016
+Serbian Hockey League	currentSeason	2016
+National Ringette League	currentSeason	2016
+CollegeInsider.com Postseason Tournament	currentSeason	2016
+Alberta Footy Women's League	currentSeason	2009
+ITTF World Tour	currentSeason	2016
+2009–10 EIHL season	currentSeason	2009
+UCI World Tour	currentSeason	2016
+WABA Champions Cup	currentSeason	2016
+Yellow Sea Cup	currentSeason	2012
+Meistriliiga	currentSeason	2015
+Basketball League Belgium Division I	currentSeason	2016
+ESC Youth League	currentSeason	2009
+Rugby Canada National Junior Championship	currentSeason	2009
+Russian Basketball Cup	currentSeason	2014
+Serie A1	currentSeason	2008
+World Robot Olympiad	currentSeason	Rap The Scrap!
+LEB Plata	currentSeason	2015
+Dutch Basketball League	currentSeason	2016
+PGA Tour	currentSeason	2017
+Americas Rugby Championship	currentSeason	2016
+Nigeria Basketball Federation	currentSeason	Nigerian Premier League
+Liga EBA	currentSeason	2016
+Copa America	currentSeason	2011
+Al Ramsay Shield	currentSeason	2011
+Liga Femenina de Baloncesto	currentSeason	2016
+USA Outdoor Track and Field Championships	currentSeason	2016
+Hockey African Cup for Nations	currentSeason	2015
+Liga de Voleibol Superior Masculino	currentSeason	2013
+Southeast Football League	currentSeason	2013
+VTB United League	currentSeason	2016
+Team Long Track World Championship	currentSeason	2012
+USA Indoor Track and Field Championships	currentSeason	2016
+Indonesian Basketball League	currentSeason	2016
+Baltic Men Volleyball League	currentSeason	2016
+FIM Superstock 1000 Cup	currentSeason	2016
+IIHF Challenge Cup of Asia	currentSeason	2016
+Divizia A1	currentSeason	2015
+Divizia A1	currentSeason	2015
+Federal Hockey League	currentSeason	2016
+All-College Basketball Classic	currentSeason	2013
+Bosnia and Herzegovina Hockey League	currentSeason	2016
+Super League	currentSeason	2016
+Major League Roller Hockey AA	currentSeason	2009
+Metropolitan Swimming	currentSeason	2014
+2. Basketball Bundesliga	currentSeason	2015
+Turkish Men's Volleyball League	currentSeason	2015
+IAAF World Challenge	currentSeason	2016
+Turkish Women's Volleyball League	currentSeason	2016
+NCAA Division I Men's Lacrosse Championship	currentSeason	2016
+Gulf Ice Hockey Championship	currentSeason	2016
+Men's Softball World Championship	currentSeason	2015
+Circuito de Baloncesto de la Costa del Pacífico	currentSeason	2016
+Victoria Cup	currentSeason	2012
+Indoor Hockey World Cup	currentSeason	2015
+German Athletics Championships	currentSeason	2016
+FIBA Europe Under-18 Championship for Women	currentSeason	2016
+LEN Champions League	currentSeason	2016
+A	currentSeason	2016
+British Superbike Championship Support Series	currentSeason	2012
+British Superbike Championship Support Series	currentSeason	2016
+British Superbike Championship Support Series	currentSeason	2015
+Pecos League	currentSeason	2016
+2010–11 EIHL season	currentSeason	2010
+History of the FIBA Basketball World Cup	currentSeason	2014
+Liga Brasileira de Futebol Americano	currentSeason	2014
+Italia Rugby Football League	currentSeason	2013
+UK and Ireland Poker Tour	currentSeason	UK and Ireland Poker Tour season 2 results
+Ligue Elite	currentSeason	2010
+Ontario Australian Football League Division 2	currentSeason	2010
+Hawaii Professional Football League	currentSeason	2011
+Futures Collegiate Baseball League	currentSeason	2015
+Hockeyettan	currentSeason	2015
+Slovak 1. Liga	currentSeason	2013
+LKF Cup	currentSeason	2015
+Second Division Men	currentSeason	2016
+First Division Men	currentSeason	2016
+First Division Women	currentSeason	2011
+Premier league women	currentSeason	2010
+Inline Hockey World Championships	currentSeason	2012
+African Women's Handball Championship	currentSeason	2016
+Pan American Women's Handball Championship	currentSeason	2015
+Turkish Cup Basketball	currentSeason	2016
+BWF World Championships	currentSeason	2015
+Czech Extraliga	currentSeason	2016
+OK Liga Femenina	currentSeason	2015
+Women's European Volleyball Championship	currentSeason	2015
+Svenska damhockeyligan	currentSeason	2015
+Serbian First League	currentSeason	2010
+ITF Wheelchair Tennis Tour	currentSeason	2012
+PBA Developmental League	currentSeason	2016
+Regional Sparkasse League	currentSeason	2011
+Filoil Flying V Preseason Hanes Cup	currentSeason	2016
+North American Star League	currentSeason	5
+V-League	currentSeason	2015
+Collegiate Aerial Robotics Demonstration	currentSeason	All Your Base / Best Trajectory
+Texas Sixman Football League	currentSeason	2011
+National Basketball League of Canada	currentSeason	2015
+Perfect Game Collegiate Baseball League	currentSeason	2015
+Ligue Francophone de Football Amercain de Belgique	currentSeason	2012
+Indian Volley League	currentSeason	2012
+South Texas Swimming	currentSeason	2011
+A	currentSeason	2014
+County Championship Shield	currentSeason	2016
+American West Hockey League	currentSeason	2013
+NCAA Division II Baseball Championship	currentSeason	2015
+Arab Club Basketball Championship	currentSeason	2015
+Israeli League	currentSeason	2013
+Bandyliiga	currentSeason	2015
+Kazakhstan Hockey Cup	currentSeason	2015
+Kvalserien	currentSeason	2014
+UNAF U-20 Tournament	currentSeason	2015
+UNAF U-23 Tournament	currentSeason	2015
+Canadian Rugby Championship	currentSeason	2016
+Azerbaijan Women's Volleyball Super League	currentSeason	2015
+Elite Football League of India	currentSeason	2016
+FIBA Africa Under-16 Championship	currentSeason	2015
+African Women's Junior Handball Championship	currentSeason	2015
+2011–12 EIHL season	currentSeason	2011
+Basketball World Cup	currentSeason	Spor Toto World Cup 11
+AFL Europe Championship	currentSeason	2016
+Italian Athletics Championships	currentSeason	2013
+Lone Star Football League	currentSeason	2014
+Professional Indoor Football League	currentSeason	2015
+Israeli Female Basketball Premier League	currentSeason	Ligat ha'Al 2013-2014
+Esso Cup	currentSeason	2016
+Turkish Basketball Championship	currentSeason	defunct
+Istanbul Basketball League	currentSeason	defunct
+Turkish Men's Volleyball Championship	currentSeason	defunct
+Istanbul Men's Volleyball League	currentSeason	defunct
+Turkish Women's Volleyball Championship	currentSeason	defunct
+Istanbul Women's Volleyball League	currentSeason	defunct
+Canadian Lacrosse League	currentSeason	2015
+FIBA Africa Under-18 Championship	currentSeason	2016
+SEABA Championship for Women	currentSeason	2016
+PGA Tour Champions	currentSeason	2016
+Inter-Scholastic Athletic Association	currentSeason	ISAA Season 8
+Albanian Volleyball League	currentSeason	2016
+Kenya National Sevens Circuit	currentSeason	2015
+Ukrainian Men's Volleyball Super League	currentSeason	2012
+Ukrainian Women's Volleyball Super League	currentSeason	2012
+Ukrainian Women's Basketball SuperLeague	currentSeason	2011
+Ukrainian Men's Handball Super League	currentSeason	2012
+Ukrainian Women's Handball Super League	currentSeason	2011
+AFL Quebec	currentSeason	2015
+Saudi Premier League	currentSeason	2015
+Manitoba Midget 'AAA' Hockey League	currentSeason	2015
+Collegiate Rugby Championship	currentSeason	2016
+Copa de la Reina de Baloncesto	currentSeason	2016
+Women's Blue Chip Basketball League	currentSeason	2016
+Kazakhstan Basketball Championship	currentSeason	2015
+Slovak Extraliga	currentSeason	2016
+Roxy Pro Gold Coast	currentSeason	Roxy Pro Gold Coast 2016
+División de Honor Femenina de Waterpolo	currentSeason	2016
+Basketligaen	currentSeason	2016
+Torneio Touchdown	currentSeason	2014
+Supertaça Compal	currentSeason	2012
+American Ultimate Disc League	currentSeason	2016
+Bulgarian Women's Basketball Championship	currentSeason	2015
+Major League Roller Hockey Europe	currentSeason	2012
+Professional Lacrosse League	currentSeason	2012
+7s Premier League	currentSeason	20137.0
+ProA	currentSeason	2016
+Southern Amateur Football Association	currentSeason	2012
+Japan Championships in Athletics	currentSeason	2016
+Sevens Grand Prix Series	currentSeason	2016
+Trans-Tasman Champions League	currentSeason	2012
+Australian Women's Ice Hockey League	currentSeason	2015
+Tunisian Division I Basketball League	currentSeason	2014
+Gomelsky Cup	currentSeason	2016
+LNB Pro B	currentSeason	2015
+FIH Hockey World League	currentSeason	2016
+African Men's Youth Handball Championship	currentSeason	2014
+African Women's Youth Handball Championship	currentSeason	2015
+PGA Tour Latinoamérica	currentSeason	2016
+Ladies Gridiron League	currentSeason	2014
+SARU Gold Cup	currentSeason	2016
+Australian Junior Ice Hockey League	currentSeason	2015
+Arab Youth Volleyball Championship	currentSeason	2015
+Arab Clubs Championship	currentSeason	2016
+Professional Inline Hockey Association Pro Division	currentSeason	2013
+German Basketball Cup	currentSeason	2016
+World Rugby Women's Sevens Series	currentSeason	2016
+Inline hockey SM-liiga	currentSeason	2012
+Arab Volleyball Championship	currentSeason	2014
+First Women's Basketball League of Serbia	currentSeason	2015
+Latvian Baseball League	currentSeason	2012
+WABA League	currentSeason	2016
+FIRS Inline Hockey World Championships	currentSeason	2016
+Greek Baseball League	currentSeason	2015
+Italian LNP Cup	currentSeason	2016
+Liga de Desenvolvimento de Basquete	currentSeason	Liga de Desenvolvimento de Basquete
+FIBA Europe Cup	currentSeason	2016
+Rugby Americas North Championship	currentSeason	2016
+National Collegiate Roller Hockey Association Division I	currentSeason	2012
+Italian Athletics Indoor Championships	currentSeason	2013
+Australian Premier League	currentSeason	2015
+FIBA Africa Women's Clubs Champions Cup	currentSeason	2015
+Speedway European Championship	currentSeason	2016
+Major League Ultimate	currentSeason	2016
+BIC Basket	currentSeason	2015
+Margaret River Pro	currentSeason	Rip Curl Pro 2015
+Margaret River Pro	currentSeason	Rip Curl Pro 2015
+Euro Hockey Challenge	currentSeason	2014
+Taça de Angola	currentSeason	2015
+EWHL Super Cup	currentSeason	2012
+Euroleague Basketball Next Generation Tournament	currentSeason	2016
+Torneo Nacional de Ascenso	currentSeason	2015
+Supertaça de Angola	currentSeason	2015
+X-League Indoor Football	currentSeason	2015
+Battle of Malta poker tournament	currentSeason	Battle of Malta 2016
+Canadian Floorball League	currentSeason	2016
+NCAA Division I Men's Tennis Championship	currentSeason	2016
+NCAA Division I Women's Tennis Championship	currentSeason	2016
+Taça Victorino Cunha	currentSeason	2015
+Kvalserien	currentSeason	2014
+NCAA Men's Division I Indoor Track and Field Championships	currentSeason	2015
+NCAA Women's Division I Outdoor Track and Field Championships	currentSeason	2015
+NCAA Women's Division I Indoor Track and Field Championships	currentSeason	2016
+Premier Basketball League	currentSeason	2013
+NCAA Men's Division III Cross Country Championship	currentSeason	2015
+NCAA Men's Division II Cross Country Championship	currentSeason	2013
+NCAA Men's Division I Cross Country Championship	currentSeason	2016
+NCAA Women's Division II Cross Country Championship	currentSeason	2015
+NCAA Women's Division III Cross Country Championship	currentSeason	2015
+NCAA Women's Division I Cross Country Championship	currentSeason	2016
+NCAA Division I Men's Ice Hockey Championship	currentSeason	2016
+NCAA Division II Women's Lacrosse Championship	currentSeason	2016
+NCAA Division III Women's Lacrosse Championship	currentSeason	2016
+NCAA Division I Women's Lacrosse Championship	currentSeason	2016
+NCAA Division III Men's Lacrosse Championship	currentSeason	2016
+NCAA Division I Rowing Championship	currentSeason	2015
+NCAA Division III Rowing Championship	currentSeason	d3
+NCAA Division II Rowing Championship	currentSeason	2015
+NCAA Division III Baseball Championship	currentSeason	2016
+NCAA Division III Softball Championship	currentSeason	2015
+NCAA Division II Softball Championship	currentSeason	2016
+Philippine Super Liga	currentSeason	2016
+FIBA Africa Under-16 Championship for Women	currentSeason	2015
+FIBA Africa Under-18 Championship for Women	currentSeason	2016
+DEL2	currentSeason	2015
+Dutch Basketball Supercup	currentSeason	2015
+Belgian Basketball Cup	currentSeason	2015
+FIBA 3x3 World Championships	currentSeason	2016
+FIVB Volleyball Women's U23 World Championship	currentSeason	2015
+FIVB Volleyball Men's U23 World Championship	currentSeason	2015
+World University Squash Championships	currentSeason	2016
+UNTV Cup	currentSeason	UNTV Cup Season 5
+Torneo Súper 8	currentSeason	2014
+Canadian Interuniversity Sport men's ice hockey	currentSeason	2015
+ESL	currentSeason	ESL Pro League Season 4
+Belgian Basketball Supercup	currentSeason	2015
+IHF World Men's Handball Championship	currentSeason	2015
+IHF World Women's Handball Championship	currentSeason	2015
+Angola Women's Basketball League	currentSeason	2015
+Angola Second Division Basketball Championship	currentSeason	2014
+Asia Winter Baseball League	currentSeason	2
+Champions Hockey League	currentSeason	2016
+Balkan Amateur Hockey League	currentSeason	2013
+Pan American Ice Hockey Tournament	currentSeason	2016
+Australian Gridiron League	currentSeason	2015
+Gridiron Developmental Football League	currentSeason	2015
+Cyprus Women's Basketball Division 1	currentSeason	2015
+Volleyball Thailand League	currentSeason	2015
+Magyar Kupa	currentSeason	2016
+BBL Champions Cup	currentSeason	2015
+SEABA Under-18 Championship for Women	currentSeason	2014
+Women's African Clubs Championship	currentSeason	2016
+Bucharest Trophy	currentSeason	2015
+SABA Championship	currentSeason	2016
+World Rugby Tbilisi Cup	currentSeason	2015
+Volleyball at the Philippine National Games	currentSeason	2014
+Pro Kabaddi League	currentSeason	2016
+FIBA Europe 3x3 Championships	currentSeason	2016
+Liga Superior de Baloncesto de El Salvador	currentSeason	2013
+Global Poker Index	currentSeason	2014
+Women's British Basketball League	currentSeason	2015
+UAE Sportbike Championship	currentSeason	2013
+Women's National Wheelchair Basketball League	currentSeason	2015
+League of Legends Championship Series	currentSeason	2016
+FIBA 3x3 World Tour	currentSeason	2016
+TBF International Under-16 Tournament	currentSeason	2016
+Baia Mare Champions Trophy	currentSeason	2014
+Pro-Am Singapore Basketball League	currentSeason	2016
+Champions Indoor Football	currentSeason	2016
+Maritime University Field Lacrosse League	currentSeason	2015
+Supertaça de Angola	currentSeason	2015
+BBL Championship	currentSeason	2015
+Kazakhstan Basketball Cup	currentSeason	2016
+Match des Champions	currentSeason	2016
+Champions Tennis League	currentSeason	2015
+Polish Basketball Supercup	currentSeason	2015
+LEN Super Cup	currentSeason	2014
+Taça de Angola	currentSeason	2014
+China Arena Football League	currentSeason	2016
+ProB	currentSeason	2016
+Lithuanian Baseball League	currentSeason	2015
+Lancashire Cup	currentSeason	2013
+IQA World Cup	currentSeason	2016
+Algerian Women's Volleyball League	currentSeason	2014
+Algerian Men's Volleyball League	currentSeason	2014
+Ontario Mining Cup	currentSeason	2015
+Apex	currentSeason	2016
+World Sledge Hockey Challenge	currentSeason	2015
+UruCup	currentSeason	2015
+Supertaça de Angola	currentSeason	2014
+National Women's Hockey League	currentSeason	2016
+Spikers' Turf	currentSeason	Spikers' Turf 2nd Season Reinforced Conference
+County Championship Plate	currentSeason	2016
+Rio Pro	currentSeason	Oi Rio Pro 2016
+FIBA 3x3 Under-18 World Championships	currentSeason	2017
+IHF Emerging Nations Championship	currentSeason	2015
+The Basketball Tournament	currentSeason	The Basketball Tournament 2016
+Pilipinas Commercial Basketball League	currentSeason	2016
+Lithuanian Students Basketball League	currentSeason	2015
+Lietuvos moksleivių krepšinio lyga	currentSeason	2015
+Arab Women's Club Basketball Championship	currentSeason	2016
+Arab Nations Basketball Championship	currentSeason	2015
+African Rugby Under-19 Cup	currentSeason	2015
+Supreme Indoor Football	currentSeason	2017
+UCI Women's WorldTour	currentSeason	2016
+Alpe Adria Cup	currentSeason	2016
+Greek B Basket League	currentSeason	2016
+Greek C Basket League	currentSeason	2016
+Bulgarian Basketball Cup	currentSeason	2016
+League of Legends Champions Korea	currentSeason	2016
+Filsports Basketball Association	currentSeason	2016
+PRO Rugby	currentSeason	2016
+A2 Ethniki Volleyball	currentSeason	2015
+Qatari Volleyball League	currentSeason	2015
+Vegas 16	currentSeason	2016
+Men's FIH Hockey World League Ranking record	currentSeason	2014
+IAAF World Indoor Tour	currentSeason	2016
+Major League Quidditch	currentSeason	2015
+FIVB Volleyball Men's World Championship	currentSeason	2014
+FIVB Volleyball Women's World Championship	currentSeason	2014
+Taça de Angola	currentSeason	2015
+GCC Volleyball Club Championship	currentSeason	2016
+Fiji Pro	currentSeason	Fiji Pro 2016
+United Women's Lacrosse League	currentSeason	2016
+West Midlands Volleyball Association	currentSeason	2015
+Karaliaus Mindaugo taurė	currentSeason	2017
+UBA Pro Basketball League	currentSeason	2016
+Albanian Basketball Superliga	currentSeason	2016
+Maha Handball Super League	currentSeason	2015
+Belgian Road Cycling Cup	currentSeason	2016
+Italian Women's Volleyball League	currentSeason	2015
+SABA Women's Championship	currentSeason	2016
+Killer Instinct World Cup	currentSeason	2017
+Cypriot Women Basketball Division 1	currentSeason	2015
+IHF Inter-Continental Trophy	currentSeason	2017
+Azerbaijan Volleyball League	currentSeason	2015
+Softball Superior Nacional	currentSeason	2016
+Australian Dodgeball League	currentSeason	2016
+Championnat LNB	currentSeason	2015
+Asian Powerlifting Championships 2016	currentSeason	Asian Powerlifting Championships 2016
+FIBA Oceania Under-16 Championship for Women	currentSeason	2017
+FIBA Oceania Under-18 Championship for Women	currentSeason	2016
+Vietnam Basketball Association	currentSeason	2016
+Volleyball Vietnam League	currentSeason	2016
+Women's Kabaddi Challenge	currentSeason	2016
+National Basketball League	currentSeason	2016
+Slovenian volleyball league	currentSeason	2016
+FIBA Oceania Under-18 Championship	currentSeason	2016
+FIBA Europe Under-18 3x3 Championships	currentSeason	2016
+LBA League	currentSeason	2016
+Liga de Basket de Lima	currentSeason	2016
+ELeague	currentSeason	ELeague Season 2
+Walikota Cup	currentSeason	2016
+FIVB Volleyball Men's World Cup	currentSeason	2015
+FIVB Volleyball Women's World Cup	currentSeason	2015
+Merlion Cup	currentSeason	2016
+Deutsche Volleyball-Bundesliga	currentSeason	Deutsche Volleyball-Bundesliga 2016-17
+Basketball Champions League Final Four	currentSeason	2017
+Albanian Basketball First Division	currentSeason	2016
+FIVB Volleyball Men's Club World Championship	currentSeason	2016
+FIVB Volleyball Women's Club World Championship	currentSeason	2016
+IAFL-2	currentSeason	2016
+Men's European Volleyball Championship	currentSeason	2015
+African Men's Volleyball Championship	currentSeason	2015
+Asian Women's Volleyball Championship	currentSeason	2015
+Asian Men's Volleyball Championship	currentSeason	2015
+NORCECA Men's Volleyball Championship	currentSeason	2017
+South American Men's Volleyball Championship	currentSeason	2015
+NORCECA Women's Volleyball Championship	currentSeason	2017
+South American Women's Volleyball Championship	currentSeason	2015
+McGill Redmen Lacrosse	currentSeason	2016
+Ekstraliga Baseball	currentSeason	2016
+Italian Road Cycling Cup	currentSeason	2016
+National Basketball League	currentSeason	2016

@@ -1,103 +1,102 @@
-Detroit River	dischargeAverage	5323.567159484
-Ganges	dischargeAverage	12500.0
+Ganges	dischargeAverage	16648
+Krishna River	dischargeAverage	2213
+Godavari River	dischargeAverage	3505
 River Thames	dischargeAverage	65.8
-Elbe	dischargeAverage	711.0
-Delaware River	dischargeAverage	370.9506903683
-Potomac River	dischargeAverage	305.8219432044
-Tagus	dischargeAverage	500.0
-Douro	dischargeAverage	714.0
+Elbe	dischargeAverage	870
+Tagus	dischargeAverage	500
+IJssel	dischargeAverage	340
 Guadalquivir	dischargeAverage	164.3
-Ottawa River	dischargeAverage	1950.0
+Douro	dischargeAverage	700
+Ottawa River	dischargeAverage	1950
 River Aire	dischargeAverage	35.72
-River Avon (Bristol)	dischargeAverage	21.98
-River Tay	dischargeAverage	170.0
-Merrimack River	dischargeAverage	214.131993936266
-Saguenay River	dischargeAverage	1750.0
-Vaal River	dischargeAverage	125.0
-Fraser River	dischargeAverage	3475.0
-Monongahela River	dischargeAverage	358.20810940145
-River Trent	dischargeAverage	85.0
-Susquehanna River	dischargeAverage	1134.93921144744
-Connecticut River	dischargeAverage	483.36857134251
-St. Marys River (Michigan–Ontario)	dischargeAverage	2135.0
+River Avon	dischargeAverage	21.98
+River Frome, Dorset	dischargeAverage	6.38
+River Don, Aberdeenshire	dischargeAverage	20.64
+River Tay	dischargeAverage	169
+Kaveri	dischargeAverage	677
+Saguenay River	dischargeAverage	1750
+Vaal River	dischargeAverage	125
+Fraser River	dischargeAverage	3475
+Red River	dischargeAverage	2640
+St. Marys River	dischargeAverage	2135
 River Tamar	dischargeAverage	22.55
 Peene	dischargeAverage	20.6
 River Dart	dischargeAverage	11.04
-Patuxent River	dischargeAverage	4.842180767403
-Don River (Ontario)	dischargeAverage	4.0
+Don River	dischargeAverage	4
+Yamuna	dischargeAverage	2950
 River Exe	dischargeAverage	15.89
-Dnieper River	dischargeAverage	1670.0
-Nysa Kłodzka	dischargeAverage	574.0
-Narew	dischargeAverage	328.0
-River Dee (Wales)	dischargeAverage	29.71
-Genesee River	dischargeAverage	125.44363040699
-Schuylkill River	dischargeAverage	131.67333665745
-Housatonic River	dischargeAverage	133.0891789871
-Rouge River (Ontario)	dischargeAverage	1.76
-New River (Kanawha River)	dischargeAverage	247.20607075689
-Passaic River	dischargeAverage	59.4653778453
-Bug River	dischargeAverage	1.0
-Hackensack River	dischargeAverage	4.898814460589
-Kanawha River	dischargeAverage	431.54874207732
-Lehigh River	dischargeAverage	105.90500625782
+Dnieper	dischargeAverage	1670
+Pasłęka	dischargeAverage	15.7
+Eastern Neisse	dischargeAverage	574
+Narew	dischargeAverage	328
+River Dee, Wales	dischargeAverage	29.71
+River Coquet	dischargeAverage	8.7
+Narmada River	dischargeAverage	1447
+Bug River	dischargeAverage	1
 Nervión	dischargeAverage	9.6
-Willimantic River	dischargeAverage	6.116438864088
-Shetucket River	dischargeAverage	20.331495853774
-Juniata River	dischargeAverage	126.746205350268
-Desna River	dischargeAverage	360.0
-Tug Fork	dischargeAverage	56.35052472007
-Quinn River	dischargeAverage	0.0
-River Raisin	dischargeAverage	20.982783325413
-Kankakee River	dischargeAverage	133.344030606437
+Desna River	dischargeAverage	360
 River Chew	dischargeAverage	1.18
 River Eden, Cumbria	dischargeAverage	51.82
-Mahakam River	dischargeAverage	2500.0
-Tuscarawas River	dischargeAverage	73.368949522463
-Saint-Maurice River	dischargeAverage	730.0
+Mahakam River	dischargeAverage	2500
+Manzanares	dischargeAverage	10
+Saint-Maurice River	dischargeAverage	730
 River Conwy	dischargeAverage	18.59
-Cheat River	dischargeAverage	109.86936478084
-Monocacy River	dischargeAverage	43.89111221915
-Ipeľ	dischargeAverage	21.0
-Nass River	dischargeAverage	770.0
-Orava (river)	dischargeAverage	34.5
-Rupert River	dischargeAverage	900.0
-Ghaghara River	dischargeAverage	2990.0
+River Towy	dischargeAverage	45
+Ipeľ	dischargeAverage	21
+Chenab River	dischargeAverage	800.6
+Tapti River	dischargeAverage	489
+Mamberamo River	dischargeAverage	4580
+Nass River	dischargeAverage	770
+Orava	dischargeAverage	34.5
+River Kent	dischargeAverage	8.94
+Sabarmati River	dischargeAverage	120
+Rupert River	dischargeAverage	900
+Mandovi River	dischargeAverage	105
+Zuari River	dischargeAverage	103
+Sutlej	dischargeAverage	500
+Penna River	dischargeAverage	200.4
+Fly River	dischargeAverage	6000
+Ghaghara	dischargeAverage	2990
+Mahi River	dischargeAverage	383
 Chrudimka	dischargeAverage	7.68
-Greenbrier River	dischargeAverage	73.6238011418
-Cobbs Creek	dischargeAverage	46.72279687845
-Wallkill River	dischargeAverage	38.652495599445
-River Marden	dischargeAverage	1.217624403499
-South Fork New River	dischargeAverage	15.630899319336
-West Fork River	dischargeAverage	32.84754204788
-Tygart Valley River	dischargeAverage	54.424979151746
-Bluestone River	dischargeAverage	13.30891789871
-Shavers Fork	dischargeAverage	12.600996733885
-Gandaki River	dischargeAverage	1760.0
+Gomti River	dischargeAverage	234
+River Glen, Northumberland	dischargeAverage	2.93
+Vaigai River	dischargeAverage	36
+Periyar	dischargeAverage	295
+River Blyth, Northumberland	dischargeAverage	2.14
+Thamirabarani River	dischargeAverage	32
+Subarnarekha River	dischargeAverage	392
+Gandaki River	dischargeAverage	1760
 Magog River	dischargeAverage	14.16
 River Wylye	dischargeAverage	0.3
-Chalakudy River	dischargeAverage	52.0
-Koshi River	dischargeAverage	2166.0
+Chalakudy River	dischargeAverage	52
+Koshi River	dischargeAverage	2166
 River Alyn	dischargeAverage	2.41
-Yamaska River	dischargeAverage	83.0
-Kadalundi River	dischargeAverage	36.0
+Indira Gandhi Canal	dischargeAverage	138
+Yamaska River	dischargeAverage	83
+Kadalundi River	dischargeAverage	36
 River Caldew	dischargeAverage	4.5
-Sittaung River	dischargeAverage	50000.0
-Bécancour River	dischargeAverage	62.0
-Quinebaug River	dischargeAverage	13.223967358931
-Sandy Creek (Ohio)	dischargeAverage	7.872083352854
+Bécancour River	dischargeAverage	62
+Treene	dischargeAverage	10.7
+Nagavali River	dischargeAverage	24
 Ropičanka	dischargeAverage	0.62
-Huff Run	dischargeAverage	0.651287471639
-Radbuza	dischargeAverage	11.0
+Ramganga	dischargeAverage	500
+Radbuza	dischargeAverage	11
 Mže	dischargeAverage	8.5
-Ernée (river)	dischargeAverage	4.0
+Ernée	dischargeAverage	4
+Vamsadhara River	dischargeAverage	25
+Kali River	dischargeAverage	152
 River Horner	dischargeAverage	0.46
-Manada Creek	dischargeAverage	0.651287471639
-Rifle River	dischargeAverage	5.125349233333
-Chienti	dischargeAverage	7.6
-Adams River (British Columbia)	dischargeAverage	240.0
-Ebro	dischargeAverage	426.0
-Oder	dischargeAverage	574.0
-Đuống River	dischargeAverage	880.0
-Płonia River	dischargeAverage	3.81
-Sepik	dischargeAverage	8000.0
-Bharathappuzha	dischargeAverage	161.0
+Órbigo	dischargeAverage	38.81
+Adams River	dischargeAverage	240
+Ebro	dischargeAverage	426
+Oder	dischargeAverage	574
+Vistula	dischargeAverage	1080
+Đuống River	dischargeAverage	880
+Płonia	dischargeAverage	3.81
+Sepik	dischargeAverage	3804
+Bharathappuzha	dischargeAverage	161
+Mission Creek	dischargeAverage	6.81
+Kakatiya Canal	dischargeAverage	275
+SRSP Flood Flow Canal	dischargeAverage	623
+River Alwin	dischargeAverage	0.57

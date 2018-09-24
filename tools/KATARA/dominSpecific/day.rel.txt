@@ -1,28 +1,31 @@
-Bobbio	day	0015-11-23
-Calvisano	day	0031-02-14
-Castel Goffredo	day	0002-10-18
-Ossimo	day	0019-09-27
-Pontoglio	day	0017-08-15
-Forio	day	0006-11-15
-Piana degli Albanesi	day	0002-04-23
-Soriano nel Cimino	day	0015-12-06
-Ceglie Messapica	day	0026-06-13
-Cellino San Marco	day	0025-04-25
-Giarratana	day	0005-08-24
-Castelvetere sul Calore	day	0028-07-02
-Tollo	day	0017-05-17
-Montebello sul Sangro	day	0028-08-08
-Treglio	day	0015-04-23
-Bernalda	day	0023-05-20
-Valsinni	day	0021-05-10
-Chiaromonte	day	0029-06-24
-Satriano di Lucania	day	0016-05-16
-Montauro	day	0005-07-27
-Casaletto Spartano	day	0015-05-13
-Cagnano Varano	day	0010-05-08
-San Nicandro Garganico	day	0008-06-17
-Lizzano, Apulia	day	0017-08-07
-Villarboit	day	0025-06-28
-Sandrigo	day	0003-08-15
-Altavilla Milicia	day	0007-09-06
-Rodì Milici	day	0012-08-24
+Molfetta	day	--02-09
+Monza	day	--06-24
+Bobbio	day	--11-23
+Calvisano	day	--02-14
+Castel Goffredo	day	--10-18
+Ossimo	day	--09-27
+Pontoglio	day	--08-15
+Piana degli Albanesi	day	--09-02
+Soriano nel Cimino	day	--12-06
+Ceglie Messapica	day	--06-13
+Cellino San Marco	day	--04-25
+Castelvetere sul Calore	day	--07-02
+Tollo	day	--05-17
+Montebello sul Sangro	day	--08-08
+Treglio	day	--04-23
+Bernalda	day	--05-20
+Valsinni	day	--05-10
+Chiaromonte	day	--06-24
+Satriano di Lucania	day	--05-16
+Amaroni	day	--07-31
+Montauro	day	--07-27
+Casaletto Spartano	day	--05-13
+Cagnano Varano	day	--05-08
+San Nicandro Garganico	day	--06-17
+Lizzano, Apulia	day	--08-07
+Villarboit	day	--06-28
+Sandrigo	day	--08-15
+Rio Marina	day	--12-04
+Falciano del Massico	day	--08-16
+Altavilla Milicia	day	--09-06
+Rodì Milici	day	--08-24
